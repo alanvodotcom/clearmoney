@@ -5,79 +5,73 @@ pillar: super-retirement
 hub: how-super-works
 slug: who-gets-your-super-if-you-die
 updated: "2026-08-03"
-tags: 
+tags:
   - how super works
-relatedGuides: 
-  - super-retirement/how-super-works/superannuation
-  - super-retirement/how-super-works/types-of-super-funds
-  - super-retirement/how-super-works/choosing-a-super-fund
-  - super-retirement/how-super-works/stapled-super-fund
+relatedGuides:
+  - super-retirement/how-super-works/claiming-a-super-death-benefit
+  - super-retirement/plan-retirement/wills-and-powers-of-attorney
+  - banking-budgeting/family/losing-your-partner
+  - super-retirement/grow-super/how-to-check-your-super
 ---
 
-Beneficiaries, binding nominations, and estate interplay. Super is compulsory saving for later life, with rules on contributions, investments, and when you can access it.
+Super does not automatically follow your will. The fund trustee pays a death benefit under super law and the fund’s rules—guided heavily by any valid nomination you have made. Getting this wrong is one of the most painful money surprises families face.
 
-## Who gets your super if you die: the clear version
+## Nominations in three flavours
 
-**Who gets your super if you die** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Beneficiaries, binding nominations, and estate interplay. Super is compulsory saving for later life, with rules on contributions, investments, and when you can access it.
+**Non-binding** — the trustee considers your wishes but decides.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+**Binding** — if valid and current, the trustee must pay the people (or legal personal representative) you named in the proportions you set, within the rules.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+**Non-lapsing binding** — available in some funds; stays in force until you change it (still check fund rules and reconfirm after life events).
 
-## How to think about the moving parts
+Many binding nominations expire after a set period (often three years). An expired “binding” nomination is not binding.
 
-Setup quality decides whether **who gets your super if you die** helps or nags you later. Confirm identity and contact details, choose alerts you will actually read, and decide who else can see or move money. If a salesperson is present, ask for the key numbers in writing before you sign.
+## Who can be a dependant for super?
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Super law’s dependant definition includes spouses (including de facto), children, financial dependants, and interdependent relationships. Paying a non-dependant (for example an adult child who is not financially dependent, in some situations, or a friend) may still be possible via the estate, with different tax outcomes.
 
-## Upsides worth wanting
+Tax on death benefits depends on whether the recipient is a death-benefits dependant and on the taxable component—confirm current ATO treatment; do not rely on café advice.
 
-- Automations that reduce missed payments and late fees
-- Alerts that surface problems while they are still small
-- Shared understanding when more than one person is involved
+## Super vs the will
 
-## Risks and traps to watch
+If you nominate your **legal personal representative**, the benefit lands in the estate and then follows the will (or intestacy). If you nominate a person directly, it usually bypasses the estate—which can be faster but may conflict with what the will says about “everything else.”
 
-### Easy-to-miss costs
+Align the two documents on purpose. See [Wills and powers of attorney](/topics/super-retirement/plan-retirement/wills-and-powers-of-attorney).
 
-Set-and-forget errors (wrong account, wrong amount, wrong date). For **Who gets your super if you die**, read the conditions that turn a good deal average.
+## Life events that break old nominations
 
-### Timing and people problems
+Remarriage, separation, new children, death of a nominee, or rolling to a new fund can leave outdated instructions. Revisit nominations when you consolidate funds—old fund nominations do not always travel.
 
-Giving too much authority to another person. Put review dates in your calendar.
+## Blended families and conflict
 
-### Recovery friction
+Vague wishes (“look after everyone fairly”) create disputes. Binding nominations with clear percentages reduce trustee guesswork. If conflict is likely, document interdependence carefully and consider professional estate advice.
 
-Missing fine print on fees or cooling-off rights. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+## Insurance rides along
 
-## Details that change the decision
+Death cover inside super is paid as part of the benefit (subject to claim approval). Underinsurance or lapsed cover changes what nominees actually receive—review sums when you review beneficiaries.
 
-Contributions, investment options, insurance inside super, and fees interact. For **Who gets your super if you die**, log in, download a statement, and note beneficiary nominations. Multiple funds often mean multiple fee drags—consolidation can help after you check insurance loss risks.
+## Percentage maths errors
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+Nominations that do not add to 100%, or that name a deceased person, can fail validity tests. After any funeral in the family, reopen forms and fix stale names. Validity is technical; love is not a substitute for a correct form.
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+## Binding nomination witnessing rules
 
-## A short story: when timing changed the outcome
+Invalid witnessing is a common reason binding nominations fail. Follow the fund’s instructions exactly—who can witness, whether they must not be a nominee, and how to complete dates. Close enough is not good enough.
 
-Luca set everything up in a hurry and only noticed the wrong account after a payment bounced. Morgan now screenshots every confirmation and nicknames accounts so automations are obvious. The lesson for **who gets your super if you die**: slow clarity beats fast regret.
+## Children from prior relationships
 
-## Practical steps for Who gets your super if you die
+Blended families should be explicit. A vague hope that everyone will share fairly often becomes a trustee discretion fight. Percentages, lapse dates, and matching wills reduce the blast radius.
 
-1. Gather ID, income evidence, and any existing contracts or statements.
-2. Confirm who else is affected (partner, guarantor, dependants) before you sign.
-3. Complete the application or setup deliberately—screenshot confirmations.
-4. Turn on alerts and store reference numbers where you can find them.
+## Fresh-numbers habit for who gets your super if you die
 
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
+Numbers from last year’s seminar may already be wrong. Caps, deeming rates, and insurance definitions move. Re-check primary sources the week you act. If a salesperson becomes irritated when you pause to verify, that irritation reveals their incentives—not your intelligence.
 
-## When life changes
+## Continuity checklist for Who gets your super if you die
 
-- **Rule changes** — contribution caps, preservation ages, and Age Pension settings change; confirm current figures before acting.
+List the people, passwords managers, fund member numbers, and Centrelink CRNs that keep this topic running when you are travelling or unwell. Tape the list inside a secure place at home. Continuity is part of money skill, not paranoia.
 
 ## What to do next
-
-- Decide the next action for **who gets your super if you die** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Superannuation basics](/topics/super-retirement/how-super-works/superannuation) for a related decision.
-- Read [Types of super funds](/topics/super-retirement/how-super-works/types-of-super-funds) for a related decision.
-- Set a calendar reminder to revisit this decision after the next statement cycle.
+- Log in and check whether your nomination is binding, dated, and still valid.
+- Align percentages with your will and tell your executor where fund details live.
+- After any rollover, remake nominations on the new account the same week.
+- Read [Claiming a super death benefit](/topics/super-retirement/how-super-works/claiming-a-super-death-benefit) so your family knows the process.

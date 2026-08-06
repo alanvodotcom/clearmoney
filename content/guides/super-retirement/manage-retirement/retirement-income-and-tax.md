@@ -5,79 +5,89 @@ pillar: super-retirement
 hub: manage-retirement
 slug: retirement-income-and-tax
 updated: "2026-08-03"
-tags: 
+tags:
   - manage retirement
-relatedGuides: 
-  - super-retirement/manage-retirement/make-your-money-last-in-retirement
-  - super-retirement/manage-retirement/manage-health-costs-in-retirement
-  - super-retirement/manage-retirement/aged-care
-  - super-retirement/manage-retirement/downsizing-in-retirement
+relatedGuides:
+  - super-retirement/how-super-works/tax-and-super
+  - super-retirement/income-sources/account-based-pensions
+  - super-retirement/income-sources/age-pension-and-government-benefits
+  - banking-budgeting/work-tax/lodging-a-tax-return
 ---
 
-How different income types are taxed in retirement. In retirement, the job shifts from accumulation to drawing down sustainably and keeping paperwork tidy.
+Tax in retirement is usually simpler than during peak earning years—but "usually" hides enough exceptions to cause June surprises. Different income layers—super pensions, Age Pension, wages, bank interest, dividends, rent—stack under different rules. Means tests for Centrelink are a separate lens from tax; optimising one can hurt the other.
 
-## What is Retirement income and tax?
+This guide orients you; it does not replace the ATO or a registered tax agent. ClearMoney offers general information—not personal advice.
 
-**Retirement income and tax** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. How different income types are taxed in retirement. In retirement, the job shifts from accumulation to drawing down sustainably and keeping paperwork tidy.
+## Why retirement tax feels different
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Work-related deductions shrink. PAYG withholding from a single employer may disappear. Instead you receive super pension payments, government benefits, and investment income from several sources—each with its own reporting line on your return.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+Many retirees pay little or no income tax because total income sits below thresholds or because super benefits are tax-free from age 60 in taxed funds. Others with part-time work, rental properties, or large franked dividend portfolios still file complex returns. Assume nothing from your neighbour's experience.
 
-## How to think about the moving parts
+## Super pensions and withdrawals
 
-Setup quality decides whether **retirement income and tax** helps or nags you later. Confirm identity and contact details, choose alerts you will actually read, and decide who else can see or move money. If a salesperson is present, ask for the key numbers in writing before you sign.
+For many people aged 60 and over, benefits from a taxed super fund—including [account-based pension](/topics/super-retirement/income-sources/account-based-pensions) payments—are tax-free to the member. Under 60, taxable components can attract tax with offsets. Untaxed funds (some public sector schemes) follow different tables.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Earnings inside a retirement-phase pension are generally tax-exempt subject to transfer balance cap rules. Transition-to-retirement pensions may not receive the same earnings tax treatment until a full condition of release—verify current law. Background: [Tax and super](/topics/super-retirement/how-super-works/tax-and-super).
 
-## Upsides worth wanting
+Death benefits paid to non-dependants can attract tax on taxable components. Estate planning and tax planning overlap here.
 
-- Automations that reduce missed payments and late fees
-- Alerts that surface problems while they are still small
-- Shared understanding when more than one person is involved
+## Age Pension and other government pay
 
-## Risks and traps to watch
+Age Pension payments are assessable income for tax purposes but often sit under thresholds where little or no tax is payable—especially when Age Pension is your only income. Still declare them correctly.
 
-### Easy-to-miss costs
+Other payments—carer payments, disability support where relevant, JobSeeker if you return to work briefly—have their own tax treatment. [Age Pension and government benefits](/topics/super-retirement/income-sources/age-pension-and-government-benefits) covers eligibility; this section reminds you they belong on your tax return.
 
-Set-and-forget errors (wrong account, wrong amount, wrong date). For **Retirement income and tax**, read the conditions that turn a good deal average.
+## Work, rent, and investments
 
-### Timing and people problems
+Wages from part-time or casual work are taxed at marginal rates. Seniors and pensioners tax offsets may reduce liability—check current eligibility and income limits on the ATO website each year.
 
-Giving too much authority to another person. If someone rushes you, that is data—slow down.
+Bank interest, share dividends (including franking credits), and net rental income remain taxable under ordinary rules. Capital gains on assets sold outside super may qualify for discounts depending on ownership period and your age—confirm before selling investment property in retirement.
 
-### Recovery friction
+Private health insurance and the Medicare levy surcharge interact with income. If you do contract work without hospital cover, run the numbers.
 
-Missing fine print on fees or cooling-off rights. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+## Offsets, levies, and records
 
-## Details that change the decision
+Keep documents that prevent guesswork in July:
 
-Administration mistakes—wrong tax file details, lapsed insurance, ignored required drawdowns—create avoidable stress. For **Retirement income and tax**, set a yearly review: beneficiaries, spending, fees, and whether the investment mix still matches your drawdown pace.
+- Income statements or PAYG summaries for any wages
+- Pension payment summaries from your super fund
+- Bank interest and dividend statements
+- Centrelink payment summaries
+- Rental statements and deductible expense receipts
+- Notices of assessment from prior years for reference
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+Lodging remains important even when tax payable is zero—refunds, franking credits, and offsets can be missed otherwise. See [Lodging a tax return](/topics/banking-budgeting/work-tax/lodging-a-tax-return).
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+If you receive franked dividends, learn how imputation credits offset tax or generate refunds—many retirees depend on them.
 
-## A short story: when a simple system helped
+## Tax is one lens—not the only one
 
-Luca set everything up in a hurry and only noticed the wrong account after a payment bounced. Morgan now screenshots every confirmation and nicknames accounts so automations are obvious. The lesson for **retirement income and tax**: slow clarity beats fast regret.
+Do not choose a worse income structure purely to save a small amount of tax if it increases longevity risk or reduces Age Pension entitlement. Cash flow, means tests, and investment risk matter equally.
 
-## Practical steps for Retirement income and tax
+Example tension: holding money outside super in term deposits may simplify tax reporting but increase deemed income for Centrelink compared with some super structures. There is no universal winner—only your numbers.
 
-1. Gather ID, income evidence, and any existing contracts or statements.
-2. Confirm who else is affected (partner, guarantor, dependants) before you sign.
-3. Complete the application or setup deliberately—screenshot confirmations.
-4. Turn on alerts and store reference numbers where you can find them.
+When amounts are large or you hold multiple entities (trusts, companies, SMSFs), pay for a tax agent review in your first retirement year. The cost often pays for itself.
 
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
+## Withholding and lodgement
 
-## When life changes
+Pension providers may withhold tax in some age or component situations. Check your first payment summary so you are not shocked at lodgement. Even when no tax is due, lodging can keep Medicare and offset records clean and may be required depending on other income.
 
-- **Rule changes** — contribution caps, preservation ages, and Age Pension settings change; confirm current figures before acting.
+If you only receive tax-free super and a small Age Pension, confirm with the ATO whether you still need to lodge for the year—rules hinge on other income and situations like residual work.
+
+## Investment income outside super
+
+Franking credits can create refunds for low-tax retirees who hold shares in their own names. Keep dividend statements. Rental properties retain depreciation, interest, and CGT rules—retirement does not simplify property tax by itself.
+
+## Downsizer, contributions, and retired but contributing
+
+Some people still make downsizer or other contributions while drawing pensions. Track the transfer balance cap and contribution notices carefully so you do not create excesses. When in doubt, pause contributions until a tax agent maps the year.
+
 
 ## What to do next
 
-- Decide the next action for **retirement income and tax** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Make your money last in retirement](/topics/super-retirement/manage-retirement/make-your-money-last-in-retirement) for a related decision.
-- Read [Manage health costs in retirement](/topics/super-retirement/manage-retirement/manage-health-costs-in-retirement) for a related decision.
-- Tell one trusted person your plan if accountability helps you follow through.
+- List every income type you will receive in your first full retirement financial year.
+- Ask your super fund for a tax components statement and payment summary explanation.
+- Check seniors and pensioners offsets on the ATO site for the current income year.
+- Book a tax agent review if you draw an account-based pension plus wages or rent.
+- File documents monthly so July is admin—not archaeology.

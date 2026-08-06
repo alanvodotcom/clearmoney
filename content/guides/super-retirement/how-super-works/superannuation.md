@@ -5,84 +5,70 @@ pillar: super-retirement
 hub: how-super-works
 slug: superannuation
 updated: "2026-08-03"
-tags: 
+tags:
   - how super works
-relatedTools: 
+relatedTools:
   - super
-relatedGuides: 
+relatedGuides:
   - super-retirement/how-super-works/types-of-super-funds
   - super-retirement/how-super-works/choosing-a-super-fund
-  - super-retirement/how-super-works/stapled-super-fund
-  - super-retirement/how-super-works/consolidating-super-funds
+  - super-retirement/how-super-works/tax-and-super
+  - super-retirement/grow-super/how-to-check-your-super
 ---
 
-What super is and why it exists. Super is compulsory saving for later life, with rules on contributions, investments, and when you can access it.
+Superannuation is money set aside for later life, mostly through compulsory employer contributions while you work. It is not a bank account you dip into for holidays—access is restricted until you meet legal conditions.
 
-## What is Superannuation basics?
+## Why Australia runs a super system
 
-**Superannuation basics** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. What super is and why it exists. Super is compulsory saving for later life, with rules on contributions, investments, and when you can access it.
+Wages alone rarely fund decades of retirement. Super spreads saving across your working life, invests the balance, and adds tax rules that differ from ordinary savings. Employers pay a Superannuation Guarantee (SG) percentage of eligible ordinary time earnings into a fund for you. That percentage has risen over time—confirm the current rate with the ATO for the year you are checking.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Your own voluntary contributions can sit on top of SG. Caps limit how much concessional and non-concessional money you can add each year; those dollar caps are indexed and change—always verify before you salary-sacrifice a large amount.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+## The three engines inside a fund
 
-## How to think about the moving parts
+1. **Contributions** — employer SG, salary sacrifice, personal contributions, government co-contributions (if eligible)
+2. **Investment returns** — can be positive or negative; options range from cash to high growth
+3. **Fees and insurance** — administration, investment fees, and optional or default insurance premiums reduce the balance
 
-Setup quality decides whether **superannuation basics** helps or nags you later. Confirm identity and contact details, choose alerts you will actually read, and decide who else can see or move money. If a salesperson is present, ask for the key numbers in writing before you sign.
+Ignoring any one engine skews the picture. A “high return” option with heavy fees and unused insurance can lag a simpler balanced option.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+## Accumulation vs retirement phase
 
-ClearMoney calculators that pair with this topic: [Super](/tools/super). Use them to turn guesses into numbers before you commit.
+While you are working and not yet taking a retirement income stream, you are usually in **accumulation**. Earnings inside the fund are taxed at concessional rates compared with many personal investments (details in [Tax and super](/topics/super-retirement/how-super-works/tax-and-super)).
 
-## Upsides worth wanting
+When you start an account-based pension or similar income stream, different tax and drawdown rules apply. Preservation age and conditions of release gate when you can move phases—see [Getting your super](/topics/super-retirement/how-super-works/getting-your-super).
 
-- Automations that reduce missed payments and late fees
-- Alerts that surface problems while they are still small
-- Shared understanding when more than one person is involved
+## Stapling, choice, and default funds
 
-## Risks and traps to watch
+New jobs no longer automatically create a brand-new account if you already have a stapled fund. You can still choose a different fund when rules allow. Read [Stapled super fund](/topics/super-retirement/how-super-works/stapled-super-fund) and [Choosing a super fund](/topics/super-retirement/how-super-works/choosing-a-super-fund).
 
-### Easy-to-miss costs
+Payday Super reforms change *when* employers must pay SG relative to payday (phased in from mid-2026)—see [What is payday super?](/topics/super-retirement/how-super-works/what-is-payday-super). Timing fixes help employees spot unpaid super faster.
 
-Set-and-forget errors (wrong account, wrong amount, wrong date). For **Superannuation basics**, read the conditions that turn a good deal average.
+## What “enough” roughly means
 
-### Timing and people problems
+Benchmarks exist (age-based balances, replacement rates of pre-retirement income), but your number depends on home ownership, Age Pension eligibility, health, and lifestyle. Use the [superannuation calculator](/tools/super) to project balances under different contribution and return assumptions—then treat the output as a planning range, not a promise.
 
-Giving too much authority to another person. If someone rushes you, that is data—slow down.
+## Common beginner mistakes
 
-### Recovery friction
+- Never logging in until “someday”
+- Holding five small accounts and paying five fee stacks
+- Assuming insurance inside super is free
+- Falling for early-access schemes that are illegal
+- Comparing funds on a single year’s return only
 
-Missing fine print on fees or cooling-off rights. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+## What your employer must generally do
 
-## Details that change the decision
+Employers who must pay the Superannuation Guarantee calculate it on ordinary time earnings for eligible employees and send it to a complying fund. Thresholds, timing, and the percentage are set in law and move—verify the live rate and payday-super timing on ATO pages. If payslips show SG but the fund does not, chase promptly; silence trains bad payroll habits.
 
-Contributions, investment options, insurance inside super, and fees interact. For **Superannuation basics**, log in, download a statement, and note beneficiary nominations. Multiple funds often mean multiple fee drags—consolidation can help after you check insurance loss risks.
+Contractors who are employees in substance may still be owed SG—labels on invoices are not the whole story. If you are unsure, gather contracts and payslips and ask a tax professional or use the ATO unpaid super pathways.
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+## Reading a statement without glazing over
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when a simple system helped
-
-Harper set everything up in a hurry and only noticed the wrong account after a payment bounced. Drew now screenshots every confirmation and nicknames accounts so automations are obvious. The lesson for **superannuation basics**: slow clarity beats fast regret.
-
-## Practical steps for Superannuation basics
-
-1. Gather ID, income evidence, and any existing contracts or statements.
-2. Confirm who else is affected (partner, guarantor, dependants) before you sign.
-3. Complete the application or setup deliberately—screenshot confirmations.
-4. Turn on alerts and store reference numbers where you can find them.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Rule changes** — contribution caps, preservation ages, and Age Pension settings change; confirm current figures before acting.
+Find the investment return line, the fee total, and the insurance premium. Those three explain most year-to-year surprises. Ignore vanity charts on the cover. If the statement offers a QR code to a special offer, ignore that too and log in via a bookmark you typed yourself.
 
 ## What to do next
-
-- Decide the next action for **superannuation basics** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Types of super funds](/topics/super-retirement/how-super-works/types-of-super-funds) for a related decision.
-- Read [Choosing a super fund](/topics/super-retirement/how-super-works/choosing-a-super-fund) for a related decision.
-- Run the numbers with [Super](/tools/super).
-- Tell one trusted person your plan if accountability helps you follow through.
+- Log in (or register) and download your latest statement this week.
+- Note fees, investment option, and insurance on one page.
+- Try the [super calculator](/tools/super) with your current balance and SG only, then with a small extra contribution.
+- Read [Types of super funds](/topics/super-retirement/how-super-works/types-of-super-funds) before you switch anything.
+- Search for lost super if you have changed jobs often.

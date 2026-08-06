@@ -1,88 +1,83 @@
 ---
-title: "Consumer leases"
-description: "Renting goods can cost more than buying—run the numbers."
+title: Consumer leases
+description: Renting goods can cost more than buying—run the numbers.
 pillar: loans-credit-debt
 hub: other-borrowing
 slug: consumer-leases
 updated: "2026-08-03"
-tags: 
-  - other borrowing
-relatedTools: 
+tags:
+  - borrowing
+  - leases
+relatedTools:
   - rent-vs-buy
-relatedGuides: 
-  - loans-credit-debt/other-borrowing/buy-now-pay-later-services
+relatedGuides:
+  - loans-credit-debt/loans/no-interest-loans
+  - loans-credit-debt/loans/payday-loans
   - loans-credit-debt/other-borrowing/interest-free-deals
-  - loans-credit-debt/other-borrowing/pay-advance-services
+  - loans-credit-debt/managing-debt/repossessed-car-or-goods
 ---
 
-Renting goods can cost more than buying—run the numbers. Buy-now-pay-later, overdrafts, and fringe credit can look small until fees and timing stack up.
+A consumer lease lets you use a fridge, TV, computer, or similar goods in exchange for ongoing payments. You often never own the item—or only own it after paying far more than the retail price.
 
-## What is Consumer leases?
+## Renting goods versus owning them
 
-**Consumer leases** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Renting goods can cost more than buying—run the numbers. Buy-now-pay-later, overdrafts, and fringe credit can look small until fees and timing stack up.
+With a typical consumer lease:
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+- the company owns the goods during the lease
+- you pay regular rental amounts
+- damage, loss, and insurance rules sit in the contract
+- at the end you may return the goods, continue renting, or pay more to own—depending on the product
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+That differs from a personal loan used to **buy** the same item: with a loan, ownership is usually yours once financed, and the debt has a finish line you can accelerate.
 
-## How to think about the moving parts
+Leases are marketed to people who cannot pay upfront. The emotional appeal is “get it today.” The financial question is “what will I have paid after two or four years?”
 
-For **consumer leases**, translate marketing into cash-flow reality. What is the total repayable? What happens if rates rise or hours fall? Can you still cover rent, food, and utilities after the repayment leaves?
+## Total cost over the lease term
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Add every scheduled payment across the full term. Then add fees for delivery, installation, late payment, and optional extras. Compare that total to:
 
-ClearMoney calculators that pair with this topic: [Rent Vs Buy](/tools/rent-vs-buy). Use them to turn guesses into numbers before you commit.
+- the normal retail price of a similar item
+- a [no interest loan](/topics/loans-credit-debt/loans/no-interest-loans) if you are eligible
+- saving for a few months and buying second-hand or on sale
+- a low-rate personal loan’s total repayable (only if you can truly afford it)
 
-## Upsides worth wanting
+Use the [rent vs buy](/tools/rent-vs-buy) tool to make the comparison concrete. Many leases cost **multiple times** the shop price by the time the term ends.
 
-- Access to a lump sum when cash flow cannot stretch
-- Predictable repayments if the rate and term are understood
-- A chance to refinance or restructure later if you keep records
+If a salesperson emphasises the “low weekly amount,” ask them to write the **total amount payable** on the quote. That single figure ends many bad deals.
 
-## Risks and traps to watch
+## Early exit and ownership at the end
 
-### Easy-to-miss costs
+Before you sign, find answers to:
 
-Focusing on weekly repayments instead of total cost. For **Consumer leases**, read the conditions that turn a good deal average.
+- Can I terminate early, and what is the payout figure?
+- Who pays if the item breaks—warranty, insurance excess, or me?
+- Do I own the goods at the end, or must I return them?
+- What happens if I move interstate or cannot be home for servicing?
 
-### Timing and people problems
+Early exit costs can be steep because the company prices the lease assuming you stay the distance. If your income is unstable, a long lease is a fragile commitment.
 
-Guarantor or security risks you did not price emotionally. If someone rushes you, that is data—slow down.
+Missed payments can lead to collection activity and, in some cases, recovery of the goods—related reading: [repossessed car or goods](/topics/loans-credit-debt/managing-debt/repossessed-car-or-goods). If you cannot meet payments, contact the lessor’s hardship team early and call the National Debt Helpline on **1800 007 007**. Use [/urgent](/urgent) if essentials are at risk.
 
-### Recovery friction
+## Running the numbers with a calculator
 
-Stacking credit products until cash flow snaps. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+Work a simple side-by-side on paper or in [rent vs buy](/tools/rent-vs-buy):
 
-## Details that change the decision
+| Path | Upfront | Ongoing | Own at end? | Total cash out |
+| --- | --- | --- | --- | --- |
+| Lease | Low | High over time | Often no | Usually highest |
+| Save then buy | Delayed | None after purchase | Yes | Retail price |
+| NILS | Low/none | Principal only | Yes | Item cost |
+| Loan | Fees possible | Principal + interest | Yes | Compare carefully |
 
-Small, frequent credit can feel invisible until several due dates land in the same week. For **Consumer leases**, list every BNPL, overdraft, and store card limit as if it were a loan balance. If you cannot clear short-term credit from the next payday without skipping essentials, pause new purchases and rebuild the cash buffer first.
+Choose the path with the lowest total cost you can complete without skipping rent or food—not the path with the smallest weekly sticker.
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+## Sales pressure tactics to recognise
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when a simple system helped
-
-Jordan chose the lowest weekly repayment with a long term and paid far more interest. Sam compared total cost and picked a shorter term they could still stress-test if hours dropped. The lesson for **consumer leases**: slow clarity beats fast regret.
-
-## Practical steps for Consumer leases
-
-1. Calculate the total amount repayable, not only the weekly figure.
-2. Compare at least two lenders or credit types with the same loan amount and term.
-3. Stress-test repayments if rates rise or hours drop.
-4. Avoid stacking new credit to pay old credit without a written plan.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Life changes** — job loss, a new dependant, or a move can invalidate last year’s choice; schedule a review.
-- **Records** — keep PDFs of contracts, statements, and cancellation confirmations for at least a year.
+Lease sellers may emphasise “ownership at the end” while skipping how many dollars you will have paid by then. They may claim credit checks are soft when they are not, or rush you because “this rate ends today.” Take the contract home. If English is not your first language, ask a trusted helper or community worker to review totals with you—not the salesperson’s verbal summary alone. Community [no interest loans](/topics/loans-credit-debt/loans/no-interest-loans) remain worth checking for essentials before any lease.
 
 ## What to do next
 
-- Decide the next action for **consumer leases** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Buy now pay later services](/topics/loans-credit-debt/other-borrowing/buy-now-pay-later-services) for a related decision.
-- Read [Interest-free deals](/topics/loans-credit-debt/other-borrowing/interest-free-deals) for a related decision.
-- Run the numbers with [Rent Vs Buy](/tools/rent-vs-buy).
-- Tell one trusted person your plan if accountability helps you follow through.
+- Ask for the total amount payable in writing before any lease signing.
+- Compare with [rent vs buy](/tools/rent-vs-buy) and a NILS enquiry for essentials.
+- Refuse leases for non-essentials you can wait on.
+- If a lease is already unaffordable, seek hardship help and call **1800 007 007**.

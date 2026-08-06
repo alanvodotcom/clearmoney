@@ -1,84 +1,73 @@
 ---
-title: "Crypto scams"
-description: "Romance-to-crypto and fake trading platforms."
+title: Crypto scams
+description: Romance-to-crypto and fake trading platforms.
 pillar: scams-safety
 hub: financial-scams
 slug: crypto-scams
 updated: "2026-08-03"
-tags: 
+tags:
   - financial scams
-relatedGuides: 
-  - scams-safety/financial-scams/banking-scams
+relatedGuides:
   - scams-safety/financial-scams/investment-scams
-  - scams-safety/financial-scams/superannuation-scams
-  - scams-safety/financial-scams/ponzi-schemes
+  - scams-safety/financial-scams/banking-scams
+  - scams-safety/check-report/what-to-do-if-youve-been-scammed
+  - investing-planning/warnings/crypto-assets
 ---
 
-Romance-to-crypto and fake trading platforms. If money stress is affecting essentials this week, start at [Urgent help](/urgent). Scams succeed by urgency and secrecy. Real institutions do not need you to move money ‘to keep it safe’.
+Crypto scams borrow the language of trading but run on social engineering: trust first, irreversible transfers second. Coins moving on a blockchain are hard to claw back. If you have already sent crypto or cash and bills are at risk, start at [Urgent help](/urgent) and contact your bank or exchange on official channels.
 
-## What is Crypto scams?
+## Romance that turns into wallets
 
-**Crypto scams** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Romance-to-crypto and fake trading platforms. Scams succeed by urgency and secrecy. Real institutions do not need you to move money ‘to keep it safe’.
+A common pattern: a new online relationship builds over weeks. The person avoids video, invents travel or military stories, then introduces a “simple” crypto investment they use. They guide you to a website, watch your deposits grow on a fake dashboard, and coach larger transfers.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+When you try to withdraw, you must pay tax, gas, or margin “fees.” Those fees are the next theft. The romance was the delivery system.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+Rules that break this scam early:
 
-## How to think about the moving parts
+- Do not invest because someone you have not met in person insists
+- Do not keep the relationship’s money talk secret from friends
+- Never share OTPs, seed phrases, or exchange passwords—even with someone you think you love online
+- Be wary if they discourage video calls or always have a reason cameras cannot turn on
 
-If **crypto scams** involves suspected fraud, speed and verification beat cleverness. Use official phone numbers from a statement or the organisation’s website—not numbers from a text. Never share one-time codes.
+Affection and isolation are the product. The trading interface is theatre.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+## Fake trading apps and dashboards
 
-## Upsides worth wanting
+Clone apps and websites show impressive balances that are not yours to withdraw. Ads on social media and search promote “AI trading bots” and celebrity endorsements that were never given. Download only from official stores after verifying the publisher, and prefer typing exchange URLs yourself.
 
-- Limiting further loss by freezing channels quickly
-- Helping others when reports feed warning systems
-- Recovering access to accounts and identity credentials
+Watch for:
 
-## Risks and traps to watch
+- apps that only accept deposits, never successful withdrawals
+- support agents who stay on the phone while you send crypto
+- “account managers” who celebrate every deposit with screenshots
 
-### Easy-to-miss costs
+If a “broker” asks for remote access to install software, hang up—that overlaps with [banking scams](/topics/scams-safety/financial-scams/banking-scams). Broader investment pressure tactics sit under [Investment scams](/topics/scams-safety/financial-scams/investment-scams). For product risk (not just scams), see [Crypto assets](/topics/investing-planning/warnings/crypto-assets).
 
-Sending more money because someone claims fees will ‘release’ funds. For **Crypto scams**, read the conditions that turn a good deal average.
+## Recovery scams after the first loss
 
-### Timing and people problems
+Once you report a loss—or even search for help—new contacts may claim they can retrieve coins for an upfront fee. Others pose as lawyers, police, or platform support. They are usually harvesting what remains.
 
-Deleting evidence before reporting. If someone rushes you, that is data—slow down.
+Real recovery, if any, starts with your bank, the exchange’s official support, Scamwatch, and police reporting—not with a Telegram “specialist.” Do not send more crypto to unlock the last transfer. Do not grant screen sharing so someone can “trace the wallet” for you.
 
-### Recovery friction
+## Evidence worth keeping
 
-Shame delays that shrink recovery options. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+Before chats vanish:
 
-## Details that change the decision
+- screenshots of profiles, wallet addresses, transaction IDs (TxIDs), and URLs
+- dates and amounts of each transfer
+- phone numbers, emails, and usernames
+- app names and install sources
+- any voice notes or video that show the other person’s face or number
 
-Romance, investment, and impersonation scams share a script: isolation, urgency, and a story about why you must not tell anyone. For **Crypto scams**, break the script—call a trusted person and verify via independent channels.
+Report to [Scamwatch](https://www.scamwatch.gov.au). For hacking or malware tied to the incident, use [ReportCyber](https://www.cyber.gov.au/report-and-recover/report). Then follow [What to do if you’ve been scammed](/topics/scams-safety/check-report/what-to-do-if-youve-been-scammed) for bank and emotional next steps. Tell a trusted person what happened—isolation is how romance-to-crypto loops continue.
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+Legitimate exchanges will not ask you to pay withdrawal tax to a personal wallet. That request alone is enough to stop and report.
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when a simple system helped
-
-Noah nearly transferred savings after a convincing ‘bank fraud’ call. Riley hung up, dialled the number on the back of the card, and learned the real bank had not called. The lesson for **crypto scams**: slow clarity beats fast regret.
-
-## Practical steps for Crypto scams
-
-1. Stop contact with the suspected scammer and do not send more money.
-2. Call your bank or card provider on a number from their official site.
-3. Change passwords starting with email, then banking, then social.
-4. Report via Scamwatch and keep evidence (messages, receipts, wallet addresses).
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Money stress now** — prioritise rent, food, utilities, and medicine, then use [Urgent help](/urgent). National Debt Helpline: 1800 007 007.
-- **After a scam** — contact your bank, change passwords, and report via Scamwatch; keep evidence.
+If the dashboard balance rises while your bank statement only shows money leaving, you are watching a graphic—not a portfolio. Withdrawal tests with tiny amounts often fail for the same reason.
 
 ## What to do next
 
-- Call your bank from an official number and report the scam channels you used.
-- Read [Banking scams](/topics/scams-safety/financial-scams/banking-scams) for a related decision.
-- Read [Investment scams](/topics/scams-safety/financial-scams/investment-scams) for a related decision.
-- If essentials are at risk, open [Urgent help](/urgent) before taking on new credit.
+- If a new online partner is steering you toward crypto deposits, pause all transfers and talk to someone offline today.
+- Verify any exchange in official channels; delete apps installed at a stranger’s instruction.
+- Save TxIDs and report via Scamwatch—even small early deposits.
+- Refuse recovery-fee pitches; if cash flow is already broken, open [Urgent help](/urgent).

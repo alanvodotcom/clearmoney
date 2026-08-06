@@ -5,79 +5,60 @@ pillar: loans-credit-debt
 hub: managing-debt
 slug: urgent-help-with-money
 updated: "2026-08-03"
-tags: 
+tags:
   - managing debt
-relatedGuides: 
+relatedGuides:
   - loans-credit-debt/managing-debt/get-debt-under-control
   - loans-credit-debt/managing-debt/financial-hardship
   - loans-credit-debt/managing-debt/financial-counselling
   - loans-credit-debt/managing-debt/free-legal-advice
+diagram: hardship-call-order
 ---
 
-Immediate steps when you can’t cover essentials. If money stress is affecting essentials this week, start at [Urgent help](/urgent). Debt stress shrinks options. Prioritise essentials, talk early, and use free help before high-cost credit.
+When rent, food, medicine, or power is at risk this week, speed and the right order of calls matter more than a perfect spreadsheet. Start at [Urgent help](/urgent) and use the steps below as a working script.
 
-## Urgent help with money: the clear version
+::: warning
+Do not take a payday loan to “bridge” essentials until you have spoken to free help—those products often shrink next week’s options.
+:::
 
-**Urgent help with money** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Immediate steps when you can’t cover essentials. Debt stress shrinks options. Prioritise essentials, talk early, and use free help before high-cost credit.
+## Protect essentials first
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Write four lines: housing, food, medicine, and transport to work or safety. Those get money before credit card minimums, streaming, or “catch-up” shopping. If someone is unsafe at home because of money control, call **000** if in danger, and contact **1800RESPECT (1800 737 732)** for planning support.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+Do not take a payday loan or cash advance to “bridge” essentials until you have spoken to free help—those products often shrink next week’s options.
 
-## How to think about the moving parts
+## Who to call today
 
-When **urgent help with money** collides with debt stress, order of operations matters: essentials first, then contact lenders, then free counselling if you cannot see a path. Silence usually makes options worse.
+1. **National Debt Helpline — 1800 007 007** — free financial counselling pathways and prioritising debts.
+2. **Your bank or lenders** — ask for hardship in writing; note the reference number.
+3. **Energy, water, telco** — hardship or payment plans before disconnection risk rises.
+4. **Centrelink / Services Australia** (if relevant) — check payments, advances, or crisis support you already qualify for.
+5. **Emergency relief** — local community organisations may offer food or bill help.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Keep a call log: date, name, what was promised, reference number.
 
-## Upsides worth wanting
+## What to say on hardship calls
 
-- Hardship programs that can pause or reshape repayments
-- Reduced stress when there is a written plan
-- Protection pathways if collectors breach the rules
+“I cannot meet the payment due on [date] because [job loss / illness / reduced hours]. I need a hardship arrangement. My essentials this week are rent/food/power. What options do you have, and can you confirm in writing?”
 
-## Risks and traps to watch
+Have income evidence and a simple list of debts ready. Silence usually costs more than an imperfect call.
 
-### Easy-to-miss costs
+## Stop the bleed
 
-Ignoring contact until default listing or legal steps begin. For **Urgent help with money**, read the conditions that turn a good deal average.
+Freeze non-essential spending and new credit. Cancel or pause optional direct debits after essentials are mapped. If collectors are already calling, read [Dealing with debt collectors](/topics/loans-credit-debt/managing-debt/dealing-with-debt-collectors) and prefer written contact.
 
-### Timing and people problems
+Tell trusted family only what they need to know; you do not owe strangers your full story. If a lender demands payment in gift cards or crypto, hang up—that is not a normal hardship process.
+## After the crisis week
 
-Using payday-style credit to patch structural shortfalls. Put review dates in your calendar.
+Move into a longer plan: [Financial hardship](/topics/loans-credit-debt/managing-debt/financial-hardship), [Get debt under control](/topics/loans-credit-debt/managing-debt/get-debt-under-control), and ongoing [Financial counselling](/topics/loans-credit-debt/managing-debt/financial-counselling). Rebuild a tiny buffer so the next shock does not restart the cycle.
 
-### Recovery friction
+If wages were interrupted, ask payroll or Centrelink about timing before you borrow. A one-week bridge from family with a written repayment date often beats a high-cost loan—only when that relationship is safe and nobody is coercing you.
 
-Signing payment plans you cannot keep. Keep PDFs and screenshots; verbal promises are hard to enforce later.
-
-## Details that change the decision
-
-Collectors and lenders have rules; you have rights to request hardship consideration and to be treated fairly. For **Urgent help with money**, keep a call log and prefer written agreements. Free financial counsellors help you prioritise and negotiate—use them before selling essentials or borrowing more to patch interest.
-
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
-
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when timing changed the outcome
-
-Priya avoided lender calls until fees stacked. Alex asked for hardship in writing, listed essentials first, and booked a free counsellor session the same week. The lesson for **urgent help with money**: slow clarity beats fast regret.
-
-## Practical steps for Urgent help with money
-
-1. List debts with balances, rates, and minimums; mark essentials separately.
-2. Contact lenders early and ask about hardship options in writing.
-3. Speak with a free financial counsellor if repayments no longer fit.
-4. Avoid high-cost short-term credit as a ‘bridge’ without a repayment date.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Money stress now** — prioritise rent, food, utilities, and medicine, then use [Urgent help](/urgent). National Debt Helpline: 1800 007 007.
-
+Scam “government grants” that ask for a fee upfront are not help. Hang up and verify any offer through official channels you typed yourself. ClearMoney’s [Urgent help](/urgent) page stays the short path when you are overwhelmed.
 ## What to do next
 
-- Decide the next action for **urgent help with money** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Get debt under control](/topics/loans-credit-debt/managing-debt/get-debt-under-control) for a related decision.
-- Read [Financial hardship](/topics/loans-credit-debt/managing-debt/financial-hardship) for a related decision.
-- If essentials are at risk, open [Urgent help](/urgent) before taking on new credit.
+- Open [Urgent help](/urgent) and call **1800 007 007** if you have not already.
+- Contact one landlord/lender and one utility with a hardship request today.
+- Write your essentials list and freeze new credit.
+- Book a follow-up with a financial counsellor within a week.
+- If collectors escalate, switch to written contact and keep every letter.

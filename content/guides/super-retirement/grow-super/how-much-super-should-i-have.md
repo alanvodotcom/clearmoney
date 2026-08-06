@@ -5,85 +5,70 @@ pillar: super-retirement
 hub: grow-super
 slug: how-much-super-should-i-have
 updated: "2026-08-03"
-tags: 
+tags:
   - grow super
-relatedTools: 
+relatedTools:
   - retirement-planner
   - super
-relatedGuides: 
-  - super-retirement/grow-super/how-to-check-your-super
+relatedGuides:
+  - super-retirement/plan-retirement/work-out-how-much-you-need-to-retire
   - super-retirement/grow-super/super-contributions
-  - super-retirement/grow-super/super-investment-options
-  - super-retirement/grow-super/switching-super-funds
+  - super-retirement/plan-retirement/super-and-the-age-pension
+  - super-retirement/retirement/retirement-checklist
 ---
 
-Rough benchmarks—and why your number is personal. Growing super is usually about contributions, fees, insurance inside super, and investment mix—not one hot tip.
+Benchmarks can tell you if you are roughly on track. They cannot tell you if *you* can retire, because homes, Age Pension, health, and lifestyle dominate the maths. Use ranges as a conversation starter, then personalise.
 
-## Understanding How much super should I have
+## Why comparison tables mislead
 
-**How much super should I have?** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Rough benchmarks—and why your number is personal. Growing super is usually about contributions, fees, insurance inside super, and investment mix—not one hot tip.
+Two 45-year-olds with the same balance are not twins if one owns a home outright and the other rents, or if one will clearly qualify for a full Age Pension and the other will not. Media “average balances” also mix full-time continuous careers with broken work histories.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+## Start from spending, not envy
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+Estimate annual retirement spending, then work backwards. The [retirement planner](/tools/retirement-planner) and [Work out how much you need to retire](/topics/super-retirement/plan-retirement/work-out-how-much-you-need-to-retire) flip the question to lifestyle cost. A rough rule of thumb some planners discuss is capital of roughly 20–25× essential annual spending beyond Age Pension—but that is a heuristic, not a promise, and investment returns/inflation vary.
 
-## How to think about the moving parts
+## Age Pension changes the target
 
-Setup quality decides whether **how much super should I have?** helps or nags you later. Confirm identity and contact details, choose alerts you will actually read, and decide who else can see or move money. If a salesperson is present, ask for the key numbers in writing before you sign.
+If you are likely to receive a full or part Age Pension, the super balance required for the same lifestyle falls. If you will be means-tested off the pension, self-reliance must be higher. Read [Super and the Age Pension](/topics/super-retirement/plan-retirement/super-and-the-age-pension) and verify current thresholds with Services Australia.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+## Career shape matters
 
-ClearMoney calculators that pair with this topic: [Retirement Planner](/tools/retirement-planner), [Super](/tools/super). Use them to turn guesses into numbers before you commit.
+- Time out of the workforce (caregiving) often creates gaps that extra contributions later may partly fill—subject to caps
+- Self-employed people who skipped SG-equivalent contributions need a deliberate catch-up plan
+- Inheritance or home equity can substitute for super—but liquidity and timing differ
 
-## Upsides worth wanting
+## Use projections with humility
 
-- Automations that reduce missed payments and late fees
-- Alerts that surface problems while they are still small
-- Shared understanding when more than one person is involved
+Plug today’s balance, SG rate, fees, and a conservative return into the [super calculator](/tools/super). Run a pessimistic return case too. The gap between cases is your uncertainty band—not a failure of the tool.
 
-## Risks and traps to watch
+## If you are behind
 
-### Easy-to-miss costs
+1. Kill high-interest consumer debt that blocks surplus cash
+2. Lift concessional contributions toward the cap if cash flow allows
+3. Cut fee drag and unused insurance
+4. Extend working years modestly—often powerful
+5. Adjust lifestyle expectations early rather than deny the gap
 
-Set-and-forget errors (wrong account, wrong amount, wrong date). For **How much super should I have?**, read the conditions that turn a good deal average.
+Catch-up is usually a mix, not a miracle contribution.
 
-### Timing and people problems
+## Side assets count in real life
 
-Giving too much authority to another person. Write down who can authorise changes.
+Offset accounts, share portfolios, and expected part-time work change how much super you personally need. Benchmarks that ignore them scare people without reason—or lull homeowners into under-saving for rates and health. Build *your* balance sheet, then judge the super line.
 
-### Recovery friction
+## Age Pension as a silent partner
 
-Missing fine print on fees or cooling-off rights. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+Many Australians will receive a full or part Age Pension. That does not mean you can ignore saving, but it changes the capital you personally must supply. Model income with and without a pension so you see how exposed you are to rule changes. Homeowners and renters experience the assets test differently—do not copy a homeowner target if you rent.
 
-## Details that change the decision
+## Career breaks and catch-up maths
 
-Extra contributions only help if cash flow can carry them and rules allow them. For **How much super should I have?**, compare concessional versus after-tax pathways with current caps in mind, and watch insurance premiums deducted from your balance.
+Parental leave, study, and unemployment years leave visible dents. When income returns, check whether concessional carry-forward rules can help you catch up legally. A temporary higher sacrifice after a break often does more than guilt. Pair catch-up contributions with fee hygiene so new money is not chewed by an expensive product.
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+## Fresh-numbers habit for how much super should i have
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when the fine print mattered
-
-Priya set everything up in a hurry and only noticed the wrong account after a payment bounced. Alex now screenshots every confirmation and nicknames accounts so automations are obvious. The lesson for **how much super should I have?**: slow clarity beats fast regret.
-
-## Practical steps for How much super should I have
-
-1. Gather ID, income evidence, and any existing contracts or statements.
-2. Confirm who else is affected (partner, guarantor, dependants) before you sign.
-3. Complete the application or setup deliberately—screenshot confirmations.
-4. Turn on alerts and store reference numbers where you can find them.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Rule changes** — contribution caps, preservation ages, and Age Pension settings change; confirm current figures before acting.
+Numbers from last year’s seminar may already be wrong. Caps, deeming rates, and insurance definitions move. Re-check primary sources the week you act. If a salesperson becomes irritated when you pause to verify, that irritation reveals their incentives—not your intelligence.
 
 ## What to do next
-
-- Decide the next action for **how much super should I have?** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [How to check your super](/topics/super-retirement/grow-super/how-to-check-your-super) for a related decision.
-- Read [Super contributions](/topics/super-retirement/grow-super/super-contributions) for a related decision.
-- Run the numbers with [Retirement Planner](/tools/retirement-planner).
-- Write your constraints on paper so a sales pitch cannot rewrite them.
+- Write a target annual retirement spend before you chase a “should have” balance.
+- Model two retirement ages in the [retirement planner](/tools/retirement-planner).
+- Check Age Pension likelihood honestly.
+- Pick one growth action (contribution, fee cut, or work horizon) for this financial year.

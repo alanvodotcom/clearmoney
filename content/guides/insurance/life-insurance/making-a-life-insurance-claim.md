@@ -5,79 +5,67 @@ pillar: insurance
 hub: life-insurance
 slug: making-a-life-insurance-claim
 updated: "2026-08-03"
-tags: 
+tags:
   - life insurance
-relatedGuides: 
+relatedGuides:
   - insurance/life-insurance/life-insurance-cover
   - insurance/life-insurance/income-protection-insurance
   - insurance/life-insurance/total-and-permanent-disability-tpd-insurance
   - insurance/life-insurance/trauma-insurance
+  - community/publications/how-to-complain
 ---
 
-Documents and steps when claiming. Life and personal insurance replace income or cover costs when health or life events hit.
+Life, TPD, trauma, and income protection claims are paperwork-heavy. Speed comes from contacting the right insurer early, sending complete evidence, and tracking every request. Delay usually comes from missing forms, unclear medical reports, or uncertainty about who is allowed to claim.
 
-## What is Making a life insurance claim?
+## Who contacts whom, and how soon
 
-**Making a life insurance claim** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Documents and steps when claiming. Life and personal insurance replace income or cover costs when health or life events hit.
+Start with the policy schedule or super fund insurance page. Cover inside super is claimed through the fund and its insurer; retail cover goes straight to the insurer on the certificate. For death claims, the executor, legal personal representative, or nominated beneficiary typically leads—bring identification and authority documents.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Notify the insurer or fund as soon as practical. Ask for:
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+- the claims phone line and claim number
+- the exact forms required for that benefit type
+- whether interim payments or premium waivers exist while assessment runs
+- expected timeframes (they are guides, not promises)
 
-## How to think about the moving parts
+If income has stopped, open a parallel conversation about [income protection](/topics/insurance/life-insurance/income-protection-insurance) waiting periods and any emergency cash you can access. Do not wait for a TPD decision before exploring shorter-term support you already hold.
 
-Insurance decisions for **making a life insurance claim** are about the claim you hope never happens. Read exclusions and waiting periods before you compare price alone. Check whether you already hold overlapping cover elsewhere.
+## Evidence packs that move claims forward
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Expect different documents for different benefits:
 
-## Upsides worth wanting
+- **Death** — death certificate, will or letters of administration, ID, nomination forms, and policy details.
+- **Trauma** — specialist reports matching the insured-event definition, pathology or imaging, and proof of survival period if required.
+- **TPD** — detailed GP and specialist opinions on permanence, employer duty statements, vocational history, and continuous absence evidence.
+- **Income protection** — medical certificates, income evidence, and ongoing progress reports.
 
-- A financial backstop after insured events
-- Clearer recovery planning when documents are ready
-- Peace of mind when sums insured match rebuild or replace costs
+Keep a claims folder (digital is fine): PDS, application answers if you have them, all medical letters, and a log of calls with dates and names. When an assessor asks for “more information,” respond with labelled attachments rather than another vague summary.
 
-## Risks and traps to watch
+Insurers investigate consistency with the original application. Old non-disclosure issues surface here. Answer factual questions carefully; if you need help, a financial counsellor or lawyer can be worth it on large claims.
 
-### Easy-to-miss costs
+## While you wait: money and communication
 
-Underinsurance and uncovered flood or temporary accommodation gaps. For **Making a life insurance claim**, read the conditions that turn a good deal average.
+Assessments can take weeks or months, especially for TPD. Continue paying premiums unless the insurer confirms a waiver. Ask whether rehabilitation support, partial benefits, or advances apply. If cash flow is breaking, use [Urgent help](/urgent) and the National Debt Helpline (1800 007 007) rather than high-cost credit.
 
-### Timing and people problems
+Send polite written follow-ups when timeframes slip. Escalation inside the insurer’s complaints process is available if communication stalls—then external dispute resolution such as AFCA may be an option. ClearMoney’s [how to complain](/topics/community/publications/how-to-complain) outline covers that ladder.
 
-Overlapping policies that still leave a hole. If someone rushes you, that is data—slow down.
+Declines should arrive in writing with reasons tied to policy clauses. Read those clauses against your evidence before you accept the outcome. Fresh specialist reports sometimes change a decision; arguing without new medical substance rarely does.
 
-### Recovery friction
+## After a payout
 
-Add-ons that cost more than the likely benefit. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+Confirm how tax and super rules apply before you spend a large sum. Update remaining covers, beneficiaries, and budgets. A trauma or TPD payment may reduce linked life cover—check the schedule so dependants are not left underinsured.
 
-## Details that change the decision
 
-Cover amounts should reflect debts, dependants, and how long income would need replacing. For **Making a life insurance claim**, check definitions for total and permanent disability and income protection waiting periods. Stepped premiums can rise sharply with age—know the path.
+## Supporting someone else through a claim
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+If you are helping a partner or parent claim, get authority in writing early—insurers cannot discuss details with you otherwise. Split tasks: one person gathers medical reports, another manages the claim log, a third watches household bills.
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when a simple system helped
-
-Harper discovered after a claim that the sum insured was years out of date. Drew now reviews cover at renewal with rebuild and contents lists, not just the premium. The lesson for **making a life insurance claim**: slow clarity beats fast regret.
-
-## Practical steps for Making a life insurance claim
-
-1. List the risks you actually need covered versus nice-to-haves.
-2. Compare sum insured, excess, exclusions, and waiting periods.
-3. Check whether cover already exists inside super, bank, or another policy.
-4. Store policy numbers and claim phone lines offline as well as in the app.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Claims** — photograph damage, keep receipts for emergency spends, and ask about temporary accommodation cover if you cannot stay home.
+Grief and disability already drain focus. A simple task split prevents three people calling the insurer with three different stories.
 
 ## What to do next
 
-- Decide the next action for **making a life insurance claim** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Life insurance cover](/topics/insurance/life-insurance/life-insurance-cover) for a related decision.
-- Read [Income protection insurance](/topics/insurance/life-insurance/income-protection-insurance) for a related decision.
-- Tell one trusted person your plan if accountability helps you follow through.
+- Locate every policy (retail and [through super](/topics/insurance/life-insurance/insurance-through-super)) and open a claim number for each relevant benefit.
+- Request a written document checklist for your claim type and assemble medical and ID evidence in one folder.
+- Diary follow-ups against the insurer’s stated timeframes; escalate in writing if silence stretches.
+- Protect day-to-day cash flow while you wait—see [Urgent help](/urgent) if essentials are at risk.
+- If a decline letter arrives, match it to PDS definitions and seek advice before you close the file.

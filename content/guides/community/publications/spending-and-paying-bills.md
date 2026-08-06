@@ -5,80 +5,61 @@ pillar: community
 hub: publications
 slug: spending-and-paying-bills
 updated: "2026-08-03"
-tags: 
+tags:
   - publications
-relatedGuides: 
+relatedGuides:
   - community/publications/publications
+  - community/publications/budgeting-and-saving-tips
   - community/publications/how-to-complain
-  - community/publications/money-tips-in-other-languages
-  - community/publications/beware-of-scams
+  - community/publications/credit-and-debt-tips
 ---
 
-Bill rhythms and avoiding late fees. ClearMoney publications are starting points—use them with your own numbers and official sources for thresholds.
+Late fees and disconnection notices rarely come from one dramatic purchase. They come from bills that do not line up with payday. This tip sheet is about rhythm: knowing what leaves your account, when, and what to do when a fortnight goes wrong.
 
-## What is Spending and paying bills?
+## Put every bill on a calendar
 
-**Spending and paying bills** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Bill rhythms and avoiding late fees. ClearMoney publications are starting points—use them with your own numbers and official sources for thresholds.
+Open statements for rent or mortgage, electricity, gas, water, internet, phone, insurance, council rates, school costs, and subscriptions. Note the amount, due date, and whether payment is automatic.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Mark your pay or Centrelink days on the same calendar. If three large bills hit the empty half of the cycle, call providers and ask to move due dates—many will shift once you explain income timing. A five-minute call beats a $15 late fee repeated all year.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+Cancel subscriptions you forgot. Streaming, gym, cloud storage, and “free trials” that converted quietly are common leaks. One cancelled unused service can fund a small bill buffer.
 
-## How to think about the moving parts
+## Direct debit: helpful or hazardous
 
-Use **spending and paying bills** as a toolkit. Take what fits your household, leave what does not, and prefer official registers and licensed help for high-stakes steps.
+Direct debit works when the balance is there on the debit day. On lumpy income, a failed debit can mean late fees from both the bank and the biller. Options:
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+- Keep a bills account and sweep money in on payday before debits run.
+- Use Centrepay or similar deduction tools if you receive income support and want rent or essentials taken first.
+- Pay manually the day money lands if automation keeps bouncing.
 
-## Upsides worth wanting
+Never give debit authority from a cold call. Confirm biller IDs and BPAY details from a bill you already trust—not from a text link.
 
-- Shared language for classrooms, families, or community groups
-- Pointers to free or low-cost support
-- Practical checklists you can adapt locally
+## When you cannot pay this period
 
-## Risks and traps to watch
+Contact the provider **before** the due date if you can. Ask for a payment plan, hardship team, or extension. Energy, telco, and water retailers often have hardship policies; use them early while options are wider.
 
-### Easy-to-miss costs
+Prioritise housing, energy, water, and medicine over discretionary spending and minimums on high-cost credit. Avoid payday loans or new credit cards to clear a utility bill unless a counsellor agrees it is the least-bad path—see [credit and debt tips](/topics/community/publications/credit-and-debt-tips).
 
-Treating a tip as universal advice. For **Spending and paying bills**, read the conditions that turn a good deal average.
+If collection activity has started and you cannot negotiate, free financial counselling (National Debt Helpline 1800 007 007) can help you plan and speak with creditors. For unfair treatment after you complained internally, read [how to complain](/topics/community/publications/how-to-complain).
 
-### Timing and people problems
+## Shared houses and whose name is on the account
 
-Out-of-date thresholds if you skip official checks. If someone rushes you, that is data—slow down.
+In a share house, the person named on the electricity or internet account is usually legally responsible if housemates vanish. Put agreements in writing: who pays what share, by which date, and what happens when someone leaves. Keep access to statements so nobody is flying blind.
 
-### Recovery friction
+When you move out, transfer or close accounts in your name. Final bills that arrive at an old address are how people discover months later that a housemate stopped paying.
 
-Sharing someone else’s story without consent. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+## Spending that waits for payday—and spending that should not
 
-## Details that change the decision
+Groceries, transport, and medicine need a plan every week. Fashion drops, gaming skins, and “treat” food delivery are easier to park until after essentials clear. A simple envelope or separate spending pot for discretionary money reduces the chance a night out empties the rent jar.
 
-Use checklists as prompts, then replace sample numbers with yours. For **Spending and paying bills**, note the date you read a guide and re-check official thresholds when acting on dollar figures.
+Use [budgeting and saving tips](/topics/community/publications/budgeting-and-saving-tips) if you need a fuller method; this page is only the bill-rhythm slice. Alerts for low balance and large transactions catch problems while you can still move money.
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
-
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when a simple system helped
-
-Jordan shared a tip that worked for a dual-income household with a student living on casual shifts—and it backfired. Sam now checks constraints before recommending a step. The lesson for **spending and paying bills**: slow clarity beats fast regret.
-
-## Practical steps for Spending and paying bills
-
-1. Skim for the one action that helps this week.
-2. Note any official registers, forms, or hotlines mentioned.
-3. Adapt the idea to your household—not every tip fits every culture or income.
-4. Share useful steps with someone who asked for help, with consent.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Life changes** — job loss, a new dependant, or a move can invalidate last year’s choice; schedule a review.
-- **Records** — keep PDFs of contracts, statements, and cancellation confirmations for at least a year.
+Review annual bills (insurance, memberships, domain names) each renewal month. A forgotten annual charge can wreck an otherwise tidy fortnight.
 
 ## What to do next
 
-- Decide the next action for **spending and paying bills** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Publications](/topics/community/publications/publications) for a related decision.
-- Read [How to complain](/topics/community/publications/how-to-complain) for a related decision.
-- Tell one trusted person your plan if accountability helps you follow through.
+- List every bill with due date and amount; align due dates to payday where providers allow.
+- Choose one payment method (bills account, Centrepay, or manual) that matches how your income arrives.
+- Call hardship or payment-plan teams before disconnection if this cycle is short.
+- Put share-house bill splits in writing and confirm whose name sits on each account.
+- See [publications](/topics/community/publications/publications) for more short tip sheets.

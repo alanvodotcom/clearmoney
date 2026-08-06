@@ -1,88 +1,75 @@
 ---
-title: "Payday loans"
-description: "Why short-term credit gets expensive fast."
+title: Payday loans
+description: Why short-term credit gets expensive fast.
 pillar: loans-credit-debt
 hub: loans
 slug: payday-loans
 updated: "2026-08-03"
-tags: 
+tags:
   - loans
-relatedTools: 
+  - hardship
+relatedTools:
   - payday-loan
-relatedGuides: 
-  - loans-credit-debt/loans/personal-loans
-  - loans-credit-debt/loans/car-loans
+relatedGuides:
   - loans-credit-debt/loans/no-interest-loans
-  - loans-credit-debt/loans/going-guarantor-on-a-loan
+  - loans-credit-debt/other-borrowing/pay-advance-services
+  - loans-credit-debt/managing-debt/urgent-help-with-money
+  - loans-credit-debt/managing-debt/financial-counselling
 ---
 
-Why short-term credit gets expensive fast. If money stress is affecting essentials this week, start at [Urgent help](/urgent). Borrowing is buying money now and paying for it later—compare the total cost, not only the weekly repayment.
+Payday loans and similar small-amount short-term credit are designed to feel like a quick fix. They are one of the most expensive ways to borrow in Australia—and they often deepen the cash crunch they claim to solve.
 
-## Understanding Payday loans
+## Why payday loans feel urgent
 
-**Payday loans** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Why short-term credit gets expensive fast. Borrowing is buying money now and paying for it later—compare the total cost, not only the weekly repayment.
+Marketing targets the moment you are short for rent, food, car rego, or a bill due tomorrow. The pitch is speed: apply online, money in your account today. That urgency is the product’s main feature—and its main trap.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+If you cannot cover essentials this week, start with help that does not compound the problem: see [/urgent](/urgent), talk to a financial counsellor, and call the National Debt Helpline on **1800 007 007**. Community [no interest loans](/topics/loans-credit-debt/loans/no-interest-loans) may cover essential goods. Utility providers and telcos often have hardship teams. These paths take more phone calls than a payday app—and they do not leave you owing fees on next fortnight’s pay.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+## How the cost multiplies
 
-## How to think about the moving parts
+Even with regulated caps, small loans can carry high **effective costs** relative to the amount borrowed. Establishment fees, monthly fees, and short terms mean a large share of your next paycheque leaves as soon as it arrives. People then borrow again to cover the gap—creating a cycle.
 
-When **payday loans** collides with debt stress, order of operations matters: essentials first, then contact lenders, then free counselling if you cannot see a path. Silence usually makes options worse.
+Use the [payday loan calculator](/tools/payday-loan) to see how fees and interest stack against the cash you receive. Compare that to waiting a few days, negotiating a payment plan, or borrowing a smaller amount from a lower-cost source.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Warning signs you are in a cycle:
 
-ClearMoney calculators that pair with this topic: [Payday Loan](/tools/payday-loan). Use them to turn guesses into numbers before you commit.
+- You are taking a new loan to repay or cover the last one.
+- Multiple short-term loans overlap.
+- Rent or food is paid after the lender is paid.
+- You hide the loans from people you share money with.
 
-## Upsides worth wanting
+## Safer alternatives when cash is short
 
-- Hardship programs that can pause or reshape repayments
-- Reduced stress when there is a written plan
-- Protection pathways if collectors breach the rules
+Try these before a payday loan:
 
-## Risks and traps to watch
+- **Hardship arrangements** with your electricity, gas, water, or telco provider
+- **Payment plans** for council rates, school fees, or fines (see [problems paying bills and fines](/topics/loans-credit-debt/managing-debt/problems-paying-your-bills-and-fines))
+- **Centrelink advances** or crisis payments if you receive eligible payments—check official Services Australia information
+- **NILS or similar** community loans for essential household items
+- **Employer or union support**, workplace employee assistance, or local community organisations
+- **Family or friends** only with written terms you can both live with—never under pressure or coercion
 
-### Easy-to-miss costs
+[Pay advance services](/topics/loans-credit-debt/other-borrowing/pay-advance-services) that skim your wages early can also be costly; treat them with the same caution.
 
-Ignoring contact until default listing or legal steps begin. For **Payday loans**, read the conditions that turn a good deal average.
+## If you already have a payday loan
 
-### Timing and people problems
+1. List every short-term loan: balance, due date, fees still owing.
+2. Contact the lender and ask about hardship options in writing.
+3. Call the National Debt Helpline on **1800 007 007** before taking another loan to “clear” this one.
+4. Prioritise rent, food, medicine, and utilities over discretionary spending while you stabilise.
+5. Avoid stacking BNPL, credit cards, and payday products at the same time.
 
-Using payday-style credit to patch structural shortfalls. Write down who can authorise changes.
+Do not ignore collection contact—engage early with help from a [financial counsellor](/topics/loans-credit-debt/managing-debt/financial-counselling).
 
-### Recovery friction
+**ClearMoney’s view:** payday-style credit should be a last resort you actively try to avoid, not a normal budgeting tool.
 
-Signing payment plans you cannot keep. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+## If someone else is pushing you to take one
 
-## Details that change the decision
-
-The sticker rate is not the whole cost. Establishment fees, monthly fees, insurance add-ons, and longer terms change the total repayable. For **Payday loans**, ask what happens on early repayment and whether the loan is secured. If a dealer or broker rushes you, take the contract home—urgency is a sales tool.
-
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
-
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when the fine print mattered
-
-Mei avoided lender calls until fees stacked. Chris asked for hardship in writing, listed essentials first, and booked a free counsellor session the same week. The lesson for **payday loans**: slow clarity beats fast regret.
-
-## Practical steps for Payday loans
-
-1. List debts with balances, rates, and minimums; mark essentials separately.
-2. Contact lenders early and ask about hardship options in writing.
-3. Speak with a free financial counsellor if repayments no longer fit.
-4. Avoid high-cost short-term credit as a ‘bridge’ without a repayment date.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Money stress now** — prioritise rent, food, utilities, and medicine, then use [Urgent help](/urgent). National Debt Helpline: 1800 007 007.
+Partners, friends, or family sometimes ask you to apply because they cannot. Your name on a payday loan is your credit file and your repayment. Say no if the money is not for your essentials. Coerced borrowing can be financial abuse—help is available, and you are allowed to refuse. If the pressure is about an urgent shared bill, return to hardship options and **1800 007 007** rather than high-cost credit in your name alone.
 
 ## What to do next
 
-- Decide the next action for **payday loans** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Personal loans](/topics/loans-credit-debt/loans/personal-loans) for a related decision.
-- Read [Car loans](/topics/loans-credit-debt/loans/car-loans) for a related decision.
-- Run the numbers with [Payday Loan](/tools/payday-loan).
-- If essentials are at risk, open [Urgent help](/urgent) before taking on new credit.
+- Open [/urgent](/urgent) and call **1800 007 007** if you cannot cover essentials.
+- Run your loan figures through the [payday loan](/tools/payday-loan) tool so the true cost is visible.
+- Ask providers for hardship plans before you borrow.
+- Check whether a [no interest loan](/topics/loans-credit-debt/loans/no-interest-loans) fits an essential purchase instead.

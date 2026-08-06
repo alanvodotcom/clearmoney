@@ -5,79 +5,81 @@ pillar: super-retirement
 hub: grow-super
 slug: switching-super-funds
 updated: "2026-08-03"
-tags: 
+tags:
   - grow super
-relatedGuides: 
-  - super-retirement/grow-super/how-to-check-your-super
-  - super-retirement/grow-super/how-much-super-should-i-have
-  - super-retirement/grow-super/super-contributions
-  - super-retirement/grow-super/super-investment-options
+relatedGuides:
+  - super-retirement/how-super-works/choosing-a-super-fund
+  - super-retirement/how-super-works/consolidating-super-funds
+  - super-retirement/grow-super/protect-your-super-from-pushy-sales-calls
+  - super-retirement/how-super-works/stapled-super-fund
 ---
 
-Compare before you switch—and watch sales pressure. Growing super is usually about contributions, fees, insurance inside super, and investment mix—not one hot tip.
+Switching can cut fees or improve insurance fit. It can also strand you uninsured or park contributions in the wrong place for a month. Treat a switch like moving house: utilities (SG), insurance, and keys (logins) all need a checklist.
 
-## Switching super funds: the clear version
+## Decide why you are moving
 
-**Switching super funds** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Compare before you switch—and watch sales pressure. Growing super is usually about contributions, fees, insurance inside super, and investment mix—not one hot tip.
+Valid reasons: persistent high fees, poor net performance over long periods, unsuitable insurance, terrible service, or consolidating duplicates.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Weak reasons: a one-year return chart, a gift card, or a stranger’s urgency.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+Use [Choosing a super fund](/topics/super-retirement/how-super-works/choosing-a-super-fund) to shortlist properly.
 
-## How to think about the moving parts
+## Pre-switch insurance protocol
 
-With **switching super funds**, match the product to your time horizon. Money you may need within a few years usually should not sit in volatile assets. Fees and diversification matter more than a single tip from social media.
+1. Apply for cover in the new fund (or confirm default cover adequacy)
+2. Wait for acceptance in writing
+3. Only then roll out of the old fund
+4. Cancel old cover explicitly if it does not end automatically—avoid paying double forever
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+## Rollover mechanics
 
-## Upsides worth wanting
+Open the new account, note the member number, and initiate rollover via the new fund or ATO tools. Keep the old account open until the balance shows transferred and you have statements. Update payroll / stapled arrangements so future SG follows you—see [Stapled super fund](/topics/super-retirement/how-super-works/stapled-super-fund).
 
-- Potential growth above cash over long periods
-- Diversification that reduces single-company drama
-- Alignment with goals like retirement or a distant home deposit
+If you hold multiple old accounts, follow [Consolidating super funds](/topics/super-retirement/how-super-works/consolidating-super-funds).
 
-## Risks and traps to watch
+## Investment option on day one
 
-### Easy-to-miss costs
+New funds often land you in a default option. Select the mix you actually want immediately after the money arrives.
 
-Buying under social pressure or FOMO. For **Switching super funds**, read the conditions that turn a good deal average.
+## Sales pressure filter
 
-### Timing and people problems
+Cold callers offering a “free comparison” that ends in a switch form are a pattern. Hang up and run your own comparison. Details: [Protect your super from pushy sales calls](/topics/super-retirement/grow-super/protect-your-super-from-pushy-sales-calls).
 
-Concentrated bets and high fees. Put review dates in your calendar.
+Never share myGov codes or remote-access software.
 
-### Recovery friction
+## Aftercare in the first 60 days
 
-Needing the money earlier than the investment can recover. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+- Confirm the rollover amount matches what left the old fund (allowing for markets/fees)
+- Confirm SG hits the new member number
+- Remake beneficiary nominations
+- Download PDSs and store them
 
-## Details that change the decision
+## Verification steps unique to Switching super funds
 
-Extra contributions only help if cash flow can carry them and rules allow them. For **Switching super funds**, compare concessional versus after-tax pathways with current caps in mind, and watch insurance premiums deducted from your balance.
+Confirm live contribution caps, Age Pension thresholds, preservation details, and product fees on official ATO, Services Australia, or fund PDS pages the week you act. ClearMoney offers general information only—not personal advice. Write one next action with a date and store PDFs of confirmations where you can find them in six months.
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+If the dollar amount is large, sleep on the decision and consider licensed advice. Cold callers who demand one-time codes or remote access are not helpers. Hang up and use bookmarks you typed yourself.
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+## Filing habits for switching super funds
 
-## A short story: when timing changed the outcome
+Keep statements, insurance schedules, advice fee consents, and solicitor letters in a dated folder. Share access rules with a trusted person without pasting every password into a group chat. Organised evidence shortens disputes, estate claims, and Centrelink conversations.
 
-Luca bought after a viral tip and sold in a panic three weeks later. Morgan wrote a one-page plan: horizon, fee budget, and a rule not to check prices daily. The lesson for **switching super funds**: slow clarity beats fast regret.
+Revisit after job changes, relationship changes, or health shocks. A short annual review beats a perfect plan nobody opens.
 
-## Practical steps for Switching super funds
+## Fresh-numbers habit for switching super funds
 
-1. Define the time horizon and what would force you to sell early.
-2. List fees (management, brokerage, advice) in dollars per year if you can.
-3. Diversify enough that one tip cannot wreck the plan.
-4. Ignore urgency: legitimate offers survive a night’s sleep.
+Numbers from last year’s seminar may already be wrong. Caps, deeming rates, and insurance definitions move. Re-check primary sources the week you act. If a salesperson becomes irritated when you pause to verify, that irritation reveals their incentives—not your intelligence.
 
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
+## Continuity checklist for Switching super funds
 
-## When life changes
+List the people, passwords managers, fund member numbers, and Centrelink CRNs that keep this topic running when you are travelling or unwell. Tape the list inside a secure place at home. Continuity is part of money skill, not paranoia.
 
-- **Rule changes** — contribution caps, preservation ages, and Age Pension settings change; confirm current figures before acting.
+## First contribution proof
+
+After payroll updates, screenshot the first SG credit in the new fund. If it is missing, chase within one cycle—not six months later when balances diverge and memories fade.
 
 ## What to do next
-
-- Decide the next action for **switching super funds** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [How to check your super](/topics/super-retirement/grow-super/how-to-check-your-super) for a related decision.
-- Read [How much super should I have?](/topics/super-retirement/grow-super/how-much-super-should-i-have) for a related decision.
-- Set a calendar reminder to revisit this decision after the next statement cycle.
+- Write a one-sentence reason for switching and a fee comparison in dollars.
+- Lock insurance continuity before you submit the rollover.
+- Update payroll the same week the new account exists.
+- Diary a 60-day post-switch audit of contributions and nominations.

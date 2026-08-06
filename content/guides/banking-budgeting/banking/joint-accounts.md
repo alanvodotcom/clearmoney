@@ -18,6 +18,10 @@ relatedGuides:
 
 A joint bank account can simplify shared rent, groceries, or a house deposit. It also means someone else can usually move money you put in. Understand the access rules before you open one.
 
+::: warning
+If a partner controls money or you feel unsafe, contact **1800RESPECT (1800 737 732)** and see [financial abuse](/topics/banking-budgeting/family/financial-abuse)—do not rely on a joint account for safety planning.
+:::
+
 ## What is a joint bank account?
 
 A joint account is a bank account that more than one person can use. It can be:

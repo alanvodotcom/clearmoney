@@ -5,80 +5,75 @@ pillar: investing-planning
 hub: warnings
 slug: insider-trading
 updated: "2026-08-03"
-tags: 
+tags:
   - warnings
-relatedGuides: 
+relatedGuides:
   - investing-planning/warnings/dont-get-burned-by-investment-hype
   - investing-planning/warnings/crypto-assets
   - investing-planning/warnings/forex-trading
   - investing-planning/warnings/contracts-for-difference-cfds
 ---
 
-What it is—and why you should never participate. Investment warnings exist because some offers are illegal, unsuitable, or designed to rush you.
+Insider trading is dealing in securities while possessing certain non-public, price-sensitive information—or tipping others—so they can trade on it. It is illegal in Australia and enforced seriously. “Everyone does it” is not a defence. Neither is a wink from a mate at a barbecue.
 
-## Understanding Insider trading
+This page is general information about staying clear of misconduct—not a loophole guide.
 
-**Insider trading** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. What it is—and why you should never participate. Investment warnings exist because some offers are illegal, unsuitable, or designed to rush you.
+## What crosses the line in plain terms
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+You may get into trouble if you trade (or tip) when you know confidential information that would materially affect a price if generally available—think impending takeovers, earnings shocks, or regulatory bombshells—obtained through roles, relationships, or leaks.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+Boundaries are technical; if you work in finance, law, auditing, corporate communications, or hold ESS in a blackout, follow your employer’s trading policies and legal advice. When unsure, do not trade.
 
-## How to think about the moving parts
+## Tips, chat groups, and “sure things”
 
-With **insider trading**, match the product to your time horizon. Money you may need within a few years usually should not sit in volatile assets. Fees and diversification matter more than a single tip from social media.
+Strangers selling “insider tips” are usually lying—and still trying to recruit you into a [pump and dump](/topics/investing-planning/warnings/pump-and-dump-schemes) or scam ([investment scams](/topics/scams-safety/financial-scams/investment-scams)). Paying for illegal information is not clever; it is a path to losses and legal risk.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Employees with genuine inside access should use trading windows and pre-clearance—not Telegram.
 
-## Upsides worth wanting
+## Consequences worth respecting
 
-- Potential growth above cash over long periods
-- Diversification that reduces single-company drama
-- Alignment with goals like retirement or a distant home deposit
+Penalties can include fines, imprisonment, civil outcomes, and lasting career damage. Regulators use market surveillance. The short-term trade is not worth a life-changing investigation.
 
-## Risks and traps to watch
+Victims of tip scams who lost money should still use [/urgent](/urgent) and reporting channels—being tricked does not require silence.
 
-### Easy-to-miss costs
+## Clean investing habits instead
 
-Buying under social pressure or FOMO. For **Insider trading**, read the conditions that turn a good deal average.
+Build positions from public filings, diversified funds, and written plans ([choosing shares](/topics/investing-planning/shares/choosing-shares-to-buy)). Public information is enough for long-term investors. Edge from crime is not an investment strategy.
 
-### Timing and people problems
+## Grey zones people rationalise
 
-Concentrated bets and high fees. Write down who can authorise changes.
+Overhearing a CEO in a lift, seeing a misdirected email, or getting a hint from a relative who “can’t say more” are exactly the moments to freeze trading. Rationalisations (“the market already knows,” “I’ll only buy a little”) are how careers end.
 
-### Recovery friction
+Chinese walls and restricted lists exist in professional firms for a reason. Circumventing them is not clever networking.
 
-Needing the money earlier than the investment can recover. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+## Tipping is not harmless gossip
 
-## Details that change the decision
+Passing price-sensitive confidential information to a friend so they can trade can implicate both of you. “I didn’t trade myself” is not a complete shield. Keep confidential work information confidential—full stop.
 
-Cold calls, secret tips, and ‘recovery rooms’ after a loss are classic patterns. For **Insider trading**, verify licences, ignore urgency, and never install remote-access software for a stranger. If an offer targets your super or equity, slow down further.
+## Clean information edges
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+Public filings, competitor products, industry data, and disciplined valuation work are legal. Slow compounding beats illegal shortcuts—and you sleep better. If a strategy requires secrecy from regulators, it is not an investing plan.
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+## Grey-area rationalisations to reject
 
-## A short story: when the fine print mattered
+Overhearing a CEO in a lift, seeing a misdirected email, or hearing a relative who “can’t say more” are moments to freeze trading. “I’ll only buy a little” is how careers end. Chinese walls exist for a reason.
 
-Mei bought after a viral tip and sold in a panic three weeks later. Chris wrote a one-page plan: horizon, fee budget, and a rule not to check prices daily. The lesson for **insider trading**: slow clarity beats fast regret.
+## ESS and blackouts together
 
-## Practical steps for Insider trading
+Employee share scheme holders often face blackout periods around results. Trading through a blackout—or tipping family—creates overlapping legal and policy problems. Put vesting and blackout calendars in the same place and treat both as hard stops.
 
-1. Define the time horizon and what would force you to sell early.
-2. List fees (management, brokerage, advice) in dollars per year if you can.
-3. Diversify enough that one tip cannot wreck the plan.
-4. Ignore urgency: legitimate offers survive a night’s sleep.
+## Media and rumour distinction
 
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
+Trading on a rumour published widely may still be risky if you also possess confidential confirmation from inside a company. Keep work secrets at work. When media reports break, wait for primary announcements rather than racing the first headline with size you cannot afford.
 
-## When life changes
 
-- **Life changes** — job loss, a new dependant, or a move can invalidate last year’s choice; schedule a review.
-- **Records** — keep PDFs of contracts, statements, and cancellation confirmations for at least a year.
+
+Keep written notes of every claim a promoter makes and compare them later to documents. Gaps between the pitch and the paperwork are where households lose money.
 
 ## What to do next
 
-- Decide the next action for **insider trading** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Don't get burned by investment hype](/topics/investing-planning/warnings/dont-get-burned-by-investment-hype) for a related decision.
-- Read [Crypto assets](/topics/investing-planning/warnings/crypto-assets) for a related decision.
-- Write your constraints on paper so a sales pitch cannot rewrite them.
+- Refuse tip offers; block sellers of “inside” calls.
+- Follow blackout and clearance rules if you have workplace access to confidential information.
+- Prefer ETFs and transparent research for goal money.
+- Report suspected market misconduct through official ASIC pathways.
+- If a tip funnel took your funds, combine misconduct reporting with [scam response](/topics/scams-safety/check-report/what-to-do-if-youve-been-scammed).

@@ -1,84 +1,69 @@
 ---
-title: "Managing large sums of money"
-description: "Compensation or inheritance—plan before spending."
+title: Managing large sums of money
+description: Compensation or inheritance—plan before spending.
 pillar: community
 hub: first-nations
 slug: managing-large-sums-of-money
 updated: "2026-08-03"
-tags: 
+tags:
   - first nations
-relatedGuides: 
+relatedGuides:
+  - community/first-nations/dealing-with-family-pressure-about-money
   - community/first-nations/first-nations-services-that-can-help
   - community/first-nations/bank-accounts
-  - community/first-nations/how-to-prove-your-identity
-  - community/first-nations/book-up
+  - community/first-nations/paying-for-funerals
 ---
 
-Compensation or inheritance—plan before spending. First Nations money guides respect community contexts while covering practical banking, debt, and consumer rights.
+Compensation, native title payments, inheritances, and insurance payouts can change a household overnight. The useful skill is slowing down: park the money safely, cover urgent needs, then decide—before the whole amount dissolves into requests, cars, and credit clean-ups.
 
-## What is Managing large sums of money?
+## Pause before the first big spend
 
-**Managing large sums of money** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Compensation or inheritance—plan before spending. First Nations money guides respect community contexts while covering practical banking, debt, and consumer rights.
+Give yourself a set pause—seven days, a fortnight—where you only pay:
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+- Safe housing needs
+- Food and power
+- Urgent medical costs
+- High-interest debts that are clearly yours
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+Write “not yet” on furniture upgrades, interstate trips, and lending to everyone who hears the news. News travels fast; your plan should travel faster. Family pressure guidance: [dealing with family pressure about money](/topics/community/first-nations/dealing-with-family-pressure-about-money).
 
-## How to think about the moving parts
+## Parking money safely
 
-Use **managing large sums of money** as a toolkit. Take what fits your household, leave what does not, and prefer official registers and licensed help for high-stakes steps.
+- Use an account in your name at a licensed bank or credit union—see [bank accounts](/topics/community/first-nations/bank-accounts)
+- Consider a separate savings account labelled for goals so everyday spending does not drain it
+- Avoid giving multiple people debit access “to help manage”
+- Beware anyone who wants to invest it quickly in something you do not understand
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Government guarantees cover deposits up to legislated limits per account holder per authorised deposit-taking institution—another reason to use proper banks, not informal minders.
 
-## Upsides worth wanting
+## Debts, family, and fair sharing
 
-- Shared language for classrooms, families, or community groups
-- Pointers to free or low-cost support
-- Practical checklists you can adapt locally
+List debts with balances and interest rates. Clearing a payday loan or book-up tab may buy more peace than a new TV. Get statements in writing.
 
-## Risks and traps to watch
+If you want to share with family, decide a fixed amount or percentage after essentials and debt priorities—not an open tap. For sorry business and funerals, plan deliberately—see [paying for funerals](/topics/community/first-nations/paying-for-funerals)—rather than emptying the account in one week and regretting it when rent is due.
 
-### Easy-to-miss costs
+## Getting advice you can trust
 
-Treating a tip as universal advice. For **Managing large sums of money**, read the conditions that turn a good deal average.
+Free starting points: financial counsellors and community services via [services that can help](/topics/community/first-nations/first-nations-services-that-can-help). For complex investments or tax on large payments, use a licensed adviser or registered tax agent you independently chose—not a door-knocker who heard about your payout.
 
-### Timing and people problems
+Never send money overseas or buy crypto because a new friend promised returns. Large balances attract scammers.
 
-Out-of-date thresholds if you skip official checks. If someone rushes you, that is data—slow down.
+## Scams and “helpers” who appear overnight
 
-### Recovery friction
+Large payments attract people with urgent stories: investment clubs, crypto tips, relatives of relatives who need a loan “just until Thursday,” and strangers offering to manage the money for a fee. Slow those conversations with the same pause rule. Ask a community worker or financial counsellor to sit in before you transfer five-figure amounts to anyone new.
 
-Sharing someone else’s story without consent. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+Legitimate help does not need your PIN, remote access to your phone banking, or secrecy from every other family member. If someone says “don’t tell the land council / don’t tell Centrelink / don’t tell the bank,” treat that as a stop sign. Record reference numbers for any adviser you do engage, and prefer written scopes of work with clear fees.
 
-## Details that change the decision
+## Tax and Centrelink check-ins
 
-Practical money steps should respect kinship, remote access barriers, and community obligations. For **Managing large sums of money**, prefer culturally safe services and confirm rights around banking, Centrelink interactions, and consumer credit.
+Some large payments interact with tax or income support. Before you assume the whole amount is free-and-clear forever, ask a registered tax agent or Centrelink (with an interpreter if needed) how reporting works for your payment type. Getting that wrong can create debts that undo the benefit of the windfall.
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
-
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when a simple system helped
-
-Mei shared a tip that worked for a dual-income household with a student living on casual shifts—and it backfired. Chris now checks constraints before recommending a step. The lesson for **managing large sums of money**: slow clarity beats fast regret.
-
-## Practical steps for Managing large sums of money
-
-1. Skim for the one action that helps this week.
-2. Note any official registers, forms, or hotlines mentioned.
-3. Adapt the idea to your household—not every tip fits every culture or income.
-4. Share useful steps with someone who asked for help, with consent.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Life changes** — job loss, a new dependant, or a move can invalidate last year’s choice; schedule a review.
-- **Records** — keep PDFs of contracts, statements, and cancellation confirmations for at least a year.
+If relatives request loans from the windfall, write the amount, date, and whether it is a gift or a loan. Verbal family loans are where relationships and budgets both fray.
 
 ## What to do next
 
-- Decide the next action for **managing large sums of money** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [First Nations services that can help](/topics/community/first-nations/first-nations-services-that-can-help) for a related decision.
-- Read [Bank accounts](/topics/community/first-nations/bank-accounts) for a related decision.
-- Tell one trusted person your plan if accountability helps you follow through.
+- Park the funds in your own bank account and set a pause period before big purchases.
+- List essentials, high-interest debts, and any funeral or family commitments you choose to fund.
+- Decide a written sharing limit so payday is not a free-for-all.
+- Book a financial counselling appointment to stress-test the plan.
+- Ignore investment cold calls; verify any adviser yourself.

@@ -1,89 +1,88 @@
 ---
-title: "Cash loans"
-description: "High-cost loans—know the true price."
+title: Cash loans
+description: High-cost loans—know the true price.
 pillar: community
 hub: first-nations
 slug: cash-loans
 updated: "2026-08-03"
-tags: 
+tags:
   - first nations
-relatedTools: 
-  - payday-loan
-relatedGuides: 
-  - community/first-nations/first-nations-services-that-can-help
-  - community/first-nations/bank-accounts
-  - community/first-nations/how-to-prove-your-identity
+relatedGuides:
   - community/first-nations/book-up
+  - community/first-nations/first-nations-services-that-can-help
+  - loans-credit-debt/loans/payday-loans
+  - loans-credit-debt/loans/no-interest-loans
+tools:
+  - payday-loan
 ---
 
-High-cost loans—know the true price. First Nations money guides respect community contexts while covering practical banking, debt, and consumer rights.
+When money is short before payday, cash loans and payday-style credit can look like the only door open. They are also among the most expensive ways to borrow. Knowing the true price—and the alternatives—protects the next few fortnights, not only today.
 
-## What is Cash loans?
+## Short-term cash loans and the true price
 
-**Cash loans** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. High-cost loans—know the true price. First Nations money guides respect community contexts while covering practical banking, debt, and consumer rights.
+Small-amount credit contracts and similar products charge fees that look flat (“just $X”) but are huge compared with the short time you have the money. Missing a repayment can mean more fees, collection activity, and repeat borrowing.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Before you sign, write down:
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+- How much you receive in hand
+- Total you must repay
+- When each repayment leaves your account
+- What happens if Centrelink or wages are late
 
-## How to think about the moving parts
+Use the [payday loan tool](/tools/payday-loan) and read [payday loans](/topics/loans-credit-debt/loans/payday-loans) for the broader pattern. If the lender rushes you or refuses to give documents, walk away.
 
-For **cash loans**, translate marketing into cash-flow reality. What is the total repayable? What happens if rates rise or hours fall? Can you still cover rent, food, and utilities after the repayment leaves?
+## Alternatives before you sign
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Ask about:
 
-ClearMoney calculators that pair with this topic: [Payday Loan](/tools/payday-loan). Use them to turn guesses into numbers before you commit.
+- **No-interest loan schemes (NILS)** and similar community loans for essential goods—see [no interest loans](/topics/loans-credit-debt/loans/no-interest-loans)
+- Emergency relief through community organisations
+- Hardship plans with your existing bank, energy, or telco provider
+- Centrelink advances where eligible (understand repayment from future payments)
+- Family or community supports that do not charge predatory interest
 
-## Upsides worth wanting
+[First Nations services that can help](/topics/community/first-nations/first-nations-services-that-can-help) can point you to local options. Clearing [book-up](/topics/community/first-nations/book-up) with a payday loan usually digs a deeper hole.
 
-- Access to a lump sum when cash flow cannot stretch
-- Predictable repayments if the rate and term are understood
-- A chance to refinance or restructure later if you keep records
+## Reading the contract numbers
 
-## Risks and traps to watch
+Check:
 
-### Easy-to-miss costs
+- Lender’s licence / credit licence details
+- Direct debit authority—how much control you keep
+- Cooling-off or early repayment rules
+- Whether the loan is tied to your keycard or Centrelink timing in ways you do not understand
 
-Focusing on weekly repayments instead of total cost. For **Cash loans**, read the conditions that turn a good deal average.
+Do not sign blank forms. Do not let someone else “explain later.” Take the contract to a community worker or financial counsellor if you can wait even one day.
 
-### Timing and people problems
+## If repayments are already missing
 
-Guarantor or security risks you did not price emotionally. If someone rushes you, that is data—slow down.
+Contact the lender’s hardship team and a free financial counsellor (1800 007 007). Do not take a second high-cost loan to pay the first without advice. Prioritise food, housing, and power while a counsellor helps renegotiate.
 
-### Recovery friction
+Complaints about lender conduct can escalate through internal dispute resolution and AFCA when the firm is a member.
 
-Stacking credit products until cash flow snaps. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+## A one-page loan decision sheet
 
-## Details that change the decision
+Before any cash loan, fill one page by hand:
 
-Practical money steps should respect kinship, remote access barriers, and community obligations. For **Cash loans**, prefer culturally safe services and confirm rights around banking, Centrelink interactions, and consumer credit.
+- Reason I need money this week
+- Amount I truly need (not the maximum offered)
+- Alternatives I already asked about (tick or cross)
+- Total repayments and dates
+- What I will cut from the next two fortnights to make room
+- Who I will tell so I am not borrowing in secret shame
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+If you cannot fill the page, you are not ready to sign. Lenders count on urgency and incomplete maths. Taking the sheet to a community worker for a ten-minute look can save months of debits.
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+## Repeat borrowing cycles
 
-## A short story: when a simple system helped
+The most expensive pattern is a new cash loan every payday to cover the last repayment. If you recognise that loop, stop adding facilities and call a financial counsellor the same week. Ask the lender for a hardship arrangement on the existing contract only. Bring bank statements that show the cycle—helpers understand the pattern quickly when they can see the dates.
 
-Priya chose the lowest weekly repayment with a long term and paid far more interest. Alex compared total cost and picked a shorter term they could still stress-test if hours dropped. The lesson for **cash loans**: slow clarity beats fast regret.
-
-## Practical steps for Cash loans
-
-1. Calculate the total amount repayable, not only the weekly figure.
-2. Compare at least two lenders or credit types with the same loan amount and term.
-3. Stress-test repayments if rates rise or hours drop.
-4. Avoid stacking new credit to pay old credit without a written plan.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Life changes** — job loss, a new dependant, or a move can invalidate last year’s choice; schedule a review.
-- **Records** — keep PDFs of contracts, statements, and cancellation confirmations for at least a year.
+If a broker or store staff fill the form for you, read every figure aloud before signing. Mistakes in income or expenses can be used later to argue you were never suitable for the loan—or to push a larger amount than you asked for.
 
 ## What to do next
 
-- Decide the next action for **cash loans** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [First Nations services that can help](/topics/community/first-nations/first-nations-services-that-can-help) for a related decision.
-- Read [Bank accounts](/topics/community/first-nations/bank-accounts) for a related decision.
-- Run the numbers with [Payday Loan](/tools/payday-loan).
-- Tell one trusted person your plan if accountability helps you follow through.
+- Calculate total repayments versus cash received before signing any small loan.
+- Ask a community service about NILS or emergency relief first.
+- Run the numbers in the [payday loan tool](/tools/payday-loan).
+- If already behind, call 1800 007 007 and stop new high-cost borrowing.
+- Keep copies of every contract and debit authority you have signed.

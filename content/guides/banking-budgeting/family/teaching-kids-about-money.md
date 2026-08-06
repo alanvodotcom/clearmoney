@@ -1,83 +1,80 @@
 ---
-title: "Teaching kids about money"
-description: "Age-appropriate habits for earning, saving, and waiting."
+title: Teaching kids about money
+description: Age-appropriate habits for earning, saving, and waiting.
 pillar: banking-budgeting
 hub: family
 slug: teaching-kids-about-money
 updated: "2026-08-03"
-tags: 
+tags:
   - family
-relatedGuides: 
+relatedGuides:
+  - banking-budgeting/family/reducing-back-to-school-costs
   - banking-budgeting/family/relationships-and-money
-  - banking-budgeting/family/marriage-and-money
-  - banking-budgeting/family/having-a-baby
-  - banking-budgeting/family/getting-a-pet
+  - banking-budgeting/saving/how-to-start-saving
+  - banking-budgeting/banking/transaction-accounts-and-debit-cards
 ---
 
-Age-appropriate habits for earning, saving, and waiting. Family money decisions affect more than one person. Clarity and safety matter as much as the spreadsheet.
+Kids learn money from what you do at the checkout, not from a lecture. Age-appropriate habits for earning, saving, and waiting beat perfect explanations they forget by dinner.
 
-## Understanding Teaching kids about money
+## What kids notice before you teach
 
-**Teaching kids about money** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Age-appropriate habits for earning, saving, and waiting. Family money decisions affect more than one person. Clarity and safety matter as much as the spreadsheet.
+They watch whether adults argue about bills, hide purchases, or treat debt as normal. They also notice generosity and planning. You do not need to share every adult stressor—but constant secrecy (“we don’t talk about money”) teaches avoidance.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Simple narration helps: “We’re choosing the store brand so we can keep saving for the holiday.” That is a lesson without a worksheet.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+## Primary years: earn, save, wait
 
-## How to think about the moving parts
+For younger children, keep it concrete:
 
-Setup quality decides whether **teaching kids about money** helps or nags you later. Confirm identity and contact details, choose alerts you will actually read, and decide who else can see or move money. If a salesperson is present, ask for the key numbers in writing before you sign.
+- **Earn** — small tasks tied to contribution (age-appropriate chores), not endless paid lists that turn family life into a workplace.
+- **Save** — clear jars or a child savings account for a visible goal (a game, a bike accessory).
+- **Wait** — practise delaying a want for a week; celebrate the wait, not only the purchase.
+- **Share** — optional giving to a cause they understand, in small amounts.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Avoid using money as the only tool for discipline. Linking every behaviour to pay can crowd out ordinary family responsibility.
 
-## Upsides worth wanting
+## Teens: real prices and trade-offs
 
-- Automations that reduce missed payments and late fees
-- Alerts that surface problems while they are still small
-- Shared understanding when more than one person is involved
+Teenagers need practice with real numbers:
 
-## Risks and traps to watch
+- compare unit prices and phone plans
+- understand that “after pay” still spends future money
+- track a month of their own spending if they have income
+- learn that a job’s take-home pay is less than the hourly rate advertised
 
-### Easy-to-miss costs
+If they get a debit card, set clear rules about top-ups, online shopping, and what happens when the balance hits zero. See [Transaction accounts and debit cards](/topics/banking-budgeting/banking/transaction-accounts-and-debit-cards) for account basics adults should understand before handing access over.
 
-Set-and-forget errors (wrong account, wrong amount, wrong date). For **Teaching kids about money**, read the conditions that turn a good deal average.
+Talk about scams and pressure selling. Teens are targeted through games, influencers, and fake job ads.
 
-### Timing and people problems
+## Pocket money without power struggles
 
-Giving too much authority to another person. Write down who can authorise changes.
+Pick a simple system and stick to it long enough to learn:
 
-### Recovery friction
+- a modest regular amount for discretionary spending, or
+- money tied to agreed extra jobs, or
+- a hybrid (base amount plus extras)
 
-Missing fine print on fees or cooling-off rights. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+Write down what pocket money is expected to cover (snacks, apps, gifts for friends) versus what adults still fund (transport to school, uniforms). Ambiguity creates weekly negotiations.
 
-## Details that change the decision
+Increase responsibility gradually: planning a birthday gift budget, contributing to a larger goal, or saving for a portion of a phone.
 
-Households break when money rules are unspoken. Decide what is shared, what is personal, and how you will talk about shortfalls without blame. For **Teaching kids about money**, safety outranks efficiency: if someone uses money to control or frighten you, seek support before optimising accounts. Write down bill owners and due dates so one person’s illness or travel does not create late fees.
+## When family money is under strain
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+Be honest at a level they can handle: “We’re spending carefully on fun things this month because the car repair used our buffer.” Kids usually cope better with calm facts than with unexplained tension.
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+If financial abuse or fear is part of the household dynamic, adult safety comes first—see [Financial abuse](/topics/banking-budgeting/family/financial-abuse). Children should not be messengers or spies about money.
 
-## A short story: when the fine print mattered
+## Mistakes are part of the curriculum
 
-Jordan set everything up in a hurry and only noticed the wrong account after a payment bounced. Sam now screenshots every confirmation and nicknames accounts so automations are obvious. The lesson for **teaching kids about money**: slow clarity beats fast regret.
+Let kids make small, recoverable mistakes with their own money—buying a toy that breaks quickly, forgetting a bus fare once—then talk through what they would do next time. Rescuing every purchase removes the lesson.
 
-## Practical steps for Teaching kids about money
+Model repair, not perfection: “I overspent this week, so I’m skipping takeaway.” Children copy recovery habits more than lectures about never failing.
 
-1. Gather ID, income evidence, and any existing contracts or statements.
-2. Confirm who else is affected (partner, guarantor, dependants) before you sign.
-3. Complete the application or setup deliberately—screenshot confirmations.
-4. Turn on alerts and store reference numbers where you can find them.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Safety first** — if someone controls money as a form of harm, see ClearMoney’s financial abuse guidance and 1800RESPECT (1800 737 732).
+Keep adult investment and debt complexity for later teens, and only at a high level unless they ask. Early years need cash, waiting, and fairness—not share-market jargon.
 
 ## What to do next
 
-- Decide the next action for **teaching kids about money** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Relationships and money](/topics/banking-budgeting/family/relationships-and-money) for a related decision.
-- Read [Marriage and money](/topics/banking-budgeting/family/marriage-and-money) for a related decision.
-- Write your constraints on paper so a sales pitch cannot rewrite them.
+- Narrate one real purchase decision with your child this week (why you chose it or skipped it).
+- Set one visible savings goal appropriate to their age.
+- Agree what pocket money covers—and what it does not—in writing on the fridge or notes app.
+- For school-cost pressure, pair this guide with [Reducing back-to-school costs](/topics/banking-budgeting/family/reducing-back-to-school-costs).

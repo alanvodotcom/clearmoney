@@ -1,84 +1,74 @@
 ---
-title: "Investment scams"
-description: "Guaranteed returns and pressure to transfer now."
+title: Investment scams
+description: Guaranteed returns and pressure to transfer now.
 pillar: scams-safety
 hub: financial-scams
 slug: investment-scams
 updated: "2026-08-03"
-tags: 
+tags:
   - financial scams
-relatedGuides: 
-  - scams-safety/financial-scams/banking-scams
+relatedGuides:
   - scams-safety/financial-scams/crypto-scams
-  - scams-safety/financial-scams/superannuation-scams
   - scams-safety/financial-scams/ponzi-schemes
+  - scams-safety/check-report/check-before-you-invest
+  - scams-safety/check-report/investor-alert-list
+diagram: scam-stop-check
 ---
 
-Guaranteed returns and pressure to transfer now. If money stress is affecting essentials this week, start at [Urgent help](/urgent). Scams succeed by urgency and secrecy. Real institutions do not need you to move money ‘to keep it safe’.
+Investment scams sell certainty: fixed high returns, “capital guaranteed” stories, and a countdown until the opportunity vanishes. Legitimate investing always involves trade-offs and time to verify. If you have already transferred and cannot cover living costs, use [Urgent help](/urgent) before you engage with anyone offering to “recover” the funds.
 
-## What is Investment scams?
+::: warning
+“Recovery agents” who contact you after a loss are often a second scam. Use official reporting paths, not strangers who found you first.
+:::
 
-**Investment scams** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Guaranteed returns and pressure to transfer now. Scams succeed by urgency and secrecy. Real institutions do not need you to move money ‘to keep it safe’.
+## The pitch that promises certainty
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Typical hooks include:
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+- Returns far above term deposits with “no risk”
+- Exclusive access via a cold call, DM, or seminar follow-up
+- Professional websites and fake licence numbers
+- Early small “profits” shown on a dashboard to build trust before a large deposit
+- Celebrity or regulator endorsements that were never given
 
-## How to think about the moving parts
+Those early gains are often numbers on a screen, not withdrawable money. When you try to exit, “taxes” or “fees” appear—another extraction. The emotional arc is deliberate: relief that you “got in,” then fear of missing a bigger round, then panic when withdrawal fails.
 
-If **investment scams** involves suspected fraud, speed and verification beat cleverness. Use official phone numbers from a statement or the organisation’s website—not numbers from a text. Never share one-time codes.
+## Cold contact and fake platforms
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Scammers may pose as brokers, research desks, or overseas “funds.” They push you onto a platform they control. You deposit via bank transfer or crypto. Withdrawals stall. Support stays friendly until the money is gone, then turns aggressive or silent.
 
-## Upsides worth wanting
+Clone sites may steal the branding of real Australian firms. Always navigate from official directories you type yourself, and run the checks in [Check before you invest](/topics/scams-safety/check-report/check-before-you-invest). Search names on the [Investor alert list](/topics/scams-safety/check-report/investor-alert-list) guide’s sources before you send a dollar.
 
-- Limiting further loss by freezing channels quickly
-- Helping others when reports feed warning systems
-- Recovering access to accounts and identity credentials
+Related costumes include [imposter bond](/topics/scams-safety/financial-scams/imposter-bond-investment-scams) offers and [Ponzi](/topics/scams-safety/financial-scams/ponzi-schemes) club structures. Crypto-flavoured versions are covered under [Crypto scams](/topics/scams-safety/financial-scams/crypto-scams). Phone scripts that sound like your bank belong under [Banking scams](/topics/scams-safety/financial-scams/banking-scams).
 
-## Risks and traps to watch
+## Why “guaranteed returns” should stop you cold
 
-### Easy-to-miss costs
+In regulated markets, genuine guarantees are rare, narrowly defined, and documented—not promised by a stranger on a phone. High return with low risk is the classic contradiction. If the salesperson attacks you for asking questions, that is data: walk away.
 
-Sending more money because someone claims fees will ‘release’ funds. For **Investment scams**, read the conditions that turn a good deal average.
+Never share OTPs, remote-access passwords, or banking codes so someone can “activate” an investment account for you. That is account takeover, not onboarding. Real onboarding uses your own verified login flows—not a coach reading codes aloud.
 
-### Timing and people problems
+## Pause checklist before any transfer
 
-Deleting evidence before reporting. If someone rushes you, that is data—slow down.
+Work through this list offline—ideally with a trusted person:
 
-### Recovery friction
+1. Who contacted whom first? Cold outreach is a warning.
+2. Can I verify the Australian licence on an official register without using their links?
+3. Can I get money out through a normal broker or bank product I already understand?
+4. Am I being asked to keep the deal secret from family?
+5. Is there a second “fee” required before withdrawal?
+6. Does the return stay “steady” every week regardless of markets?
 
-Shame delays that shrink recovery options. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+One “no” is enough to stop. Two or more means report, do not fund.
 
-## Details that change the decision
+If money already moved, contact your bank immediately, report to [Scamwatch](https://www.scamwatch.gov.au), and follow [Report an investment scam](/topics/scams-safety/check-report/report-an-investment-scam). Ignore recovery agents who cold-call afterward—they are often a second scam. For cyber intrusion tied to the platform, also use [ReportCyber](https://www.cyber.gov.au/report-and-recover/report).
 
-Romance, investment, and impersonation scams share a script: isolation, urgency, and a story about why you must not tell anyone. For **Investment scams**, break the script—call a trusted person and verify via independent channels.
+Write the promised annual return on paper next to a term-deposit rate from your own bank. Extreme gaps without extreme risk disclosure are the pitch.
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
-
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when a simple system helped
-
-Luca nearly transferred savings after a convincing ‘bank fraud’ call. Morgan hung up, dialled the number on the back of the card, and learned the real bank had not called. The lesson for **investment scams**: slow clarity beats fast regret.
-
-## Practical steps for Investment scams
-
-1. Stop contact with the suspected scammer and do not send more money.
-2. Call your bank or card provider on a number from their official site.
-3. Change passwords starting with email, then banking, then social.
-4. Report via Scamwatch and keep evidence (messages, receipts, wallet addresses).
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Money stress now** — prioritise rent, food, utilities, and medicine, then use [Urgent help](/urgent). National Debt Helpline: 1800 007 007.
-- **After a scam** — contact your bank, change passwords, and report via Scamwatch; keep evidence.
+Seminars that end with a private booth and a same-day transfer request are sales rooms. Take the brochure home; genuine opportunities survive overnight reading.
 
 ## What to do next
 
-- Call your bank from an official number and report the scam channels you used.
-- Read [Banking scams](/topics/scams-safety/financial-scams/banking-scams) for a related decision.
-- Read [Crypto scams](/topics/scams-safety/financial-scams/crypto-scams) for a related decision.
-- If essentials are at risk, open [Urgent help](/urgent) before taking on new credit.
+- Before any new investment from a cold contact, complete licence and alert-list checks on paper.
+- Tell family: secrecy plus guaranteed returns is a hard stop.
+- Bookmark Scamwatch reporting so you are not improvising under pressure.
+- If funds left already, call your bank, report via Scamwatch, and open [Urgent help](/urgent) if essentials are threatened.

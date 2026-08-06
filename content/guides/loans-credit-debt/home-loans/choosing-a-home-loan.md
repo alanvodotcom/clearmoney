@@ -1,89 +1,74 @@
 ---
-title: "Choosing a home loan"
-description: "Fixed, variable, split, offsets, and comparison rates."
+title: Choosing a home loan
+description: Fixed, variable, split, offsets, and comparison rates.
 pillar: loans-credit-debt
 hub: home-loans
 slug: choosing-a-home-loan
 updated: "2026-08-03"
-tags: 
-  - home loans
-relatedTools: 
+tags:
+  - home-loans
+relatedTools:
   - mortgage
-relatedGuides: 
+relatedGuides:
   - loans-credit-debt/home-loans/buying-a-house
-  - loans-credit-debt/home-loans/interest-only-home-loans
   - loans-credit-debt/home-loans/mortgage-offset-accounts
-  - loans-credit-debt/home-loans/pay-off-your-mortgage-faster
+  - loans-credit-debt/home-loans/interest-only-home-loans
+  - loans-credit-debt/home-loans/switching-home-loans
 ---
 
-Fixed, variable, split, offsets, and comparison rates. A home loan is usually the largest debt most people take on—rate, fees, and buffers decide comfort.
+Home loans look similar until you read how interest is set, which fees apply, and whether features like offset accounts are included or charged as extras. Choose the structure that fits your cash-flow style for the next few years—not a brochure slogan.
 
-## Choosing a home loan: the clear version
+## Fixed, variable, and split rates
 
-**Choosing a home loan** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Fixed, variable, split, offsets, and comparison rates. A home loan is usually the largest debt most people take on—rate, fees, and buffers decide comfort.
+- **Variable** — the rate can move with the lender’s pricing. Repayments can rise or fall. Extra repayments and redraw/offset features are often more flexible.
+- **Fixed** — the rate is locked for a set period (for example 1–5 years). Predictability helps budgeting; early exit or extra repayments may be limited or attract break costs.
+- **Split** — part fixed, part variable. Useful when you want a predictability slice without freezing the whole loan.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Neither fixed nor variable is universally “best.” If you need certainty for a tight budget, fixing some or all may help. If you expect to sell, renovate with redraw, or smash extra repayments, variable flexibility can matter more. Ask what happens at the end of a fixed period—loans often revert to a standard variable rate that is not the lender’s sharpest price unless you renegotiate.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+## Comparison rates and fee structures
 
-## How to think about the moving parts
+The **comparison rate** includes the interest rate plus many (not always all) fees, expressed as a single percentage to help compare products of the same amount and term. Still read the fee list:
 
-For **choosing a home loan**, translate marketing into cash-flow reality. What is the total repayable? What happens if rates rise or hours fall? Can you still cover rent, food, and utilities after the repayment leaves?
+- establishment or application fees
+- ongoing monthly or annual package fees
+- valuation, discharge, and switch fees
+- redraw fees
+- package benefits that only pay off if you use them
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+A slightly higher rate with no package fee can beat a “discount” package you pay for annually. Model repayments with the [mortgage calculator](/tools/mortgage) using the actual proposed loan amount and term.
 
-ClearMoney calculators that pair with this topic: [Mortgage](/tools/mortgage). Use them to turn guesses into numbers before you commit.
+## Offsets, redraw, and features that cost
 
-## Upsides worth wanting
+Useful features for many owner-occupiers:
 
-- Access to a lump sum when cash flow cannot stretch
-- Predictable repayments if the rate and term are understood
-- A chance to refinance or restructure later if you keep records
+- **Offset account** — links savings to reduce interest—see [mortgage offset accounts](/topics/loans-credit-debt/home-loans/mortgage-offset-accounts)
+- **Redraw** — pull back extra repayments you have made (rules vary)
+- **Extra repayment rights** — especially important on fixed portions
+- **Portability** — moving the loan to a new property if you relocate
 
-## Risks and traps to watch
+Ignore features you will not use. Paying for an offset you never fund, or a professional package aimed at investors, wastes money. Interest-only structures are a separate decision with repayment jumps later—read [interest-only home loans](/topics/loans-credit-debt/home-loans/interest-only-home-loans) before choosing them.
 
-### Easy-to-miss costs
+## Stress-testing the repayment
 
-Focusing on weekly repayments instead of total cost. For **Choosing a home loan**, read the conditions that turn a good deal average.
+Before you sign:
 
-### Timing and people problems
+1. Recalculate repayments at +2 and +3 percentage points.
+2. Confirm you can cover insurance, maintenance, and strata.
+3. Check fixed-rate break-cost explanations with a worked example.
+4. Compare at least two lenders (or a broker’s shortlist against a direct-to-bank quote).
 
-Guarantor or security risks you did not price emotionally. Put review dates in your calendar.
+If the loan only works on optimistic overtime and zero surprises, downsize the borrowing. Refinancing later is possible—see [switching home loans](/topics/loans-credit-debt/home-loans/switching-home-loans)—but exit costs and approval risk mean you should not rely on a perfect future refinance.
 
-### Recovery friction
+## Package deals and honeymoon rates
 
-Stacking credit products until cash flow snaps. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+Some loans advertise a low introductory rate that later steps up, or a professional package that bundles credit cards and offset fees. Model the repayment **after** the honeymoon ends. If the ongoing rate is mediocre, the headline discount was a marketing hook. Likewise, add package fees into your annual cost even when the comparison rate already tries to capture them—sanity-check with a spreadsheet of cash out each year.
 
-## Details that change the decision
-
-Serviceability calculators and lender buffers exist because rates and life both move. For **Choosing a home loan**, include strata, council rates, insurance, and maintenance in the ‘can we afford this’ test—not only the loan repayment. Offset and redraw features help only if you actually park spare cash there and understand access rules.
-
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
-
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when timing changed the outcome
-
-Priya chose the lowest weekly repayment with a long term and paid far more interest. Alex compared total cost and picked a shorter term they could still stress-test if hours dropped. The lesson for **choosing a home loan**: slow clarity beats fast regret.
-
-## Practical steps for Choosing a home loan
-
-1. Calculate the total amount repayable, not only the weekly figure.
-2. Compare at least two lenders or credit types with the same loan amount and term.
-3. Stress-test repayments if rates rise or hours drop.
-4. Avoid stacking new credit to pay old credit without a written plan.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Life changes** — job loss, a new dependant, or a move can invalidate last year’s choice; schedule a review.
-- **Records** — keep PDFs of contracts, statements, and cancellation confirmations for at least a year.
+If you are close between two loans, prefer clearer statements, easier extra repayments, and a lender you can actually reach when something goes wrong. Service quality rarely appears in rate tables, but it matters the week a direct debit fails.
 
 ## What to do next
 
-- Decide the next action for **choosing a home loan** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Buying a house](/topics/loans-credit-debt/home-loans/buying-a-house) for a related decision.
-- Read [Interest-only home loans](/topics/loans-credit-debt/home-loans/interest-only-home-loans) for a related decision.
-- Run the numbers with [Mortgage](/tools/mortgage).
-- Set a calendar reminder to revisit this decision after the next statement cycle.
+- Decide how much rate certainty you need versus repayment flexibility.
+- Compare comparison rates **and** the full fee schedule on the same loan size.
+- Price offset/redraw only if you will use them; run numbers in the [mortgage](/tools/mortgage) tool.
+- Get the loan offer conditions in writing and review them before exchange of contracts.

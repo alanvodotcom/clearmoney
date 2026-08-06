@@ -5,79 +5,64 @@ pillar: super-retirement
 hub: plan-retirement
 slug: your-home-in-retirement
 updated: "2026-08-03"
-tags: 
-  - plan retirement
-relatedGuides: 
-  - super-retirement/plan-retirement/make-a-retirement-plan
-  - super-retirement/plan-retirement/work-out-how-much-you-need-to-retire
-  - super-retirement/plan-retirement/super-and-the-age-pension
-  - super-retirement/plan-retirement/what-happens-to-your-super-when-you-retire
+tags:
+  - plan-retirement
+relatedGuides:
+  - super-retirement/manage-retirement/downsizing-in-retirement
+  - super-retirement/income-sources/reverse-mortgage-and-home-equity-release
+  - super-retirement/retirement/case-study-bills-mortgage-decision
+  - super-retirement/grow-super/downsizer-super-contributions
 ---
 
-Staying, downsizing, or equity release trade-offs. Retirement planning turns a vague ‘enough’ into a spending estimate, an income mix, and a timing plan.
+For most Australians the home is both shelter and the largest asset. Retirement decisions about staying, renovating, downsizing, or releasing equity reshape cash flow as much as any super product. The right choice depends on health, family, pension treatment, and whether you want less garden or more capital—not on what worked for a neighbour who moved to the coast.
 
-## Your home in retirement: the clear version
+## Staying put and adapting in place
 
-**Your home in retirement** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Staying, downsizing, or equity release trade-offs. Retirement planning turns a vague ‘enough’ into a spending estimate, an income mix, and a timing plan.
+Staying preserves community, memories, and usually Age Pension home exemption treatment—confirm current rules for your situation. Costs include maintenance, stairs, gardens, and council rates that rise regardless of income. Budget a realistic repair cycle: roofs, hot-water systems, and fences do not care that you are retired.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Modifications—handrails, ramps, bathroom redesigns—can postpone a move. Get occupational therapy input before you renovate blindly. A grab rail costs less than stamp duty on a new place.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+Couples should talk honestly about stairs, driving, and how far you are from GPs and hospitals—not only about garden size. Staying works when the house matches future mobility, not only past memories. If adult children assume you will sell eventually, align expectations before health forces the conversation.
 
-## How to think about the moving parts
+## Downsizing with eyes open
 
-Setup quality decides whether **your home in retirement** helps or nags you later. Confirm identity and contact details, choose alerts you will actually read, and decide who else can see or move money. If a salesperson is present, ask for the key numbers in writing before you sign.
+Moving to a smaller home can free capital, cut chores, and locate you nearer health services or family. Costs eat the headline gain: stamp duty, agent fees, legal costs, moving, and sometimes higher strata levies in newer buildings. Emotional cost is real—trial a short rental in the target suburb if you can before you sell.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Practical steps: [Downsizing in retirement](/topics/super-retirement/manage-retirement/downsizing-in-retirement). Super angle for eligible sellers: [Downsizer super contributions](/topics/super-retirement/grow-super/downsizer-super-contributions)—caps and conditions apply and change.
 
-## Upsides worth wanting
+## When a mortgage still hangs on
 
-- Automations that reduce missed payments and late fees
-- Alerts that surface problems while they are still small
-- Shared understanding when more than one person is involved
+If a home loan remains, revisit the trade-off between clearing it with super and keeping investments working. Bill’s case study walks through the tension: [Bill’s mortgage decision](/topics/super-retirement/retirement/case-study-bills-mortgage-decision). Paying off the loan reduces stress and frees cash flow; keeping super invested may outperform after tax—but sequence risk in early retirement matters.
 
-## Risks and traps to watch
+Run the numbers against your spending plan, not against a generic “debt is bad” slogan.
 
-### Easy-to-miss costs
+## Equity release as a late option
 
-Set-and-forget errors (wrong account, wrong amount, wrong date). For **Your home in retirement**, read the conditions that turn a good deal average.
+Reverse mortgages and similar products let you borrow against home equity with repayment typically deferred until you sell, move permanently, or die. Interest compounds; the loan can grow quickly and reduce what heirs receive. Only consider after independent advice and a clear use for the funds—health modifications, essential repairs, not holidays funded by compounding debt.
 
-### Timing and people problems
+See [Reverse mortgage and home equity release](/topics/super-retirement/income-sources/reverse-mortgage-and-home-equity-release) and the [reverse mortgage](/tools/reverse-mortgage) calculator for illustration, not a product recommendation.
 
-Giving too much authority to another person. Put review dates in your calendar.
+## Renting in retirement
 
-### Recovery friction
+Renting raises the cash income you need but can increase flexibility if you want to move nearer family or shed maintenance. Factor long-term rent inflation into the [retirement planner](/tools/retirement-planner). Security of tenure varies by state and territory tenancy laws; do not assume every landlord will renew indefinitely.
 
-Missing fine print on fees or cooling-off rights. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+Former owners sometimes underestimate the emotional shift from altering their own kitchen to asking a property manager for repairs. Build a rent buffer for bonds, moving costs, and the first year’s higher outgoings if you sell and lease.
 
-## Details that change the decision
+## Choosing among the paths
 
-A retirement age is a hypothesis until health, work, and housing cooperate. For **Your home in retirement**, model a ‘base’ and a ‘frugal’ budget, then test what happens if you retire two years earlier or later. Include Age Pension assumptions carefully—they are means-tested.
+| If your priority is… | Lean toward… |
+| --- | --- |
+| Lowest hassle and same community | Stay and modify |
+| Free capital and less upkeep | Downsize |
+| Stay put but need cash for essentials | Equity release, cautiously and with advice |
+| Maximum location flexibility | Sell and rent, with rent inflation modelled |
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
-
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when timing changed the outcome
-
-Luca set everything up in a hurry and only noticed the wrong account after a payment bounced. Morgan now screenshots every confirmation and nicknames accounts so automations are obvious. The lesson for **your home in retirement**: slow clarity beats fast regret.
-
-## Practical steps for Your home in retirement
-
-1. Gather ID, income evidence, and any existing contracts or statements.
-2. Confirm who else is affected (partner, guarantor, dependants) before you sign.
-3. Complete the application or setup deliberately—screenshot confirmations.
-4. Turn on alerts and store reference numbers where you can find them.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Rule changes** — contribution caps, preservation ages, and Age Pension settings change; confirm current figures before acting.
+Align the housing choice with spending numbers in your retirement plan. A paid-off home lowers annual income needs; a downsizer contribution boosts super but changes pension assets tests—model both.
 
 ## What to do next
 
-- Decide the next action for **your home in retirement** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Make a retirement plan](/topics/super-retirement/plan-retirement/make-a-retirement-plan) for a related decision.
-- Read [Work out how much you need to retire](/topics/super-retirement/plan-retirement/work-out-how-much-you-need-to-retire) for a related decision.
-- Set a calendar reminder to revisit this decision after the next statement cycle.
+- Price five years of maintenance if you stay, including one major appliance or roof allowance.
+- Net out downsizing costs before celebrating sale equity on the back of an envelope.
+- Read [Downsizing in retirement](/topics/super-retirement/manage-retirement/downsizing-in-retirement) if a move is on the table within three years.
+- Keep equity release behind other options unless needs are specific and independently advised.
+- Fold your housing decision into [Make a retirement plan](/topics/super-retirement/plan-retirement/make-a-retirement-plan) spending figures.

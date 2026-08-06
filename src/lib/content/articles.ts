@@ -68,6 +68,7 @@ function loadAllFromDisk(): LoadedArticle[] {
             ? data.relatedGuides.map(String)
             : undefined,
           tags: Array.isArray(data.tags) ? data.tags.map(String) : undefined,
+          diagram: data.diagram ? String(data.diagram) : undefined,
           body,
           readingMinutes: Math.max(1, Math.ceil(stats.minutes)),
           headings: extractHeadings(body),

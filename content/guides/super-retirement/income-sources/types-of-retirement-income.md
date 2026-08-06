@@ -5,79 +5,76 @@ pillar: super-retirement
 hub: income-sources
 slug: types-of-retirement-income
 updated: "2026-08-03"
-tags: 
+tags:
   - income sources
-relatedGuides: 
+relatedGuides:
   - super-retirement/income-sources/account-based-pensions
   - super-retirement/income-sources/age-pension-and-government-benefits
   - super-retirement/income-sources/annuities
-  - super-retirement/income-sources/lifetime-income-streams
+  - super-retirement/plan-retirement/make-a-retirement-plan
 ---
 
-Super, Age Pension, work, and other sources. Retirement income can come from super, Age Pension, work, and other assets—each with different rules.
+Retirement income is usually a **stack**, not a single cheque. Naming each layer stops you from asking super to do jobs that Age Pension, wages, rental yield, or home equity might share—and helps you see where a gap or overlap sits before you retire.
 
-## Types of retirement income: the clear version
+## Government payments as the floor
 
-**Types of retirement income** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Super, Age Pension, work, and other sources. Retirement income can come from super, Age Pension, work, and other assets—each with different rules.
+Age Pension, supplements, and related payments form a safety net for eligible people. Assets and income tests decide how much you receive; thresholds change over time. Start with [Age Pension and government benefits](/topics/super-retirement/income-sources/age-pension-and-government-benefits) before you assume a full pension at 67.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Government layers are often high-certainty but not guaranteed at maximum rates for everyone. Model part-pension scenarios if your super balance sits near free thresholds.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+Couples should map how the stack changes when one partner dies—single Age Pension rates, changed expenses, and whether super reverts to a survivor via pension designations. A stack that works for two can fail for one without replanning.
 
-## How to think about the moving parts
+## Super: pensions, lump sums, and hybrids
 
-Setup quality decides whether **types of retirement income** helps or nags you later. Confirm identity and contact details, choose alerts you will actually read, and decide who else can see or move money. If a salesperson is present, ask for the key numbers in writing before you sign.
+Account-based pensions provide flexible drawdowns from retirement-phase super. Annuities and lifetime products trade flexibility for longevity protection. Lump sums create liquidity at the cost of discipline and may affect pension tests if cash sits in the bank.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Compare the product guides:
 
-## Upsides worth wanting
+- [Account-based pensions](/topics/super-retirement/income-sources/account-based-pensions)
+- [Annuities](/topics/super-retirement/income-sources/annuities)
+- [Super lump sum](/topics/super-retirement/income-sources/super-lump-sum)
 
-- Automations that reduce missed payments and late fees
-- Alerts that surface problems while they are still small
-- Shared understanding when more than one person is involved
+Many retirees combine an account-based pension with a small annuity slice, or keep a cash buffer outside super while drawing a minimum pension.
 
-## Risks and traps to watch
+## Wages and self-employment in the bridge years
 
-### Easy-to-miss costs
+Part-time, casual, or consulting income remains common—sometimes by choice, sometimes by necessity. Work can ease the social transition and delay drawdowns, but employment income may reduce Age Pension via the income test. Decide deliberately whether work is a bridge or a permanent layer.
 
-Set-and-forget errors (wrong account, wrong amount, wrong date). For **Types of retirement income**, read the conditions that turn a good deal average.
+Self-employed income after preservation age still interacts with super access rules and tax; do not assume every dollar earned can stay outside super indefinitely without planning.
 
-### Timing and people problems
+## Private investments beyond super
 
-Giving too much authority to another person. Put review dates in your calendar.
+Share dividends, managed fund withdrawals, rental income, term-deposit interest, or boarder rent each carry tax and volatility profiles. Rental properties need maintenance budgets; dividends fluctuate with markets. See [Retirement income and tax](/topics/super-retirement/manage-retirement/retirement-income-and-tax) for how layers combine at tax time.
 
-### Recovery friction
+Treat investment income as medium-certainty unless backed by contracts or highly stable assets.
 
-Missing fine print on fees or cooling-off rights. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+## Home equity—last resort, not first lever
 
-## Details that change the decision
+Downsizing frees capital and may allow downsizer super contributions within caps. Reverse mortgages and equity release create cash with compounding debt risk—[Reverse mortgage and home equity release](/topics/super-retirement/income-sources/reverse-mortgage-and-home-equity-release). Home equity is often low-certainty as **income** because it requires selling, borrowing, or moving.
 
-Account-based pensions, Age Pension, wages, and annuities each behave differently when markets fall. For **Types of retirement income**, write which bills each income stream is meant to cover. Keep a cash buffer so you are not forced to sell growth assets in a downturn.
+## Build a monthly stack on one page
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+Write each layer’s expected monthly amount, certainty (high, medium, low), and what happens if it stops. Essentials—food, housing, utilities, core health—should be covered mostly by high-certainty layers where possible. Discretionary spending can ride on market-linked drawdowns if you accept cutting back in bad years.
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+## Patterns Australians commonly use
 
-## A short story: when timing changed the outcome
+- **Age Pension plus account-based pension** — classic mix for homeowners with moderate super
+- **Work bridge plus delayed pension claim** — for people who enjoy working and can afford to wait
+- **Account-based pension plus small annuity** — flexibility with a longevity backstop
+- **Renters with thinner super** — heavier reliance on Age Pension and part-time work; rent inflation matters
 
-Noah set everything up in a hurry and only noticed the wrong account after a payment bounced. Riley now screenshots every confirmation and nicknames accounts so automations are obvious. The lesson for **types of retirement income**: slow clarity beats fast regret.
+None of these patterns is universal. Your stack should match housing tenure, health, and whether you retire as a couple or alone later.
 
-## Practical steps for Types of retirement income
+## Sequencing matters as much as totals
 
-1. Gather ID, income evidence, and any existing contracts or statements.
-2. Confirm who else is affected (partner, guarantor, dependants) before you sign.
-3. Complete the application or setup deliberately—screenshot confirmations.
-4. Turn on alerts and store reference numbers where you can find them.
+The order you switch layers on can matter. Drawing super heavily at 62 while deferring Age Pension might suit one household; claiming pension early while working part-time might suit another. Transition-to-retirement arrangements blur the lines further for people still employed past preservation age.
 
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Rule changes** — contribution caps, preservation ages, and Age Pension settings change; confirm current figures before acting.
+Write start dates beside each layer—not only dollar amounts—when you fold the stack into planning documents. A number without timing is a wish, not a plan.
 
 ## What to do next
 
-- Decide the next action for **types of retirement income** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Account-based pensions](/topics/super-retirement/income-sources/account-based-pensions) for a related decision.
-- Read [Age Pension and government benefits](/topics/super-retirement/income-sources/age-pension-and-government-benefits) for a related decision.
-- Set a calendar reminder to revisit this decision after the next statement cycle.
+- List every income layer you might use—even if the amount is zero today.
+- Assign certainty ratings and check essentials against high-certainty sources first.
+- Open the deep-dive guide for the product type you are seriously considering.
+- Fold the stack into [Make a retirement plan](/topics/super-retirement/plan-retirement/make-a-retirement-plan) with start dates for each layer.
+- Revisit the stack when rules, work status, or housing plans change.

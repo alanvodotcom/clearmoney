@@ -1,83 +1,59 @@
 ---
-title: "Financial hardship"
-description: "Ask lenders for hardship help early."
+title: Financial hardship
+description: Ask lenders for hardship help early.
 pillar: loans-credit-debt
 hub: managing-debt
 slug: financial-hardship
 updated: "2026-08-03"
-tags: 
-  - managing debt
-relatedGuides: 
+tags:
+  - hardship
+  - debt
+relatedTools: []
+relatedGuides:
   - loans-credit-debt/managing-debt/urgent-help-with-money
-  - loans-credit-debt/managing-debt/get-debt-under-control
   - loans-credit-debt/managing-debt/financial-counselling
-  - loans-credit-debt/managing-debt/free-legal-advice
+  - loans-credit-debt/home-loans/problems-paying-your-mortgage
+  - loans-credit-debt/managing-debt/dealing-with-debt-collectors
 ---
 
-Ask lenders for hardship help early. If money stress is affecting essentials this week, start at [Urgent help](/urgent). Debt stress shrinks options. Prioritise essentials, talk early, and use free help before high-cost credit.
+Financial hardship assistance is a formal request to a lender or provider for temporary relief because you cannot meet repayments due to a change in circumstances. Asking early is a strength, not an admission of failure.
 
-## What is Financial hardship?
+## What hardship assistance means
 
-**Financial hardship** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Ask lenders for hardship help early. Debt stress shrinks options. Prioritise essentials, talk early, and use free help before high-cost credit.
+Hardship processes exist across home loans, personal loans, credit cards, utilities, and many other credit products. Possible outcomes include reduced payments, deferred payments, term extensions, or other variations. They are usually **temporary** and should come with a written plan for what happens when the period ends.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Hardship is different from ignoring invoices. It is an active negotiation with evidence. Consumer protections in Australia support access to hardship consideration for many regulated credit contracts—your counsellor can explain how that applies to your product. If you cannot cover food or housing this week, combine hardship calls with [/urgent](/urgent) and **1800 007 007**.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+## How to ask your lender
 
-## How to think about the moving parts
+1. Call the dedicated hardship number (not only the sales line).
+2. State that you are requesting hardship assistance and why (job loss, illness, disaster, separation, reduced hours).
+3. Offer a realistic amount you can pay—if any—without skipping essentials.
+4. Ask what documents they need and the timeframe for a decision.
+5. Request confirmation of any arrangement by email or letter.
+6. Diary review dates so the concession does not end silently.
 
-When **financial hardship** collides with debt stress, order of operations matters: essentials first, then contact lenders, then free counselling if you cannot see a path. Silence usually makes options worse.
+Stay calm and factual. You can call back if you freeze—write a three-sentence script beforehand. For mortgages specifically, see [problems paying your mortgage](/topics/loans-credit-debt/home-loans/problems-paying-your-mortgage).
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+## Documents that speed a decision
 
-## Upsides worth wanting
+Have ready: recent payslips or employment separation letter, Centrelink income statements if relevant, medical certificates where illness is the cause, a simple budget showing income and essential expenses, and account numbers with the balance of arrears. A [financial counsellor](/topics/loans-credit-debt/managing-debt/financial-counselling) can help assemble a statement of financial position that lenders recognise.
 
-- Hardship programs that can pause or reshape repayments
-- Reduced stress when there is a written plan
-- Protection pathways if collectors breach the rules
+## If the lender says no
 
-## Risks and traps to watch
+Ask for the decision in writing and the complaints process. Escalate internally, then consider AFCA for many financial firm disputes. Recheck whether another product (utilities vs bank) still offers relief. Do not borrow from payday lenders to “cure” arrears while a complaint runs. If collectors become involved, read [dealing with debt collectors](/topics/loans-credit-debt/managing-debt/dealing-with-debt-collectors) and keep counselling support. A refusal is not the end of free help—call **1800 007 007** again with the decline letter in hand.
 
-### Easy-to-miss costs
+## Keep living costs honest in the paperwork
 
-Ignoring contact until default listing or legal steps begin. For **Financial hardship**, read the conditions that turn a good deal average.
+Lenders sometimes receive budgets that understate groceries or ignore irregular annual costs (rego, Christmas, dental). An optimistic budget can win a short hardship pause and fail when real life returns. Use actual bank data for a month, include irregulars averaged monthly, and show the gap clearly. Creditors respond better to believable numbers than to hopeful ones that collapse in week three.
 
-### Timing and people problems
+## After an arrangement is approved
 
-Using payday-style credit to patch structural shortfalls. If someone rushes you, that is data—slow down.
-
-### Recovery friction
-
-Signing payment plans you cannot keep. Keep PDFs and screenshots; verbal promises are hard to enforce later.
-
-## Details that change the decision
-
-Collectors and lenders have rules; you have rights to request hardship consideration and to be treated fairly. For **Financial hardship**, keep a call log and prefer written agreements. Free financial counsellors help you prioritise and negotiate—use them before selling essentials or borrowing more to patch interest.
-
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
-
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when a simple system helped
-
-Noah avoided lender calls until fees stacked. Riley asked for hardship in writing, listed essentials first, and booked a free counsellor session the same week. The lesson for **financial hardship**: slow clarity beats fast regret.
-
-## Practical steps for Financial hardship
-
-1. List debts with balances, rates, and minimums; mark essentials separately.
-2. Contact lenders early and ask about hardship options in writing.
-3. Speak with a free financial counsellor if repayments no longer fit.
-4. Avoid high-cost short-term credit as a ‘bridge’ without a repayment date.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Money stress now** — prioritise rent, food, utilities, and medicine, then use [Urgent help](/urgent). National Debt Helpline: 1800 007 007.
+Treat the hardship period as a project with a finish line. Diarise the review date, keep paying the agreed amount on time, and tell the lender promptly if your situation worsens or improves. Save every email. When the concession ends, you should already know whether you resume full repayments, request an extension, or escalate to counselling about longer-term options. Do not wait for a bounced direct debit to discover the pause expired. If multiple creditors are involved, keep one master calendar so review dates do not collide in the same week and wipe your cash flow.
 
 ## What to do next
 
-- Decide the next action for **financial hardship** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Urgent help with money](/topics/loans-credit-debt/managing-debt/urgent-help-with-money) for a related decision.
-- Read [Get debt under control](/topics/loans-credit-debt/managing-debt/get-debt-under-control) for a related decision.
-- If essentials are at risk, open [Urgent help](/urgent) before taking on new credit.
+- Contact each major creditor’s hardship team and log reference numbers.
+- Send the documents they request within the deadline.
+- Get every arrangement in writing and calendar the end date.
+- Use [/urgent](/urgent) and **1800 007 007** if essentials remain uncovered during the wait.

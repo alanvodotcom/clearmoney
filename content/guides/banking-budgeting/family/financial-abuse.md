@@ -1,84 +1,81 @@
 ---
-title: "Financial abuse"
-description: "Spot controlling money behaviours and where to get help."
+title: Financial abuse
+description: Spot controlling money behaviours and where to get help.
 pillar: banking-budgeting
 hub: family
 slug: financial-abuse
 updated: "2026-08-03"
-tags: 
+tags:
   - family
-relatedGuides: 
+relatedGuides:
+  - banking-budgeting/family/getting-divorced-or-separating
+  - banking-budgeting/banking/joint-accounts
   - banking-budgeting/family/relationships-and-money
-  - banking-budgeting/family/marriage-and-money
-  - banking-budgeting/family/having-a-baby
-  - banking-budgeting/family/getting-a-pet
+  - banking-budgeting/family/how-to-support-older-australians
 ---
 
-Spot controlling money behaviours and where to get help. If money stress is affecting essentials this week, start at [Urgent help](/urgent). Family money decisions affect more than one person. Clarity and safety matter as much as the spreadsheet.
+Financial abuse is when someone uses money to control, exploit, or punish you. It is a form of family and domestic violence. If you are in danger now, call 000. For support and planning, contact **1800RESPECT** on **1800 737 732**, or start at [Urgent help](/urgent).
 
-## What is Financial abuse?
+## What financial abuse looks like
 
-**Financial abuse** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Spot controlling money behaviours and where to get help. Family money decisions affect more than one person. Clarity and safety matter as much as the spreadsheet.
+It is not always shouting about a credit card. It can look like:
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+- taking your pay, Centrelink, or cash and drip-feeding “allowances”
+- forcing you to hand over cards, PINs, or authentication codes
+- coercing you into a [joint account](/topics/banking-budgeting/banking/joint-accounts), a loan, or a guarantee
+- running up debt in your name, or refusing to pay debts they created
+- stopping you from working, studying, or seeing people who could help
+- monitoring every transaction and punishing ordinary spending on food, transport, or medicine
+- hiding family money while you carry the visible bills
+- threatening immigration, housing, or access to children through money
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+Older people can face financial abuse from relatives or carers—see also [How to support older Australians](/topics/banking-budgeting/family/how-to-support-older-australians). Abuse can happen in any relationship type and at any income level.
 
-## How to think about the moving parts
+## Why it is hard to leave money-wise
 
-Setup quality decides whether **financial abuse** helps or nags you later. Confirm identity and contact details, choose alerts you will actually read, and decide who else can see or move money. If a salesperson is present, ask for the key numbers in writing before you sign.
+Control often includes isolation from income. You may not have a sole bank account, ID, or a credit history that feels usable. You may fear homelessness, visa issues, community shame, or that “nobody will believe me because we look fine on paper.”
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+None of that means the behaviour is acceptable. It means practical escape routes need care—and often specialist support—so money steps do not escalate harm.
 
-## Upsides worth wanting
+## Safer first moves
 
-- Automations that reduce missed payments and late fees
-- Alerts that surface problems while they are still small
-- Shared understanding when more than one person is involved
+Only do what is safe in your situation. Ideas supporters and services often discuss:
 
-## Risks and traps to watch
+- keep a small amount of money and copies of ID somewhere the abuser cannot find—or with a trusted person
+- open a sole bank account using a safe address if needed (ask a support service how)
+- turn off shared location features and review devices for spyware when it is safe to do so
+- collect evidence carefully (statements, messages) only if storing it will not be discovered
+- tell a trusted GP, friend, or workplace contact a coded way to check on you
+- ask banks about vulnerable-customer or financial-abuse support pathways
 
-### Easy-to-miss costs
+Do not confront someone about abuse if that increases danger. Safety planning comes before “clearing the air.”
 
-Set-and-forget errors (wrong account, wrong amount, wrong date). For **Financial abuse**, read the conditions that turn a good deal average.
+## Your rights and where to get help
 
-### Timing and people problems
+You have a right to access support without the abuser’s permission.
 
-Giving too much authority to another person. If someone rushes you, that is data—slow down.
+- **1800RESPECT** — 1800 737 732 (national sexual assault, domestic and family violence counselling)
+- **[Urgent help](/urgent)** — ClearMoney’s starting point for crisis money and safety links
+- **National Debt Helpline** — 1800 007 007 if coerced debt or unmanageable debts are part of the picture
+- Police (000) if you are in immediate danger
+- A lawyer or community legal centre for intervention orders, property, and debt questions
 
-### Recovery friction
+Banks, utilities, and telcos may have hardship teams who understand family violence. You can often ask to speak about vulnerability without the other account holder present—ask the service how their process works.
 
-Missing fine print on fees or cooling-off rights. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+## Money after you are safer
 
-## Details that change the decision
+When you have a safer base:
 
-Households break when money rules are unspoken. Decide what is shared, what is personal, and how you will talk about shortfalls without blame. For **Financial abuse**, safety outranks efficiency: if someone uses money to control or frighten you, seek support before optimising accounts. Write down bill owners and due dates so one person’s illness or travel does not create late fees.
+- move income to accounts you control
+- review joint accounts, redraw facilities, and direct debits
+- check your credit file for debts you did not agree to
+- follow practical steps in [Getting divorced or separating](/topics/banking-budgeting/family/getting-divorced-or-separating) if you are leaving the relationship
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
-
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when a simple system helped
-
-Mei set everything up in a hurry and only noticed the wrong account after a payment bounced. Chris now screenshots every confirmation and nicknames accounts so automations are obvious. The lesson for **financial abuse**: slow clarity beats fast regret.
-
-## Practical steps for Financial abuse
-
-1. Gather ID, income evidence, and any existing contracts or statements.
-2. Confirm who else is affected (partner, guarantor, dependants) before you sign.
-3. Complete the application or setup deliberately—screenshot confirmations.
-4. Turn on alerts and store reference numbers where you can find them.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Money stress now** — prioritise rent, food, utilities, and medicine, then use [Urgent help](/urgent). National Debt Helpline: 1800 007 007.
-- **Safety first** — if someone controls money as a form of harm, see ClearMoney’s financial abuse guidance and 1800RESPECT (1800 737 732).
+Healing financially takes time. Coerced debt and damaged credit are common; specialised services exist to help unwind them.
 
 ## What to do next
 
-- Decide the next action for **financial abuse** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Relationships and money](/topics/banking-budgeting/family/relationships-and-money) for a related decision.
-- Read [Marriage and money](/topics/banking-budgeting/family/marriage-and-money) for a related decision.
-- If essentials are at risk, open [Urgent help](/urgent) before taking on new credit.
+- If you are unsafe, contact **1800RESPECT (1800 737 732)** or open [Urgent help](/urgent)—you do not have to fix banking first.
+- Tell one trusted person what is happening, if that is safe.
+- Ask a support worker before making sudden account changes that could escalate risk.
+- When you have space to act, secure a sole account for income and essentials, then get advice on joint debts and coerced credit.

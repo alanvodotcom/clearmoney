@@ -1,83 +1,79 @@
 ---
-title: "How to choose insurance"
-description: "Compare cover—not just price."
+title: How to choose insurance
+description: Compare cover—not just price.
 pillar: community
 hub: first-nations
 slug: how-to-choose-insurance
 updated: "2026-08-03"
-tags: 
+tags:
   - first nations
-relatedGuides: 
-  - community/first-nations/first-nations-services-that-can-help
-  - community/first-nations/bank-accounts
-  - community/first-nations/how-to-prove-your-identity
-  - community/first-nations/book-up
+relatedGuides:
+  - community/first-nations/how-insurance-works
+  - community/first-nations/making-an-insurance-claim
+  - community/first-nations/door-to-door-sales
+  - insurance/home-insurance/underinsurance-what-it-is-and-how-to-avoid-it
 ---
 
-Compare cover—not just price. First Nations money guides respect community contexts while covering practical banking, debt, and consumer rights.
+The cheapest policy is not always the best value—and the most expensive is not automatically safer. Choose by matching cover to the risks you cannot afford, then compare price and excess.
 
-## What is How to choose insurance?
+## Start with the risk, not the flyer
 
-**How to choose insurance** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Compare cover—not just price. First Nations money guides respect community contexts while covering practical banking, debt, and consumer rights.
+Ask:
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+- What would I need to rebuild, replace, or pay for if this went wrong?
+- Could savings handle it without insurance?
+- Is someone selling this at my door with urgency? (If yes, slow down—see [door-to-door sales](/topics/community/first-nations/door-to-door-sales).)
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+For home buildings, think rebuild cost—not sale price. Underinsurance leaves a gap you fund yourself: [underinsurance](/topics/insurance/home-insurance/underinsurance-what-it-is-and-how-to-avoid-it). Basics refresher: [how insurance works](/topics/community/first-nations/how-insurance-works).
 
-## How to think about the moving parts
+## Comparing cover lines that matter
 
-Insurance decisions for **how to choose insurance** are about the claim you hope never happens. Read exclusions and waiting periods before you compare price alone. Check whether you already hold overlapping cover elsewhere.
+When you compare quotes, align:
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+- Sum insured / agreed value
+- Listed events (storm, fire, theft, flood—flood especially)
+- Excess amounts
+- Temporary accommodation or hire car inclusions if relevant
+- Exclusions and item limits (jewellery, devices)
 
-## Upsides worth wanting
+A lower premium that drops flood cover in a flood-prone area is not a saving. Ask the insurer to confirm flood wording in plain language.
 
-- A financial backstop after insured events
-- Clearer recovery planning when documents are ready
-- Peace of mind when sums insured match rebuild or replace costs
+## Price, excess, and what you can afford after a claim
 
-## Risks and traps to watch
+Pick an excess you could pay from savings without a cash loan. A $2,000 excess on a rock-bottom premium fails if your buffer is $100.
 
-### Easy-to-miss costs
+Pay yearly if a discount exists and you will not miss the lump sum; otherwise monthly is fine if the total cost is clear. Watch exit fees and dual-policy overlaps (for example contents twice).
 
-Underinsurance and uncovered flood or temporary accommodation gaps. For **How to choose insurance**, read the conditions that turn a good deal average.
+## Avoiding add-ons you do not need
 
-### Timing and people problems
+Salespeople may bundle:
 
-Overlapping policies that still leave a hole. If someone rushes you, that is data—slow down.
+- Extended warranties
+- Consumer credit insurance with a loan
+- Extra “peace of mind” packs with vague benefits
 
-### Recovery friction
+If you cannot explain what the add-on pays for, decline it. You can buy core cover without every extra.
 
-Add-ons that cost more than the likely benefit. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+When you need to claim later, [making an insurance claim](/topics/community/first-nations/making-an-insurance-claim) walks the steps—choose insurers with clear claim contact paths, not only glossy brochures.
 
-## Details that change the decision
+## A worked comparison for a renter’s contents policy
 
-Practical money steps should respect kinship, remote access barriers, and community obligations. For **How to choose insurance**, prefer culturally safe services and confirm rights around banking, Centrelink interactions, and consumer credit.
+Suppose two quotes both cost about $25 a month. Policy A has a $100 excess, $20,000 contents sum insured, and a $1,000 limit on portable devices outside the home. Policy B has a $500 excess, $35,000 sum insured, and lists laptops and phones separately up to $2,500 if you specify them.
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+If your household goods would cost $30,000 to replace and you work from a laptop, Policy A’s lower excess looks attractive until a claim pays less than you need. Policy B costs the same premium but asks you to keep $500 ready—and rewards accurate item lists. The “winner” is the one that matches your rebuild-or-replace reality, not the brochure with the friendliest photo.
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+Write your own table with three rows—sum insured, excess, item limits—before you renew anything. Bring that table to a community worker if reading the PDS feels heavy; they can help you translate jargon without selling a product.
 
-## A short story: when a simple system helped
+## Using quotes without feeding lead sellers
 
-Priya discovered after a claim that the sum insured was years out of date. Alex now reviews cover at renewal with rebuild and contents lists, not just the premium. The lesson for **how to choose insurance**: slow clarity beats fast regret.
+Type insurer names yourself rather than filling random “compare now” forms that sell your phone number. Cold sales calls after a quote request are common. Stick to insurers or brokers you chose, and hang up on anyone who claims your policy will cancel today unless you switch immediately.
 
-## Practical steps for How to choose insurance
-
-1. List the risks you actually need covered versus nice-to-haves.
-2. Compare sum insured, excess, exclusions, and waiting periods.
-3. Check whether cover already exists inside super, bank, or another policy.
-4. Store policy numbers and claim phone lines offline as well as in the app.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Claims** — photograph damage, keep receipts for emergency spends, and ask about temporary accommodation cover if you cannot stay home.
+Renewal time is when sums insured fall behind rebuild costs. Even if you keep the same insurer, ask them to recalculate the building sum—not only to shave the premium.
 
 ## What to do next
 
-- Decide the next action for **how to choose insurance** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [First Nations services that can help](/topics/community/first-nations/first-nations-services-that-can-help) for a related decision.
-- Read [Bank accounts](/topics/community/first-nations/bank-accounts) for a related decision.
-- Tell one trusted person your plan if accountability helps you follow through.
+- Write the risks you need covered before you request quotes.
+- Compare at least two policies on cover lines—not premium alone.
+- Choose an excess you can actually pay.
+- Decline add-ons you cannot explain in one sentence.
+- Store the PDS and policy schedule where you can find them after a storm or theft.

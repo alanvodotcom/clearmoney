@@ -5,85 +5,87 @@ pillar: super-retirement
 hub: how-super-works
 slug: choosing-a-super-fund
 updated: "2026-08-03"
-tags: 
+tags:
   - how super works
-relatedTools: 
+relatedTools:
   - super
   - fee-drag
-relatedGuides: 
-  - super-retirement/how-super-works/superannuation
+relatedGuides:
   - super-retirement/how-super-works/types-of-super-funds
   - super-retirement/how-super-works/stapled-super-fund
-  - super-retirement/how-super-works/consolidating-super-funds
+  - super-retirement/grow-super/switching-super-funds
+  - super-retirement/grow-super/super-investment-options
 ---
 
-Fees, insurance, and investment options to compare. Super is compulsory saving for later life, with rules on contributions, investments, and when you can access it.
+Picking a super fund is a long-term fee-and-fit decision, not a hunt for last year’s top return. A fund that looks dull on a ranking table can still win if costs are low, insurance fits, and you will actually engage with it.
 
-## Understanding Choosing a super fund
+## Build a shortlist of two or three
 
-**Choosing a super fund** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Fees, insurance, and investment options to compare. Super is compulsory saving for later life, with rules on contributions, investments, and when you can access it.
+Start from:
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+- Your current stapled or employer fund
+- One industry and one retail alternative (or a public sector option if relevant)
+- Official comparison data (YourSuper / ATO tools) rather than a cold caller’s PDF
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+Cap the shortlist at three. Endless browsing is how people stay on an expensive default.
 
-## How to think about the moving parts
+## Fees: translate percentages into dollars
 
-With **choosing a super fund**, match the product to your time horizon. Money you may need within a few years usually should not sit in volatile assets. Fees and diversification matter more than a single tip from social media.
+Ask each fund for total fees on **your** balance—administration plus investment fees for the option you would use. Run the same balance through the [fee drag](/tools/fee-drag) tool to see how a 0.5% gap compounds over decades.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Watch for:
 
-ClearMoney calculators that pair with this topic: [Super](/tools/super), [Fee Drag](/tools/fee-drag). Use them to turn guesses into numbers before you commit.
+- Tiered admin fees that hurt small balances
+- Performance fees in some options
+- Advice fees you did not realise you tick
 
-## Upsides worth wanting
+Cheap is not automatically best if the investment strategy or insurance is a terrible fit—but unexplained expensive rarely is.
 
-- Potential growth above cash over long periods
-- Diversification that reduces single-company drama
-- Alignment with goals like retirement or a distant home deposit
+## Investment options and time horizon
 
-## Risks and traps to watch
+If retirement is 25+ years away, a high-growth option may be appropriate despite volatility. If you are within a few years of drawdown, sequence risk matters more. Read [Super investment options](/topics/super-retirement/grow-super/super-investment-options).
 
-### Easy-to-miss costs
+Compare net returns over long periods (5–10 years) after fees—not a single hot year. Past performance is not a guarantee.
 
-Buying under social pressure or FOMO. For **Choosing a super fund**, read the conditions that turn a good deal average.
+## Insurance inside super
 
-### Timing and people problems
+Default cover can be valuable—or a quiet balance drain if you already hold better cover outside, or if definitions exclude your job.
 
-Concentrated bets and high fees. Write down who can authorise changes.
+Check:
 
-### Recovery friction
+- Death, TPD, and income protection amounts and premiums
+- Exclusions and waiting periods
+- Whether cover continues if you change jobs or roll out
 
-Needing the money earlier than the investment can recover. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+Never cancel cover until new cover is underwritten and active if you still need it.
 
-## Details that change the decision
+## Service and complaints
 
-Contributions, investment options, insurance inside super, and fees interact. For **Choosing a super fund**, log in, download a statement, and note beneficiary nominations. Multiple funds often mean multiple fee drags—consolidation can help after you check insurance loss risks.
+Can you update beneficiaries online? How long do death benefit claims take on average? Search AFCA outcomes and fund annual reports if you want signal beyond marketing. App polish without phone support frustrates people at claim time.
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+## Employer defaults vs your choice
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+You can usually choose a fund even when an employer suggests one—subject to stapling and any restricted legacy arrangements. See [Stapled super fund](/topics/super-retirement/how-super-works/stapled-super-fund). Give payroll the new details in writing and check the first SG payment lands correctly.
 
-## A short story: when the fine print mattered
+Model growth with the [super calculator](/tools/super) under each fund’s fee assumption.
 
-Aisha bought after a viral tip and sold in a panic three weeks later. Taylor wrote a one-page plan: horizon, fee budget, and a rule not to check prices daily. The lesson for **choosing a super fund**: slow clarity beats fast regret.
+## Red flags while choosing
 
-## Practical steps for Choosing a super fund
+- Pressure to sign today for a “bonus”
+- Requests for myGov codes
+- Guaranteed returns
+- Switching advice from someone who will not put fees in writing
 
-1. Define the time horizon and what would force you to sell early.
-2. List fees (management, brokerage, advice) in dollars per year if you can.
-3. Diversify enough that one tip cannot wreck the plan.
-4. Ignore urgency: legitimate offers survive a night’s sleep.
+## Performance: how to read without being fooled
 
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
+Compare options with similar growth asset percentages over long windows. A cash option will lose a growth chart and that does not make it foolish for someone two years from drawdown. Look for consistent process, not a single fireworks year. Net returns after fees matter more than gross bragging. Ask whether returns include or exclude administration fees in the chart you are shown.
 
-## When life changes
+## Service and complaints
 
-- **Rule changes** — contribution caps, preservation ages, and Age Pension settings change; confirm current figures before acting.
+Try the member line once before you switch: can you reach a human, and do they explain fees clearly? Keep notes of call reference numbers. Good funds handle mistakes; opaque funds stonewall. If onboarding requires downloading a mystery APK or sharing remote desktop control, walk away—that is not how regulated fund switches work.
 
 ## What to do next
-
-- Decide the next action for **choosing a super fund** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Superannuation basics](/topics/super-retirement/how-super-works/superannuation) for a related decision.
-- Read [Types of super funds](/topics/super-retirement/how-super-works/types-of-super-funds) for a related decision.
-- Run the numbers with [Super](/tools/super).
-- Write your constraints on paper so a sales pitch cannot rewrite them.
+- Write fee dollars per year for your balance at two funds.
+- Compare insurance definitions side by side before cancelling anything.
+- Pick an investment option that matches your horizon, then stop tinkering weekly.
+- If switching, follow [Switching super funds](/topics/super-retirement/grow-super/switching-super-funds) so nothing is lost mid-rollover.

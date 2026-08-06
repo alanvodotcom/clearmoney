@@ -1,84 +1,82 @@
 ---
-title: "Going guarantor on a loan"
-description: "What you risk if you guarantee someone else’s debt."
+title: Going guarantor on a loan
+description: What you risk if you guarantee someone else’s debt.
 pillar: loans-credit-debt
 hub: loans
 slug: going-guarantor-on-a-loan
 updated: "2026-08-03"
-tags: 
+tags:
   - loans
-relatedGuides: 
+  - family
+relatedTools: []
+relatedGuides:
   - loans-credit-debt/loans/personal-loans
   - loans-credit-debt/loans/car-loans
-  - loans-credit-debt/loans/payday-loans
-  - loans-credit-debt/loans/no-interest-loans
+  - loans-credit-debt/home-loans/buying-a-house
+  - banking-budgeting/family/financial-abuse
 ---
 
-What you risk if you guarantee someone else’s debt. Borrowing is buying money now and paying for it later—compare the total cost, not only the weekly repayment.
+Going guarantor means you promise the lender you will pay if the borrower does not. It is an act of trust with legal teeth—treat it like taking on the debt yourself.
 
-## What is Going guarantor on a loan?
+## What guaranteeing really means
 
-**Going guarantor on a loan** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. What you risk if you guarantee someone else’s debt. Borrowing is buying money now and paying for it later—compare the total cost, not only the weekly repayment.
+A guarantee is a contract between you and the lender. If the borrower misses repayments, the lender can pursue **you** for the outstanding balance, interest, and fees—sometimes without exhausting every option against the borrower first (exact rights depend on the contract and product).
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Common situations include:
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+- parents guaranteeing a child’s car or personal loan
+- family members supporting a first home loan (including some guarantor home-loan structures)
+- business partners guaranteeing company borrowing
 
-## How to think about the moving parts
+You may be asked to provide security (for example equity in your home). That raises the stakes: default can put your own housing or assets at risk.
 
-For **going guarantor on a loan**, translate marketing into cash-flow reality. What is the total repayable? What happens if rates rise or hours fall? Can you still cover rent, food, and utilities after the repayment leaves?
+Banks and lenders should explain the guarantee in plain language and often require you to get **independent legal advice** before signing. Take that requirement seriously—do not skip advice to “keep things moving.”
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+## The downside if repayments stop
 
-## Upsides worth wanting
+If the borrower loses work, separates from a partner, or simply stops paying:
 
-- Access to a lump sum when cash flow cannot stretch
-- Predictable repayments if the rate and term are understood
-- A chance to refinance or restructure later if you keep records
+- collectors may contact **you**
+- your **credit file** can be affected
+- the lender may enforce against security you provided
+- relationships can fracture under money stress
 
-## Risks and traps to watch
+You generally cannot walk away because “it was their loan.” Guaranteeing is volunteering for their shortfall. If money stress is already present in the household, read [/urgent](/urgent) and consider calling the National Debt Helpline on **1800 007 007** before you sign anything new.
 
-### Easy-to-miss costs
+Pressure to guarantee—“if you loved me you would sign”—can be a form of [financial abuse](/topics/banking-budgeting/family/financial-abuse). You are allowed to say no.
 
-Focusing on weekly repayments instead of total cost. For **Going guarantor on a loan**, read the conditions that turn a good deal average.
+## Questions to ask before you agree
 
-### Timing and people problems
+Ask the lender and the borrower, in writing where possible:
 
-Guarantor or security risks you did not price emotionally. If someone rushes you, that is data—slow down.
+- What is the **maximum** I could owe (limit of guarantee)?
+- Is the guarantee for the whole loan or a capped portion?
+- Will you notify me if the borrower misses a payment—and how quickly?
+- Can I see the borrower’s application summary and repayment schedule?
+- What security am I providing, and what happens on default?
+- Can the loan amount increase later without my fresh consent?
+- How do I **end** or limit the guarantee after a period of on-time payments?
 
-### Recovery friction
+Also ask yourself: would I be willing and able to make these repayments from my own budget for the full remaining term? If the honest answer is no, do not sign.
 
-Stacking credit products until cash flow snaps. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+## How to protect yourself if you still proceed
 
-## Details that change the decision
+- Get independent legal advice; keep the adviser’s letter.
+- Cap the guarantee and refuse unlimited liability if a capped option exists.
+- Keep copies of the contract, variation notices, and every email.
+- Ask for alerts on missed payments so problems surface early.
+- Do not sign if you feel rushed, confused, or threatened.
+- Review whether helping another way (a smaller gift you can afford, or helping them improve their own approval odds) achieves the goal with less risk.
 
-The sticker rate is not the whole cost. Establishment fees, monthly fees, insurance add-ons, and longer terms change the total repayable. For **Going guarantor on a loan**, ask what happens on early repayment and whether the loan is secured. If a dealer or broker rushes you, take the contract home—urgency is a sales tool.
+For home-loan guarantor structures, read [buying a house](/topics/loans-credit-debt/home-loans/buying-a-house) and make sure everyone understands when the guarantee can be released.
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+## If you already signed and regret it
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when a simple system helped
-
-Luca chose the lowest weekly repayment with a long term and paid far more interest. Morgan compared total cost and picked a shorter term they could still stress-test if hours dropped. The lesson for **going guarantor on a loan**: slow clarity beats fast regret.
-
-## Practical steps for Going guarantor on a loan
-
-1. Calculate the total amount repayable, not only the weekly figure.
-2. Compare at least two lenders or credit types with the same loan amount and term.
-3. Stress-test repayments if rates rise or hours drop.
-4. Avoid stacking new credit to pay old credit without a written plan.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Life changes** — job loss, a new dependant, or a move can invalidate last year’s choice; schedule a review.
-- **Records** — keep PDFs of contracts, statements, and cancellation confirmations for at least a year.
+Ask the lender whether the guarantee can be limited, released after a period of clean repayments, or refinanced away when the borrower’s equity and income improve. Get any release conditions in writing. If the borrower has already fallen behind, seek [financial counselling](/topics/loans-credit-debt/managing-debt/financial-counselling) and legal advice promptly—waiting rarely improves guarantor outcomes. Do not borrow further yourself to paper over their arrears without a written plan.
 
 ## What to do next
 
-- Decide the next action for **going guarantor on a loan** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Personal loans](/topics/loans-credit-debt/loans/personal-loans) for a related decision.
-- Read [Car loans](/topics/loans-credit-debt/loans/car-loans) for a related decision.
-- Tell one trusted person your plan if accountability helps you follow through.
+- Decide whether you can afford the full debt if the borrower stops paying—if not, decline.
+- Book independent legal advice before any guarantee appointment.
+- Request a capped guarantee and written missed-payment alerts.
+- If you are being pressured, seek support and do not sign under duress.

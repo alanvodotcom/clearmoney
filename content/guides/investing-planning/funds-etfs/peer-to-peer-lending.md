@@ -5,80 +5,65 @@ pillar: investing-planning
 hub: funds-etfs
 slug: peer-to-peer-lending
 updated: "2026-08-03"
-tags: 
+tags:
   - funds etfs
-relatedGuides: 
+relatedGuides:
   - investing-planning/funds-etfs/what-is-a-managed-fund
   - investing-planning/funds-etfs/choosing-a-managed-fund
   - investing-planning/funds-etfs/exchange-traded-funds-etfs
   - investing-planning/funds-etfs/listed-investment-companies-lics
 ---
 
-Lending to consumers/businesses via platforms—credit risk. Funds and ETFs bundle many investments so you are not picking every company yourself.
+Peer-to-peer (P2P) lending platforms match people who want to invest cash with consumers or small businesses who want to borrow. You are taking **credit risk**, not holding a bank deposit. Borrowers can pay late or not at all. Platforms can fail operationally. Marketing yields are not guarantees. Treat P2P as higher-risk income experimenting—if you use it at all—not as a substitute for emergency savings.
 
-## What is Peer-to-peer lending?
+## How the arrangement usually works
 
-**Peer-to-peer lending** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Lending to consumers/businesses via platforms—credit risk. Funds and ETFs bundle many investments so you are not picking every company yourself.
+You allocate money across loans or into pools the platform selects. Interest payments arrive when borrowers pay. Fees to the platform reduce your net return. Some models use provision funds or risk ratings; those cushions can be exhausted in a bad credit cycle.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Your legal relationship depends on the platform structure—direct notes, trusts, or managed schemes. Read the disclosure documents to see who you are actually lending to and what recovery looks like in default.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+## Risks that marketing softens
 
-## How to think about the moving parts
+- **Default and recovery lag** — losses crystallise slowly and messily
+- **Liquidity limits** — secondary markets may be thin or closed when you need cash
+- **Platform risk** — technology, underwriting quality, and wind-down plans matter
+- **Correlation** — consumer credit losses rise in recessions when you may also face job stress
+- **Fee and rate changes** — net yields compress when competition or costs shift
 
-With **peer-to-peer lending**, match the product to your time horizon. Money you may need within a few years usually should not sit in volatile assets. Fees and diversification matter more than a single tip from social media.
+A spreadsheet of “expected” returns that ignores defaults is fiction. Ask for historical loss rates through downturns, not only vintage years that looked friendly.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+## Who it tends to mismatch
 
-## Upsides worth wanting
+P2P is a poor home for rent money, near-term house deposits, or funds you cannot afford to impair. It also sits awkwardly before you have diversified core investments such as low-cost funds or ETFs ([what is a managed fund?](/topics/investing-planning/funds-etfs/what-is-a-managed-fund), [ETFs](/topics/investing-planning/funds-etfs/exchange-traded-funds-etfs)).
 
-- Potential growth above cash over long periods
-- Diversification that reduces single-company drama
-- Alignment with goals like retirement or a distant home deposit
+If you already hold substantial private credit or thin corporate bonds, adding P2P may stack similar risks under different branding ([what is private credit?](/topics/investing-planning/how-to-invest/what-is-private-credit)).
 
-## Risks and traps to watch
+## Platform due diligence
 
-### Easy-to-miss costs
+Verify Australian licensing for the activities offered ([check before you invest](/topics/scams-safety/check-report/check-before-you-invest)). Review underwriting criteria, skin-in-the-game, related-party loans, and how collections work. Prefer clear reporting of arrears over glossy borrower stories.
 
-Buying under social pressure or FOMO. For **Peer-to-peer lending**, read the conditions that turn a good deal average.
+Offshore “P2P” apps, guaranteed high monthly rates, and payment via crypto are classic scam patterns ([investment scams](/topics/scams-safety/financial-scams/investment-scams)). Clone websites mimic real brands—type addresses carefully ([scam websites](/topics/scams-safety/online-safety/how-to-spot-a-scam-website)).
 
-### Timing and people problems
+## Practical habits if you still allocate a slice
 
-Concentrated bets and high fees. If someone rushes you, that is data—slow down.
+- Cap the sleeve so total loss is survivable
+- Diversify across many loans if the platform allows—single-borrower bets are harsher
+- Reinvest interest only deliberately; automatic compounding can overshoot your risk budget
+- Download statements for tax; interest is generally assessable income (confirm with a tax professional)
+- Diary a review when arrears metrics worsen—not only when yields look pretty
 
-### Recovery friction
+Compare net returns after fees and expected losses with simpler alternatives. Beating a term deposit on a spreadsheet means little if capital is trapped or impaired.
 
-Needing the money earlier than the investment can recover. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+## Wind-downs and “collection only” modes
 
-## Details that change the decision
+If a platform stops originating new loans, you may enter a long collection period where cash dribbles back slowly. That is not the same as ready access. Ask in advance how wind-downs work, who services loans if the brand disappears, and whether you can sell positions to other investors.
 
-Management fees compound against you quietly. For **Peer-to-peer lending**, compare what the fund owns, how liquid it is, and whether you are duplicating the same exposure across multiple products. Rebalancing annually beats tinkering weekly.
-
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
-
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when a simple system helped
-
-Sofia bought after a viral tip and sold in a panic three weeks later. Casey wrote a one-page plan: horizon, fee budget, and a rule not to check prices daily. The lesson for **peer-to-peer lending**: slow clarity beats fast regret.
-
-## Practical steps for Peer-to-peer lending
-
-1. Define the time horizon and what would force you to sell early.
-2. List fees (management, brokerage, advice) in dollars per year if you can.
-3. Diversify enough that one tip cannot wreck the plan.
-4. Ignore urgency: legitimate offers survive a night’s sleep.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Life changes** — job loss, a new dependant, or a move can invalidate last year’s choice; schedule a review.
-- **Records** — keep PDFs of contracts, statements, and cancellation confirmations for at least a year.
+Treat any promise of instant liquidity in consumer credit as marketing until the secondary market has real depth you can observe yourself.
 
 ## What to do next
 
-- Decide the next action for **peer-to-peer lending** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [What is a managed fund?](/topics/investing-planning/funds-etfs/what-is-a-managed-fund) for a related decision.
-- Read [Choosing a managed fund](/topics/investing-planning/funds-etfs/choosing-a-managed-fund) for a related decision.
-- Tell one trusted person your plan if accountability helps you follow through.
+- Keep emergency cash in genuine savings or deposits—not in P2P loans.
+- Read platform disclosure on defaults, fees, and withdrawal rules before funding an account.
+- Verify the operator via [check before you invest](/topics/scams-safety/check-report/check-before-you-invest).
+- Size any exposure as speculative income risk inside a broader [investing plan](/topics/investing-planning/how-to-invest/develop-an-investing-plan).
+- Prefer transparent, diversified listed funds for core long-term money unless you deliberately accept credit-platform risk.

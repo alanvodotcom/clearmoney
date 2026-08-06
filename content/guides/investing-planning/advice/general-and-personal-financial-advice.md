@@ -5,80 +5,67 @@ pillar: investing-planning
 hub: advice
 slug: general-and-personal-financial-advice
 updated: "2026-08-03"
-tags: 
+tags:
   - advice
-relatedGuides: 
+relatedGuides:
   - investing-planning/advice/what-is-financial-advice
   - investing-planning/advice/choosing-a-financial-adviser
   - investing-planning/advice/financial-advice-costs
   - investing-planning/advice/working-with-a-financial-adviser
 ---
 
-How advice is categorised and what you should receive in writing. Paid advice can help complex decisions—but only if the adviser is appropriately licensed and clear about fees.
+Australian financial services law distinguishes **general advice** from **personal advice**. The labels change what the provider must consider about you—and what you should expect in writing. Mixing them up is how people treat a glossy seminar as if it were a plan built for their mortgage, kids, and risk tolerance.
 
-## General and personal financial advice: the clear version
+## General advice in everyday settings
 
-**General and personal financial advice** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. How advice is categorised and what you should receive in writing. Paid advice can help complex decisions—but only if the adviser is appropriately licensed and clear about fees.
+General advice is not tailored to your objectives, financial situation, or needs. It might appear in educational articles, product brochures, comparison tools, or presentations that talk about products in the abstract. Warnings often say the information does not take your circumstances into account—read that line as operative, not decorative.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+You still need judgement. General information can be accurate and still wrong *for you*. A discussion of geared property strategies is not permission to borrow against your home.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+ClearMoney guides are general information for education, not personal advice.
 
-## How to think about the moving parts
+## Personal advice and the higher bar
 
-With **general and personal financial advice**, match the product to your time horizon. Money you may need within a few years usually should not sit in volatile assets. Fees and diversification matter more than a single tip from social media.
+Personal advice considers one or more of your objectives, financial situation, or needs. It typically follows fact-finding about income, assets, debts, insurance, and goals. Providers giving personal advice must meet conduct obligations that do not apply in the same way to pure general advice—including, in many cases, acting in your best interests and providing appropriate advice.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+You should usually receive documents that explain the advice, the basis for it, fees, and relevant product information. Keep those PDFs. Memory of a meeting fades; Statements of Advice (or equivalent records) do not.
 
-## Upsides worth wanting
+## Why the boundary gets blurry in sales rooms
 
-- Potential growth above cash over long periods
-- Diversification that reduces single-company drama
-- Alignment with goals like retirement or a distant home deposit
+A presenter may say “general advice only” while asking about your age, income, and whether you “want more wealth”—then steering you toward a specific product application. That grey theatre is a cue to pause. Ask explicitly: “Is this personal advice? Will I get a written Statement of Advice?”
 
-## Risks and traps to watch
+Finfluencers and tip channels often imply personalisation (“people like you should buy X”) without duties that licensed personal advice carries ([finfluencers](/topics/scams-safety/online-safety/what-is-a-finfluencer)). Treat them as entertainment until proven otherwise.
 
-### Easy-to-miss costs
+## What good written personal advice tends to include
 
-Buying under social pressure or FOMO. For **General and personal financial advice**, read the conditions that turn a good deal average.
+- a summary of your relevant circumstances as understood by the adviser
+- recommended strategy and products (or a recommendation to hold/change nothing)
+- risks, downsides, and alternatives considered
+- fee disclosure and conflicts
+- implementation steps and review suggestions
 
-### Timing and people problems
+If the document is mostly product brochures stapled together, ask for the reasoning that links *your* facts to *those* recommendations. See [working with a financial adviser](/topics/investing-planning/advice/working-with-a-financial-adviser).
 
-Concentrated bets and high fees. Put review dates in your calendar.
+## Intra-fund and limited advice
 
-### Recovery friction
+Some advice is scoped narrowly—for example, super investment options inside one fund. Limited scope can still be personal advice. Understand what was *not* covered (insurance outside super, estate planning, debt strategy) so you do not assume a whole-of-life plan exists when it does not.
 
-Needing the money earlier than the investment can recover. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+## Scams posing as “private advisory desks”
 
-## Details that change the decision
+Cold callers offering personalised portfolio reviews, especially with remote access or crypto deposits, are high-risk. Verify licence authorisations ([financial advisers register](/topics/investing-planning/advice/financial-advisers-register), [check before you invest](/topics/scams-safety/check-report/check-before-you-invest)). Real advice engagements do not begin with secrecy from your bank.
 
-Licensed advice should come with a clear fee, a scope, and documents you can keep. For **General and personal financial advice**, ask how the adviser is paid and what happens if you say no to a product. If someone guarantees returns or pushes you to act today, treat that as a warning sign.
+## Using both types wisely
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+General information helps you learn vocabulary and options. Personal advice—when you need it—applies that learning to your numbers. Many people only need general education plus a simple plan they implement themselves. Others benefit from personal advice for complex events (business sale, divorce property split, retirement timing). Choose deliberately; pay only for the category you are actually receiving ([financial advice costs](/topics/investing-planning/advice/financial-advice-costs)).
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+## Escalating when the label feels wrong
 
-## A short story: when timing changed the outcome
-
-Harper bought after a viral tip and sold in a panic three weeks later. Drew wrote a one-page plan: horizon, fee budget, and a rule not to check prices daily. The lesson for **general and personal financial advice**: slow clarity beats fast regret.
-
-## Practical steps for General and personal financial advice
-
-1. Define the time horizon and what would force you to sell early.
-2. List fees (management, brokerage, advice) in dollars per year if you can.
-3. Diversify enough that one tip cannot wreck the plan.
-4. Ignore urgency: legitimate offers survive a night’s sleep.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Life changes** — job loss, a new dependant, or a move can invalidate last year’s choice; schedule a review.
-- **Records** — keep PDFs of contracts, statements, and cancellation confirmations for at least a year.
+If you acted on what you thought was personal advice but received only a disclaimer-heavy brochure, ask the provider to clarify the category in writing. Mislabelling creates false confidence. Keep copies of emails and slide decks. Where money moved into unsuitable products under pressure, complaint pathways in [problems with a financial adviser](/topics/investing-planning/advice/problems-with-a-financial-adviser) may apply for authorised firms—and scam pathways apply when the “adviser” was never legitimate.
 
 ## What to do next
 
-- Decide the next action for **general and personal financial advice** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [What is financial advice?](/topics/investing-planning/advice/what-is-financial-advice) for a related decision.
-- Read [Choosing a financial adviser](/topics/investing-planning/advice/choosing-a-financial-adviser) for a related decision.
-- Set a calendar reminder to revisit this decision after the next statement cycle.
+- When someone recommends a product, ask whether the advice is general or personal—and get the answer in writing.
+- If it is personal, expect a clear document linking your circumstances to the recommendations.
+- Learn the wider context in [what is financial advice?](/topics/investing-planning/advice/what-is-financial-advice).
+- Check adviser authorisation on the [financial advisers register](/topics/investing-planning/advice/financial-advisers-register) guide pathway before engaging.
+- Walk away from high-pressure “personalised” pitches that fail basic licence checks ([investment scams](/topics/scams-safety/financial-scams/investment-scams)).

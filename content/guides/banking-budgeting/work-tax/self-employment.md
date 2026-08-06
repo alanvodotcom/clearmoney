@@ -1,89 +1,78 @@
 ---
-title: "Self-employment money basics"
-description: "GST, super, and separating business and personal money."
+title: Self-employment money basics
+description: GST, super, and separating business and personal money.
 pillar: banking-budgeting
 hub: work-tax
 slug: self-employment
 updated: "2026-08-03"
-tags: 
+tags:
   - work tax
-relatedTools: 
+relatedTools:
   - gst
-relatedGuides: 
+relatedGuides:
   - banking-budgeting/work-tax/income-tax
   - banking-budgeting/work-tax/lodging-a-tax-return
   - banking-budgeting/work-tax/choosing-an-accountant
-  - banking-budgeting/work-tax/salary-packaging
+  - banking-budgeting/budgeting/managing-on-a-casual-income
 ---
 
-GST, super, and separating business and personal money. Work and tax decisions change take-home pay, super, and how much buffer you need between paydays.
+Working for yourself means no employer automatically withholds the right tax or pays your super each fortnight. The businesses that stay calm at BAS time usually did three unglamorous things early: separated money, estimated GST and tax as they earned, and booked a simple rhythm for paperwork. This is money hygiene—not a full business plan.
 
-## Self-employment money basics: the clear version
+## Open a separate business account first
 
-**Self-employment money basics** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. GST, super, and separating business and personal money. Work and tax decisions change take-home pay, super, and how much buffer you need between paydays.
+Mix business and personal spending in one account and you will under-estimate profit, miss GST credits, and dread [lodgement](/topics/banking-budgeting/work-tax/lodging-a-tax-return). Use at least:
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+- A **business transaction account** for income and expenses
+- A **personal account** for drawings (pay yourself a transfer you can live on)
+- Optionally a third account or sub-account labelled **tax/GST holding**
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+Every client payment goes to the business account. Every business expense leaves from there. When you need grocery money, transfer a drawing—do not tap the business debit card at the supermarket “because it’s all my money.” It is all your money; the separation is for clarity and evidence.
 
-## How to think about the moving parts
+## GST without the fog
 
-Setup quality decides whether **self-employment money basics** helps or nags you later. Confirm identity and contact details, choose alerts you will actually read, and decide who else can see or move money. If a salesperson is present, ask for the key numbers in writing before you sign.
+GST is generally 10% on many goods and services. You may need to register for GST when your turnover meets the ATO’s threshold (or earlier if you choose). Once registered, you usually charge GST on taxable supplies, claim credits on creditable purchases, and report through activity statements.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Key practical points:
 
-ClearMoney calculators that pair with this topic: [Gst](/tools/gst). Use them to turn guesses into numbers before you commit.
+- Know whether your quotes are **GST-inclusive or exclusive**—clients notice
+- Keep tax invoices that meet ATO requirements if you want credits
+- Money collected as GST is not spending money; park it in the holding account
 
-## Upsides worth wanting
+Use the [GST](/tools/gst) calculator to sense-check amounts on quotes and invoices. Registration rules and thresholds change—confirm on official ATO pages before you decide.
 
-- Automations that reduce missed payments and late fees
-- Alerts that surface problems while they are still small
-- Shared understanding when more than one person is involved
+If turnover is climbing toward the threshold, diary a decision date. Voluntary registration can make sense if you have large creditable expenses; it also adds reporting obligations.
 
-## Risks and traps to watch
+## Tax and super when nobody withholds for you
 
-### Easy-to-miss costs
+Employees see PAYG withholding on a [payslip](/topics/banking-budgeting/work-tax/first-payslip). Sole traders usually pay income tax when they lodge, and often pay **PAYG instalments** once the ATO brings them into that system. Until then, self-discipline replaces withholding.
 
-Set-and-forget errors (wrong account, wrong amount, wrong date). For **Self-employment money basics**, read the conditions that turn a good deal average.
+A workable rule of thumb many sole traders start with: transfer a fixed percentage of each business receipt into the tax holding account (the right percentage depends on profit margin and whether GST is included—adjust after your first assessment). Read [Income tax basics](/topics/banking-budgeting/work-tax/income-tax) so instalments and taxable income are not surprises.
 
-### Timing and people problems
+**Super** is your job too. Set a recurring transfer to a super fund aligned with contribution caps and cash flow. Skipping super to “invest in the business” is a choice with a long tail; if you make it, do it consciously and review yearly.
 
-Giving too much authority to another person. Put review dates in your calendar.
+## A light quarterly rhythm
 
-### Recovery friction
+You do not need enterprise software on day one. You do need a repeatable loop:
 
-Missing fine print on fees or cooling-off rights. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+1. **Weekly** — code or tag transactions; photograph receipts
+2. **Monthly** — reconcile the business account; check debtors who have not paid
+3. **Quarterly** — prepare BAS if registered; scan profit vs drawings
+4. **Yearly** — lodge the return; meet your [accountant](/topics/banking-budgeting/work-tax/choosing-an-accountant) with clean files
 
-## Details that change the decision
+Invoice promptly. Late invoices are an interest-free loan to clients. For lumpy income, the habits in [Managing on a casual income](/topics/banking-budgeting/budgeting/managing-on-a-casual-income) transfer well to contracting.
 
-Payslips hide the story: gross pay, tax withheld, super, and deductions. For **Self-employment money basics**, keep records across the year—receipts, mileage logs, and private health details if relevant—so lodgement is not a scavenger hunt. Job changes and parental leave reset assumptions about take-home pay; rebuild the budget when the first new payslip arrives.
+## Cash traps unique to sole traders
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+- Spending GST you have not yet remitted
+- Treating gross sales as “profit”
+- No buffer for a quiet month while fixed costs continue
+- Mixing partners’ personal expenses into the business without records
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when timing changed the outcome
-
-Luca set everything up in a hurry and only noticed the wrong account after a payment bounced. Morgan now screenshots every confirmation and nicknames accounts so automations are obvious. The lesson for **self-employment money basics**: slow clarity beats fast regret.
-
-## Practical steps for Self-employment money basics
-
-1. Gather ID, income evidence, and any existing contracts or statements.
-2. Confirm who else is affected (partner, guarantor, dependants) before you sign.
-3. Complete the application or setup deliberately—screenshot confirmations.
-4. Turn on alerts and store reference numbers where you can find them.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Life changes** — job loss, a new dependant, or a move can invalidate last year’s choice; schedule a review.
-- **Records** — keep PDFs of contracts, statements, and cancellation confirmations for at least a year.
+If cash stress is already acute, contact the National Debt Helpline on 1800 007 007 and see [/urgent](/urgent).
 
 ## What to do next
 
-- Decide the next action for **self-employment money basics** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Income tax basics](/topics/banking-budgeting/work-tax/income-tax) for a related decision.
-- Read [Lodging a tax return](/topics/banking-budgeting/work-tax/lodging-a-tax-return) for a related decision.
-- Run the numbers with [Gst](/tools/gst).
-- Set a calendar reminder to revisit this decision after the next statement cycle.
+- Open or rename a dedicated business account and stop personal spending from it.
+- Decide GST registration status against current ATO thresholds; practise invoice maths with [GST](/tools/gst).
+- Automate a transfer to tax holding and a separate super contribution on a schedule you can keep.
+- Book your quarterly reconcile date now—same as a client meeting you would not cancel.

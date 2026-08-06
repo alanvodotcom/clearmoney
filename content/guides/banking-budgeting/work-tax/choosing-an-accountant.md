@@ -1,84 +1,88 @@
 ---
-title: "Choosing an accountant"
-description: "What to ask before you pay for tax help."
+title: Choosing an accountant
+description: What to ask before you pay for tax help.
 pillar: banking-budgeting
 hub: work-tax
 slug: choosing-an-accountant
 updated: "2026-08-03"
-tags: 
+tags:
   - work tax
-relatedGuides: 
-  - banking-budgeting/work-tax/income-tax
+relatedGuides:
   - banking-budgeting/work-tax/lodging-a-tax-return
-  - banking-budgeting/work-tax/salary-packaging
+  - banking-budgeting/work-tax/income-tax
   - banking-budgeting/work-tax/self-employment
+  - banking-budgeting/work-tax/salary-packaging
 ---
 
-What to ask before you pay for tax help. Work and tax decisions change take-home pay, super, and how much buffer you need between paydays.
+Paying for tax help only pays off when the person is qualified, clear about scope, and a fit for your complexity. A cheap lodgement that invents deductions you cannot prove is not a bargain. This guide is about questions and checks—not about picking a brand.
 
-## What is Choosing an accountant?
+## When you may not need one
 
-**Choosing an accountant** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. What to ask before you pay for tax help. Work and tax decisions change take-home pay, super, and how much buffer you need between paydays.
+If your year is mostly salary from one employer, bank interest, and a short list of well-documented work expenses, [lodging yourself](/topics/banking-budgeting/work-tax/lodging-a-tax-return) through myTax can be enough. You still need to understand [income tax basics](/topics/banking-budgeting/work-tax/income-tax) well enough to spot a wrong pre-fill.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Consider professional help when any of these apply:
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+- You run a business, have contractors, or are near GST thresholds
+- You own a rental, have employee shares, crypto trades, or foreign income
+- You need an amendment, objection, or payment arrangement explained
+- Last year’s return left you confused or you received ATO review letters
+- You want someone else to own the calendar and lodgement program dates
 
-## How to think about the moving parts
+“My mate does returns on the side” is not a strategy. For a fee, use a **registered tax agent** (or a practice that uses one).
 
-Start by separating **must-haves** from marketing. For **Choosing an accountant**, write down the constraints you cannot ignore: income timing, dependants, existing debts, or a hard deadline. Then compare like-for-like features in a short table of your own—rate or premium, fees, exit costs, and what happens if life changes.
+## Registration and credentials to verify
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Before you share your TFN:
 
-## Upsides worth wanting
+1. Search the Tax Practitioners Board register for the agent or firm.
+2. Confirm the name on the engagement letter matches the registration.
+3. Ask who will actually prepare the return if you meet a partner but work with a junior.
 
-- Clearer trade-offs when fees and conditions sit side by side
-- Fewer surprises after honeymoon rates or promo periods end
-- A paper trail you can revisit when life changes
+Accountants may hold professional memberships in addition to tax-agent registration. Membership is useful signal; registration is the non-negotiable for paid tax agent services.
 
-## Risks and traps to watch
+## Questions worth asking in the first call
 
-### Easy-to-miss costs
+Bring a one-page summary of your situation (jobs, business, investments, last refund/debt). Then ask:
 
-Comparing headline rates while ignoring fees and conditions. For **Choosing an accountant**, read the conditions that turn a good deal average.
+- **Scope** — Is this lodgement-only, or does the fee include BAS, instalments, and mid-year questions?
+- **Timing** — When do you need my documents to meet your lodgement program?
+- **Fees** — Fixed fee or hourly? What triggers extras (ATO queries, amendments, bookkeeping clean-up)?
+- **Software** — Will I get a copy of the return and workpapers?
+- **Communication** — Email, portal, or phone—and expected response times in July–October?
+- **Industry fit** — Have you lodged for people in my situation (sole traders, nurses with packaging, shares) recently?
 
-### Timing and people problems
+Listen for plain answers. Vague promises of “maximum refund” without talking about evidence are a warning light.
 
-Switching so often that exit costs cancel the gain. If someone rushes you, that is data—slow down.
+## Fees, engagement letters, and red flags
 
-### Recovery friction
+A written **engagement letter** should state services, fees, your responsibilities (accurate records), and how they use your data. Read it. If there is no letter, pause.
 
-Trusting a quote that is not the final offer. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+Red flags:
 
-## Details that change the decision
+- Guaranteeing a refund amount before seeing records
+- Asking you to sign a blank or incomplete return
+- Coaching you to claim expenses you did not incur
+- Pressure to pay large upfront fees with no scope document
+- Unwillingness to show Tax Practitioners Board registration
 
-Payslips hide the story: gross pay, tax withheld, super, and deductions. For **Choosing an accountant**, keep records across the year—receipts, mileage logs, and private health details if relevant—so lodgement is not a scavenger hunt. Job changes and parental leave reset assumptions about take-home pay; rebuild the budget when the first new payslip arrives.
+Your signature (or electronic declaration) means you believe the return is true. An agent prepares; you remain responsible for the facts you supply.
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+## Handing over records without chaos
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+Agents bill time for sorting shoeboxes. Reduce fees and errors by sending:
 
-## A short story: when a simple system helped
+- Prior-year notice of assessment and return PDF if you have them
+- Income statements / payment summaries and interest/dividend docs
+- Business bank CSV or reconciled file if self-employed
+- A short note on anything unusual (job change, inheritance, asset sale)
 
-Priya almost switched for a flashy rate, then noticed a monthly fee and a condition that failed on casual income. Alex built a three-row comparison instead—and stayed put for six months with alerts on. The lesson for **choosing an accountant**: slow clarity beats fast regret.
+Label files by type and year. Ask whether they want a shared folder or a portal upload—then use one channel so nothing is missed.
 
-## Practical steps for Choosing an accountant
-
-1. Write the outcome you want in one sentence (keep, switch, cancel, or wait).
-2. List fees, rates, waiting periods, or conditions side by side—not marketing headlines.
-3. Check exit costs and how long any bonus or honeymoon period lasts.
-4. Set a calendar reminder to review the choice in 3–6 months.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Life changes** — job loss, a new dependant, or a move can invalidate last year’s choice; schedule a review.
-- **Records** — keep PDFs of contracts, statements, and cancellation confirmations for at least a year.
+If you are self-employed, pair this choice with the money systems in [Self-employment money basics](/topics/banking-budgeting/work-tax/self-employment). Packaging and fringe benefits questions often sit better with someone who understands both payroll and tax—see [Salary packaging](/topics/banking-budgeting/work-tax/salary-packaging).
 
 ## What to do next
 
-- Decide the next action for **choosing an accountant** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Income tax basics](/topics/banking-budgeting/work-tax/income-tax) for a related decision.
-- Read [Lodging a tax return](/topics/banking-budgeting/work-tax/lodging-a-tax-return) for a related decision.
-- Tell one trusted person your plan if accountability helps you follow through.
+- Decide DIY vs agent based on this year’s complexity, not last year’s refund size.
+- Verify Tax Practitioners Board registration before sharing identity documents.
+- Get fee and scope in writing; schedule your document drop-off date now.
+- Read [Lodging a tax return](/topics/banking-budgeting/work-tax/lodging-a-tax-return) so you know deadlines even when someone else clicks submit.

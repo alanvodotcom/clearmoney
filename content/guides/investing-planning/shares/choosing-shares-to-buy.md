@@ -5,80 +5,72 @@ pillar: investing-planning
 hub: shares
 slug: choosing-shares-to-buy
 updated: "2026-08-03"
-tags: 
+tags:
   - shares
-relatedGuides: 
+relatedGuides:
   - investing-planning/shares/how-to-buy-and-sell-shares
   - investing-planning/shares/shares-what-is-an-ipo
   - investing-planning/shares/what-is-share-market-volatility
   - investing-planning/shares/employee-share-schemes
 ---
 
-Research habits—not tips—from social media. Shares are ownership slices. Prices move daily; your plan should not.
+Picking individual shares is optional. Many Australians build wealth with diversified ETFs or managed funds and never need a stock-picking hobby. If you still want to choose companies, treat it as a research discipline—not a tip-collection sport. This is general information, not stock recommendations.
 
-## What is Choosing shares to buy?
+## Start from the portfolio job, not the ticker
 
-**Choosing shares to buy** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Research habits—not tips—from social media. Shares are ownership slices. Prices move daily; your plan should not.
+Ask what role a share would play: long-term growth, income, or a small speculative sleeve. Capsule tips from social media skip that step. A brilliant company can still be a poor fit if it doubles your concentration in one sector or one employer.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Write a maximum position size before you browse. For example, no single stock above a set percentage of investable assets keeps one failure from rewriting your decade.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+## A repeatable research loop
 
-## How to think about the moving parts
+1. **Business model** — how does it earn cash, and from whom?
+2. **Financial resilience** — debt, cash flow, margins across a cycle
+3. **Competition** — what stops a rival from taking share?
+4. **Valuation context** — what expectations are already in the price?
+5. **Risks** — regulation, key-person dependence, commodity swings, litigation
+6. **Exit idea** — what would prove the thesis wrong?
 
-With **choosing shares to buy**, match the product to your time horizon. Money you may need within a few years usually should not sit in volatile assets. Fees and diversification matter more than a single tip from social media.
+Annual reports, investor presentations, and reputable filings beat screenshot “DD” threads. If you cannot find primary sources, you do not understand the company yet.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Indexes and sector ETFs remain available when research stalls—owning the haystack is allowed.
 
-## Upsides worth wanting
+## Red flags in “research” culture
 
-- Potential growth above cash over long periods
-- Diversification that reduces single-company drama
-- Alignment with goals like retirement or a distant home deposit
+- Guaranteed returns or “100-bagger or nothing” rhetoric
+- Coordinated pumps in chat groups ([pump and dump schemes](/topics/investing-planning/warnings/pump-and-dump-schemes))
+- Paid promotions without clear disclosure ([finfluencers](/topics/scams-safety/online-safety/what-is-a-finfluencer))
+- Urgency to buy before an unspecified announcement
+- Pressure to use offshore brokers or crypto deposits
 
-## Risks and traps to watch
+Tips that require secrecy from your partner or bank are social-engineering tells. See [investment scams](/topics/scams-safety/financial-scams/investment-scams) and [investment hype](/topics/investing-planning/warnings/dont-get-burned-by-investment-hype).
 
-### Easy-to-miss costs
+## Diversification still applies when you pick stocks
 
-Buying under social pressure or FOMO. For **Choosing shares to buy**, read the conditions that turn a good deal average.
+Five tech names are not a diversified portfolio. Mix industries, geographies (directly or via companies with global revenue), and position sizes. Consider how [employee share schemes](/topics/investing-planning/shares/employee-share-schemes) already expose you to your employer before buying more of the same.
 
-### Timing and people problems
+Revisit winners that grew into oversized positions. Trimming for risk control is not a moral failure; it is portfolio hygiene—see [diversification](/topics/investing-planning/how-to-invest/diversification).
 
-Concentrated bets and high fees. If someone rushes you, that is data—slow down.
+## Income stocks and yield traps
 
-### Recovery friction
+High dividend yields can signal stress as well as generosity. Check payout ratios, debt, and whether distributions are sustainable if earnings fall. Franking credits matter for many Australian taxpayers, but they do not rescue a deteriorating business. Seek personal tax guidance if needed; do not design a portfolio only around last year’s yield table.
 
-Needing the money earlier than the investment can recover. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+## Process over prediction
 
-## Details that change the decision
+You will be wrong sometimes. Process goals—written theses, size limits, review dates—matter more than calling every macro twist. Pair stock selection with sound execution ([how to buy and sell shares](/topics/investing-planning/shares/how-to-buy-and-sell-shares)) and emotional prep for [volatility](/topics/investing-planning/shares/what-is-share-market-volatility).
 
-Company news moves prices; your plan should not move with every headline. For **Choosing shares to buy**, understand brokerage, tax lots, and concentration risk if one stock becomes a large share of your wealth. Dividends are not ‘free money’—they are part of total return and can be cut.
+If research feels like gambling entertainment, shrink the speculative sleeve and put the core on autopilot with broad funds. That is a strength, not a retreat.
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+## Small caps, hot tips, and liquidity
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+Smaller companies can move faster in both directions and may be harder to exit in size. Wide spreads turn a “great entry” into an expensive round trip. If daily volume is thin, assume you are negotiating with a handful of counterparties—not a deep ocean of buyers.
 
-## A short story: when a simple system helped
-
-Aisha bought after a viral tip and sold in a panic three weeks later. Taylor wrote a one-page plan: horizon, fee budget, and a rule not to check prices daily. The lesson for **choosing shares to buy**: slow clarity beats fast regret.
-
-## Practical steps for Choosing shares to buy
-
-1. Define the time horizon and what would force you to sell early.
-2. List fees (management, brokerage, advice) in dollars per year if you can.
-3. Diversify enough that one tip cannot wreck the plan.
-4. Ignore urgency: legitimate offers survive a night’s sleep.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Life changes** — job loss, a new dependant, or a move can invalidate last year’s choice; schedule a review.
-- **Records** — keep PDFs of contracts, statements, and cancellation confirmations for at least a year.
+IPO leftovers and newly listed names often inherit the same thin-book problems ([what is an IPO?](/topics/investing-planning/shares/shares-what-is-an-ipo)). Patience after listing beats chasing the first spike.
 
 ## What to do next
 
-- Decide the next action for **choosing shares to buy** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [How to buy and sell shares](/topics/investing-planning/shares/how-to-buy-and-sell-shares) for a related decision.
-- Read [What is an IPO?](/topics/investing-planning/shares/shares-what-is-an-ipo) for a related decision.
-- Tell one trusted person your plan if accountability helps you follow through.
+- Decide whether individual shares are necessary for your goals or whether diversified funds already do the job.
+- If you pick stocks, write a thesis and max position size before placing an order.
+- Use company filings as sources of truth; treat social tips as unverified noise.
+- Cross-check concentration with employer shares and sector bets.
+- Report and walk away from pump groups—see [pump and dump schemes](/topics/investing-planning/warnings/pump-and-dump-schemes) and [protect yourself from scams](/topics/scams-safety/online-safety/protect-yourself-from-scams).

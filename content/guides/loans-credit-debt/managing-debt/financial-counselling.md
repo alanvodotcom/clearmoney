@@ -1,83 +1,66 @@
 ---
 title: "Financial counselling"
-description: "Free, confidential help to plan and negotiate."
+description: "Free help to prioritise debts and negotiate with creditors."
 pillar: loans-credit-debt
 hub: managing-debt
 slug: financial-counselling
 updated: "2026-08-03"
-tags: 
+tags:
   - managing debt
-relatedGuides: 
+relatedGuides:
   - loans-credit-debt/managing-debt/urgent-help-with-money
-  - loans-credit-debt/managing-debt/get-debt-under-control
   - loans-credit-debt/managing-debt/financial-hardship
   - loans-credit-debt/managing-debt/free-legal-advice
+  - loans-credit-debt/managing-debt/get-debt-under-control
 ---
 
-Free, confidential help to plan and negotiate. If money stress is affecting essentials this week, start at [Urgent help](/urgent). Debt stress shrinks options. Prioritise essentials, talk early, and use free help before high-cost credit.
+Financial counsellors help you sort debts, talk to creditors, and build a plan you can keep. In Australia many are free through community organisations. They are not salespeople for consolidation loans.
 
-## What is Financial counselling?
+## What a counsellor actually does
 
-**Financial counselling** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Free, confidential help to plan and negotiate. Debt stress shrinks options. Prioritise essentials, talk early, and use free help before high-cost credit.
+A typical session covers:
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+- Your income, essentials, and every debt (including BNPL and fines)
+- Which bills are urgent versus which can wait or be negotiated
+- Hardship requests, payment plans, and when to escalate complaints
+- Whether bankruptcy, debt agreements, or other formal options need a separate conversation
+- Referrals to legal help, emergency relief, or housing support
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+You stay in charge of decisions. The counsellor’s job is clarity and negotiation support—not to shame you for how the debts started.
 
-## How to think about the moving parts
+## How to find free help
 
-When **financial counselling** collides with debt stress, order of operations matters: essentials first, then contact lenders, then free counselling if you cannot see a path. Silence usually makes options worse.
+Start with the **National Debt Helpline on 1800 007 007**, or the [Urgent help](/urgent) hub if essentials are failing this week. Ask for a financial counsellor in your area. Bring what you can: recent payslips or income statements, bank feeds, loan contracts, and collector letters. Missing paperwork is normal—start with what you have.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Avoid paid “debt management” firms that charge large upfront fees to do what free counsellors already do. If someone guarantees they can wipe your credit file quickly for a fee, treat that as a warning—see [Credit repair](/topics/loans-credit-debt/managing-debt/credit-repair).
 
-## Upsides worth wanting
+## Prepare for the first appointment
 
-- Hardship programs that can pause or reshape repayments
-- Reduced stress when there is a written plan
-- Protection pathways if collectors breach the rules
+1. List debts with balances, rates, and arrears.
+2. Note essential weekly costs (housing, food, medicine, transport).
+3. Write the outcome you want (stop calls, keep the car, catch up rent).
+4. Flag any court dates, repossession threats, or disconnection notices.
 
-## Risks and traps to watch
+If you feel unsafe because a partner controls money, tell the counsellor—and consider **1800RESPECT (1800 737 732)** for safety planning alongside money help.
 
-### Easy-to-miss costs
+## During and after the session
 
-Ignoring contact until default listing or legal steps begin. For **Financial counselling**, read the conditions that turn a good deal average.
+Expect a written or emailed action list: who to call, what to request, and what to pause. Do the first two actions within 48 hours while the plan is fresh. Return for a review if a lender refuses hardship or collectors escalate—see [Financial hardship](/topics/loans-credit-debt/managing-debt/financial-hardship) and [Dealing with debt collectors](/topics/loans-credit-debt/managing-debt/dealing-with-debt-collectors).
 
-### Timing and people problems
+For legal questions (contracts, court, guarantees), ask for [Free legal advice](/topics/loans-credit-debt/managing-debt/free-legal-advice) pathways rather than guessing.
 
-Using payday-style credit to patch structural shortfalls. If someone rushes you, that is data—slow down.
+## What counselling is not
 
-### Recovery friction
+It is not instant debt erasure. It is not permission to ignore enforceable debts without a strategy. It is not financial product advice to buy a new loan. If a “counsellor” pushes a specific commercial product and earns a commission, get a second opinion through the Debt Helpline.
 
-Signing payment plans you cannot keep. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+Bring a support person if that helps you hear and remember the plan. Ask for copies of any letters the counsellor drafts to creditors. Update your own debt list after each negotiation so balances and promises stay accurate.
 
-## Details that change the decision
-
-Collectors and lenders have rules; you have rights to request hardship consideration and to be treated fairly. For **Financial counselling**, keep a call log and prefer written agreements. Free financial counsellors help you prioritise and negotiate—use them before selling essentials or borrowing more to patch interest.
-
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
-
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when a simple system helped
-
-Sofia avoided lender calls until fees stacked. Casey asked for hardship in writing, listed essentials first, and booked a free counsellor session the same week. The lesson for **financial counselling**: slow clarity beats fast regret.
-
-## Practical steps for Financial counselling
-
-1. List debts with balances, rates, and minimums; mark essentials separately.
-2. Contact lenders early and ask about hardship options in writing.
-3. Speak with a free financial counsellor if repayments no longer fit.
-4. Avoid high-cost short-term credit as a ‘bridge’ without a repayment date.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Money stress now** — prioritise rent, food, utilities, and medicine, then use [Urgent help](/urgent). National Debt Helpline: 1800 007 007.
+If English is a barrier, ask for an interpreter when you book—clear communication is part of the service, not a favour.
 
 ## What to do next
 
-- Decide the next action for **financial counselling** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Urgent help with money](/topics/loans-credit-debt/managing-debt/urgent-help-with-money) for a related decision.
-- Read [Get debt under control](/topics/loans-credit-debt/managing-debt/get-debt-under-control) for a related decision.
-- If essentials are at risk, open [Urgent help](/urgent) before taking on new credit.
+- Call **1800 007 007** or open [Urgent help](/urgent) if essentials are at risk.
+- Book a free financial counselling session and gather your debt list.
+- Complete the first two actions from the session within two days.
+- Use [Get debt under control](/topics/loans-credit-debt/managing-debt/get-debt-under-control) as your longer roadmap.
+- Return for a review if a lender refuses hardship or a court date appears.

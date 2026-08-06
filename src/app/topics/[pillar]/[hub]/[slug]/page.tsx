@@ -1,7 +1,9 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import { GuideDiagram } from "@/components/content/diagrams";
 import { Markdown } from "@/components/content/Markdown";
+import { PillarMotif } from "@/components/content/PillarMotif";
 import { Disclaimer } from "@/components/ui/Disclaimer";
 import {
   getAllArticles,
@@ -58,12 +60,21 @@ export default async function ArticlePage({ params }: Props) {
           </li>
         </ol>
       </nav>
-      <article className="mt-4 max-w-3xl">
-        <h1 className="font-display text-4xl tracking-tight">{article.title}</h1>
-        <p className="mt-3 text-lg text-muted">{article.description}</p>
-        <p className="mt-2 text-xs text-muted">
-          Updated {article.updated} · {article.readingMinutes} min read
-        </p>
+      <div
+        className="mt-4 h-1 max-w-3xl rounded-full bg-gradient-to-r from-accent/40 via-accent-soft to-transparent"
+        aria-hidden="true"
+      />
+      <article className="mt-6 max-w-3xl">
+        <header className="flex gap-4 sm:gap-5">
+          <PillarMotif pillar={article.pillar} />
+          <div className="min-w-0">
+            <h1 className="font-display text-4xl tracking-tight">{article.title}</h1>
+            <p className="mt-3 text-lg text-muted">{article.description}</p>
+            <p className="mt-2 text-xs text-muted">
+              Updated {article.updated} · {article.readingMinutes} min read
+            </p>
+          </div>
+        </header>
 
         {relatedTools.length > 0 ? (
           <div className="mt-6 flex flex-wrap gap-3 text-sm">
@@ -78,6 +89,12 @@ export default async function ArticlePage({ params }: Props) {
                 </Link>
               ) : null,
             )}
+          </div>
+        ) : null}
+
+        {article.diagram ? (
+          <div className="mt-8">
+            <GuideDiagram id={article.diagram} />
           </div>
         ) : null}
 
@@ -102,7 +119,21 @@ export default async function ArticlePage({ params }: Props) {
         ) : null}
 
         <div className="mt-10">
-          <Markdown content={article.body} />
+          <Markdown
+            content={article.body}
+            relatedTools={relatedTools
+              .filter((t): t is NonNullable<typeof t> => Boolean(t))
+              .map((t) => ({ id: t.id, title: t.title, href: t.href }))}
+            guide={{
+              pillar: article.pillar,
+              hub: article.hub,
+              slug: article.slug,
+              title: article.title,
+              description: article.description,
+              tags: article.tags,
+              diagram: article.diagram,
+            }}
+          />
         </div>
 
         {relatedGuides.length > 0 ? (

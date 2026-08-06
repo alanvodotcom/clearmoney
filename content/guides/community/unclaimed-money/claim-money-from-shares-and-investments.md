@@ -1,83 +1,74 @@
 ---
-title: "Claim money from shares and investments"
-description: "Lost shareholdings and dividends."
+title: Claim money from shares and investments
+description: Lost shareholdings and dividends.
 pillar: community
 hub: unclaimed-money
 slug: claim-money-from-shares-and-investments
 updated: "2026-08-03"
-tags: 
+tags:
   - unclaimed money
-relatedGuides: 
+relatedGuides:
   - community/unclaimed-money/claim-money-from-bank-accounts-and-bank-dividends
-  - community/unclaimed-money/claim-money-from-life-insurance-policies
   - community/unclaimed-money/claim-money-owed-to-a-deregistered-company
-  - community/unclaimed-money/money-held-by-state-governments
+  - community/unclaimed-money/proof-of-ownership-for-unclaimed-money
+  - investing-planning/shares/how-to-buy-and-sell-shares
 ---
 
-Lost shareholdings and dividends. Unclaimed money sits with governments and companies when contact details go stale—worth a periodic search.
+Share certificates, issuer-sponsored holdings, and unpaid dividends often surface years later when someone clears a drawer or settles an estate. If contact details went cold, the money or the securities may sit in unclaimed or “lost shareholder” processes until you reconnect.
 
-## Understanding Claim money from shares and investments
+## Lost holdings versus forgotten dividends
 
-**Claim money from shares and investments** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Lost shareholdings and dividends. Unclaimed money sits with governments and companies when contact details go stale—worth a periodic search.
+Two different problems get mixed together:
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+- **The shares themselves** — you (or a relative) still own stock, but the company or registry cannot find you, so statements and dividends stop arriving.
+- **Cash from investments** — dividends, distributions, or sale proceeds that could not be paid and were later transferred to an unclaimed money program.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+Solving the first problem restores your place on the register. Solving the second recovers money that has already left the company’s day-to-day systems. You may need both steps.
 
-## How to think about the moving parts
+Employee share schemes, dividend reinvestment plans, and tiny “loyalty” parcels from demutualisations are frequent sources of forgotten holdings. Balances look small until years of unpaid dividends stack up.
 
-Insurance decisions for **claim money from shares and investments** are about the claim you hope never happens. Read exclusions and waiting periods before you compare price alone. Check whether you already hold overlapping cover elsewhere.
+## Company registries and share registries
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Most listed companies use a share registry (Computershare, Link, Boardroom, and others) to keep the holder list. If you know the company name, contact the registry’s lost shareholder or enquiry line with your full legal name, previous addresses, and any old holder or reference numbers from certificates or statements.
 
-## Upsides worth wanting
+If you only remember “Dad had Telstra shares” or “there was a bank demutualisation,” search:
 
-- A financial backstop after insured events
-- Clearer recovery planning when documents are ready
-- Peace of mind when sums insured match rebuild or replace costs
+- ASIC unclaimed money for cash amounts already transferred
+- The company’s investor relations or registry “lost shareholder” pages
+- Old tax returns or dividend statements that list the security name and holder number
 
-## Risks and traps to watch
+For unlisted investments or managed fund units, start with the fund manager’s client services team, then check whether any cash remnants appear on official unclaimed money searches.
 
-### Easy-to-miss costs
+## Piecing together old paperwork
 
-Underinsurance and uncovered flood or temporary accommodation gaps. For **Claim money from shares and investments**, read the conditions that turn a good deal average.
+You rarely need a pristine share certificate. Helpful scraps include:
 
-### Timing and people problems
+- Dividend advice or payment summaries
+- CHESS or issuer-sponsored holding statements
+- Tax return dividend schedules
+- Letters from a registry about bounced mail
+- Probate or will documents naming the securities
 
-Overlapping policies that still leave a hole. Write down who can authorise changes.
+Write a timeline: when the shares were acquired, under which name, and at which addresses you lived. Registries match people by identity history as much as by a single document.
 
-### Recovery friction
+If you hold paper certificates, store them safely and never send originals unless the process explicitly requires them—send certified copies when asked.
 
-Add-ons that cost more than the likely benefit. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+## If the company no longer exists
 
-## Details that change the decision
+Mergers, takeovers, and delistings change the trail. The shares may have converted into another company’s stock or into cash consideration. Follow the corporate history: “Company A became Company B; consideration was paid on this date.” Unpaid cash from that event can end up as [money owed to a deregistered company](/topics/community/unclaimed-money/claim-money-owed-to-a-deregistered-company) or in ASIC-held unclaimed money.
 
-People move, change names, and lose statements. For **Claim money from shares and investments**, search periodically with previous addresses and name variants. Keep tax file and ID details ready so claims are not stuck on verification.
+For estates, the executor usually claims. Personal applications without authority stall. See [proof of ownership for unclaimed money](/topics/community/unclaimed-money/proof-of-ownership-for-unclaimed-money).
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+## Tax paperwork after recovery
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+When dividends or sale proceeds finally arrive, ask whether a payment summary will be issued. Keep the remittance with your tax records for that year. Recovered amounts can still have tax implications depending on what they represent—note the character of the payment if the registry explains it.
 
-## A short story: when the fine print mattered
-
-Harper discovered after a claim that the sum insured was years out of date. Drew now reviews cover at renewal with rebuild and contents lists, not just the premium. The lesson for **claim money from shares and investments**: slow clarity beats fast regret.
-
-## Practical steps for Claim money from shares and investments
-
-1. List the risks you actually need covered versus nice-to-haves.
-2. Compare sum insured, excess, exclusions, and waiting periods.
-3. Check whether cover already exists inside super, bank, or another policy.
-4. Store policy numbers and claim phone lines offline as well as in the app.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Claims** — photograph damage, keep receipts for emergency spends, and ask about temporary accommodation cover if you cannot stay home.
+If a registry finds you, update your email and TFN with them immediately so the next dividend does not bounce back into unclaimed status.
 
 ## What to do next
 
-- Decide the next action for **claim money from shares and investments** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Claim money from bank accounts and bank dividends](/topics/community/unclaimed-money/claim-money-from-bank-accounts-and-bank-dividends) for a related decision.
-- Read [Claim money from life insurance policies](/topics/community/unclaimed-money/claim-money-from-life-insurance-policies) for a related decision.
-- Write your constraints on paper so a sales pitch cannot rewrite them.
+- List every company or fund you (or the estate) might have held, including demutualisations and employee schemes.
+- Contact the relevant share registry’s lost-shareholder process with names and old addresses.
+- Search ASIC unclaimed money for unpaid dividends or sale proceeds.
+- Assemble dividend statements or tax records before you lodge anything formal.
+- Read [how to buy and sell shares](/topics/investing-planning/shares/how-to-buy-and-sell-shares) once holdings are restored so future contact details stay current.

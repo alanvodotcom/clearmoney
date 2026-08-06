@@ -1,84 +1,66 @@
 ---
-title: "Banking scams"
-description: "Phishing, remote access, and fake bank calls."
+title: Banking scams
+description: Phishing, remote access, and fake bank calls.
 pillar: scams-safety
 hub: financial-scams
 slug: banking-scams
 updated: "2026-08-03"
-tags: 
+tags:
   - financial scams
-relatedGuides: 
+relatedGuides:
   - scams-safety/financial-scams/investment-scams
-  - scams-safety/financial-scams/crypto-scams
-  - scams-safety/financial-scams/superannuation-scams
-  - scams-safety/financial-scams/ponzi-schemes
+  - scams-safety/online-safety/protect-yourself-from-scams
+  - scams-safety/check-report/what-to-do-if-youve-been-scammed
+  - banking-budgeting/banking/unauthorised-and-mistaken-transactions
 ---
 
-Phishing, remote access, and fake bank calls. If money stress is affecting essentials this week, start at [Urgent help](/urgent). Scams succeed by urgency and secrecy. Real institutions do not need you to move money ‘to keep it safe’.
+Banking scams impersonate your bank, a payment app, or a “fraud team” so you hand over access or move money yourself. The bank’s logo on a text is not authentication. If funds have already left and you cannot cover essentials, go to [Urgent help](/urgent) while you call the real bank on a number from your card.
 
-## What is Banking scams?
+## How fake bank messages arrive
 
-**Banking scams** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Phishing, remote access, and fake bank calls. Scams succeed by urgency and secrecy. Real institutions do not need you to move money ‘to keep it safe’.
+Phishing shows up as SMS, email, app notifications, or social DMs:
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+- “Unusual login—verify here”
+- “Your card is locked—confirm details”
+- Parcel, tax, or government themes that still ask for banking credentials
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+The link leads to a lookalike login page. Anything you type—including an OTP—can be replayed against your real account in real time. Type your bank’s address yourself or use the official app from the real app store. Never share OTPs with anyone who contacted you first.
 
-## How to think about the moving parts
+## Remote access and the “safe account” script
 
-If **banking scams** involves suspected fraud, speed and verification beat cleverness. Use official phone numbers from a statement or the organisation’s website—not numbers from a text. Never share one-time codes.
+A common voice scam runs like this: a calm caller claims fraud on your account, stays on the line while you dial a “verification” number they provide, or asks you to install screen-sharing software so they can “protect” your funds. They then coach you to transfer money to a “safe account” or approve payments you can see but do not understand.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Real bank staff will not:
 
-## Upsides worth wanting
+- ask you to move money to a new account to keep it safe
+- demand remote control of your device
+- ask you to read out OTPs or full internet banking passwords
 
-- Limiting further loss by freezing channels quickly
-- Helping others when reports feed warning systems
-- Recovering access to accounts and identity credentials
+Hang up. Call the number on the back of your card from a different phone if needed. Tell them you received a suspected scam call.
 
-## Risks and traps to watch
+## Impersonation that sounds official
 
-### Easy-to-miss costs
+Caller ID can be spoofed. Job titles (“ASIC”, “AFP”, “card fraud operations”) can be faked. Scripts mention last digits of your card—sometimes guessed, sometimes taken from a breach—to build trust. Trust the channel you initiate, not the one that interrupted dinner.
 
-Sending more money because someone claims fees will ‘release’ funds. For **Banking scams**, read the conditions that turn a good deal average.
+If the story involves investments or crypto “recovery,” you may be crossing into [investment scams](/topics/scams-safety/financial-scams/investment-scams) or [crypto scams](/topics/scams-safety/financial-scams/crypto-scams). The banking layer is still the same: do not approve push payments under panic.
 
-### Timing and people problems
+## If you’ve already clicked, answered, or transferred
 
-Deleting evidence before reporting. If someone rushes you, that is data—slow down.
+1. Disconnect remote-access sessions and turn the device’s network off if malware is suspected.
+2. Contact your bank immediately; ask to freeze cards, revoke payees, and reverse what can still be stopped.
+3. Change passwords from a clean device; enable stronger multi-factor authentication.
+4. Report to [Scamwatch](https://www.scamwatch.gov.au) and, for cyber intrusion, [ReportCyber](https://www.cyber.gov.au/report-and-recover/report).
+5. Follow [What to do if you’ve been scammed](/topics/scams-safety/check-report/what-to-do-if-youve-been-scammed) and review [Unauthorised and mistaken transactions](/topics/banking-budgeting/banking/unauthorised-and-mistaken-transactions) for dispute language.
 
-### Recovery friction
+Do not send a second payment to “unlock” the first. That is almost always the next stage of the same scam. If you approved a push payment under coaching, say so clearly—banks need the full story to assess options, not a minimised version.
 
-Shame delays that shrink recovery options. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+Warn relatives: caller ID can lie, and “fraud teams” that stay on the line while you dial are a classic trap. Practise hanging up and redialling the card number once when stakes are low so it feels normal under stress. Broader habits: [Protect yourself from scams](/topics/scams-safety/online-safety/protect-yourself-from-scams).
 
-## Details that change the decision
-
-Romance, investment, and impersonation scams share a script: isolation, urgency, and a story about why you must not tell anyone. For **Banking scams**, break the script—call a trusted person and verify via independent channels.
-
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
-
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when a simple system helped
-
-Jordan nearly transferred savings after a convincing ‘bank fraud’ call. Sam hung up, dialled the number on the back of the card, and learned the real bank had not called. The lesson for **banking scams**: slow clarity beats fast regret.
-
-## Practical steps for Banking scams
-
-1. Stop contact with the suspected scammer and do not send more money.
-2. Call your bank or card provider on a number from their official site.
-3. Change passwords starting with email, then banking, then social.
-4. Report via Scamwatch and keep evidence (messages, receipts, wallet addresses).
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Money stress now** — prioritise rent, food, utilities, and medicine, then use [Urgent help](/urgent). National Debt Helpline: 1800 007 007.
-- **After a scam** — contact your bank, change passwords, and report via Scamwatch; keep evidence.
+Enable transaction alerts in your real bank app so unexpected PayIDs and overseas cards surface within minutes—not at month-end.
 
 ## What to do next
 
-- Call your bank from an official number and report the scam channels you used.
-- Read [Investment scams](/topics/scams-safety/financial-scams/investment-scams) for a related decision.
-- Read [Crypto scams](/topics/scams-safety/financial-scams/crypto-scams) for a related decision.
-- If essentials are at risk, open [Urgent help](/urgent) before taking on new credit.
+- Save your bank’s official phone number in contacts under a clear name; use it only after hanging up on cold callers.
+- Tell household members: no remote access, no “safe account” transfers, no OTP sharing.
+- Report the phishing message or call to Scamwatch even if you did not lose money.
+- If money left today, call the bank now and open [Urgent help](/urgent) if bills are at risk.

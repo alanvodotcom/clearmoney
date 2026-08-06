@@ -5,85 +5,77 @@ pillar: super-retirement
 hub: grow-super
 slug: get-your-super-working-over-time
 updated: "2026-08-03"
-tags: 
+tags:
   - grow super
-relatedTools: 
+relatedTools:
   - compound-interest
   - super
-relatedGuides: 
-  - super-retirement/grow-super/how-to-check-your-super
-  - super-retirement/grow-super/how-much-super-should-i-have
+relatedGuides:
   - super-retirement/grow-super/super-contributions
+  - banking-budgeting/saving/compound-interest
   - super-retirement/grow-super/super-investment-options
+  - super-retirement/grow-super/tips-to-keep-your-retirement-savings-on-track
 ---
 
-Small extra contributions compound meaningfully. Growing super is usually about contributions, fees, insurance inside super, and investment mix—not one hot tip.
+Time in the market plus steady contributions beats dramatic one-off heroics you never repeat. The same compounding idea that grows a savings account works inside super—after fees and contribution tax.
 
-## Understanding Get your super working over time
+## Why small extras matter
 
-**Get your super working over time** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Small extra contributions compound meaningfully. Growing super is usually about contributions, fees, insurance inside super, and investment mix—not one hot tip.
+An extra $50–$100 per fortnight sounds trivial until you multiply by decades and returns. Use the [compound interest](/tools/compound-interest) and [super](/tools/super) calculators to see ranges under different return assumptions. Treat outputs as scenarios, not guarantees.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Starting ten years earlier usually beats contributing twice as much later—though later is still better than never.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+## Automate before you optimise
 
-## How to think about the moving parts
+Pick one method and make it boring:
 
-Setup quality decides whether **get your super working over time** helps or nags you later. Confirm identity and contact details, choose alerts you will actually read, and decide who else can see or move money. If a salesperson is present, ask for the key numbers in writing before you sign.
+- Salary sacrifice a fixed amount each pay (watch the concessional cap)
+- Direct debit a non-concessional amount on payday
+- Sweep windfalls (tax refunds, bonuses) with a pre-decided percentage to super
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Willpower fades; payroll instructions linger.
 
-ClearMoney calculators that pair with this topic: [Compound Interest](/tools/compound-interest), [Super](/tools/super). Use them to turn guesses into numbers before you commit.
+## Parallel levers that amplify contributions
 
-## Upsides worth wanting
+- Cut duplicate fund fees so more of each dollar stays invested
+- Choose an investment option aligned with your horizon
+- Avoid early withdrawals and illegal access schemes
+- Keep insurance sized to need so premiums do not silently cancel your extras
 
-- Automations that reduce missed payments and late fees
-- Alerts that surface problems while they are still small
-- Shared understanding when more than one person is involved
+## A worked sketch (illustrative)
 
-## Risks and traps to watch
+Imagine two colleagues at 35 with similar balances. One adds $100 a fortnight; the other adds nothing extra. By the mid-50s the gap is often measured in tens of thousands under mid-range return assumptions—before counting fee differences. Change the return assumption and the gap changes; the direction usually does not.
 
-### Easy-to-miss costs
+## When boosting contributions is the wrong first move
 
-Set-and-forget errors (wrong account, wrong amount, wrong date). For **Get your super working over time**, read the conditions that turn a good deal average.
+If you hold 20% credit-card debt or lack a $1,000 emergency buffer, fix those cash-flow fires first. Super compounding cannot outrun punitive consumer interest for most people.
 
-### Timing and people problems
+## Review each July
 
-Giving too much authority to another person. Write down who can authorise changes.
+Caps index, salaries change, and SG rates have stepped up over time. Recalculate remaining concessional room each new financial year. Details live in [Super contributions](/topics/super-retirement/grow-super/super-contributions).
 
-### Recovery friction
+## Verification steps unique to Get your super working over time
 
-Missing fine print on fees or cooling-off rights. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+Confirm live contribution caps, Age Pension thresholds, preservation details, and product fees on official ATO, Services Australia, or fund PDS pages the week you act. ClearMoney offers general information only—not personal advice. Write one next action with a date and store PDFs of confirmations where you can find them in six months.
 
-## Details that change the decision
+If the dollar amount is large, sleep on the decision and consider licensed advice. Cold callers who demand one-time codes or remote access are not helpers. Hang up and use bookmarks you typed yourself.
 
-Extra contributions only help if cash flow can carry them and rules allow them. For **Get your super working over time**, compare concessional versus after-tax pathways with current caps in mind, and watch insurance premiums deducted from your balance.
+## Filing habits for get your super working over time
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+Keep statements, insurance schedules, advice fee consents, and solicitor letters in a dated folder. Share access rules with a trusted person without pasting every password into a group chat. Organised evidence shortens disputes, estate claims, and Centrelink conversations.
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+Revisit after job changes, relationship changes, or health shocks. A short annual review beats a perfect plan nobody opens.
 
-## A short story: when the fine print mattered
+## Fresh-numbers habit for get your super working over time
 
-Luca set everything up in a hurry and only noticed the wrong account after a payment bounced. Morgan now screenshots every confirmation and nicknames accounts so automations are obvious. The lesson for **get your super working over time**: slow clarity beats fast regret.
+Numbers from last year’s seminar may already be wrong. Caps, deeming rates, and insurance definitions move. Re-check primary sources the week you act. If a salesperson becomes irritated when you pause to verify, that irritation reveals their incentives—not your intelligence.
 
-## Practical steps for Get your super working over time
+## Continuity checklist for Get your super working over time
 
-1. Gather ID, income evidence, and any existing contracts or statements.
-2. Confirm who else is affected (partner, guarantor, dependants) before you sign.
-3. Complete the application or setup deliberately—screenshot confirmations.
-4. Turn on alerts and store reference numbers where you can find them.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Rule changes** — contribution caps, preservation ages, and Age Pension settings change; confirm current figures before acting.
+List the people, passwords managers, fund member numbers, and Centrelink CRNs that keep this topic running when you are travelling or unwell. Tape the list inside a secure place at home. Continuity is part of money skill, not paranoia.
 
 ## What to do next
-
-- Decide the next action for **get your super working over time** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [How to check your super](/topics/super-retirement/grow-super/how-to-check-your-super) for a related decision.
-- Read [How much super should I have?](/topics/super-retirement/grow-super/how-much-super-should-i-have) for a related decision.
-- Run the numbers with [Compound Interest](/tools/compound-interest).
-- Write your constraints on paper so a sales pitch cannot rewrite them.
+- Model $50 and $100 fortnightly extras in the [super calculator](/tools/super).
+- Set one automated contribution that survives a busy month.
+- Pair it with a fee and insurance tidy-up so extras are not eaten.
+- Read [Tips to keep retirement savings on track](/topics/super-retirement/grow-super/tips-to-keep-your-retirement-savings-on-track) for the annual maintenance list.

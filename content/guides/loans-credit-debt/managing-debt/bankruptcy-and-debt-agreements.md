@@ -1,83 +1,87 @@
 ---
-title: "Bankruptcy and debt agreements"
-description: "Serious options—understand consequences first."
+title: Bankruptcy and debt agreements
+description: Serious options—understand consequences first.
 pillar: loans-credit-debt
 hub: managing-debt
 slug: bankruptcy-and-debt-agreements
 updated: "2026-08-03"
-tags: 
-  - managing debt
-relatedGuides: 
-  - loans-credit-debt/managing-debt/urgent-help-with-money
-  - loans-credit-debt/managing-debt/get-debt-under-control
-  - loans-credit-debt/managing-debt/financial-hardship
+tags:
+  - debt
+  - bankruptcy
+relatedTools: []
+relatedGuides:
   - loans-credit-debt/managing-debt/financial-counselling
+  - loans-credit-debt/managing-debt/free-legal-advice
+  - loans-credit-debt/managing-debt/get-debt-under-control
+  - loans-credit-debt/managing-debt/debt-consolidation-and-refinancing
 ---
 
-Serious options—understand consequences first. If money stress is affecting essentials this week, start at [Urgent help](/urgent). Debt stress shrinks options. Prioritise essentials, talk early, and use free help before high-cost credit.
+Bankruptcy and personal insolvency agreements are formal legal options when debts cannot be repaid through ordinary means. They can provide a reset—and they carry lasting consequences for credit, some licences, overseas travel, and control of assets. Treat them as last-resort tools after free counselling, not as a casual reset button.
 
-## Understanding Bankruptcy and debt agreements
+## Serious options need clear eyes
 
-**Bankruptcy and debt agreements** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Serious options—understand consequences first. Debt stress shrinks options. Prioritise essentials, talk early, and use free help before high-cost credit.
+Before any insolvency talk, exhaust:
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+- hardship variations with creditors
+- realistic repayment plans
+- consolidation only where maths help
+- selling non-essential assets voluntarily with advice
+- dispute of incorrect debts
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+Work through [get debt under control](/topics/loans-credit-debt/managing-debt/get-debt-under-control) and meet a [financial counsellor](/topics/loans-credit-debt/managing-debt/financial-counselling) via **1800 007 007**. If housing or food is insecure today, stabilise via [/urgent](/urgent) first—formal insolvency decisions need a clear head.
 
-## How to think about the moving parts
+## Debt agreements versus bankruptcy
 
-When **bankruptcy and debt agreements** collides with debt stress, order of operations matters: essentials first, then contact lenders, then free counselling if you cannot see a path. Silence usually makes options worse.
+In broad terms (rules and eligibility change—verify with official Australian Financial Security Authority information and advisers):
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+- **Debt agreement** — a binding deal with creditors to pay a portion over time under set rules; not available to everyone; affects your credit record and has eligibility caps.
+- **Bankruptcy** — a formal status that deals with unsecured debts under the Bankruptcy Act framework; trustees become involved; many unsecured debts can be released at the end of the period, with important exceptions (for example some fines, child support, and debts obtained by fraud—get advice).
 
-## Upsides worth wanting
+Neither automatically solves secured debts the way people hope: homes and cars subject to finance still face creditor rights if payments fail. Guarantors and joint debts need special attention.
 
-- Hardship programs that can pause or reshape repayments
-- Reduced stress when there is a written plan
-- Protection pathways if collectors breach the rules
+## Consequences that last years
 
-## Risks and traps to watch
+Expect impacts such as:
 
-### Easy-to-miss costs
+- listings on credit reports for extended periods
+- limits on obtaining new credit
+- possible effects on certain employment or licensing
+- disclosure requirements in some applications
+- contributions from income in some bankruptcy situations
+- costs and fees within formal processes
 
-Ignoring contact until default listing or legal steps begin. For **Bankruptcy and debt agreements**, read the conditions that turn a good deal average.
+Online ads promising “write off 80% with one call” skip these realities. Compare any private promoter’s pitch with a free counsellor and, where needed, [free legal advice](/topics/loans-credit-debt/managing-debt/free-legal-advice).
 
-### Timing and people problems
+## Talk to a counsellor before you file
 
-Using payday-style credit to patch structural shortfalls. Write down who can authorise changes.
+A counsellor can help you:
 
-### Recovery friction
+- test whether informal negotiations still have room
+- understand eligibility for a debt agreement administrator pathway
+- see how bankruptcy would treat your specific debts and assets
+- avoid scams selling unnecessary packages
+- prepare documents if formal options are truly appropriate
 
-Signing payment plans you cannot keep. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+Do not transfer assets to friends to “hide” them before insolvency—that can create serious legal problems. Be honest in every statement.
 
-## Details that change the decision
+Official information from government insolvency regulators should sit beside personalised advice; ClearMoney provides general information only.
 
-Collectors and lenders have rules; you have rights to request hardship consideration and to be treated fairly. For **Bankruptcy and debt agreements**, keep a call log and prefer written agreements. Free financial counsellors help you prioritise and negotiate—use them before selling essentials or borrowing more to patch interest.
+## Questions to pressure-test any proposal
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+Before you authorise an administrator or petition:
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+- Which of my debts are included, and which survive anyway?
+- What will this mean for my home, car finance, and joint accounts?
+- What fees will I pay, and who receives them?
+- How long will restrictions last, and what must I disclose later?
+- What happens if my income rises or falls mid-process?
+- Have I heard the same explanation from a free counsellor—not only from someone earning a fee?
 
-## A short story: when the fine print mattered
-
-Priya avoided lender calls until fees stacked. Alex asked for hardship in writing, listed essentials first, and booked a free counsellor session the same week. The lesson for **bankruptcy and debt agreements**: slow clarity beats fast regret.
-
-## Practical steps for Bankruptcy and debt agreements
-
-1. List debts with balances, rates, and minimums; mark essentials separately.
-2. Contact lenders early and ask about hardship options in writing.
-3. Speak with a free financial counsellor if repayments no longer fit.
-4. Avoid high-cost short-term credit as a ‘bridge’ without a repayment date.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Money stress now** — prioritise rent, food, utilities, and medicine, then use [Urgent help](/urgent). National Debt Helpline: 1800 007 007.
+Write the answers down. If a salesperson cannot explain exclusions (tax, child support, secured creditors) in plain language, pause. Family members sometimes push bankruptcy to “make it go away” without understanding guarantor exposure—they need independent information too. Insolvency can be the right tool in the right case; it is never a product to buy on a same-day phone deal while you are frightened about a collector’s call.
 
 ## What to do next
 
-- Decide the next action for **bankruptcy and debt agreements** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Urgent help with money](/topics/loans-credit-debt/managing-debt/urgent-help-with-money) for a related decision.
-- Read [Get debt under control](/topics/loans-credit-debt/managing-debt/get-debt-under-control) for a related decision.
-- If essentials are at risk, open [Urgent help](/urgent) before taking on new credit.
+- Book financial counselling through **1800 007 007** before paying any insolvency promoter.
+- List every debt, asset, and income source accurately for that meeting.
+- Read official AFSA guidance on debt agreements and bankruptcy alongside your adviser.
+- Use [/urgent](/urgent) if you need immediate help with essentials while you decide.

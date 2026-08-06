@@ -5,79 +5,64 @@ pillar: insurance
 hub: car-insurance
 slug: no-claim-bonus-on-car-insurance
 updated: "2026-08-03"
-tags: 
+tags:
   - car insurance
-relatedGuides: 
+relatedGuides:
   - insurance/car-insurance/choosing-car-insurance
   - insurance/car-insurance/how-to-save-money-on-car-insurance
   - insurance/car-insurance/claiming-on-your-car-insurance
   - insurance/car-insurance/add-on-car-insurance
 ---
 
-How bonuses work—and what a claim can do. Car insurance levels of cover trade premium against how much you pay after a crash or theft.
+A no-claim bonus (or rating discount) rewards periods without at-fault claims by cutting your premium. It is not a separate piggy bank of cash. Insurers calculate it differently, and one claim can unwind years of discount—so it belongs in every claim decision.
 
-## No-claim bonus on car insurance: the clear version
+## How rating discounts usually work
 
-**No-claim bonus on car insurance** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. How bonuses work—and what a claim can do. Car insurance levels of cover trade premium against how much you pay after a crash or theft.
+After each claim-free year, many insurers step you up a rating scale until you hit a maximum discount. Some now use broader “rating factors” instead of a classic NCB label, but the idea is the same: clean history costs less.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Discounts are not always fully portable. When you switch insurers, the new one may ask for proof of your previous rating or simply re-underwrite you. Get the old insurer’s rating confirmation in writing before you cancel.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+Some policies offer “protected” no-claim features—often for an extra premium—allowing one claim in a period without losing the full discount. Read the cap: protection rarely covers unlimited claims, and an excess still applies.
 
-## How to think about the moving parts
+## What counts as a claim against the bonus
 
-Insurance decisions for **no-claim bonus on car insurance** are about the claim you hope never happens. Read exclusions and waiting periods before you compare price alone. Check whether you already hold overlapping cover elsewhere.
+Generally, claims where you are at fault—or where the insurer cannot recover from another party—affect the rating. Glass-only claims, tow claims, or not-at-fault claims with full recovery may be treated more gently, depending on the PDS.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Making a claim and later withdrawing it can still leave a record with some insurers. Ask before you open a file for a tiny repair. Paying yourself quietly does not create a claim record—but you also get no insurer repair guarantee.
 
-## Upsides worth wanting
+At-fault accidents, theft without recovery break-ins (wording varies), and some weather claims all need a check against your specific bonus rules. Do not rely on forum summaries.
 
-- A financial backstop after insured events
-- Clearer recovery planning when documents are ready
-- Peace of mind when sums insured match rebuild or replace costs
+## Claim maths: excess plus future premiums
 
-## Risks and traps to watch
+Before you claim, estimate:
 
-### Easy-to-miss costs
+1. Excess payable now.
+2. Likely premium increase at the next one or two renewals if the bonus drops.
+3. Repair cost if you pay yourself.
 
-Underinsurance and uncovered flood or temporary accommodation gaps. For **No-claim bonus on car insurance**, read the conditions that turn a good deal average.
+If DIY payment is cheaper over two renewals and you can afford it, skipping the claim can be rational. If damage is large, or another driver is involved and liability is messy, claiming is usually still the right move—bonus preservation should not leave you unable to drive.
 
-### Timing and people problems
+For the operational steps after a crash, use [claiming on your car insurance](/topics/insurance/car-insurance/claiming-on-your-car-insurance).
 
-Overlapping policies that still leave a hole. Put review dates in your calendar.
+## Shopping while you still hold a strong rating
 
-### Recovery friction
+A maximum NCB is a negotiating asset. Re-quote annually with that rating declared consistently. If a claim has already landed, get post-claim quotes too—some insurers price a single at-fault claim less harshly than others.
 
-Add-ons that cost more than the likely benefit. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+Avoid “resetting” your history by omitting claims on applications. Non-disclosure can void cover when you next need it.
 
-## Details that change the decision
 
-Comprehensive, third party, and fire/theft covers different worlds of loss. For **No-claim bonus on car insurance**, match cover to the car’s value and your excess comfort. List drivers accurately; undeclared drivers sink claims.
+## After a claim: rebuilding the discount
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+If a claim has already reduced your rating, ask when you return to the previous step and whether consecutive claim-free years are required. Some insurers restore discounts faster than others—shopping post-claim with honest disclosure can still cut the bill.
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+Do not invent a clean history on a new application. A declined claim for non-disclosure costs more than a year of higher premiums.
 
-## A short story: when timing changed the outcome
-
-Harper discovered after a claim that the sum insured was years out of date. Drew now reviews cover at renewal with rebuild and contents lists, not just the premium. The lesson for **no-claim bonus on car insurance**: slow clarity beats fast regret.
-
-## Practical steps for No-claim bonus on car insurance
-
-1. List the risks you actually need covered versus nice-to-haves.
-2. Compare sum insured, excess, exclusions, and waiting periods.
-3. Check whether cover already exists inside super, bank, or another policy.
-4. Store policy numbers and claim phone lines offline as well as in the app.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Claims** — photograph damage, keep receipts for emergency spends, and ask about temporary accommodation cover if you cannot stay home.
+If you share a car, confirm whether a claim by one listed driver affects the household rating the same way. Some policies treat the vehicle history as a whole; others separate ratings by driver. That detail changes who should be listed.
 
 ## What to do next
 
-- Decide the next action for **no-claim bonus on car insurance** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Choosing car insurance](/topics/insurance/car-insurance/choosing-car-insurance) for a related decision.
-- Read [How to save money on car insurance](/topics/insurance/car-insurance/how-to-save-money-on-car-insurance) for a related decision.
-- Set a calendar reminder to revisit this decision after the next statement cycle.
+- Find your current rating or discount percentage on your schedule or renewal invite.
+- Ask your insurer, in writing, which claim types affect the bonus and whether protection extras are worth the fee.
+- Before small repairs, run excess-plus-future-premium maths against self-funding.
+- When switching, request a no-claim proof letter and declare claims accurately on new applications.
+- Pair bonus strategy with broader [premium-saving](/topics/insurance/car-insurance/how-to-save-money-on-car-insurance) steps—excess, add-ons, and cover level.

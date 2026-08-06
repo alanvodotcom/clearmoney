@@ -1,83 +1,70 @@
 ---
-title: "Online shopping safety"
-description: "Safer checkout habits and refund rights."
+title: Online shopping safety
+description: Safer checkout habits and refund rights.
 pillar: scams-safety
 hub: online-safety
 slug: online-shopping-safety
 updated: "2026-08-03"
-tags: 
+tags:
   - online safety
-relatedGuides: 
+relatedGuides:
   - scams-safety/online-safety/protect-yourself-from-scams
   - scams-safety/online-safety/how-to-spot-a-scam-website
   - scams-safety/online-safety/identity-theft
-  - scams-safety/online-safety/using-comparison-websites
+  - scams-safety/check-report/what-to-do-if-youve-been-scammed
 ---
 
-Safer checkout habits and refund rights. If money stress is affecting essentials this week, start at [Urgent help](/urgent). Online money safety is mostly habits: slow down, verify, and never share one-time codes.
+Buying online is normal; losing money to a fake shop or a marketplace ghost is not inevitable. Safer shopping is mostly about how you choose the seller, how you pay, and how fast you escalate when goods never arrive. If a purchase has already wiped money you need for rent or food, use [Urgent help](/urgent).
 
-## Online shopping safety: the clear version
+## Before you tap buy
 
-**Online shopping safety** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Safer checkout habits and refund rights. Online money safety is mostly habits: slow down, verify, and never share one-time codes.
+Spend two minutes on the seller, not twenty on the product photos.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+- Prefer retailers you already know, or marketplaces with clear buyer protection—read what that protection actually covers.
+- Search the store name and website independently. Ads can point to clones; see [How to spot a scam website](/topics/scams-safety/online-safety/how-to-spot-a-scam-website).
+- Check delivery timeframes that sound human. “Arrives tomorrow from an overseas warehouse at half retail” is a story, not a logistics plan.
+- Screenshot the listing price, seller name, and promised delivery date before you pay. Evidence helps later.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+Social media “shops” that only take bank transfer or crypto deserve extra scepticism. So do sellers who move the conversation off-platform to private chat so the marketplace cannot intervene.
 
-## How to think about the moving parts
+## Payment choices that limit damage
 
-Setup quality decides whether **online shopping safety** helps or nags you later. Confirm identity and contact details, choose alerts you will actually read, and decide who else can see or move money. If a salesperson is present, ask for the key numbers in writing before you sign.
+How you pay shapes what you can unwind.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+- Credit cards and many debit schemes offer chargeback or dispute paths when goods are not delivered or the merchant is fraudulent—ask your issuer how theirs works.
+- Buy-now-pay-later can still leave you owing instalments while you argue with a vanished seller; treat BNPL as real debt.
+- Direct bank transfer, wire, crypto, and gift cards are hard or impossible to reverse. Scammers push those methods for a reason.
+- Never send an OTP or remote-access code because a “seller” or “courier” claims your parcel is stuck.
 
-## Upsides worth wanting
+If checkout suddenly asks for unusual ID uploads or a second “verification fee,” stop. That is not normal retail.
 
-- Automations that reduce missed payments and late fees
-- Alerts that surface problems while they are still small
-- Shared understanding when more than one person is involved
+## Marketplace bargains with strings attached
 
-## Risks and traps to watch
+Second-hand and classified deals can be fine when you inspect in person and pay on collection. Risk rises when:
 
-### Easy-to-miss costs
+- the seller cannot meet locally and needs a deposit first
+- photos look stolen (reverse-image search helps)
+- the price is far below every comparable listing
+- they insist on unusual payment apps or gift cards
 
-Set-and-forget errors (wrong account, wrong amount, wrong date). For **Online shopping safety**, read the conditions that turn a good deal average.
+Meet in public for high-value goods. Do not share drivers licence photos unless you are sure why they are needed—and never with someone who only contacted you through a cold ad.
 
-### Timing and people problems
+## When goods never arrive
 
-Giving too much authority to another person. Put review dates in your calendar.
+Act while the trail is warm.
 
-### Recovery friction
+1. Contact the seller in writing and keep copies.
+2. Use the marketplace or card dispute process within their stated windows.
+3. Tell your bank or card issuer you suspect a scam purchase.
+4. Report the seller to [Scamwatch](https://www.scamwatch.gov.au).
 
-Missing fine print on fees or cooling-off rights. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+If the merchant took your card details and strange charges appear, treat it as possible [identity theft](/topics/scams-safety/online-safety/identity-theft): freeze the card, change passwords, and watch statements. For a full response path after money is gone, see [What to do if you’ve been scammed](/topics/scams-safety/check-report/what-to-do-if-youve-been-scammed).
 
-## Details that change the decision
-
-Phishing works because it looks almost right. For **Online shopping safety**, bookmark official login pages, turn on multi-factor authentication, and treat unexpected payment requests as hostile until proven otherwise.
-
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
-
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when timing changed the outcome
-
-Luca set everything up in a hurry and only noticed the wrong account after a payment bounced. Morgan now screenshots every confirmation and nicknames accounts so automations are obvious. The lesson for **online shopping safety**: slow clarity beats fast regret.
-
-## Practical steps for Online shopping safety
-
-1. Gather ID, income evidence, and any existing contracts or statements.
-2. Confirm who else is affected (partner, guarantor, dependants) before you sign.
-3. Complete the application or setup deliberately—screenshot confirmations.
-4. Turn on alerts and store reference numbers where you can find them.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Money stress now** — prioritise rent, food, utilities, and medicine, then use [Urgent help](/urgent). National Debt Helpline: 1800 007 007.
+Australian Consumer Law can help with faulty goods from legitimate businesses. Fake shops that never intended to deliver are a scam problem first—report and dispute, then consider consumer pathways if a real trader is involved. If malware arrived with a “tracking” link, also report via [ReportCyber](https://www.cyber.gov.au/report-and-recover/report).
 
 ## What to do next
 
-- Decide the next action for **online shopping safety** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Protect yourself from scams](/topics/scams-safety/online-safety/protect-yourself-from-scams) for a related decision.
-- Read [How to spot a scam website](/topics/scams-safety/online-safety/how-to-spot-a-scam-website) for a related decision.
-- If essentials are at risk, open [Urgent help](/urgent) before taking on new credit.
+- For your next online order, choose a payment method with a clear dispute path and save the listing screenshots.
+- Unsubscribe from “too good” shopping SMS ads you never signed up for; report them via Scamwatch if they push fake shops.
+- Agree a household rule: no gift cards or crypto for online retail “verification.”
+- If a purchase already failed and cash flow is tight, open [Urgent help](/urgent) while you dispute the charge.

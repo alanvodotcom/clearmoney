@@ -5,80 +5,64 @@ pillar: investing-planning
 hub: shares
 slug: buying-shares-through-crowd-sourced-funding
 updated: "2026-08-03"
-tags: 
+tags:
   - shares
-relatedGuides: 
+relatedGuides:
   - investing-planning/shares/how-to-buy-and-sell-shares
   - investing-planning/shares/choosing-shares-to-buy
   - investing-planning/shares/shares-what-is-an-ipo
   - investing-planning/shares/what-is-share-market-volatility
 ---
 
-CSF offers are high risk and often illiquid. Shares are ownership slices. Prices move daily; your plan should not.
+Crowd-sourced funding (CSF) lets certain companies raise money from the public online under Australian rules that differ from a full ASX listing. You may receive shares in a young business with limited history. **This is high-risk investing.** Many startups fail; successful ones can still leave you stuck with paper wealth you cannot easily sell. Treat CSF as speculative capital only—if you participate at all.
 
-## Buying shares through crowd-sourced funding: the clear version
+## What makes CSF different from buying listed shares
 
-**Buying shares through crowd-sourced funding** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. CSF offers are high risk and often illiquid. Shares are ownership slices. Prices move daily; your plan should not.
+Listed ASX shares usually offer continuous trading (subject to liquidity). CSF shares are typically **illiquid**: there may be no ready market, transfer restrictions, and long waits for a later listing, sale, or wind-up. Dividends are uncommon in early stages. Voting rights and information rights vary by offer—read the CSF offer document carefully.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Investment caps and eligibility rules can apply to some investors. Platforms must follow regulatory requirements, but regulation does not guarantee returns or prevent failure.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+## Risks to put in bold in your own notes
 
-## How to think about the moving parts
+- **Business failure** — equity can go to zero
+- **Dilution** — later funding rounds may shrink your percentage
+- **Illiquidity** — you may not exit when life needs cash
+- **Information gaps** — fewer disclosures than mature listed companies
+- **Valuation optimism** — early prices can embed heroic growth assumptions
+- **Platform and intermediary risk** — operational issues alongside company risk
 
-With **buying shares through crowd-sourced funding**, match the product to your time horizon. Money you may need within a few years usually should not sit in volatile assets. Fees and diversification matter more than a single tip from social media.
+Marketing pages emphasise mission and upside. Offer documents emphasise risk factors—read those twice.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+## How to read an offer without rose-coloured glasses
 
-## Upsides worth wanting
+Examine use of funds, founders’ experience, existing investors, financial statements (even if thin), related-party transactions, and what happens if milestones slip. Compare the valuation narrative with boring alternatives: a diversified ETF costs little and trades daily. CSF should clear a high bar because the downside is harsher.
 
-- Potential growth above cash over long periods
-- Diversification that reduces single-company drama
-- Alignment with goals like retirement or a distant home deposit
+Be sceptical of countdown timers and community cheerleading that replace analysis. Social proof is not due diligence.
 
-## Risks and traps to watch
+## Scams, clones, and lookalike “crowdfunding”
 
-### Easy-to-miss costs
+Only use platforms and offers you can verify through official channels. Fake crowdfunding sites, cloned brands, and “guaranteed IPO soon” stories appear in scam reports. Confirm URLs, licences, and offer details yourself ([check before you invest](/topics/scams-safety/check-report/check-before-you-invest), [how to spot a scam website](/topics/scams-safety/online-safety/how-to-spot-a-scam-website)). If payment is demanded in crypto or gift cards, stop. See [investment scams](/topics/scams-safety/financial-scams/investment-scams).
 
-Buying under social pressure or FOMO. For **Buying shares through crowd-sourced funding**, read the conditions that turn a good deal average.
+Legitimate CSF still loses money for many investors; illegitimacy loses money faster.
 
-### Timing and people problems
+## Portfolio sizing if you still proceed
 
-Concentrated bets and high fees. Put review dates in your calendar.
+Cap CSF at an amount whose total loss would not change rent, debt repayments, or retirement timing. Do not borrow to participate ([borrowing to invest](/topics/investing-planning/how-to-invest/borrowing-to-invest)). Do not concentrate multiple CSF bets in one sector as if that were diversification.
 
-### Recovery friction
+Keep records of offer documents, application confirmations, and share certificates or holdings statements. Illiquid investments are easy to forget until tax time or estate time—see [track your investments](/topics/investing-planning/how-to-invest/track-your-investments).
 
-Needing the money earlier than the investment can recover. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+A later IPO—if it ever happens—brings its own risks ([what is an IPO?](/topics/investing-planning/shares/shares-what-is-an-ipo)). Do not buy CSF solely because a float is whispered.
 
-## Details that change the decision
+## After you apply: silence is normal
 
-Company news moves prices; your plan should not move with every headline. For **Buying shares through crowd-sourced funding**, understand brokerage, tax lots, and concentration risk if one stock becomes a large share of your wealth. Dividends are not ‘free money’—they are part of total return and can be cut.
+Startups do not email weekly victory laps. Long quiet periods can mean the team is building—or struggling. Ask what reporting cadence the offer promises, and calendar those dates. If updates stop entirely while fundraising continues elsewhere, dig into shareholder rights rather than refreshing the marketing page.
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
-
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when timing changed the outcome
-
-Priya bought after a viral tip and sold in a panic three weeks later. Alex wrote a one-page plan: horizon, fee budget, and a rule not to check prices daily. The lesson for **buying shares through crowd-sourced funding**: slow clarity beats fast regret.
-
-## Practical steps for Buying shares through crowd-sourced funding
-
-1. Define the time horizon and what would force you to sell early.
-2. List fees (management, brokerage, advice) in dollars per year if you can.
-3. Diversify enough that one tip cannot wreck the plan.
-4. Ignore urgency: legitimate offers survive a night’s sleep.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Life changes** — job loss, a new dependant, or a move can invalidate last year’s choice; schedule a review.
-- **Records** — keep PDFs of contracts, statements, and cancellation confirmations for at least a year.
+Never “top up” into a second raise just to protect pride in the first cheque. Sunk-cost bias is expensive in CSF.
 
 ## What to do next
 
-- Decide the next action for **buying shares through crowd-sourced funding** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [How to buy and sell shares](/topics/investing-planning/shares/how-to-buy-and-sell-shares) for a related decision.
-- Read [Choosing shares to buy](/topics/investing-planning/shares/choosing-shares-to-buy) for a related decision.
-- Set a calendar reminder to revisit this decision after the next statement cycle.
+- Assume you may lose the entire amount and be unable to sell for years—size accordingly or skip.
+- Read the full CSF offer document risk section before any pitch video.
+- Verify the platform and offer via [check before you invest](/topics/scams-safety/check-report/check-before-you-invest).
+- Prefer building core wealth with liquid, diversified listed assets first.
+- Store all documents; diary any follow-on rights or shareholder updates.

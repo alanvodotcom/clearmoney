@@ -1,83 +1,71 @@
 ---
-title: "What to do if you've been scammed"
-description: "Stop payments, contact your bank, and report it."
+title: What to do if you've been scammed
+description: Stop payments, contact your bank, and report it.
 pillar: scams-safety
 hub: check-report
 slug: what-to-do-if-youve-been-scammed
 updated: "2026-08-03"
-tags: 
+tags:
   - check report
-relatedGuides: 
-  - scams-safety/check-report/check-before-you-invest
-  - scams-safety/check-report/investor-alert-list
+relatedGuides:
   - scams-safety/check-report/report-an-investment-scam
+  - scams-safety/online-safety/identity-theft
+  - scams-safety/online-safety/protect-yourself-from-scams
+  - loans-credit-debt/managing-debt/urgent-help-with-money
 ---
 
-Stop payments, contact your bank, and report it. If money stress is affecting essentials this week, start at [Urgent help](/urgent). Checking and reporting quickly limits damage—and helps others avoid the same pitch.
+Being scammed is disorienting. Act on the money trail first; feelings can wait an hour. Shame is part of how scams work—reporting still helps. If you cannot cover rent, food, medicine, or utilities this week, open [Urgent help](/urgent) in parallel with the steps below.
 
-## Understanding What to do if you've been scammed
+## Stop the bleeding first
 
-**What to do if you've been scammed** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Stop payments, contact your bank, and report it. Checking and reporting quickly limits damage—and helps others avoid the same pitch.
+- End remote-access sessions; switch off Wi‑Fi if you suspect malware.
+- Do not send more money to “release,” “unlock,” or “pay tax on” funds already taken.
+- Do not share new OTPs, passwords, or ID scans with anyone who contacted you about the scam—including fake “recovery” agents.
+- Tell household members what happened so nobody else pays the next invoice.
+- Change the password on your main email account from a device you trust—email resets unlock everything else.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Every extra payment is usually a second hit, not a solution. Scammers often stay in contact after the first transfer because the relationship is already built; silence and official channels are safer than continuing the chat.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+## Call your bank or payment provider
 
-## How to think about the moving parts
+Use a number from your card, statement, or the official app—not from the scammer’s message.
 
-If **what to do if you've been scammed** involves suspected fraud, speed and verification beat cleverness. Use official phone numbers from a statement or the organisation’s website—not numbers from a text. Never share one-time codes.
+Ask them to:
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+- freeze cards and digital wallets
+- block payees and stop pending transfers where possible
+- flag the account for fraud monitoring
+- explain dispute or recovery options for that payment type
 
-## Upsides worth wanting
+If crypto left an Australian exchange, contact that exchange’s official support the same day. Gather transaction IDs while chats still exist. Ask whether a recall or hold is still possible; speed matters more than a perfect explanation.
 
-- Limiting further loss by freezing channels quickly
-- Helping others when reports feed warning systems
-- Recovering access to accounts and identity credentials
+Write down every channel you used to pay—PayID, BPAY, card, wire, gift card, crypto—because dispute options differ. For card or account misuse that looks like identity compromise, also follow [Identity theft](/topics/scams-safety/online-safety/identity-theft).
 
-## Risks and traps to watch
+## Report so others aren’t next
 
-### Easy-to-miss costs
+Reporting creates intelligence even when money cannot be returned.
 
-Sending more money because someone claims fees will ‘release’ funds. For **What to do if you've been scammed**, read the conditions that turn a good deal average.
+- [Scamwatch](https://www.scamwatch.gov.au) — for consumer scams (phishing, investment, romance, shopping).
+- [ReportCyber](https://www.cyber.gov.au/report-and-recover/report) — for cybercrime such as hacking, malware, and online account takeover.
+- Police — when advised, or if threats, extortion, or large losses warrant it.
 
-### Timing and people problems
+Keep screenshots, reference numbers, wallet addresses, phone numbers, and URLs. Export chat histories before accounts get banned or deleted. For investment-specific reporting detail, see [Report an investment scam](/topics/scams-safety/check-report/report-an-investment-scam).
 
-Deleting evidence before reporting. Write down who can authorise changes.
+You do not need a police event number before you call the bank, but keep any report numbers you later receive with your evidence pack.
 
-### Recovery friction
+## Money stress after a scam
 
-Shame delays that shrink recovery options. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+Prioritise essentials: housing, food, medicine, power, and transport to work. Contact lenders and utilities early if payments will bounce—hardship teams prefer notice to silence. National Debt Helpline: **1800 007 007**. ClearMoney’s [Urgent help with money](/topics/loans-credit-debt/managing-debt/urgent-help-with-money) and the [Urgent help](/urgent) hub list starting points.
 
-## Details that change the decision
+Expect recovery scams: people who found your report or your search history and promise retrieval for a fee. Real help does not demand crypto or gift cards upfront. Also ignore anyone claiming they are from your bank who asks you to move leftover funds to a “safe account”—that is a common second-stage banking impersonation.
 
-Reporting is not only for large losses. For **What to do if you've been scammed**, gather messages, wallet addresses, and receipts, then file with the right channel and your bank. Early reports can freeze funds still in transit.
+When the immediate firefight ends, rebuild habits from [Protect yourself from scams](/topics/scams-safety/online-safety/protect-yourself-from-scams) so the next attempt fails faster. Sleep, food, and one trusted conversation matter as much as paperwork in the first week.
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
-
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when the fine print mattered
-
-Luca nearly transferred savings after a convincing ‘bank fraud’ call. Morgan hung up, dialled the number on the back of the card, and learned the real bank had not called. The lesson for **what to do if you've been scammed**: slow clarity beats fast regret.
-
-## Practical steps for What to do if you've been scammed
-
-1. Stop contact with the suspected scammer and do not send more money.
-2. Call your bank or card provider on a number from their official site.
-3. Change passwords starting with email, then banking, then social.
-4. Report via Scamwatch and keep evidence (messages, receipts, wallet addresses).
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Money stress now** — prioritise rent, food, utilities, and medicine, then use [Urgent help](/urgent). National Debt Helpline: 1800 007 007.
-- **After a scam** — contact your bank, change passwords, and report via Scamwatch; keep evidence.
+Photograph physical cards you will cancel and note remaining direct debits so essentials keep paying from a new card or account.
 
 ## What to do next
 
-- Call your bank from an official number and report the scam channels you used.
-- Read [Check before you invest](/topics/scams-safety/check-report/check-before-you-invest) for a related decision.
-- Read [Investor alert list](/topics/scams-safety/check-report/investor-alert-list) for a related decision.
-- If essentials are at risk, open [Urgent help](/urgent) before taking on new credit.
+- Call your bank or exchange now if you have not already; ask for a fraud reference number.
+- Submit Scamwatch and ReportCyber reports with evidence attached.
+- List essential bills due in the next 14 days and use [Urgent help](/urgent) or the Debt Helpline if any will fail.
+- Ignore recovery cold-calls; tell family the same rule.

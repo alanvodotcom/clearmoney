@@ -5,79 +5,65 @@ pillar: insurance
 hub: home-insurance
 slug: contents-insurance
 updated: "2026-08-03"
-tags: 
+tags:
   - home insurance
-relatedGuides: 
+relatedGuides:
   - insurance/home-insurance/choosing-home-insurance
   - insurance/home-insurance/underinsurance-what-it-is-and-how-to-avoid-it
   - insurance/home-insurance/storm-flood-and-fire-insurance
   - insurance/home-insurance/how-to-make-a-home-insurance-claim
 ---
 
-Cover for belongings—renters and owners. Home and contents insurance protect against sudden loss—sum insured and exclusions decide whether a claim helps.
+Contents insurance pays to repair or replace belongings after insured events like theft, fire, or storm damage—subject to limits, excesses, and exclusions. Renters need it because the landlord’s building policy will not replace your sofa. Owners need it because building cover stops at fixtures.
 
-## Contents insurance: the clear version
+## What usually counts as contents
 
-**Contents insurance** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Cover for belongings—renters and owners. Home and contents insurance protect against sudden loss—sum insured and exclusions decide whether a claim helps.
+Think of items you would take if you moved: furniture, clothing, appliances that are not hard-wired, electronics, carpets and curtains if the policy classifies them as contents, and kitchenware. Tools, sporting gear, and bikes may sit under sub-limits unless listed.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Fixtures the next owner would keep—built-in ovens, fixed air-conditioning, wall insulation—usually fall under building cover for owner-occupiers. In a rental, check whether you installed anything the policy treats differently.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+Shared houses should clarify whose policy responds. Housemates are not automatically covered under your name unless the insurer allows named residents or a share-house wording.
 
-## How to think about the moving parts
+## Renters, owners, and strata lots
 
-Insurance decisions for **contents insurance** are about the claim you hope never happens. Read exclusions and waiting periods before you compare price alone. Check whether you already hold overlapping cover elsewhere.
+**Renters** — contents-only policies are the default. Liability cover for damage you cause to the landlord’s property is sometimes included or optional; read the limit. You still need photos of your own goods for claims.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+**Owner-occupiers** — pair contents sums with an adequate building sum; see [choosing home insurance](/topics/insurance/home-insurance/choosing-home-insurance).
 
-## Upsides worth wanting
+**Strata** — the building is often insured by the owners corporation. Your contents policy may need to cover carpets, blinds, and internal improvements the strata PDS excludes. Ask the strata manager what the building policy stops at.
 
-- A financial backstop after insured events
-- Clearer recovery planning when documents are ready
-- Peace of mind when sums insured match rebuild or replace costs
+## Sums insured, item limits, and the excess
 
-## Risks and traps to watch
+Walk room by room and estimate replacement cost at today’s prices—not what you paid years ago. Under-listing jewellery, cameras, or bikes is common; many policies cap unspecified high-risk items unless you specify them and pay a loading.
 
-### Easy-to-miss costs
+**Excess** applies per claim (sometimes per event). A higher excess lowers premiums but can make small theft claims pointless. Off-premises cover for phones and laptops often has lower limits or needs optional portable contents—do not assume a smashed phone on the train is fully covered. Standalone gadget policies may still be worse value; compare excesses carefully.
 
-Underinsurance and uncovered flood or temporary accommodation gaps. For **Contents insurance**, read the conditions that turn a good deal average.
+New-for-old replacement is common for many goods; depreciated payouts still appear for some categories. Read that section before you rely on a full upgrade after a claim.
 
-### Timing and people problems
+## Exclusions that catch people out
 
-Overlapping policies that still leave a hole. Put review dates in your calendar.
+Typical gaps include:
 
-### Recovery friction
+- cash and some documents above tiny limits
+- business stock in a home office without a business extension
+- gradual mould, vermin, and poor maintenance
+- theft by guests or unscrupulous housemates (wording varies)
+- items in transit or storage unless endorsed
+- phones with cracked screens from drops if accidental damage is not included
 
-Add-ons that cost more than the likely benefit. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+Flood and storm definitions matter for contents in garages and ground-floor units—align with [storm, flood and fire](/topics/insurance/home-insurance/storm-flood-and-fire-insurance). Keep a simple inventory with photos or serial numbers in cloud storage; it speeds [claims](/topics/insurance/home-insurance/how-to-make-a-home-insurance-claim) dramatically.
 
-## Details that change the decision
 
-Sums insured should reflect rebuild cost, not market price. For **Contents insurance**, confirm flood and temporary accommodation wording for your address. Keep a contents inventory with photos.
+## Building a claim-ready inventory without fuss
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+One Saturday, film a slow walk-through video opening cupboards and drawers. Export it to cloud storage with the date. Pair it with a spreadsheet of items over a few hundred dollars. That pair beats memory after a fire or burglary and supports accurate sums insured at renewal.
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when timing changed the outcome
-
-Sofia discovered after a claim that the sum insured was years out of date. Casey now reviews cover at renewal with rebuild and contents lists, not just the premium. The lesson for **contents insurance**: slow clarity beats fast regret.
-
-## Practical steps for Contents insurance
-
-1. List the risks you actually need covered versus nice-to-haves.
-2. Compare sum insured, excess, exclusions, and waiting periods.
-3. Check whether cover already exists inside super, bank, or another policy.
-4. Store policy numbers and claim phone lines offline as well as in the app.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Claims** — photograph damage, keep receipts for emergency spends, and ask about temporary accommodation cover if you cannot stay home.
+Update the video when you buy a new TV, bike, or jewellery piece. Ten minutes now prevents months of argument later.
 
 ## What to do next
 
-- Decide the next action for **contents insurance** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Choosing home insurance](/topics/insurance/home-insurance/choosing-home-insurance) for a related decision.
-- Read [Underinsurance: what it is and how to avoid it](/topics/insurance/home-insurance/underinsurance-what-it-is-and-how-to-avoid-it) for a related decision.
-- Set a calendar reminder to revisit this decision after the next statement cycle.
+- Build a room-by-room replacement list and set the contents sum insured to that total.
+- Specify jewellery, bikes, and other high-value items that sit above default sub-limits.
+- Confirm portable/off-premises limits if you carry devices daily.
+- Choose an excess that still makes a realistic theft or water-damage claim worth lodging.
+- Renting? Buy contents even if the landlord has building cover—those policies do not replace your belongings.

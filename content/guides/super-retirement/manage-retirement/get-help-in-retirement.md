@@ -1,83 +1,90 @@
 ---
-title: "Get help in retirement"
-description: "Counselling, Centrelink, and community supports."
+title: Get help in retirement
+description: Counselling, Centrelink, and community supports.
 pillar: super-retirement
 hub: manage-retirement
 slug: get-help-in-retirement
 updated: "2026-08-03"
-tags: 
-  - manage retirement
-relatedGuides: 
-  - super-retirement/manage-retirement/make-your-money-last-in-retirement
-  - super-retirement/manage-retirement/retirement-income-and-tax
-  - super-retirement/manage-retirement/manage-health-costs-in-retirement
+tags:
+  - manage-retirement
+relatedGuides:
+  - loans-credit-debt/managing-debt/financial-counselling
   - super-retirement/manage-retirement/aged-care
+  - super-retirement/retirement/first-nations-resources
+  - community/first-nations/first-nations-services-that-can-help
 ---
 
-Counselling, Centrelink, and community supports. In retirement, the job shifts from accumulation to drawing down sustainably and keeping paperwork tidy.
+Retirement does not mean navigating every system alone. Free and low-cost help exists for money stress, government payments, aged care, legal questions, and the loneliness that makes scams easier. Knowing who to call—and preparing before the crisis—is a skill worth building before you need it.
 
-## Understanding Get help in retirement
+ClearMoney offers general information—not personal advice. If someone demands remote access to your computer or gift cards for a "government fee," hang up and use official numbers you look up yourself.
 
-**Get help in retirement** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Counselling, Centrelink, and community supports. In retirement, the job shifts from accumulation to drawing down sustainably and keeping paperwork tidy.
+## When retirement feels overwhelming
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Stress shrinks decision quality. Debt letters, Centrelink forms, and aged care brochures arriving the same week is common—not a personal failure. The first step is often one phone call to the right service, not a perfect plan.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+Write three questions on paper before you dial. Stress erases memory mid-call. Ask the operator to repeat next steps and reference numbers slowly.
 
-## How to think about the moving parts
+## Free money and debt help
 
-Setup quality decides whether **get help in retirement** helps or nags you later. Confirm identity and contact details, choose alerts you will actually read, and decide who else can see or move money. If a salesperson is present, ask for the key numbers in writing before you sign.
+Financial counsellors are free, confidential, and independent. They can negotiate with creditors, explain bankruptcy alternatives, and help with Centrelink debts. Start at [Financial counselling](/topics/loans-credit-debt/managing-debt/financial-counselling) or National Debt Helpline **1800 007 007**.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Call earlier than you think. Options shrink after default listings, court judgments, and aggressive recovery action. Counsellors cannot sell you products—that is the point.
 
-## Upsides worth wanting
+## Centrelink and concession cards
 
-- Automations that reduce missed payments and late fees
-- Alerts that surface problems while they are still small
-- Shared understanding when more than one person is involved
+Services Australia handles Age Pension and related payments. Financial Information Service (FIS) officers explain means tests without selling financial products—book through Services Australia.
 
-## Risks and traps to watch
+Keep reference numbers from every call. Concession cards unlock transport, medicine, and council discounts many retirees never claim because nobody told them. Ask explicitly: "What cards might I qualify for with my income and assets?"
 
-### Easy-to-miss costs
+Interpreter services exist—request them. myGov login trouble is common; libraries and community centres often run digital mentoring sessions.
 
-Set-and-forget errors (wrong account, wrong amount, wrong date). For **Get help in retirement**, read the conditions that turn a good deal average.
+## Aged care navigation
 
-### Timing and people problems
+My Aged Care is the front door for assessments and subsidised support—see [Aged care](/topics/super-retirement/manage-retirement/aged-care). Older persons' advocacy services help when facility fees feel unfair or family disagreements block decisions.
 
-Giving too much authority to another person. Write down who can authorise changes.
+Do not pay unofficial "priority assessment" fees. The official pathway starts with My Aged Care **1800 200 422**.
 
-### Recovery friction
+## Legal and abuse pathways
 
-Missing fine print on fees or cooling-off rights. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+Community legal centres assist with wills, power-of-attorney questions, tenancy, and elder abuse on income-tested bases. Elder abuse—including financial pressure, forged signatures, and isolation from statements—can be reported to state elder abuse helplines and, where family violence is involved, **1800RESPECT (1800 737 732)**.
 
-## Details that change the decision
+If someone is in immediate danger, call **000**. Financial abuse is still abuse.
 
-Administration mistakes—wrong tax file details, lapsed insurance, ignored required drawdowns—create avoidable stress. For **Get help in retirement**, set a yearly review: beneficiaries, spending, fees, and whether the investment mix still matches your drawdown pace.
+## Preparing for appointments
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+Bring photo ID, recent bank statements, super summaries, debt letters, and a one-page timeline of what went wrong. Helpers move faster when evidence is tidy.
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+Ask for the next step in writing: who calls whom by what date. Put that date in your calendar. Many people feel relief after one conversation and then drift—follow-through is part of the help.
 
-## A short story: when the fine print mattered
+If a service is wrong for you, ask for a warm referral rather than giving up entirely.
 
-Aisha set everything up in a hurry and only noticed the wrong account after a payment bounced. Taylor now screenshots every confirmation and nicknames accounts so automations are obvious. The lesson for **get help in retirement**: slow clarity beats fast regret.
+## Culturally specific and peer support
 
-## Practical steps for Get help in retirement
+First Nations readers can use [First Nations retirement resources](/topics/super-retirement/retirement/first-nations-resources) and [First Nations services that can help](/topics/community/first-nations/first-nations-services-that-can-help).
 
-1. Gather ID, income evidence, and any existing contracts or statements.
-2. Confirm who else is affected (partner, guarantor, dependants) before you sign.
-3. Complete the application or setup deliberately—screenshot confirmations.
-4. Turn on alerts and store reference numbers where you can find them.
+Peer groups—men's sheds, U3A, church and community networks—reduce isolation that scammers exploit. Sharing one helpful phone number with a friend who is also retired costs nothing.
 
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
+When scams or urgent safety collide with money, use [Urgent help](/urgent) for a short path to the right contacts. Keep your bank's fraud line on the fridge beside the GP.
 
-## When life changes
+If a service was helpful, note its name in your estate folder so family does not rediscover the same helpline during the next crisis. Good referrals die with silence.
 
-- **Rule changes** — contribution caps, preservation ages, and Age Pension settings change; confirm current figures before acting.
+## Digital access support
+
+myGov, fund apps, and Centrelink online accounts frustrate many retirees. Libraries, Be Connected programs, and community centres offer free digital mentoring. Bring a trusted helper to appointments if needed—but never share passwords with a cold-call technician.
+
+## Housing and tenancy
+
+Older renters can access state tenancy advice services when facing eviction or unreasonable rent rises. Homeowners struggling with rates may find council hardship policies. Ask early; silence rarely improves offers.
+
+## Emotional support is financial support
+
+Grief, depression, and anxiety drive impulsive money moves. GPs, Beyond Blue, and local counselling services matter alongside FIS appointments. If a partner dies, use [Losing your partner](/topics/banking-budgeting/family/losing-your-partner) for the admin list so you are not inventing steps while exhausted.
+
 
 ## What to do next
 
-- Decide the next action for **get help in retirement** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Make your money last in retirement](/topics/super-retirement/manage-retirement/make-your-money-last-in-retirement) for a related decision.
-- Read [Retirement income and tax](/topics/super-retirement/manage-retirement/retirement-income-and-tax) for a related decision.
-- Write your constraints on paper so a sales pitch cannot rewrite them.
+- Save National Debt Helpline **1800 007 007** and your super fund's number in your phone contacts.
+- Book a Centrelink FIS conversation if means tests confuse you.
+- Download your local council's older persons' services list and skim it once.
+- If debts or abuse are active, call support this week—not "after the holidays."
+- Tell one trusted person which documents you keep and where—without sharing every password in a group chat.

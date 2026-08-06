@@ -1,82 +1,77 @@
 ---
-title: "Check before you invest"
-description: "Licence checks and independent verification."
+title: Check before you invest
+description: Licence checks and independent verification.
 pillar: scams-safety
 hub: check-report
 slug: check-before-you-invest
 updated: "2026-08-03"
-tags: 
+tags:
   - check report
-relatedGuides: 
-  - scams-safety/check-report/what-to-do-if-youve-been-scammed
+relatedGuides:
   - scams-safety/check-report/investor-alert-list
   - scams-safety/check-report/report-an-investment-scam
+  - scams-safety/financial-scams/investment-scams
+  - investing-planning/advice/financial-advisers-register
+diagram: scam-stop-check
 ---
 
-Licence checks and independent verification. If money stress is affecting essentials this week, start at [Urgent help](/urgent). Checking and reporting quickly limits damage—and helps others avoid the same pitch.
+Before money leaves your account for a new investment, verify the people and the platform through sources they do not control. A glossy website is not due diligence. If someone is rushing you to skip checks “or the price rises,” treat that urgency as the warning—and use [Urgent help](/urgent) if pressure has already pushed you into debt.
 
-## What is Check before you invest?
+::: checklist
+- Type the official register URL yourself
+- Match licence name, number, and authorised services
+- Refuse crypto-only or gift-card deposits for “investments”
+:::
 
-**Check before you invest** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Licence checks and independent verification. Checking and reporting quickly limits damage—and helps others avoid the same pitch.
+## Licence and register checks
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+In Australia, many investment and advice activities require authorisation. Independently:
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+- Confirm the business and relevant individuals appear on official ASIC registers (including the [financial advisers register](/topics/investing-planning/advice/financial-advisers-register) pathway for advisers).
+- Match the licence number, name spelling, and authorised services to what you were told.
+- Be suspicious of “ASIC registered” claims that only appear on the seller’s PDF—registers are checked on official sites you typed yourself.
+- Note whether the person is authorised to advise on the exact product class they are selling.
 
-## How to think about the moving parts
+No licence does not always mean “illegal hobby,” but it does mean higher risk and fewer protections. Unlicensed cold callers promising retail returns deserve a hard no. A licence also does not guarantee performance—it only tells you the firm is allowed to operate in certain ways.
 
-If **check before you invest** involves suspected fraud, speed and verification beat cleverness. Use official phone numbers from a statement or the organisation’s website—not numbers from a text. Never share one-time codes.
+## Independent sources, not the seller’s website
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Cross-check using channels the promoter cannot edit:
 
-## Upsides worth wanting
+- Official issuer or product pages reached via your own search or broker
+- Regulator alert lists—see [Investor alert list](/topics/scams-safety/check-report/investor-alert-list)
+- [Scamwatch](https://www.scamwatch.gov.au) warnings for similar pitches
+- A second opinion from a licensed adviser or accountant you chose—not one they introduced on the same call
+- Your bank’s own investment products page if they claim affiliation—call the bank on a known number to confirm
 
-- Limiting further loss by freezing channels quickly
-- Helping others when reports feed warning systems
-- Recovering access to accounts and identity credentials
+Never use only links from the sales email. Clones spoof real brands; compare domains carefully. If two tabs look identical, read the address bars out loud.
 
-## Risks and traps to watch
+## Questions that expose a fake offer
 
-### Easy-to-miss costs
+Ask for written answers you can keep:
 
-Sending more money because someone claims fees will ‘release’ funds. For **Check before you invest**, read the conditions that turn a good deal average.
+1. How do you make money if I invest?
+2. Where is the money custodied, and how do I withdraw?
+3. What is the worst-case loss in plain language?
+4. Can I speak to someone at a licensed Australian entity on a public phone number?
+5. Why must I decide today?
+6. Will you put the return promise in a regulated Product Disclosure Statement?
 
-### Timing and people problems
+Evasive answers, secrecy demands, or requests for OTPs and remote access end the conversation. Those are takeover tools, not onboarding. Guaranteed high returns with no downside are incompatible with how real markets work—see [Investment scams](/topics/scams-safety/financial-scams/investment-scams).
 
-Deleting evidence before reporting. If someone rushes you, that is data—slow down.
+## When to walk away without apologising
 
-### Recovery friction
+You do not owe a stranger a debate. “I’ve decided not to proceed” is a complete sentence. Hang up on abuse. Block numbers. If the pitch continues via new accounts, report it.
 
-Shame delays that shrink recovery options. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+Walking away can feel rude when the salesperson has spent an hour on rapport. That hour is their sales cost—not a debt you repay with your savings. Friends who introduced the deal may feel awkward; you can still decline and suggest they run the same checks.
 
-## Details that change the decision
+If you already sent funds after skipping checks, contact your bank immediately, follow [What to do if you’ve been scammed](/topics/scams-safety/check-report/what-to-do-if-youve-been-scammed), and file [Report an investment scam](/topics/scams-safety/check-report/report-an-investment-scam). Cyber harvesting of your login during “verification” also belongs with [ReportCyber](https://www.cyber.gov.au/report-and-recover/report).
 
-Reporting is not only for large losses. For **Check before you invest**, gather messages, wallet addresses, and receipts, then file with the right channel and your bank. Early reports can freeze funds still in transit.
-
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
-
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when a simple system helped
-
-Aisha nearly transferred savings after a convincing ‘bank fraud’ call. Taylor hung up, dialled the number on the back of the card, and learned the real bank had not called. The lesson for **check before you invest**: slow clarity beats fast regret.
-
-## Practical steps for Check before you invest
-
-1. Stop contact with the suspected scammer and do not send more money.
-2. Call your bank or card provider on a number from their official site.
-3. Change passwords starting with email, then banking, then social.
-4. Report via Scamwatch and keep evidence (messages, receipts, wallet addresses).
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Money stress now** — prioritise rent, food, utilities, and medicine, then use [Urgent help](/urgent). National Debt Helpline: 1800 007 007.
+Keep a one-page checklist on paper: licence number, alert search date, custody answer, and who you told. Paper survives when a pushy caller wants you back on the phone.
 
 ## What to do next
 
-- Call your bank from an official number and report the scam channels you used.
-- Read [What to do if you've been scammed](/topics/scams-safety/check-report/what-to-do-if-youve-been-scammed) for a related decision.
-- Read [Investor alert list](/topics/scams-safety/check-report/investor-alert-list) for a related decision.
-- If essentials are at risk, open [Urgent help](/urgent) before taking on new credit.
+- Pick one investment you are considering and complete licence plus alert-list checks this week before any transfer.
+- Save official register bookmarks so you are not Googling under sales pressure.
+- Agree a household rule: no investment from cold contact without a 24-hour pause.
+- If you were pressured into a payment already, call your bank and report via Scamwatch.

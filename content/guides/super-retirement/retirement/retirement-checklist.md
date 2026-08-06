@@ -5,85 +5,88 @@ pillar: super-retirement
 hub: retirement
 slug: retirement-checklist
 updated: "2026-08-03"
-tags: 
+tags:
   - retirement
-relatedTools: 
+relatedTools:
   - retirement-planner
   - super
-relatedGuides: 
+relatedGuides:
   - super-retirement/retirement/case-study-helen-and-joe-retire
-  - super-retirement/retirement/case-study-bills-mortgage-decision
-  - super-retirement/retirement/case-study-lillians-health-scare
-  - super-retirement/retirement/first-nations-resources
+  - super-retirement/plan-retirement/make-a-retirement-plan
+  - super-retirement/income-sources/types-of-retirement-income
+  - super-retirement/plan-retirement/super-and-the-age-pension
 ---
 
-Income needs, debts, and timing your exit from work. Retirement money is a multi-decade project: super, Age Pension, and spending habits interact.
+Use this checklist when retirement is months or a few years away—not as a one-night spreadsheet binge. Tick items in order so cash flow, debts, and access ages line up before you stop work.
 
-## Understanding Retirement checklist
+## Money you will need each year
 
-**Retirement checklist** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Income needs, debts, and timing your exit from work. Retirement money is a multi-decade project: super, Age Pension, and spending habits interact.
+Estimate a retirement spending figure before you stare at your super balance. Separate:
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+- **Must-pay** — housing, food, utilities, transport, insurance, health
+- **Want-to-keep** — travel, hobbies, helping family
+- **One-offs** — car replacement, home repairs, dental
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+Inflate today’s bills by a little each year in your head; do not assume prices freeze. Run the [retirement planner](/tools/retirement-planner) with that annual spend so you see whether projected super plus other income can cover it.
 
-## How to think about the moving parts
+If you and a partner retire on different dates, build two spending pictures—one while one of you still works, one when both have stopped.
 
-Setup quality decides whether **retirement checklist** helps or nags you later. Confirm identity and contact details, choose alerts you will actually read, and decide who else can see or move money. If a salesperson is present, ask for the key numbers in writing before you sign.
+## Debts and housing before you leave work
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+List every debt with rate, repayment, and whether it is secured. High-rate consumer debt is usually harder to carry on a fixed drawdown than a low-rate home loan—but a mortgage still needs a clear payoff or refinance plan.
 
-ClearMoney calculators that pair with this topic: [Retirement Planner](/tools/retirement-planner), [Super](/tools/super). Use them to turn guesses into numbers before you commit.
+Decide deliberately:
 
-## Upsides worth wanting
+1. Pay down or clear the home loan before retirement, or
+2. Keep the loan and hold more super/investments for income, or
+3. Downsize or move to cut housing costs
 
-- Automations that reduce missed payments and late fees
-- Alerts that surface problems while they are still small
-- Shared understanding when more than one person is involved
+There is no universal “always pay off the house” rule. See [Bill’s mortgage decision](/topics/super-retirement/retirement/case-study-bills-mortgage-decision) for how the trade-off plays out in a story.
 
-## Risks and traps to watch
+## Super access timing and Age Pension age
 
-### Easy-to-miss costs
+Preservation age and Age Pension age are not the same number for many people. Confirm both against official sources before you resign—rules and birth-date tables change over time.
 
-Set-and-forget errors (wrong account, wrong amount, wrong date). For **Retirement checklist**, read the conditions that turn a good deal average.
+- When can you meet a condition of release (retired, transition to retirement, or other)?
+- When might you claim Age Pension, and what do the assets and income tests currently look like?
+- Will you use an account-based pension, a lump sum, or a mix?
 
-### Timing and people problems
+Use the [superannuation calculator](/tools/super) for balance growth while you still contribute, then re-run retirement income scenarios when you are closer to stopping work. Read [Getting your super](/topics/super-retirement/how-super-works/getting-your-super) and [Super and the Age Pension](/topics/super-retirement/plan-retirement/super-and-the-age-pension) for the interaction.
 
-Giving too much authority to another person. Write down who can authorise changes.
+## Insurance, beneficiaries, and paperwork
 
-### Recovery friction
+Before you leave employer cover behind:
 
-Missing fine print on fees or cooling-off rights. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+- Check life, TPD, and income protection inside super—leaving a job can change cover
+- Update binding or non-binding beneficiary nominations
+- Confirm your tax file number is on every fund
+- Download recent statements and fee summaries to one folder
 
-## Details that change the decision
+If you hold multiple funds, pause before consolidating so you do not cancel insurance you still need. See [Consolidating super funds](/topics/super-retirement/how-super-works/consolidating-super-funds).
 
-Spending in retirement is the plan; products are tools. For **Retirement checklist**, estimate annual costs, then map income sources and buffers for health and home repairs. Longevity risk—living longer than the money—deserves as much attention as investment returns.
+## Health and living arrangements
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+Health costs often rise in later life even when day-to-day spending falls. Note private health extras, gap risks, and whether your home still fits mobility and maintenance. [Lillian’s health scare](/topics/super-retirement/retirement/case-study-lillians-health-scare) shows how a health event can reorder priorities overnight.
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+Also decide who can act for you if you cannot: will, enduring power of attorney, and (where relevant) medical decision documents. Start at [Wills and powers of attorney](/topics/super-retirement/plan-retirement/wills-and-powers-of-attorney).
 
-## A short story: when the fine print mattered
+## A 90-day countdown if the date is fixed
 
-Mei set everything up in a hurry and only noticed the wrong account after a payment bounced. Chris now screenshots every confirmation and nicknames accounts so automations are obvious. The lesson for **retirement checklist**: slow clarity beats fast regret.
+**Days 90–60:** finalise spending estimate; request a super benefit quote; book Centrelink/myGov prep if Age Pension is likely.
 
-## Practical steps for Retirement checklist
+**Days 60–30:** confirm insurance and beneficiaries; map which bills move from salary to pension or bank account; decide lump sum vs income stream.
 
-1. Gather ID, income evidence, and any existing contracts or statements.
-2. Confirm who else is affected (partner, guarantor, dependants) before you sign.
-3. Complete the application or setup deliberately—screenshot confirmations.
-4. Turn on alerts and store reference numbers where you can find them.
+**Days 30–0:** set the first drawdown or transfer; keep three months of cash buffer outside volatile investments if markets worry you; tell payroll your finish date in writing.
 
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
+## Timing the last year of work
 
-## When life changes
+Treat the final twelve months as a project with milestones. Six months out: confirm leave balances, insurance through super, and whether salary sacrifice should stop or continue. Three months out: draft Centrelink claim materials if Age Pension is likely, and ask payroll what the final payslip will include. One month out: freeze new long contracts that assume a work salary, and test living on the planned retirement transfer for two fortnights while wages still backstop mistakes.
 
-- **Rule changes** — contribution caps, preservation ages, and Age Pension settings change; confirm current figures before acting.
+If you share finances, schedule two calendar holds: one to agree numbers, one to agree feelings. Couples often align on dollars and still clash on what retirement is for. Write both down. The checklist only works when both people can find the same document without hunting through email.
 
 ## What to do next
-
-- Decide the next action for **retirement checklist** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Case study: Helen and Joe retire](/topics/super-retirement/retirement/case-study-helen-and-joe-retire) for a related decision.
-- Read [Case study: Bill's mortgage decision](/topics/super-retirement/retirement/case-study-bills-mortgage-decision) for a related decision.
-- Run the numbers with [Retirement Planner](/tools/retirement-planner).
-- Write your constraints on paper so a sales pitch cannot rewrite them.
+- Write your must-pay annual spend and plug it into the [retirement planner](/tools/retirement-planner).
+- List debts and a housing decision in one page you and your partner can both read.
+- Confirm preservation age, Age Pension age, and current caps on official sites—do not rely on memory.
+- Check insurance and beneficiaries on every super account this month.
+- Skim [Helen and Joe retire](/topics/super-retirement/retirement/case-study-helen-and-joe-retire) if you need a worked couple scenario.

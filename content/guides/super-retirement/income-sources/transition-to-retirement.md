@@ -5,79 +5,82 @@ pillar: super-retirement
 hub: income-sources
 slug: transition-to-retirement
 updated: "2026-08-03"
-tags: 
+tags:
   - income sources
-relatedGuides: 
-  - super-retirement/income-sources/types-of-retirement-income
+relatedGuides:
+  - super-retirement/how-super-works/getting-your-super
   - super-retirement/income-sources/account-based-pensions
-  - super-retirement/income-sources/age-pension-and-government-benefits
-  - super-retirement/income-sources/annuities
+  - super-retirement/grow-super/super-contributions
+  - super-retirement/how-super-works/tax-and-super
 ---
 
-Accessing super while still working (rules overview). Retirement income can come from super, Age Pension, work, and other assets—each with different rules.
+A transition to retirement (TTR) income stream lets you draw on super after preservation age while you continue working—subject to fund rules and legislated payment limits. People use it to ease into fewer work days, top up income after cutting hours, or combine with salary sacrifice strategies that redirect wages back into super. It is not a loophole to empty your balance for discretionary spending.
 
-## Understanding Transition to retirement
+Rules around payment caps, tax on fund earnings, and conversion to a full retirement pension have changed over the past decade. Verify current settings with your fund and the ATO before modelling any strategy. ClearMoney offers general information—not personal advice.
 
-**Transition to retirement** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Accessing super while still working (rules overview). Retirement income can come from super, Age Pension, work, and other assets—each with different rules.
+## What a TTR pension allows
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Once you reach preservation age and start a TTR pension under your fund's product rules, you receive regular payments from a portion of your super while still employed. You generally cannot take a full cash lump sum under TTR the way you might after a full condition of release—access is as an income stream with annual payment limits.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+Full retirement or turning 65 typically changes the product into a standard retirement-phase pension with different tax treatment on fund earnings and potentially higher payment flexibility. Plan that conversion path before you start.
 
-## How to think about the moving parts
+## Preservation age and payment caps
 
-Setup quality decides whether **transition to retirement** helps or nags you later. Confirm identity and contact details, choose alerts you will actually read, and decide who else can see or move money. If a salesperson is present, ask for the key numbers in writing before you sign.
+Preservation age depends on your date of birth—currently between 55 and 60 for most workers. Confirm yours via [Getting your super](/topics/super-retirement/how-super-works/getting-your-super) and your fund.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+TTR pensions historically cap annual payments at a maximum percentage of account balance (with a legislated minimum as well). Exact percentages are set by government instruments and can change—ask your fund for the current minimum and maximum tables in writing.
 
-## Upsides worth wanting
+Starting TTR before you need the income shrinks the balance that must fund full retirement later.
 
-- Automations that reduce missed payments and late fees
-- Alerts that surface problems while they are still small
-- Shared understanding when more than one person is involved
+## Common work-hour patterns
 
-## Risks and traps to watch
+**Reduce days, replace wages.** Drop from five days to four and use TTR payments to replace the lost day's income. Test whether the after-tax result beats simply earning less without touching super.
 
-### Easy-to-miss costs
+**Salary sacrifice pairing.** Some higher earners combine TTR drawdowns with salary sacrifice into super. Interactions with concessional contribution caps, Division 293 tax, and cash flow needs are non-trivial—get tax help for large moves. See [Super contributions](/topics/super-retirement/grow-super/super-contributions).
 
-Set-and-forget errors (wrong account, wrong amount, wrong date). For **Transition to retirement**, read the conditions that turn a good deal average.
+**Skip TTR entirely.** If cutting hours without super access is affordable, preserving the balance for full retirement may be simpler and cheaper after fees.
 
-### Timing and people problems
+## Tax on earnings and withdrawals
 
-Giving too much authority to another person. Write down who can authorise changes.
+TTR pensions may not receive the same earnings tax exemption as full retirement-phase pensions until you meet a full condition of release. That detail has been a major planning point since rule changes last decade—**verify the current tax treatment on fund earnings before you model a clever strategy**.
 
-### Recovery friction
+Withdrawals from taxed funds are often tax-free from age 60, but under-60 TTR payments can include taxable components. Overview: [Tax and super](/topics/super-retirement/how-super-works/tax-and-super).
 
-Missing fine print on fees or cooling-off rights. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+## Mistakes that shrink your balance
 
-## Details that change the decision
+- Drawing the maximum every year without needing it
+- Ignoring administration fees on a small TTR account split from your main balance
+- Forgetting to convert or rebuild strategy when you truly retire
+- Complex salary-sacrifice setups that breach concessional caps and attract extra tax
+- Funding lifestyle creep—restaurants and upgrades—rather than replacing necessary income
 
-Account-based pensions, Age Pension, wages, and annuities each behave differently when markets fall. For **Transition to retirement**, write which bills each income stream is meant to cover. Keep a cash buffer so you are not forced to sell growth assets in a downturn.
+TTR works best with a written purpose and a review date.
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+## Moving to full retirement
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+When you permanently retire after preservation age or turn 65, convert the TTR pension to a standard [account-based pension](/topics/super-retirement/income-sources/account-based-pensions). That shift may unlock earnings tax exemption on fund assets (subject to transfer balance cap) and remove payment maximums while keeping minimum drawdown rules.
 
-## A short story: when the fine print mattered
+Tell your fund, update payroll and sacrifice arrangements, and diary a review each July and at actual retirement. Notify Centrelink if you receive income-tested payments.
 
-Noah set everything up in a hurry and only noticed the wrong account after a payment bounced. Riley now screenshots every confirmation and nicknames accounts so automations are obvious. The lesson for **transition to retirement**: slow clarity beats fast regret.
+## Salary sacrifice pairing—careful maths
 
-## Practical steps for Transition to retirement
+A classic pattern is: start TTR payments while salary-sacrificing back into accumulation to replace some of what you draw. The idea is cash-flow neutrality with possible tax effects. Whether it helps depends on your marginal tax rate, contributions tax, caps, and fees on two product shells.
 
-1. Gather ID, income evidence, and any existing contracts or statements.
-2. Confirm who else is affected (partner, guarantor, dependants) before you sign.
-3. Complete the application or setup deliberately—screenshot confirmations.
-4. Turn on alerts and store reference numbers where you can find them.
+This is easy to get wrong. Before you copy a blog strategy from years ago, have a registered tax agent or licensed adviser run your numbers for the current year. Caps and earnings tax treatment of TTR have changed before and can change again.
 
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
+## Reducing hours without TTR
 
-## When life changes
+Sometimes the cleaner move is simply working four days with a spending cut, leaving super untouched until full retirement. TTR adds forms, payment limits, and another product to monitor. Use it when the income replacement is necessary—not because it sounds sophisticated.
 
-- **Rule changes** — contribution caps, preservation ages, and Age Pension settings change; confirm current figures before acting.
+## Ending TTR cleanly
+
+When you fully retire or hit conditions that convert the product, update Centrelink, check whether earnings tax treatment changes, reset payment amounts, and revisit investment mix. Beneficiaries should be reconfirmed on the converted pension.
+
 
 ## What to do next
 
-- Decide the next action for **transition to retirement** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Types of retirement income](/topics/super-retirement/income-sources/types-of-retirement-income) for a related decision.
-- Read [Account-based pensions](/topics/super-retirement/income-sources/account-based-pensions) for a related decision.
-- Write your constraints on paper so a sales pitch cannot rewrite them.
+- Request a written TTR illustration from your fund with fees, payment limits, and tax notes.
+- Check remaining concessional cap space if combining with salary sacrifice.
+- Model whether cutting work hours without TTR is enough for your budget.
+- Plan the conversion path to a standard account-based pension when you fully retire.
+- Set a calendar reminder to review TTR payments every birthday—cancel what you do not need.

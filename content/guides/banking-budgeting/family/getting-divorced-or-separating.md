@@ -1,83 +1,81 @@
 ---
-title: "Getting divorced or separating"
-description: "Money steps when a relationship ends."
+title: Getting divorced or separating
+description: Money steps when a relationship ends.
 pillar: banking-budgeting
 hub: family
 slug: getting-divorced-or-separating
 updated: "2026-08-03"
-tags: 
+tags:
   - family
-relatedGuides: 
-  - banking-budgeting/family/relationships-and-money
+relatedGuides:
+  - banking-budgeting/family/divorce-and-separation-financial-checklist
+  - banking-budgeting/family/financial-abuse
+  - banking-budgeting/banking/joint-accounts
   - banking-budgeting/family/marriage-and-money
-  - banking-budgeting/family/having-a-baby
-  - banking-budgeting/family/getting-a-pet
 ---
 
-Money steps when a relationship ends. Family money decisions affect more than one person. Clarity and safety matter as much as the spreadsheet.
+When a relationship ends, money tasks stack up while emotions are raw. Secure essential income and day-to-day access first; larger property and super questions can follow with proper advice.
 
-## Understanding Getting divorced or separating
+## Protect income and essentials first
 
-**Getting divorced or separating** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Money steps when a relationship ends. Family money decisions affect more than one person. Clarity and safety matter as much as the spreadsheet.
+Priority order for the first days and weeks:
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+1. Make sure your pay, Centrelink, or other income can land in an account **only you control**.
+2. Keep rent or mortgage, utilities, food, medicine, fuel, and child-related costs payable.
+3. Change online banking passwords on accounts you control; enable alerts.
+4. Redirect your salary if it still goes to a joint account.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+Do not wait for a full legal settlement to protect the money you need to live. Separation agreements and court orders matter—but hunger and homelessness are immediate risks.
 
-## How to think about the moving parts
+If you are unsafe, prioritise a safety plan. Contact 1800RESPECT (1800 737 732) and see [Urgent help](/urgent) and [Financial abuse](/topics/banking-budgeting/family/financial-abuse).
 
-Setup quality decides whether **getting divorced or separating** helps or nags you later. Confirm identity and contact details, choose alerts you will actually read, and decide who else can see or move money. If a salesperson is present, ask for the key numbers in writing before you sign.
+## Separation of day-to-day money
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+List joint and sole accounts, credit cards, offset accounts, and Buy Now Pay Later balances. For [joint accounts](/topics/banking-budgeting/banking/joint-accounts):
 
-## Upsides worth wanting
+- understand whether the account is either-to-operate (the other person may still withdraw)
+- speak to the bank about options available in your situation
+- move your essential banking to a sole account where appropriate
+- track any large withdrawals; keep statements
 
-- Automations that reduce missed payments and late fees
-- Alerts that surface problems while they are still small
-- Shared understanding when more than one person is involved
+Cancel or separate shared streaming, shopping logins, and food-delivery profiles tied to cards you are closing. Small leaks add stress.
 
-## Risks and traps to watch
+Update postal addresses and email so statements reach you. Missing mail is how debts and default notices get overlooked.
 
-### Easy-to-miss costs
+## Larger assets and debts later
 
-Set-and-forget errors (wrong account, wrong amount, wrong date). For **Getting divorced or separating**, read the conditions that turn a good deal average.
+Home equity, vehicles, investments, superannuation, and tax debts usually need legal and sometimes financial advice tailored to your circumstances. This guide cannot tell you what a fair split is.
 
-### Timing and people problems
+While advice is underway:
 
-Giving too much authority to another person. Write down who can authorise changes.
+- avoid draining joint assets in panic (that can worsen legal and practical outcomes)
+- do not sign blank documents or “temporary” transfers you do not understand
+- keep paying debts that are in your name where you can, and get advice if you cannot
+- gather records—the [Divorce and separation financial checklist](/topics/banking-budgeting/family/divorce-and-separation-financial-checklist) helps
 
-### Recovery friction
+Child support and parenting arrangements interact with cash flow. Use official channels rather than informal promises alone when reliability matters.
 
-Missing fine print on fees or cooling-off rights. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+## If you feel unsafe
 
-## Details that change the decision
+Financial control often continues after separation: withheld transfers, sabotaged rent, coerced debt, or stalking through bank alerts. Document what you can safely document. Banks and utilities sometimes have hardship or vulnerability support—ask.
 
-Households break when money rules are unspoken. Decide what is shared, what is personal, and how you will talk about shortfalls without blame. For **Getting divorced or separating**, safety outranks efficiency: if someone uses money to control or frighten you, seek support before optimising accounts. Write down bill owners and due dates so one person’s illness or travel does not create late fees.
+You do not have to negotiate face-to-face if that is dangerous. Lawyers, support services, and shuttle negotiation exist for a reason.
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+## Emotional spending and credit
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+Separation spikes spending—moves, double rent, legal fees, convenience food. Watch new credit. A short-term loan that “bridges” the month can become a second crisis. If debts are already unmanageable, the National Debt Helpline (1800 007 007) offers free advice.
 
-## A short story: when the fine print mattered
+## Housing and the in-between months
 
-Aisha set everything up in a hurry and only noticed the wrong account after a payment bounced. Taylor now screenshots every confirmation and nicknames accounts so automations are obvious. The lesson for **getting divorced or separating**: slow clarity beats fast regret.
+Many people face a stretch of overlapping rent, bond, moving costs, and furniture gaps. Price the real gap before signing a new lease. Temporary stays with family, a short fixed-term rental, or selling unused goods can bridge months cheaper than a large personal loan.
 
-## Practical steps for Getting divorced or separating
+Tell your landlord or lender early if separation affects who lives in the property or who can pay. Surprises create eviction and default risk; documented hardship conversations create options.
 
-1. Gather ID, income evidence, and any existing contracts or statements.
-2. Confirm who else is affected (partner, guarantor, dependants) before you sign.
-3. Complete the application or setup deliberately—screenshot confirmations.
-4. Turn on alerts and store reference numbers where you can find them.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Safety first** — if someone controls money as a form of harm, see ClearMoney’s financial abuse guidance and 1800RESPECT (1800 737 732).
+Keep children’s routines funded where you can—school, care, and transport—even while adult discretionary spending is cut hard. Kids experience separation through disrupted basics more than through adult legal detail.
 
 ## What to do next
 
-- Decide the next action for **getting divorced or separating** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Relationships and money](/topics/banking-budgeting/family/relationships-and-money) for a related decision.
-- Read [Marriage and money](/topics/banking-budgeting/family/marriage-and-money) for a related decision.
-- Write your constraints on paper so a sales pitch cannot rewrite them.
+- Open or use a sole account for your income and essential bills this week if you have not already.
+- Work through the [Divorce and separation financial checklist](/topics/banking-budgeting/family/divorce-and-separation-financial-checklist) and store copies somewhere safe.
+- Get legal advice about property, super, and parenting money issues for your situation.
+- If you are scared about money or safety, call 1800RESPECT (1800 737 732) or start at [Urgent help](/urgent).

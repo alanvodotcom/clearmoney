@@ -5,80 +5,60 @@ pillar: insurance
 hub: life-insurance
 slug: insurance-through-super
 updated: "2026-08-03"
-tags: 
+tags:
   - life insurance
-relatedGuides: 
+relatedGuides:
   - insurance/life-insurance/life-insurance-cover
   - insurance/life-insurance/income-protection-insurance
   - insurance/life-insurance/total-and-permanent-disability-tpd-insurance
   - insurance/life-insurance/trauma-insurance
+  - super-retirement/how-super-works/choosing-a-super-fund
 ---
 
-Default cover in super—check and adjust. Life and personal insurance replace income or cover costs when health or life events hit.
+Most Australian super funds offer life and TPD cover—and often income protection—paid from your super balance. You may already hold default units you never chose. That can be useful protection or a quiet drain on retirement savings. The only way to know which is to read the amounts, definitions, and premium lines on your statement.
 
-## Insurance through super: the clear version
+## Default cover is not personalised cover
 
-**Insurance through super** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Default cover in super—check and adjust. Life and personal insurance replace income or cover costs when health or life events hit.
+Funds enrol many members automatically when balances or ages hit thresholds set by the fund. Default sums insured are blunt instruments: they ignore your mortgage, dependants, and other policies. Young members sometimes hold more insurance than they need; others hold far too little once they buy a home.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Log into your fund and note:
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+- types of cover (death, TPD, income protection)
+- sum insured or unit scales by age
+- monthly or annual premium deducted from super
+- whether cover is fixed, age-based, or opt-in only
 
-## How to think about the moving parts
+Compare that picture with any retail policies. Paying for similar benefits twice rarely helps once claim offsets and definitions are considered.
 
-Insurance decisions for **insurance through super** are about the claim you hope never happens. Read exclusions and waiting periods before you compare price alone. Check whether you already hold overlapping cover elsewhere.
+## Premiums that erode the balance
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Insurance inside super feels painless because cash does not leave your bank account. Over a decade, premiums can still remove a meaningful slice of compound growth. That trade-off can be worthwhile if you need the cover and would struggle to pay premiums outside super. It is a poor trade-off if you have no dependants, large liquid savings, and duplicate retail cover.
 
-## Upsides worth wanting
+Some funds cancel or reduce default cover if contributions stop or the balance gets too low. Casual workers and career breaks can accidentally lose protection. If you rely on fund cover, watch contribution patterns when you change jobs—[stapling](/topics/super-retirement/how-super-works/stapled-super-fund) stops duplicate accounts, but it does not automatically fix underinsurance.
 
-- A financial backstop after insured events
-- Clearer recovery planning when documents are ready
-- Peace of mind when sums insured match rebuild or replace costs
+## Definitions inside super are often stricter
 
-## Risks and traps to watch
+TPD through super frequently uses an any-occupation style test. Income protection through super may have shorter benefit periods, longer waiting periods, or tighter offsets than a retail policy. Death cover definitions are usually clearer, but beneficiary nominations still decide who is paid and how quickly.
 
-### Easy-to-miss costs
+Before you cancel fund cover to “save” premiums, check whether you remain eligible for retail cover at a decent price. Health changes can make replacement expensive or impossible. If you consolidate funds, confirm insurance will transfer or restart—many people lose cover when they roll money without reading the insurance fine print. See [consolidating super](/topics/super-retirement/how-super-works/consolidating-super-funds).
 
-Underinsurance and uncovered flood or temporary accommodation gaps. For **Insurance through super**, read the conditions that turn a good deal average.
+## Adjusting without creating a gap
 
-### Timing and people problems
+Funds usually let you increase cover (with underwriting), decrease it, or opt out. Increasing for a new mortgage can be smarter than buying a second full retail stack. Decreasing after debts fall can free balance for retirement. Opting out is rational for some members—and risky for others who assume “the fund looks after that.”
 
-Overlapping policies that still leave a hole. Put review dates in your calendar.
+Put a calendar reminder against your annual statement: re-read sums insured, premiums, and nominations. Life events—marriage, separation, children, a bigger loan—should trigger the same review as a retail policy would.
 
-### Recovery friction
 
-Add-ons that cost more than the likely benefit. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+## Multiple funds, multiple premiums
 
-## Details that change the decision
+Old super accounts sometimes still hold default insurance even after you think you consolidated. Each policy deducts premiums. Search the ATO for lost super, then check insurance on every found account before you close it—cancelling cover by accident is common when people chase fee savings alone.
 
-Cover amounts should reflect debts, dependants, and how long income would need replacing. For **Insurance through super**, check definitions for total and permanent disability and income protection waiting periods. Stepped premiums can rise sharply with age—know the path.
-
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
-
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when timing changed the outcome
-
-Jordan discovered after a claim that the sum insured was years out of date. Sam now reviews cover at renewal with rebuild and contents lists, not just the premium. The lesson for **insurance through super**: slow clarity beats fast regret.
-
-## Practical steps for Insurance through super
-
-1. List the risks you actually need covered versus nice-to-haves.
-2. Compare sum insured, excess, exclusions, and waiting periods.
-3. Check whether cover already exists inside super, bank, or another policy.
-4. Store policy numbers and claim phone lines offline as well as in the app.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Rule changes** — contribution caps, preservation ages, and Age Pension settings change; confirm current figures before acting.
-- **Claims** — photograph damage, keep receipts for emergency spends, and ask about temporary accommodation cover if you cannot stay home.
+Aim for one intentional insurance design across super and retail, not three accidental defaults.
 
 ## What to do next
 
-- Decide the next action for **insurance through super** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Life insurance cover](/topics/insurance/life-insurance/life-insurance-cover) for a related decision.
-- Read [Income protection insurance](/topics/insurance/life-insurance/income-protection-insurance) for a related decision.
-- Set a calendar reminder to revisit this decision after the next statement cycle.
+- Download your insurance schedule from your fund and write down cover types, sums, waiting periods, and premiums.
+- Line it up against [life](/topics/insurance/life-insurance/life-insurance-cover), [TPD](/topics/insurance/life-insurance/total-and-permanent-disability-tpd-insurance), and [income protection](/topics/insurance/life-insurance/income-protection-insurance) needs—not against the default alone.
+- Before cancelling, get a retail quote and confirm you can replace cover.
+- Update binding nominations and check what happens to insurance if you switch or consolidate funds.
+- If fund fees and insurance both look wrong for you, compare funds with [choosing a super fund](/topics/super-retirement/how-super-works/choosing-a-super-fund) in mind—not price alone.

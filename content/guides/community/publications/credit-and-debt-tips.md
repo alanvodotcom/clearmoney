@@ -5,80 +5,61 @@ pillar: community
 hub: publications
 slug: credit-and-debt-tips
 updated: "2026-08-03"
-tags: 
+tags:
   - publications
-relatedGuides: 
+relatedGuides:
   - community/publications/publications
   - community/publications/how-to-complain
-  - community/publications/money-tips-in-other-languages
   - community/publications/beware-of-scams
+  - community/publications/budgeting-and-saving-tips
 ---
 
-Short credit tip sheet. ClearMoney publications are starting points—use them with your own numbers and official sources for thresholds.
+Credit is a tool for timing purchases—not free money. This tip sheet covers how Australians can borrow with clearer eyes, spot costly traps early, and get help before debt owns the fortnight.
 
-## Understanding Credit and debt (community tip)
+## Borrow only when cash flow can repay
 
-**Credit and debt (community tip)** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Short credit tip sheet. ClearMoney publications are starting points—use them with your own numbers and official sources for thresholds.
+Write the purchase, the deposit you can pay now, and the **total** you will repay if you take the full term. Weekly or fortnightly figures hide the real cost. Add the interest rate, any annual fee, and what happens if you miss a payment.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Ask: if next month’s hours drop, can I still clear this without skipping rent or food? If the answer needs another loan, pause. Prefer a smaller limit and a written repayment date over a large facility “just in case.”
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+For existing balances, list each debt with rate, minimum, and due date. Attack the highest rate first while keeping other minimums current—unless a counsellor advises a different order for hardship.
 
-## How to think about the moving parts
+## Minimum payments keep you stuck longer
 
-When **credit and debt (community tip)** collides with debt stress, order of operations matters: essentials first, then contact lenders, then free counselling if you cannot see a path. Silence usually makes options worse.
+Paying only the minimum on a credit card can stretch a purchase for years. Set a fixed extra amount each payday (even $20–$50) and treat it like rent. Turn off “minimum due” autopay if you can afford more; keep an alert so you never miss the due date.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Store cards and buy-now-pay-later plans often look interest-free until a late fee or deferred interest clause bites. Read the late-payment rules before the checkout button. If several BNPL accounts are open, close new ones until the old ones are clear.
 
-## Upsides worth wanting
+## What sits on your credit file
 
-- Hardship programs that can pause or reshape repayments
-- Reduced stress when there is a written plan
-- Protection pathways if collectors breach the rules
+Lenders and some landlords look at repayment history, defaults, and how much credit you already hold. A missed payment can follow you when you next apply for a phone plan, car loan, or rental.
 
-## Risks and traps to watch
+Order your free credit reports from the major bureaus and check for accounts you do not recognise, wrong balances, or repaid debts still showing as open. Dispute errors in writing and keep copies. Do not open multiple applications in one week while shopping—each enquiry can show up.
 
-### Easy-to-miss costs
+If someone pressures you to co-sign or open a joint facility, understand you can be liable for the whole debt. That is a relationship and credit decision, not a favour.
 
-Ignoring contact until default listing or legal steps begin. For **Credit and debt (community tip)**, read the conditions that turn a good deal average.
+## When debt stress needs outside help
 
-### Timing and people problems
+Missed essentials, constant collection calls, or using new credit for groceries are signals to stop rearranging products and get support. Free financial counselling through the National Debt Helpline (1800 007 007) can help you prioritise, talk to creditors, and avoid high-cost “debt consolidation” pitches that worsen the hole.
 
-Using payday-style credit to patch structural shortfalls. Write down who can authorise changes.
+If a lender or collector will not deal fairly, use the provider’s complaint process, then escalate—see [how to complain](/topics/community/publications/how-to-complain). Scam “debt wipe” services that ask for upfront fees are common; verify helpers on official channels and read [beware of scams](/topics/community/publications/beware-of-scams).
 
-### Recovery friction
+Hardship arrangements (reduced payments for a set period) usually beat ignoring letters. Ask in writing, keep reference numbers, and diary the end date so the arrangement does not quietly expire.
 
-Signing payment plans you cannot keep. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+## Small habits that cut interest quietly
 
-## Details that change the decision
+- Autopay more than the minimum on payday, not mid-cycle when the account is empty.
+- Freeze unused cards in the bank app so impulse spending needs a deliberate thaw.
+- Cancel store accounts once settled if annual fees apply.
+- Keep one emergency plan that is cash or a tiny buffer—not another revolving limit.
+- Review limits yearly; unused high limits still count toward how much credit you hold.
 
-Use checklists as prompts, then replace sample numbers with yours. For **Credit and debt (community tip)**, note the date you read a guide and re-check official thresholds when acting on dollar figures.
-
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
-
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when the fine print mattered
-
-Jordan avoided lender calls until fees stacked. Sam asked for hardship in writing, listed essentials first, and booked a free counsellor session the same week. The lesson for **credit and debt (community tip)**: slow clarity beats fast regret.
-
-## Practical steps for Credit and debt (community tip)
-
-1. List debts with balances, rates, and minimums; mark essentials separately.
-2. Contact lenders early and ask about hardship options in writing.
-3. Speak with a free financial counsellor if repayments no longer fit.
-4. Avoid high-cost short-term credit as a ‘bridge’ without a repayment date.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Life changes** — job loss, a new dependant, or a move can invalidate last year’s choice; schedule a review.
-- **Records** — keep PDFs of contracts, statements, and cancellation confirmations for at least a year.
+Pair debt pay-down with a simple spend map from [budgeting and saving tips](/topics/community/publications/budgeting-and-saving-tips) so cleared balances do not refill.
 
 ## What to do next
 
-- Decide the next action for **credit and debt (community tip)** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Publications](/topics/community/publications/publications) for a related decision.
-- Read [How to complain](/topics/community/publications/how-to-complain) for a related decision.
-- Write your constraints on paper so a sales pitch cannot rewrite them.
+- List every debt with rate, balance, and due date on one page.
+- Raise one repayment above the minimum this payday, or call 1800 007 007 if essentials are at risk.
+- Order your credit reports and note anything that looks wrong.
+- Read [how to complain](/topics/community/publications/how-to-complain) if a provider will not engage on hardship.
+- Browse [publications](/topics/community/publications/publications) for related tip sheets.

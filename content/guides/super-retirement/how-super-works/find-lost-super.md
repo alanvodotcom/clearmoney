@@ -5,79 +5,88 @@ pillar: super-retirement
 hub: how-super-works
 slug: find-lost-super
 updated: "2026-08-03"
-tags: 
+tags:
   - how super works
-relatedGuides: 
-  - super-retirement/how-super-works/superannuation
-  - super-retirement/how-super-works/types-of-super-funds
-  - super-retirement/how-super-works/choosing-a-super-fund
+relatedGuides:
+  - super-retirement/how-super-works/consolidating-super-funds
   - super-retirement/how-super-works/stapled-super-fund
+  - super-retirement/grow-super/how-to-check-your-super
+  - community/unclaimed-money/claim-money-from-bank-accounts-and-bank-dividends
 ---
 
-Search for lost or ATO-held super. Super is compulsory saving for later life, with rules on contributions, investments, and when you can access it.
+Lost super is money sitting in an old fund—or transferred to the ATO—because the fund could not contact you or the balance met reuniting rules. Finding it is usually free via myGov. Paying a stranger a percentage to “hunt” it for you is rarely necessary.
 
-## Find lost super: the clear version
+## Where lost super hides
 
-**Find lost super** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Search for lost or ATO-held super. Super is compulsory saving for later life, with rules on contributions, investments, and when you can access it.
+- Funds from casual jobs you forgot
+- Accounts under a previous name or old address
+- Low balances sent to the ATO after inactivity / reuniting criteria
+- Multiple small MySuper accounts opened before stapling became common
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+The ATO’s online search (through myGov) is the primary official path. Fund call centres can also search if you have old member numbers.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+## Search steps that work
 
-## How to think about the moving parts
+1. Create or log into myGov and link the ATO
+2. Open the super section and note every account listed—active, inactive, and ATO-held
+3. Update your TFN on funds that lack it (matching improves)
+4. Contact each fund or follow ATO instructions to claim ATO-held amounts into an active fund
+5. Keep screenshots of balances before and after transfers
 
-Setup quality decides whether **find lost super** helps or nags you later. Confirm identity and contact details, choose alerts you will actually read, and decide who else can see or move money. If a salesperson is present, ask for the key numbers in writing before you sign.
+If myGov access is hard, a tax agent or a trusted support person with proper authority may help—but do not hand over passwords to a cold caller.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+## Proof you may need
 
-## Upsides worth wanting
+- Photo ID matching your current legal name
+- Evidence of name change (marriage, deed poll) if accounts differ
+- Old payslips or member numbers if the online match fails
 
-- Automations that reduce missed payments and late fees
-- Alerts that surface problems while they are still small
-- Shared understanding when more than one person is involved
+First Nations readers with complex ID pathways can use [How to prove your identity](/topics/community/first-nations/how-to-prove-your-identity) ideas when a fund requests extra documents.
 
-## Risks and traps to watch
+## After you find it: decide, don’t autopilot
 
-### Easy-to-miss costs
+Small balances often belong in your main fund—but only after an insurance check. See [Consolidating super funds](/topics/super-retirement/how-super-works/consolidating-super-funds). ATO-held amounts generally do not earn the same investment returns as money inside a fund, so reuniting sooner usually beats “I’ll deal with it later.”
 
-Set-and-forget errors (wrong account, wrong amount, wrong date). For **Find lost super**, read the conditions that turn a good deal average.
+## Scams wearing a lost-super costume
 
-### Timing and people problems
+Hang up if someone:
 
-Giving too much authority to another person. Put review dates in your calendar.
+- Calls out of the blue about “unclaimed super”
+- Asks for myGov codes or remote access
+- Demands an upfront fee before showing ATO results you can obtain yourself
+- Pushes an immediate fund switch as part of the “recovery”
 
-### Recovery friction
+Report suspicious contacts via Scamwatch. Real reuniting does not require panic.
 
-Missing fine print on fees or cooling-off rights. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+## Keep it from getting lost again
 
-## Details that change the decision
+- Put your current email and mobile on every fund
+- Use one stapled primary account for new employers where possible
+- Review accounts whenever you change address or name
+- Download yearly statements to a personal archive
 
-Contributions, investment options, insurance inside super, and fees interact. For **Find lost super**, log in, download a statement, and note beneficiary nominations. Multiple funds often mean multiple fee drags—consolidation can help after you check insurance loss risks.
+## After a name change
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+Marriage, divorce, or cultural name changes should trigger a proactive fund update—not only a future lost-super search. Send certified ID updates to every fund you know. Prevention beats detective work.
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+## Multiple TFNs and historical errors
 
-## A short story: when timing changed the outcome
+Rarely, people end up with duplicate TFN records after identity issues. If searches look wrong despite a long work history, a tax agent can help straighten identity links with the ATO. Do not create a second TFN to “fix” anything—that worsens the mess.
 
-Harper set everything up in a hurry and only noticed the wrong account after a payment bounced. Drew now screenshots every confirmation and nicknames accounts so automations are obvious. The lesson for **find lost super**: slow clarity beats fast regret.
+## Verification steps unique to Find lost super
 
-## Practical steps for Find lost super
+Confirm live contribution caps, Age Pension thresholds, preservation details, and product fees on official ATO, Services Australia, or fund PDS pages the week you act. ClearMoney offers general information only—not personal advice. Write one next action with a date and store PDFs of confirmations where you can find them in six months.
 
-1. Gather ID, income evidence, and any existing contracts or statements.
-2. Confirm who else is affected (partner, guarantor, dependants) before you sign.
-3. Complete the application or setup deliberately—screenshot confirmations.
-4. Turn on alerts and store reference numbers where you can find them.
+If the dollar amount is large, sleep on the decision and consider licensed advice. Cold callers who demand one-time codes or remote access are not helpers. Hang up and use bookmarks you typed yourself.
 
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
+## Filing habits for find lost super
 
-## When life changes
+Keep statements, insurance schedules, advice fee consents, and solicitor letters in a dated folder. Share access rules with a trusted person without pasting every password into a group chat. Organised evidence shortens disputes, estate claims, and Centrelink conversations.
 
-- **Rule changes** — contribution caps, preservation ages, and Age Pension settings change; confirm current figures before acting.
+Revisit after job changes, relationship changes, or health shocks. A short annual review beats a perfect plan nobody opens.
 
 ## What to do next
-
-- Decide the next action for **find lost super** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Superannuation basics](/topics/super-retirement/how-super-works/superannuation) for a related decision.
-- Read [Types of super funds](/topics/super-retirement/how-super-works/types-of-super-funds) for a related decision.
-- Set a calendar reminder to revisit this decision after the next statement cycle.
+- Run the ATO super search in myGov this week—even if you “only had one job.”
+- Claim ATO-held amounts into a fund you already trust.
+- Table any extras for careful consolidation after insurance review.
+- Ignore paid hunters who gatekeep information you can access free.

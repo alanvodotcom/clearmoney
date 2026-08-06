@@ -5,79 +5,99 @@ pillar: super-retirement
 hub: manage-retirement
 slug: aged-care
 updated: "2026-08-03"
-tags: 
+tags:
   - manage retirement
-relatedGuides: 
-  - super-retirement/manage-retirement/make-your-money-last-in-retirement
-  - super-retirement/manage-retirement/retirement-income-and-tax
+relatedGuides:
   - super-retirement/manage-retirement/manage-health-costs-in-retirement
-  - super-retirement/manage-retirement/downsizing-in-retirement
+  - super-retirement/plan-retirement/wills-and-powers-of-attorney
+  - super-retirement/income-sources/reverse-mortgage-and-home-equity-release
+  - super-retirement/manage-retirement/get-help-in-retirement
 ---
 
-Money aspects of home care and residential care. In retirement, the job shifts from accumulation to drawing down sustainably and keeping paperwork tidy.
+Aged care money decisions often arrive under stress—a fall, a dementia diagnosis, carer exhaustion. Home care and residential care use different fee frameworks, means tests, and waiting processes. Starting with official My Aged Care information beats reacting to a provider's sales lunch or a cold caller promising "guaranteed package upgrades."
 
-## Understanding Aged care
+This guide covers assessment pathways, fee types, and funding sources at a high level. Rules and rates change—verify current figures on My Aged Care and Services Australia. ClearMoney offers general information—not personal advice.
 
-**Aged care** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Money aspects of home care and residential care. In retirement, the job shifts from accumulation to drawing down sustainably and keeping paperwork tidy.
+## Starting with an assessment
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Contact My Aged Care for an assessment that matches your needs to subsidised services. The assessment—not a glossy brochure—opens pathways to Commonwealth-supported home care and residential care. Eligibility, package levels, and fee caps evolve; confirm current settings before budgeting.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+Gather Medicare details, GP contact, and a picture of daily living difficulties before the assessor visits. Family can join with permission. An accurate assessment prevents under-servicing later.
 
-## How to think about the moving parts
+If someone pressures you to pay for a private "priority assessment," stop—that is not the official pathway.
 
-Setup quality decides whether **aged care** helps or nags you later. Confirm identity and contact details, choose alerts you will actually read, and decide who else can see or move money. If a salesperson is present, ask for the key numbers in writing before you sign.
+## Home care packages explained
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Home care packages fund support while you stay at home—domestic help, personal care, transport, some clinical services, and equipment in higher levels. Packages are numbered by acuity; wait lists exist for higher levels in many regions.
 
-## Upsides worth wanting
+Fees can include:
 
-- Automations that reduce missed payments and late fees
-- Alerts that surface problems while they are still small
-- Shared understanding when more than one person is involved
+- **Basic daily fee** — most clients pay this
+- **Income-tested care fee** — based on means assessment; caps apply over your lifetime
+- **Provider charges** — administration, case management, and profit margins differ wildly
 
-## Risks and traps to watch
+Unspent package funds and provider admin fees deserve scrutiny. Ask for plain-English monthly statements showing hours delivered versus fees retained. Switching providers is possible but administratively painful—choose carefully.
 
-### Easy-to-miss costs
+Family often provides unpaid care; budget for carer burnout, respite, and transport. See [Manage health costs in retirement](/topics/super-retirement/manage-retirement/manage-health-costs-in-retirement) for Medicare versus aged care boundaries.
 
-Set-and-forget errors (wrong account, wrong amount, wrong date). For **Aged care**, read the conditions that turn a good deal average.
+## Residential care fees
 
-### Timing and people problems
+Moving into a residential aged care home can involve:
 
-Giving too much authority to another person. Write down who can authorise changes.
+- **Basic daily fee** — covers living costs; most residents pay
+- **Means-tested care fee** — based on income and assets; lifetime caps apply
+- **Accommodation payments** — Refundable Accommodation Deposit (RAD), Daily Accommodation Payment (DAP), or a combination
 
-### Recovery friction
+RADs can reach hundreds of thousands of dollars. They are refunded (minus agreed deductions) when you leave or die, but they tie up capital. DAPs convert the deposit into a daily payment style charge—useful when you want to preserve cash or sell a home over time.
 
-Missing fine print on fees or cooling-off rights. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+Official calculators help compare RAD versus DAP—re-check when interest rates change.
 
-## Details that change the decision
+## Paying accommodation costs
 
-Administration mistakes—wrong tax file details, lapsed insurance, ignored required drawdowns—create avoidable stress. For **Aged care**, set a yearly review: beneficiaries, spending, fees, and whether the investment mix still matches your drawdown pace.
+Common funding sources include:
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+- Sale proceeds from the former home
+- Super drawdowns or account-based pension payments
+- Savings and investments
+- Equity release—used cautiously; see [Reverse mortgage and home equity release](/topics/super-retirement/income-sources/reverse-mortgage-and-home-equity-release)
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+Each path affects Age Pension and means-tested fees differently. Leaving a large RAD refund sitting in a bank account can increase assessed assets. Timing the home sale matters—get advice for large sums.
 
-## A short story: when the fine print mattered
+Update [Wills and powers of attorney](/topics/super-retirement/plan-retirement/wills-and-powers-of-attorney) before capacity becomes contested.
 
-Priya set everything up in a hurry and only noticed the wrong account after a payment bounced. Alex now screenshots every confirmation and nicknames accounts so automations are obvious. The lesson for **aged care**: slow clarity beats fast regret.
+## Contracts and optional extras
 
-## Practical steps for Aged care
+Residential agreements distinguish core care from **extra service** fees—wine with meals, higher room tiers, pay-TV packages. Understand what is clinical necessity versus lifestyle add-on before signing. Optional extras can exceed care fees over years.
 
-1. Gather ID, income evidence, and any existing contracts or statements.
-2. Confirm who else is affected (partner, guarantor, dependants) before you sign.
-3. Complete the application or setup deliberately—screenshot confirmations.
-4. Turn on alerts and store reference numbers where you can find them.
+Keep copies of resident agreements, fee schedules, and RAD refund terms. Photograph room condition on entry if disputes arise later.
 
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
+## Staying safe from scams
 
-## When life changes
+Grief and urgency attract fraud: fake assessment fees, miracle "priority list" payments, demands for gift cards, or someone claiming to be My Aged Care asking for remote access to your bank.
 
-- **Rule changes** — contribution caps, preservation ages, and Age Pension settings change; confirm current figures before acting.
+Pay only through official channels. Verify phone numbers from the My Aged Care website—not caller ID. For broader scam habits, see [Protect your money in retirement](/topics/super-retirement/manage-retirement/protect-your-money-in-retirement).
+
+Free help exists—[Get help in retirement](/topics/super-retirement/manage-retirement/get-help-in-retirement) lists counselling, advocacy, and legal supports when fees feel unfair or family conflict blocks decisions.
+
+## Choosing a provider without drowning
+
+Tour at least two residential homes if that path is likely. Ask about staffing in plain language, food, hospital transfers, and how extra fees appear on monthly invoices. Speak with current families if you can—not only the marketing manager.
+
+For home care, ask how much of your package is consumed by administration and what happens to unspent funds under current rules. Provider quality varies; changing providers is allowed but takes energy—start with references.
+
+## Home sale and the family home exemption
+
+Special rules can apply when the home is sold to fund aged care accommodation. Time limits and reinvestment conditions exist—confirm with Centrelink before settlement. Adult children promising to sort the RAD need documented plans, not handshake optimism.
+
+## Advocacy
+
+Aged care complaints have formal channels. Keep a diary of incidents and fees. Advocacy services can attend meetings with you. You do not have to accept unexplained charges because that is just how it is.
+
 
 ## What to do next
 
-- Decide the next action for **aged care** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Make your money last in retirement](/topics/super-retirement/manage-retirement/make-your-money-last-in-retirement) for a related decision.
-- Read [Retirement income and tax](/topics/super-retirement/manage-retirement/retirement-income-and-tax) for a related decision.
-- Write your constraints on paper so a sales pitch cannot rewrite them.
+- Start with a My Aged Care assessment—not a provider sales event.
+- Request written fee estimates for home care and residential scenarios you might need within five years.
+- Model RAD versus DAP with official calculators; ask a financial counsellor or adviser if sums are large.
+- Update powers of attorney and tell your attorney where aged care paperwork lives.
+- Compare at least two providers' admin fees and client reviews before signing accommodation agreements.

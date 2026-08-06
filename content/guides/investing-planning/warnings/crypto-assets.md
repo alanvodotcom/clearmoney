@@ -5,80 +5,80 @@ pillar: investing-planning
 hub: warnings
 slug: crypto-assets
 updated: "2026-08-03"
-tags: 
+tags:
   - warnings
-relatedGuides: 
+relatedGuides:
   - investing-planning/warnings/dont-get-burned-by-investment-hype
   - investing-planning/warnings/forex-trading
   - investing-planning/warnings/contracts-for-difference-cfds
   - investing-planning/warnings/binary-options
 ---
 
-Volatility, scams, and what ‘ownership’ really means. Investment warnings exist because some offers are illegal, unsuitable, or designed to rush you.
+Crypto assets (Bitcoin, tokens, NFTs, and endless variants) can move violently, trade on venues with uneven protections, and attract some of the most aggressive scams in retail finance. Speculation is optional. Falling for a fake “recovery” agent afterward is optional too—decline both pressures.
 
-## Crypto assets: the clear version
+If you have already sent crypto to a stranger’s wallet, go to [/urgent](/urgent) and [what to do if you've been scammed](/topics/scams-safety/check-report/what-to-do-if-youve-been-scammed) now.
 
-**Crypto assets** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Volatility, scams, and what ‘ownership’ really means. Investment warnings exist because some offers are illegal, unsuitable, or designed to rush you.
+## Ownership is not the same as a bank balance
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Holding crypto often means controlling private keys—or trusting an exchange that controls them for you. Lose keys, approve a malicious transaction, or use a fake site, and retrieval may be impossible. Exchange failures and hacks have wiped customer access before. This is not an ADI deposit.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+“Guaranteed crypto yield” programs have a rich history of collapse. Treat DeFi return screenshots as marketing until proven otherwise—usually they aren’t.
 
-## How to think about the moving parts
+## Volatility without a cash-flow story
 
-With **crypto assets**, match the product to your time horizon. Money you may need within a few years usually should not sit in volatile assets. Fees and diversification matter more than a single tip from social media.
+Many tokens have no earnings, dividends, or legal claim on assets. Prices can double or crater on sentiment, liquidity, and influencer cycles. Only use money you can see go to zero without harming rent, food, or debt payments. Crypto is a poor emergency fund and a poor house-deposit sleeve.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+## Scam patterns that dominate losses
 
-## Upsides worth wanting
+- romance-to-trading: affection first, platform later ([crypto scams](/topics/scams-safety/financial-scams/crypto-scams))
+- fake exchanges and wallet apps with cloned brands
+- giveaway traps (“send 1 ETH, get 2 back”)
+- pig-butchering long cons with early fake profits
+- “support staff” who need remote access or seed phrases
+- recovery scams after you already lost money
 
-- Potential growth above cash over long periods
-- Diversification that reduces single-company drama
-- Alignment with goals like retirement or a distant home deposit
+Never share seed phrases. Never install remote-access tools for “portfolio managers.” Verify URLs ([scam websites](/topics/scams-safety/online-safety/how-to-spot-a-scam-website)).
 
-## Risks and traps to watch
+## If you still choose to speculate
 
-### Easy-to-miss costs
+- Use reputable, identifiable venues; enable MFA
+- Start tiny; assume total loss
+- Keep records for tax—crypto events can be taxable ([investing and tax](/topics/investing-planning/how-to-invest/investing-and-tax))
+- Ignore hype cycles ([investment hype](/topics/investing-planning/warnings/dont-get-burned-by-investment-hype))
+- Prefer building wealth with transparent, regulated investments for goal money
 
-Buying under social pressure or FOMO. For **Crypto assets**, read the conditions that turn a good deal average.
+## Exchanges, self-custody, and operational traps
 
-### Timing and people problems
+Leaving coins on an exchange means counterparty risk. Self-custody means operational risk: phishing sites, malware, lost devices, and irreversible wrong-address sends. Neither option removes market risk.
 
-Concentrated bets and high fees. Put review dates in your calendar.
+Test small withdrawals before large ones. Whitelist addresses carefully. Hardware wallets help skilled users and create new ways for scammers to social-engineer the less skilled (“just enter your seed to sync”).
 
-### Recovery friction
+Airdrops and surprise tokens in a wallet can be bait for malicious approval prompts. If you do not understand a transaction request, reject it.
 
-Needing the money earlier than the investment can recover. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+## Tax and record-keeping are not optional vibes
 
-## Details that change the decision
+Crypto events can create Australian tax obligations even when you “only moved chains” or took rewards. Keep exchange CSVs and wallet histories. Guessing at lodgement time is how people under- or over-report.
 
-Cold calls, secret tips, and ‘recovery rooms’ after a loss are classic patterns. For **Crypto assets**, verify licences, ignore urgency, and never install remote-access software for a stranger. If an offer targets your super or equity, slow down further.
+None of that complexity is a reason to chase yield farms you cannot explain.
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+## Talking children and partners off the ledge
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+Younger traders often learn crypto through gaming-like apps. Set family rules about leverage, borrowing to buy tokens, and secrecy. Partners emptying joint savings into a tip should trigger money conversations and, if coercion appears, financial abuse support pathways.
 
-## A short story: when timing changed the outcome
+Embarrassment keeps people in scams longer. Normalise early exits.
 
-Sofia bought after a viral tip and sold in a panic three weeks later. Casey wrote a one-page plan: horizon, fee budget, and a rule not to check prices daily. The lesson for **crypto assets**: slow clarity beats fast regret.
+## Stablecoin and cash-equivalent myths
 
-## Practical steps for Crypto assets
+Tokens marketed as stable can break their pegs, freeze redemptions, or sit on opaque reserves. Do not park rent money in something that merely names itself stable. AUD in an ADI account remains the reference point for money you cannot put at experimental risk.
 
-1. Define the time horizon and what would force you to sell early.
-2. List fees (management, brokerage, advice) in dollars per year if you can.
-3. Diversify enough that one tip cannot wreck the plan.
-4. Ignore urgency: legitimate offers survive a night’s sleep.
+## Bridge and approval scams
 
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Life changes** — job loss, a new dependant, or a move can invalidate last year’s choice; schedule a review.
-- **Records** — keep PDFs of contracts, statements, and cancellation confirmations for at least a year.
+Fake bridges and malicious token approvals drain wallets silently. Stick to known interfaces, verify URLs, and reject transaction prompts you do not understand. When confused, do nothing—inaction beats irreversible clicks. Test tiny amounts before large transfers to new addresses.
 
 ## What to do next
 
-- Decide the next action for **crypto assets** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Don't get burned by investment hype](/topics/investing-planning/warnings/dont-get-burned-by-investment-hype) for a related decision.
-- Read [Forex trading](/topics/investing-planning/warnings/forex-trading) for a related decision.
-- Set a calendar reminder to revisit this decision after the next statement cycle.
+- Move goal-critical savings out of any “crypto income” scheme immediately.
+- If scammed, contact your bank/exchange, report via Scamwatch/ReportCyber, and use [/urgent](/urgent).
+- Read [Crypto scams](/topics/scams-safety/financial-scams/crypto-scams) and [Protect yourself from scams](/topics/scams-safety/online-safety/protect-yourself-from-scams).
+- Never engage recovery agents who contact you first.
+- Cap any remaining speculation at an amount you can delete emotionally.

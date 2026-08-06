@@ -5,80 +5,62 @@ pillar: investing-planning
 hub: shares
 slug: how-to-buy-and-sell-shares
 updated: "2026-08-03"
-tags: 
+tags:
   - shares
-relatedGuides: 
+relatedGuides:
   - investing-planning/shares/choosing-shares-to-buy
   - investing-planning/shares/shares-what-is-an-ipo
   - investing-planning/shares/what-is-share-market-volatility
   - investing-planning/shares/employee-share-schemes
 ---
 
-Brokers, CHESS, and settlement basics. Shares are ownership slices. Prices move daily; your plan should not.
+Buying and selling ASX shares is mostly an operational skill: choose a broker, fund the account, place an order, and keep records. The hard part is deciding *what* to own and for how long. This guide covers the mechanics so process mistakes do not sabotage a sensible plan.
 
-## What is How to buy and sell shares?
+## Open a brokerage account with eyes open
 
-**How to buy and sell shares** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Brokers, CHESS, and settlement basics. Shares are ownership slices. Prices move daily; your plan should not.
+Compare Australian brokers on fees, market access (ASX only versus international), CHESS sponsorship versus custodian holding, research tools you will actually use, and customer support. Read how corporate actions (rights issues, takeovers) are handled. Enable MFA on day one.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Verify you are on the real site—not an ad lookalike ([scam websites](/topics/scams-safety/online-safety/how-to-spot-a-scam-website)). Confirm the firm’s credentials via [check before you invest](/topics/scams-safety/check-report/check-before-you-invest). More on choosing the door itself sits in [investment platforms](/topics/investing-planning/how-to-invest/investment-platforms).
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+## Fund, then place an order
 
-## How to think about the moving parts
+Transfer money from your bank and wait until it is cleared for trading. Order types you will meet early:
 
-With **how to buy and sell shares**, match the product to your time horizon. Money you may need within a few years usually should not sit in volatile assets. Fees and diversification matter more than a single tip from social media.
+- **Market order** — aim to trade immediately at available prices; in thin stocks, slippage can hurt
+- **Limit order** — you set the maximum buy or minimum sell price; it may not fill
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Check whether you are trading ordinary shares, ETFs, or something more complex. Double-check the ticker. Wrong-code trades are embarrassingly common when people rush.
 
-## Upsides worth wanting
+For most long-term investors, fewer, larger, deliberate orders beat constant tinkering. Brokerage and spreads add up when you “practise” with tiny trades every week.
 
-- Potential growth above cash over long periods
-- Diversification that reduces single-company drama
-- Alignment with goals like retirement or a distant home deposit
+## CHESS, HINs, and holding structure
 
-## Risks and traps to watch
+Many Australian brokers offer CHESS-sponsored holdings with a Holder Identification Number (HIN), meaning your ASX securities are recorded in your name under that sponsorship. Other structures hold assets via a custodian omnibus account. Neither removes market risk. Understand statements, how you prove ownership, and what happens if you switch brokers.
 
-### Easy-to-miss costs
+Keep your broker’s sponsorship details and contract notes in a folder—useful for tax and estate administration.
 
-Buying under social pressure or FOMO. For **How to buy and sell shares**, read the conditions that turn a good deal average.
+## Settlement and corporate actions
 
-### Timing and people problems
+ASX cash equities typically settle on a short cycle (confirm current T+ timing with your broker). That means sale proceeds are not always spendable instantly, and purchases create an obligation to have funds ready. Missed settlements can lead to fees or broker action.
 
-Concentrated bets and high fees. If someone rushes you, that is data—slow down.
+Watch for emails about dividends, dividend reinvestment plans (DRPs), rights issues, and meetings. DRPs quietly increase your holding; turn them off if you prefer cash. Rights issues can dilute you if ignored—read notices even when markets feel boring.
 
-### Recovery friction
+## Selling with a clear reason
 
-Needing the money earlier than the investment can recover. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+Decide exit rules before emotion arrives: rebalancing, goal reached, thesis broken, or concentration too high. Panic selling after a headline often collides with [volatility](/topics/investing-planning/shares/what-is-share-market-volatility). Tax outcomes from selling can matter—keep records and see [investing and tax](/topics/investing-planning/how-to-invest/investing-and-tax). This is not tax advice; it is a reminder that paperwork follows trades.
 
-## Details that change the decision
+## International shares and extra frictions
 
-Company news moves prices; your plan should not move with every headline. For **How to buy and sell shares**, understand brokerage, tax lots, and concentration risk if one stock becomes a large share of your wealth. Dividends are not ‘free money’—they are part of total return and can be cut.
+Offshore markets add FX conversion costs, different trading hours, withholding tax issues, and sometimes custody fees. Start with ASX-listed vehicles if your goal is simple Australian-dollar exposure unless you have a specific reason to go direct.
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+## Scam brokers and fake “account managers”
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when a simple system helped
-
-Luca bought after a viral tip and sold in a panic three weeks later. Morgan wrote a one-page plan: horizon, fee budget, and a rule not to check prices daily. The lesson for **how to buy and sell shares**: slow clarity beats fast regret.
-
-## Practical steps for How to buy and sell shares
-
-1. Define the time horizon and what would force you to sell early.
-2. List fees (management, brokerage, advice) in dollars per year if you can.
-3. Diversify enough that one tip cannot wreck the plan.
-4. Ignore urgency: legitimate offers survive a night’s sleep.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Life changes** — job loss, a new dependant, or a move can invalidate last year’s choice; schedule a review.
-- **Records** — keep PDFs of contracts, statements, and cancellation confirmations for at least a year.
+Unsolicited callers offering to execute trades for you, recover IPO stock, or unlock a bonus after you deposit are classic traps. Real brokers do not need remote desktop access. If funds are stuck offshore, follow [what to do if you've been scammed](/topics/scams-safety/check-report/what-to-do-if-youve-been-scammed) and [/urgent](/urgent).
 
 ## What to do next
 
-- Decide the next action for **how to buy and sell shares** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Choosing shares to buy](/topics/investing-planning/shares/choosing-shares-to-buy) for a related decision.
-- Read [What is an IPO?](/topics/investing-planning/shares/shares-what-is-an-ipo) for a related decision.
-- Tell one trusted person your plan if accountability helps you follow through.
+- Pick one reputable broker, enable MFA, and complete identity checks without rushing into trades.
+- Practise with a small limit order only after you know what you want to hold—see [choosing shares to buy](/topics/investing-planning/shares/choosing-shares-to-buy).
+- Save contract notes and learn where tax summaries live before year end.
+- Prefer a written [investing plan](/topics/investing-planning/how-to-invest/develop-an-investing-plan) over impulse tickers from social media.
+- Verify any new platform independently via [check before you invest](/topics/scams-safety/check-report/check-before-you-invest).

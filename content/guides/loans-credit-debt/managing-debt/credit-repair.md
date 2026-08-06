@@ -1,83 +1,82 @@
 ---
-title: "Credit repair"
-description: "Be wary of paid ‘repair’ services—know your rights."
+title: Credit repair
+description: Be wary of paid ‘repair’ services—know your rights.
 pillar: loans-credit-debt
 hub: managing-debt
 slug: credit-repair
 updated: "2026-08-03"
-tags: 
-  - managing debt
-relatedGuides: 
-  - loans-credit-debt/managing-debt/urgent-help-with-money
-  - loans-credit-debt/managing-debt/get-debt-under-control
-  - loans-credit-debt/managing-debt/financial-hardship
+tags:
+  - credit
+relatedTools: []
+relatedGuides:
+  - loans-credit-debt/managing-debt/credit-scores-and-credit-reports
+  - loans-credit-debt/loans/loan-rejection
   - loans-credit-debt/managing-debt/financial-counselling
+  - loans-credit-debt/managing-debt/free-legal-advice
 ---
 
-Be wary of paid ‘repair’ services—know your rights. If money stress is affecting essentials this week, start at [Urgent help](/urgent). Debt stress shrinks options. Prioritise essentials, talk early, and use free help before high-cost credit.
+Paid credit repair companies advertise that they can “wipe” negatives and boost scores quickly. Some merely do what you can do yourself for free—dispute genuine errors. Others imply they can remove accurate defaults, which is usually not how Australian credit reporting works.
 
-## Credit repair: the clear version
+## Why paid repair pitches are risky
 
-**Credit repair** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Be wary of paid ‘repair’ services—know your rights. Debt stress shrinks options. Prioritise essentials, talk early, and use free help before high-cost credit.
+Watch for:
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+- upfront fees before any work is shown
+- guarantees of a specific score
+- instructions to dispute **everything**, including accurate listings
+- pressure to sign during a home-loan urgency window
+- testimonials that cannot be verified
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+If you are already short of cash, paying hundreds or thousands for repair marketing can deepen hardship. Free pathways exist via credit reporting body dispute processes and [financial counselling](/topics/loans-credit-debt/managing-debt/financial-counselling).
 
-## How to think about the moving parts
+## What you can fix yourself for free
 
-When **credit repair** collides with debt stress, order of operations matters: essentials first, then contact lenders, then free counselling if you cannot see a path. Silence usually makes options worse.
+You can:
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+1. Obtain your [credit reports](/topics/loans-credit-debt/managing-debt/credit-scores-and-credit-reports).
+2. Dispute incorrect, out-of-date, or someone else’s information.
+3. Ask lenders to correct data they reported wrongly.
+4. Add or update identification details that are causing mismatches.
+5. Improve future score drivers by paying on time and reducing card balances.
 
-## Upsides worth wanting
+That work takes patience and paperwork—not a magic portal. Many people succeed without a paid intermediary.
 
-- Hardship programs that can pause or reshape repayments
-- Reduced stress when there is a written plan
-- Protection pathways if collectors breach the rules
+## Illegal promises to wipe accurate defaults
 
-## Risks and traps to watch
+Accurate defaults and repayment history generally remain for legally set periods. A company suggesting it can erase truthful listings “quietly” is waving a red flag. Do not provide remote access to your devices or sign blank authorities.
 
-### Easy-to-miss costs
+If a default is accurate because you fell behind, the constructive path is stabilising money (hardship, counselling, repayment plans)—not denial. Call **1800 007 007** and use [/urgent](/urgent) if essentials are at risk.
 
-Ignoring contact until default listing or legal steps begin. For **Credit repair**, read the conditions that turn a good deal average.
+## Legitimate paths after hardship
 
-### Timing and people problems
+Positive steps after financial difficulty:
 
-Using payday-style credit to patch structural shortfalls. Put review dates in your calendar.
+- complete hardship arrangements and resume on-time payments
+- close the chapter on unaffordable products carefully
+- wait out statutory listing periods while rebuilding
+- seek [free legal advice](/topics/loans-credit-debt/managing-debt/free-legal-advice) if a listing relates to disputed liability or ID theft
+- for home-loan timing, ask brokers what waiting period is realistic rather than buying a repair package
 
-### Recovery friction
+If a repair firm already took your money and delivered nothing, use complaints processes and consider AFCA or consumer affairs pathways—your counsellor or CLC can guide you.
 
-Signing payment plans you cannot keep. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+## A realistic timeline for rebuilding
 
-## Details that change the decision
+Score recovery is usually measured in months and years, not days. After you correct errors and stabilise repayments:
 
-Collectors and lenders have rules; you have rights to request hardship consideration and to be treated fairly. For **Credit repair**, keep a call log and prefer written agreements. Free financial counsellors help you prioritise and negotiate—use them before selling essentials or borrowing more to patch interest.
+- On-time history starts to outweigh older problems gradually.
+- Paying down revolving balances can improve utilisation relatively quickly.
+- Defaults and listings age off according to legal timeframes—calendar them so you know when to re-check reports.
+- New applications during a rebuild should be deliberate; each enquiry is another data point.
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+If a home purchase is 6–12 months away, ask a broker what patterns they see lenders rejecting today, then build toward those—not toward a marketed “score pack.” Pair report work with a real debt plan: hardship arrangements, counsellor support, and avoiding new high-cost credit. People who rebuild successfully usually change cash-flow habits first; the score follows.
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+Sales pages that claim a fixed jump in 30 days almost always omit the fine print: they may only file disputes you could file yourself, or they count on you never comparing before-and-after reports carefully. Keep your own PDF copies dated before any engagement so you can see what actually changed.
 
-## A short story: when timing changed the outcome
-
-Priya avoided lender calls until fees stacked. Alex asked for hardship in writing, listed essentials first, and booked a free counsellor session the same week. The lesson for **credit repair**: slow clarity beats fast regret.
-
-## Practical steps for Credit repair
-
-1. List debts with balances, rates, and minimums; mark essentials separately.
-2. Contact lenders early and ask about hardship options in writing.
-3. Speak with a free financial counsellor if repayments no longer fit.
-4. Avoid high-cost short-term credit as a ‘bridge’ without a repayment date.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Money stress now** — prioritise rent, food, utilities, and medicine, then use [Urgent help](/urgent). National Debt Helpline: 1800 007 007.
+If money stress—not vanity scoring—is the real issue, stop shopping for repair packages and call **1800 007 007**. A counsellor will help you sequence hardship, repayment, and disputes without an upfront fee.
 
 ## What to do next
 
-- Decide the next action for **credit repair** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Urgent help with money](/topics/loans-credit-debt/managing-debt/urgent-help-with-money) for a related decision.
-- Read [Get debt under control](/topics/loans-credit-debt/managing-debt/get-debt-under-control) for a related decision.
-- If essentials are at risk, open [Urgent help](/urgent) before taking on new credit.
+- Download your own credit reports before speaking to any paid repair sales desk.
+- Dispute only items you believe are wrong, with evidence.
+- Decline guaranteed score promises and high upfront fees.
+- Book free financial counselling via **1800 007 007** if debts—not just scores—are the problem.

@@ -5,80 +5,71 @@ pillar: investing-planning
 hub: advice
 slug: problems-with-a-financial-adviser
 updated: "2026-08-03"
-tags: 
+tags:
   - advice
-relatedGuides: 
+relatedGuides:
   - investing-planning/advice/what-is-financial-advice
   - investing-planning/advice/general-and-personal-financial-advice
   - investing-planning/advice/choosing-a-financial-adviser
   - investing-planning/advice/financial-advice-costs
 ---
 
-Complaints, AFCA, and getting your file. Paid advice can help complex decisions—but only if the adviser is appropriately licensed and clear about fees.
+Sometimes an advice relationship disappoints: fees without service, unsuitable product pushes, poor communication, or worse. You have options. Act in writing, keep records, and escalate through the proper channels rather than only arguing in phone calls that vanish.
 
-## Understanding Problems with a financial adviser
+## Early fixes worth trying
 
-**Problems with a financial adviser** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Complaints, AFCA, and getting your file. Paid advice can help complex decisions—but only if the adviser is appropriately licensed and clear about fees.
+- Restate the issue clearly (dates, products, dollars, what you want fixed)
+- Ask for a review meeting and an updated written position
+- Request your file: fact-find, Statements of Advice, file notes, fee consents
+- Pause new product applications until the dispute is framed
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Many problems are misunderstandings about scope—ongoing fees for services you thought were included. Clarify before you explode the relationship, unless you suspect misconduct or fraud.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+## Internal dispute resolution (IDR)
 
-## How to think about the moving parts
+Licensed firms must have a complaints process. Lodge in writing (email is fine), ask for a reference number, and note response deadlines they quote. Stay factual. Attach key documents. Keep a timeline of every contact.
 
-With **problems with a financial adviser**, match the product to your time horizon. Money you may need within a few years usually should not sit in volatile assets. Fees and diversification matter more than a single tip from social media.
+If you feel unsafe, pressured, or scammed—especially with remote access, crypto payments, or impersonation—switch tracks toward [/urgent](/urgent) and [scam reporting](/topics/scams-safety/check-report/what-to-do-if-youve-been-scammed) rather than treating it as a polite service complaint.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+## AFCA and external escalation
 
-## Upsides worth wanting
+If IDR does not resolve the issue, the Australian Financial Complaints Authority (AFCA) may be able to consider disputes about financial firms that are members. Check eligibility, time limits, and what outcomes are possible before you file. AFCA is generally free for consumers for accepted complaints.
 
-- Potential growth above cash over long periods
-- Diversification that reduces single-company drama
-- Alignment with goals like retirement or a distant home deposit
+AFCA is not a criminal prosecutor and not a regulator’s enforcement team. Parallel paths may include reporting misconduct to ASIC and reporting scams to Scamwatch. Choose paths that match the facts.
 
-## Risks and traps to watch
+## Getting your documents
 
-### Easy-to-miss costs
+You are entitled to pursue records of advice that affect you. Ask the licensee for copies of SOAs, ROAs, fee disclosure, and relevant emails. Store them offline. If you switch advisers, a clean file helps the next professional—and helps you ([working with a financial adviser](/topics/investing-planning/advice/working-with-a-financial-adviser)).
 
-Buying under social pressure or FOMO. For **Problems with a financial adviser**, read the conditions that turn a good deal average.
+## Unsuitable advice versus market losses
 
-### Timing and people problems
+Markets fall. That alone does not prove bad advice. Stronger complaint themes include recommendations mismatched to documented risk tolerance, failure to disclose fees, churning products for remuneration, or ignoring critical constraints you disclosed. Your contemporaneous documents matter more than reconstructed memory.
 
-Concentrated bets and high fees. Write down who can authorise changes.
+Independent professional help (a new authorised adviser or a lawyer for serious loss) may be appropriate when amounts are large—verify any new helper ([financial advisers register](/topics/investing-planning/advice/financial-advisers-register)).
 
-### Recovery friction
+## Ending the relationship cleanly
 
-Needing the money earlier than the investment can recover. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+- Revoke authorities that allow the adviser to instruct platforms on your behalf
+- Stop ongoing fee consents according to the required process
+- Move holdings only with a plan—fire sales can hurt twice
+- Update beneficiaries and contact details on each product
 
-## Details that change the decision
+Do not let anger drive leveraged “recovery trades” sold by strangers; recovery scams target people mid-dispute ([investment scams](/topics/scams-safety/financial-scams/investment-scams)).
 
-Licensed advice should come with a clear fee, a scope, and documents you can keep. For **Problems with a financial adviser**, ask how the adviser is paid and what happens if you say no to a product. If someone guarantees returns or pushes you to act today, treat that as a warning sign.
+## Learning for the next engagement
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+Write what failed: communication cadence, product bias, fee clarity, or trust. Use that list when [choosing a financial adviser](/topics/investing-planning/advice/choosing-a-financial-adviser) next time. Some households step back to education-only investing for a period—and that can be a healthy reset.
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+## Time limits and evidence habits
 
-## A short story: when the fine print mattered
+Complaint schemes and legal options often have time limits. Do not sit on a serious issue for years hoping it softens. Export emails to PDF, keep call notes with dates, and photograph or save portal screens showing balances and authorities. Organised evidence shortens IDR and AFCA processes and reduces “he said / she said” dead ends.
 
-Aisha bought after a viral tip and sold in a panic three weeks later. Taylor wrote a one-page plan: horizon, fee budget, and a rule not to check prices daily. The lesson for **problems with a financial adviser**: slow clarity beats fast regret.
-
-## Practical steps for Problems with a financial adviser
-
-1. Define the time horizon and what would force you to sell early.
-2. List fees (management, brokerage, advice) in dollars per year if you can.
-3. Diversify enough that one tip cannot wreck the plan.
-4. Ignore urgency: legitimate offers survive a night’s sleep.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Life changes** — job loss, a new dependant, or a move can invalidate last year’s choice; schedule a review.
-- **Records** — keep PDFs of contracts, statements, and cancellation confirmations for at least a year.
+If cognitive load is high because of stress or illness, ask a trusted person to help you assemble the file—without giving them authority to move money unless you intend that.
 
 ## What to do next
 
-- Decide the next action for **problems with a financial adviser** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [What is financial advice?](/topics/investing-planning/advice/what-is-financial-advice) for a related decision.
-- Read [General and personal financial advice](/topics/investing-planning/advice/general-and-personal-financial-advice) for a related decision.
-- Write your constraints on paper so a sales pitch cannot rewrite them.
+- Gather SOAs, fee consents, and a dated timeline of the problem.
+- Lodge a written complaint with the licensee’s IDR team and keep the reference number.
+- If unresolved, assess an AFCA complaint and any regulator/scam reports that fit the facts.
+- Revoke unnecessary authorities and freeze new applications mid-dispute.
+- Ignore recovery cold calls; use [protect yourself from scams](/topics/scams-safety/online-safety/protect-yourself-from-scams).

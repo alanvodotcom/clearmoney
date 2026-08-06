@@ -5,79 +5,80 @@ pillar: super-retirement
 hub: grow-super
 slug: super-investment-options
 updated: "2026-08-03"
-tags: 
+tags:
   - grow super
-relatedGuides: 
+relatedGuides:
   - super-retirement/grow-super/how-to-check-your-super
-  - super-retirement/grow-super/how-much-super-should-i-have
-  - super-retirement/grow-super/super-contributions
-  - super-retirement/grow-super/switching-super-funds
+  - super-retirement/grow-super/get-your-super-working-over-time
+  - investing-planning/how-to-invest/diversification
+  - super-retirement/manage-retirement/make-your-money-last-in-retirement
 ---
 
-Growth vs balanced vs cash—risk and time horizon. Growing super is usually about contributions, fees, insurance inside super, and investment mix—not one hot tip.
+Your investment option decides how rough the ride feels and, over long periods, how much growth you are likely to need fees notwithstanding. Switching every time markets fall usually locks in losses; never reviewing can leave a 30-year-old in cash.
 
-## Super investment options: the clear version
+## The common menu
 
-**Super investment options** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Growth vs balanced vs cash—risk and time horizon. Growing super is usually about contributions, fees, insurance inside super, and investment mix—not one hot tip.
+Funds typically offer:
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+- **High growth / shares-heavy** — higher expected long-term return, larger drawdowns
+- **Balanced / diversified** — mix of growth and defensive assets
+- **Conservative** — more bonds and cash, milder swings
+- **Cash** — capital stability focus, inflation risk over long horizons
+- **Lifecycle / target-date** — automatically shifts mix as you age (read the glide path)
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+ESG or specialist options add screens or themes; check fees and whether exclusions change diversification.
 
-## How to think about the moving parts
+## Match option to time horizon
 
-With **super investment options**, match the product to your time horizon. Money you may need within a few years usually should not sit in volatile assets. Fees and diversification matter more than a single tip from social media.
+| Horizon | Tendency |
+| --- | --- |
+| 15+ years to drawdown | Growth-tilted mixes often considered |
+| 5–15 years | Balanced with periodic review |
+| Under 5 years / already drawing | More defensive sleeve for near spending |
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+This is education, not personal advice. People with strong Age Pension floors or other assets may tolerate more risk; renters with thin buffers may not.
 
-## Upsides worth wanting
+## Sequencing risk near retirement
 
-- Potential growth above cash over long periods
-- Diversification that reduces single-company drama
-- Alignment with goals like retirement or a distant home deposit
+Large losses just before or after you start drawing can hurt more than the same loss mid-career. Some pre-retirees shift a few years of expected withdrawals toward more defensive options while leaving the long tail invested for growth. See [Make your money last in retirement](/topics/super-retirement/manage-retirement/make-your-money-last-in-retirement).
 
-## Risks and traps to watch
+## Fees differ by option
 
-### Easy-to-miss costs
+Investment fees on growth options can exceed cash option fees. Compare **net** outcomes. A cheaper balanced option can beat an expensive “high performing” option after costs.
 
-Buying under social pressure or FOMO. For **Super investment options**, read the conditions that turn a good deal average.
+## Behaviour rules that beat market timing
 
-### Timing and people problems
+1. Choose a mix you can hold through a 20% fall without panic-selling
+2. Rebalance only on a schedule or lifecycle rule—not on headlines
+3. Write why you picked the option so future-you remembers
+4. Review at birthdays or job changes, not daily
 
-Concentrated bets and high fees. Put review dates in your calendar.
+## MySuper defaults
 
-### Recovery friction
+If you never chose, you are likely in a MySuper product with a default diversified strategy. That can be fine—still read the fact sheet once.
 
-Needing the money earlier than the investment can recover. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+## Rebalancing without drama
 
-## Details that change the decision
+If your fund allows a mix of options, drifting allocations can leave you riskier or safer than you meant. A yearly rebalance tied to your birthday is enough for most people. Avoid weekly tinkering. Write the target mix on a note and compare once a year.
 
-Extra contributions only help if cash flow can carry them and rules allow them. For **Super investment options**, compare concessional versus after-tax pathways with current caps in mind, and watch insurance premiums deducted from your balance.
+## Currency and global shares
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+Many growth options hold overseas assets. Currency moves add noise to returns. That is normal, not a reason to flee to cash after one loud news cycle. Long horizons absorb currency swings better than anxious switching does.
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+## Fresh-numbers habit for super investment options
 
-## A short story: when timing changed the outcome
+Numbers from last year’s seminar may already be wrong. Caps, deeming rates, and insurance definitions move. Re-check primary sources the week you act. If a salesperson becomes irritated when you pause to verify, that irritation reveals their incentives—not your intelligence.
 
-Harper bought after a viral tip and sold in a panic three weeks later. Drew wrote a one-page plan: horizon, fee budget, and a rule not to check prices daily. The lesson for **super investment options**: slow clarity beats fast regret.
+## Continuity checklist for Super investment options
 
-## Practical steps for Super investment options
+List the people, passwords managers, fund member numbers, and Centrelink CRNs that keep this topic running when you are travelling or unwell. Tape the list inside a secure place at home. Continuity is part of money skill, not paranoia.
 
-1. Define the time horizon and what would force you to sell early.
-2. List fees (management, brokerage, advice) in dollars per year if you can.
-3. Diversify enough that one tip cannot wreck the plan.
-4. Ignore urgency: legitimate offers survive a night’s sleep.
+## Talking changes with a partner
 
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Rule changes** — contribution caps, preservation ages, and Age Pension settings change; confirm current figures before acting.
+If you share retirement goals, agree who can switch options and how you will decide together. Surprise risk reductions—or surprise high-growth bets—create household conflict faster than market volatility does.
 
 ## What to do next
-
-- Decide the next action for **super investment options** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [How to check your super](/topics/super-retirement/grow-super/how-to-check-your-super) for a related decision.
-- Read [How much super should I have?](/topics/super-retirement/grow-super/how-much-super-should-i-have) for a related decision.
-- Set a calendar reminder to revisit this decision after the next statement cycle.
+- Find your current option name and growth-asset percentage on your statement.
+- Decide whether your retirement date still matches that risk level.
+- If you change, switch deliberately once—then leave it alone for a set review period.
+- Pair option choice with contribution habits in [Get your super working over time](/topics/super-retirement/grow-super/get-your-super-working-over-time).

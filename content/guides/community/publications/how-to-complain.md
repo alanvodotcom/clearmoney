@@ -5,80 +5,69 @@ pillar: community
 hub: publications
 slug: how-to-complain
 updated: "2026-08-03"
-tags: 
+tags:
   - publications
-relatedGuides: 
+relatedGuides:
   - community/publications/publications
-  - community/publications/money-tips-in-other-languages
   - community/publications/beware-of-scams
-  - community/publications/budgeting-and-saving-tips
+  - community/publications/credit-and-debt-tips
+  - community/publications/insurance-tips
 ---
 
-Internal complaints, then AFCA or other ombudsmen. ClearMoney publications are starting points—use them with your own numbers and official sources for thresholds.
+A clear complaint is a dated story with evidence and a requested outcome—not a vent without a destination. Most Australian financial firms must handle disputes internally first; many then fall under the Australian Financial Complaints Authority (AFCA) or another external scheme.
 
-## How to complain: the clear version
+::: checklist
+- Date and summarise what went wrong
+- Attach statements or screenshots
+- State the outcome you want
+- Keep copies of every letter and reference number
+:::
 
-**How to complain** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Internal complaints, then AFCA or other ombudsmen. ClearMoney publications are starting points—use them with your own numbers and official sources for thresholds.
+## Begin with the firm, in writing
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Find the complaints email, secure form, or postal address on the firm’s official website—not from a search ad. State:
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+- Who you are and your account or policy number
+- What happened, with dates and amounts
+- What you already tried (calls, branch visits)
+- What you want (refund, correction, apology, fee waiver, claim paid)
 
-## How to think about the moving parts
+Attach statements, screenshots, contracts, and call reference numbers. Keep a copy of everything you send. Polite and firm beats insults; staff record the file either way, and clarity travels further upstairs.
 
-Use **how to complain** as a toolkit. Take what fits your household, leave what does not, and prefer official registers and licensed help for high-stakes steps.
+Ask for a complaint reference number and the expected timeframe. Diary that date. If the firm offers a phone-only resolution, follow up with an email confirming what was agreed.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+## What “good enough evidence” looks like
 
-## Upsides worth wanting
+Memory of “they said it was fine” is weak. PDFs of terms, timestamps, chat transcripts, and photos of damaged goods or incorrect charges are strong. For debt and credit issues, include repayment history and hardship requests—see [credit and debt tips](/topics/community/publications/credit-and-debt-tips). For declined claims, include the policy schedule and the insurer’s reason letter—see [insurance tips](/topics/community/publications/insurance-tips).
 
-- Shared language for classrooms, families, or community groups
-- Pointers to free or low-cost support
-- Practical checklists you can adapt locally
+One folder named with the firm and year keeps escalation tidy when months pass.
 
-## Risks and traps to watch
+## Escalate when the internal path stalls
 
-### Easy-to-miss costs
+If you receive a final written response you disagree with, or the firm misses its own complaint timeframe, check whether AFCA (or another ombudsman for that industry) can take the dispute. External schemes are usually free for consumers. You generally need to have given the firm a fair chance first.
 
-Treating a tip as universal advice. For **How to complain**, read the conditions that turn a good deal average.
+AFCA and similar bodies explain eligibility, monetary limits, and how to lodge on their sites. Lodging does not guarantee your preferred outcome; it does guarantee an independent process. Meet their deadlines—waiting years can close the door.
 
-### Timing and people problems
+Other sectors use different bodies (energy ombudsmen, telecommunications, health funds). Match the complaint to the right scheme rather than sending everything to AFCA by default.
 
-Out-of-date thresholds if you skip official checks. Put review dates in your calendar.
+## Deadlines, hardship and staying safe
 
-### Recovery friction
+Some products have cooling-off or dispute windows. Note them when you first notice the problem. While a dispute runs, keep paying amounts that are clearly owed if you can; ask the firm how disputed portions will be treated so you do not accidentally default.
 
-Sharing someone else’s story without consent. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+If complaint stress sits beside debt you cannot service, contact the National Debt Helpline (1800 007 007). If someone threatens you over a dispute or demands secrecy and urgent payment, switch to safety mode and [Urgent help](/urgent); verify contacts so you are not dealing with a scammer posing as collections—[beware of scams](/topics/community/publications/beware-of-scams).
 
-## Details that change the decision
+Do not pay third-party “complaint warriors” large upfront fees to lodge forms you can lodge yourself.
 
-Use checklists as prompts, then replace sample numbers with yours. For **How to complain**, note the date you read a guide and re-check official thresholds when acting on dollar figures.
+## After a resolution
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+Get the outcome in writing. Confirm fee reversals appear on the next statement. If you agreed to a payment plan, calendar the end date. Update your own notes so the same error is easier to spot next time.
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when timing changed the outcome
-
-Harper shared a tip that worked for a dual-income household with a student living on casual shifts—and it backfired. Drew now checks constraints before recommending a step. The lesson for **how to complain**: slow clarity beats fast regret.
-
-## Practical steps for How to complain
-
-1. Skim for the one action that helps this week.
-2. Note any official registers, forms, or hotlines mentioned.
-3. Adapt the idea to your household—not every tip fits every culture or income.
-4. Share useful steps with someone who asked for help, with consent.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Life changes** — job loss, a new dependant, or a move can invalidate last year’s choice; schedule a review.
-- **Records** — keep PDFs of contracts, statements, and cancellation confirmations for at least a year.
+Share the process with family only as needed; complaint files can contain account numbers worth protecting.
 
 ## What to do next
 
-- Decide the next action for **how to complain** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Publications](/topics/community/publications/publications) for a related decision.
-- Read [Money tips in other languages](/topics/community/publications/money-tips-in-other-languages) for a related decision.
-- Set a calendar reminder to revisit this decision after the next statement cycle.
+- Draft a one-page timeline with dates, amounts, and the outcome you want.
+- Lodge with the firm’s official complaints channel and store the reference number.
+- Diary their response date; if it passes without a final answer, check AFCA or the relevant ombudsman.
+- Keep paying undisputed essentials where you can, and seek free counselling if debt is escalating.
+- Return to [publications](/topics/community/publications/publications) for related tip sheets.

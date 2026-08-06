@@ -5,84 +5,67 @@ pillar: super-retirement
 hub: plan-retirement
 slug: make-a-retirement-plan
 updated: "2026-08-03"
-tags: 
-  - plan retirement
-relatedTools: 
+tags:
+  - plan-retirement
+relatedTools:
   - retirement-planner
-relatedGuides: 
+relatedGuides:
   - super-retirement/plan-retirement/work-out-how-much-you-need-to-retire
-  - super-retirement/plan-retirement/super-and-the-age-pension
-  - super-retirement/plan-retirement/what-happens-to-your-super-when-you-retire
-  - super-retirement/plan-retirement/your-home-in-retirement
+  - super-retirement/retirement/retirement-checklist
+  - super-retirement/income-sources/types-of-retirement-income
+  - super-retirement/plan-retirement/managing-unexpected-retirement
 ---
 
-Spending needs, income sources, and timing. Retirement planning turns a vague ‘enough’ into a spending estimate, an income mix, and a timing plan.
+A retirement plan is a working document: how you will spend, where money will come from, and when each piece switches on. It can fit on two pages. Complexity is optional; clarity is not. The point is not a glossy binder—it is a shared reference when markets fall, health shifts, or someone asks whether you can afford to stop work next year.
 
-## Understanding Make a retirement plan
+## Describe the life you are funding
 
-**Make a retirement plan** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Spending needs, income sources, and timing. Retirement planning turns a vague ‘enough’ into a spending estimate, an income mix, and a timing plan.
+Start with a normal week in retirement, not a spreadsheet. Where do you live? How do you get around? Who do you help? What do you do for fun? Translate that picture into monthly dollars—essentials versus flexible spending. Add irregular costs: council rates, car replacement, dental, gifts, travel every second year.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Housing line items belong here, not as footnotes. Rates, strata, insurance, and maintenance sink underfunded plans. Renters need a rent line with a cautious uplift; owners with a mortgage need a payoff strategy or ongoing repayment figure. Method detail lives in [work out how much you need to retire](/topics/super-retirement/plan-retirement/work-out-how-much-you-need-to-retire). Sense-check the numbers with the [retirement planner](/tools/retirement-planner).
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+## Map the income stack and calendar
 
-## How to think about the moving parts
+List each source: super income stream, Age Pension, wages, investments, rental income, annuity. Note start dates and what could delay them. See [types of retirement income](/topics/super-retirement/income-sources/types-of-retirement-income) for how layers combine.
 
-Setup quality decides whether **make a retirement plan** helps or nags you later. Confirm identity and contact details, choose alerts you will actually read, and decide who else can see or move money. If a salesperson is present, ask for the key numbers in writing before you sign.
+Draw a 36-month timeline covering the bridge from final full-time pay to steady state. Bridges are where credit cards sneak in. Align drawdown dates with rates and health premiums so cash troughs do not force bad sales in a down market. If one partner retires before the other, plot both incomes separately until they overlap.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+## Record the decisions that matter
 
-ClearMoney calculators that pair with this topic: [Retirement Planner](/tools/retirement-planner). Use them to turn guesses into numbers before you commit.
+Your plan should answer, in writing:
 
-## Upsides worth wanting
+- Target finish date—and a backup date if markets or health shift
+- Mortgage strategy: pay off, keep, or downsize
+- Whether part-time work is assumed and for how long
+- Investment risk before and after retirement
+- Who makes decisions if you cannot—cross-reference [wills and powers of attorney](/topics/super-retirement/plan-retirement/wills-and-powers-of-attorney)
 
-- Automations that reduce missed payments and late fees
-- Alerts that surface problems while they are still small
-- Shared understanding when more than one person is involved
+Use the [retirement checklist](/topics/super-retirement/retirement/retirement-checklist) so admin items—nominations, insurance, Centrelink paperwork—are not lost in the excitement of finishing work.
 
-## Risks and traps to watch
+## Stress scenarios in plain language
 
-### Easy-to-miss costs
+Write one paragraph each for: markets falling 20% in year one of retirement; one of you needing aged care at 75; adult children asking for a large loan. You do not need perfect answers—you need evidence you have imagined the hit. Plans that only work on a sunny spreadsheet fail in weather.
 
-Set-and-forget errors (wrong account, wrong amount, wrong date). For **Make a retirement plan**, read the conditions that turn a good deal average.
+Forced early exits deserve their own paragraph. Redundancy, caring duties, or health can end paid work years earlier than assumed—see [managing unexpected retirement](/topics/super-retirement/plan-retirement/managing-unexpected-retirement) for stabilising steps without torching long-term savings.
 
-### Timing and people problems
+## Version control for couples and co-planners
 
-Giving too much authority to another person. Write down who can authorise changes.
+Keep the plan in a shared location with a date in the filename. When you update assumptions, save the prior version. Arguments about what we agreed last winter are often document-control failures. Put a named owner and review month on page one so updates actually happen.
 
-### Recovery friction
+Tell adult children only what they need to know. The plan is not a family referendum, but executors and attorneys should know where it lives.
 
-Missing fine print on fees or cooling-off rights. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+## Review triggers and rule changes
 
-## Details that change the decision
+Rewrite after job loss, major diagnosis, divorce, inheritance, or a move. Also review every two years even if life is quiet—Age Pension thresholds, contribution caps, and deeming rates move. ClearMoney is general information; personal advice may be worth paying for when sums are large, structures are complex, or pension interactions are material.
 
-A retirement age is a hypothesis until health, work, and housing cooperate. For **Make a retirement plan**, model a ‘base’ and a ‘frugal’ budget, then test what happens if you retire two years earlier or later. Include Age Pension assumptions carefully—they are means-tested.
+## Share the plan without oversharing
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
-
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when the fine print mattered
-
-Mei set everything up in a hurry and only noticed the wrong account after a payment bounced. Chris now screenshots every confirmation and nicknames accounts so automations are obvious. The lesson for **make a retirement plan**: slow clarity beats fast regret.
-
-## Practical steps for Make a retirement plan
-
-1. Gather ID, income evidence, and any existing contracts or statements.
-2. Confirm who else is affected (partner, guarantor, dependants) before you sign.
-3. Complete the application or setup deliberately—screenshot confirmations.
-4. Turn on alerts and store reference numbers where you can find them.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Rule changes** — contribution caps, preservation ages, and Age Pension settings change; confirm current figures before acting.
+Adult children may pressure you for inheritance certainty or worry you cannot afford care. A summary page—spending range, income layers, review date—can reduce anxiety without handing over every dollar figure. Professional advisers bound by privacy may be easier for some families than kitchen-table negotiations alone.
 
 ## What to do next
 
-- Decide the next action for **make a retirement plan** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Work out how much you need to retire](/topics/super-retirement/plan-retirement/work-out-how-much-you-need-to-retire) for a related decision.
-- Read [Super and the Age Pension](/topics/super-retirement/plan-retirement/super-and-the-age-pension) for a related decision.
-- Run the numbers with [Retirement Planner](/tools/retirement-planner).
-- Write your constraints on paper so a sales pitch cannot rewrite them.
+- Draft the two pages this fortnight—messy is allowed on the first pass.
+- Run the [retirement planner](/tools/retirement-planner) against your lean and comfortable spending range.
+- Plot the 36-month income calendar on paper or a shared document.
+- Walk the [retirement checklist](/topics/super-retirement/retirement/retirement-checklist) and tick what already exists.
+- Schedule the next plan review date before you file the document away.

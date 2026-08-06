@@ -5,79 +5,61 @@ pillar: community
 hub: publications
 slug: insurance-tips
 updated: "2026-08-03"
-tags: 
+tags:
   - publications
-relatedGuides: 
+relatedGuides:
   - community/publications/publications
+  - community/publications/superannuation-tips
   - community/publications/how-to-complain
-  - community/publications/money-tips-in-other-languages
   - community/publications/beware-of-scams
 ---
 
-Short insurance tip sheet. ClearMoney publications are starting points—use them with your own numbers and official sources for thresholds.
+Insurance transfers specific risks to an insurer in exchange for a premium. The useful question is not “what is cheapest?” but “what am I actually covered for when something goes wrong?” This tip sheet keeps that question in view.
 
-## Insurance (community tip): the clear version
+## Match cover to risks you cannot absorb
 
-**Insurance (community tip)** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Short insurance tip sheet. ClearMoney publications are starting points—use them with your own numbers and official sources for thresholds.
+Home building, contents, car, health, life, and income protection each solve different problems. Start with losses that would wreck your finances: rebuilding a home, replacing essential contents after theft or fire, third-party injury from a car, or income stopping for months.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Skip or reduce cover for risks you can pay from savings. Paying premiums for tiny gadgets while under-insuring a building is a common imbalance. Review sums insured when you renovate, buy expensive equipment, or move—underinsurance leaves you funding the gap after a claim.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+Insurance inside super is a separate conversation; see [superannuation tips](/topics/community/publications/superannuation-tips) so you do not cancel fund cover blindly while buying retail policies—or pay twice without noticing.
 
-## How to think about the moving parts
+## Excess, exclusions and waiting periods
 
-Insurance decisions for **insurance (community tip)** are about the claim you hope never happens. Read exclusions and waiting periods before you compare price alone. Check whether you already hold overlapping cover elsewhere.
+A higher excess usually lowers premium but means more cash at claim time. Choose an excess you could pay in a bad month without a credit card spiral.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Exclusions matter more than slogans. Flood, wear and tear, unoccupied homes, undeclared drivers, pre-existing medical conditions, and hazardous hobbies appear in fine print for a reason. Waiting periods on income or health products delay when benefits start—budget for that gap.
 
-## Upsides worth wanting
+Duty of disclosure: answer application questions honestly. Non-disclosure can reduce or deny a claim years later. If you are unsure, ask the insurer in writing before you bind cover.
 
-- A financial backstop after insured events
-- Clearer recovery planning when documents are ready
-- Peace of mind when sums insured match rebuild or replace costs
+## Compare quotes without falling for traps
 
-## Risks and traps to watch
+Compare like-for-like: sum insured, excess, inclusions, exclusions, and claims history discounts—not only monthly price. Introductory discounts that jump after year one deserve a calendar reminder.
 
-### Easy-to-miss costs
+Be wary of pressure at the car yard, electronics counter, or door: extended warranties and consumer credit insurance are often expensive relative to benefit. Ask whether your credit card or existing policy already covers the risk.
 
-Underinsurance and uncovered flood or temporary accommodation gaps. For **Insurance (community tip)**, read the conditions that turn a good deal average.
+Cold-call “renewals” and fake claims portals are common scams. Use phone numbers from your policy schedule or the insurer’s official site—read [beware of scams](/topics/community/publications/beware-of-scams).
 
-### Timing and people problems
+## Make claims workable before you need them
 
-Overlapping policies that still leave a hole. Put review dates in your calendar.
+Photograph valuables and keep receipts or valuations in cloud storage you can reach after a fire or flood. Know how to lodge: app, phone, or broker. Note claim numbers and assessor contacts.
 
-### Recovery friction
+If a claim is refused or delayed unfairly, use the insurer’s internal dispute process with dates and documents attached. Unresolved disputes with many financial firms can go to AFCA—[how to complain](/topics/community/publications/how-to-complain) outlines the sequence.
 
-Add-ons that cost more than the likely benefit. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+After a claim, ask how the outcome affects no-claim bonuses and future premiums so next year’s budget is honest.
 
-## Details that change the decision
+## Life changes that should trigger a review
 
-Use checklists as prompts, then replace sample numbers with yours. For **Insurance (community tip)**, note the date you read a guide and re-check official thresholds when acting on dollar figures.
+New car, new address, new roommate, marriage, separation, baby, or working from home can all change risk and sums insured. Diary a review when you renew—or sooner after a big change. Cancel policies you no longer need in writing and confirm the end date so you are not double-paying.
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+Keep policy schedules where someone you trust could find them in an emergency. A password manager or labelled folder beats a buried email subject line.
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when timing changed the outcome
-
-Noah discovered after a claim that the sum insured was years out of date. Riley now reviews cover at renewal with rebuild and contents lists, not just the premium. The lesson for **insurance (community tip)**: slow clarity beats fast regret.
-
-## Practical steps for Insurance (community tip)
-
-1. List the risks you actually need covered versus nice-to-haves.
-2. Compare sum insured, excess, exclusions, and waiting periods.
-3. Check whether cover already exists inside super, bank, or another policy.
-4. Store policy numbers and claim phone lines offline as well as in the app.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Claims** — photograph damage, keep receipts for emergency spends, and ask about temporary accommodation cover if you cannot stay home.
+Contents insurance for renters is optional for many people but useful if you could not replace a laptop, tools, or furniture from cash. Compare the premium to the cost of replacing what you actually own—not an imaginary full house fit-out. Landlord insurance is their problem; your bond and your stuff are yours.
 
 ## What to do next
 
-- Decide the next action for **insurance (community tip)** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Publications](/topics/community/publications/publications) for a related decision.
-- Read [How to complain](/topics/community/publications/how-to-complain) for a related decision.
-- Set a calendar reminder to revisit this decision after the next statement cycle.
+- List the risks that would break your budget and tick whether you hold cover for each.
+- Open one policy schedule; note excess, exclusions, and sum insured.
+- Store photos or receipts for high-value items in a recoverable place.
+- Verify any insurer contact using official details—not a surprise text.
+- See [publications](/topics/community/publications/publications) for more tip sheets.

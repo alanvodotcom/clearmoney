@@ -1,84 +1,68 @@
 ---
-title: "Protect yourself from scams"
-description: "Core habits that stop most scams."
+title: Protect yourself from scams
+description: Core habits that stop most scams.
 pillar: scams-safety
 hub: online-safety
 slug: protect-yourself-from-scams
 updated: "2026-08-03"
-tags: 
+tags:
   - online safety
-relatedGuides: 
+relatedGuides:
   - scams-safety/online-safety/how-to-spot-a-scam-website
   - scams-safety/online-safety/online-shopping-safety
   - scams-safety/online-safety/identity-theft
-  - scams-safety/online-safety/using-comparison-websites
+  - scams-safety/check-report/what-to-do-if-youve-been-scammed
 ---
 
-Core habits that stop most scams. If money stress is affecting essentials this week, start at [Urgent help](/urgent). Online money safety is mostly habits: slow down, verify, and never share one-time codes.
+Scams are designed to rush you past your usual caution. A few fixed habits—verify the sender, refuse secrecy, and never hand over a one-time code—block most attempts before money moves. If essentials are already at risk after a scam, go straight to [Urgent help](/urgent).
 
-## What is Protect yourself from scams?
+## The three moves that stop most scams
 
-**Protect yourself from scams** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Core habits that stop most scams. Online money safety is mostly habits: slow down, verify, and never share one-time codes.
+Treat unexpected contact about money as unverified until you prove otherwise.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+1. **Stop** — Hang up, close the chat, or leave the message unread for a few minutes. Scammers sell urgency (“your account will be locked”, “the deal closes tonight”).
+2. **Separate** — Open a new browser window or dial a number you already trust from a statement, bank app, or official website—not from the message itself.
+3. **Confirm** — Ask the real organisation whether they contacted you. If they did not, you have your answer.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+These moves work for texts, emails, social DMs, and voice calls. They also work when the caller sounds calm and professional. Tone is not proof.
 
-## How to think about the moving parts
+## Never share a one-time password
 
-If **protect yourself from scams** involves suspected fraud, speed and verification beat cleverness. Use official phone numbers from a statement or the organisation’s website—not numbers from a text. Never share one-time codes.
+Banks, myGov, and apps send one-time passwords (OTPs) so *you* can prove it is you logging in. Anyone who asks you to read out an OTP, screenshot a code, or “confirm” a code on a call is not helping you—they are trying to take over the session.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Never share OTPs, full card numbers with CVV, or remote-access passwords. A real bank staff member will not ask you to install screen-sharing software so they can “secure your account.” If someone pushes that path, end the contact and use the number on your card or statement.
 
-## Upsides worth wanting
+## When urgency and secrecy are the product
 
-- Limiting further loss by freezing channels quickly
-- Helping others when reports feed warning systems
-- Recovering access to accounts and identity credentials
+Two pressure tactics show up again and again:
 
-## Risks and traps to watch
+- **Urgency** — “Act in the next ten minutes or you lose everything.” Real problems can wait long enough for you to dial a known number.
+- **Secrecy** — “Don’t tell your partner / bank / the police—they’re in on it.” Legitimate help does not isolate you from people you trust.
 
-### Easy-to-miss costs
+If a story needs both speed and silence, treat it as a scam until proven otherwise. Talk to someone offline before you transfer. Shame is part of the design; talking breaks it.
 
-Sending more money because someone claims fees will ‘release’ funds. For **Protect yourself from scams**, read the conditions that turn a good deal average.
+## Everyday defences that compound
 
-### Timing and people problems
+- Keep device software and banking apps updated.
+- Use unique passwords (or a password manager) and turn on multi-factor authentication that you control—app or hardware key preferred over SMS where available.
+- Treat unexpected links as hostile until checked. Prefer typing the site address yourself.
+- Review bank notifications and credit alerts so strange activity surfaces quickly.
 
-Deleting evidence before reporting. If someone rushes you, that is data—slow down.
+For shopping checkouts and lookalike sites, see [How to spot a scam website](/topics/scams-safety/online-safety/how-to-spot-a-scam-website) and [Online shopping safety](/topics/scams-safety/online-safety/online-shopping-safety).
 
-### Recovery friction
+## Who to tell when something feels wrong
 
-Shame delays that shrink recovery options. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+You do not need to be certain before you report. Early reports help others and create a paper trail if money left your account.
 
-## Details that change the decision
+- Contact your bank or payment app using a known channel and say you suspect a scam.
+- Report the contact to [Scamwatch](https://www.scamwatch.gov.au).
+- For cybercrime such as hacking or malware, report via [ReportCyber](https://www.cyber.gov.au/report-and-recover/report).
 
-Phishing works because it looks almost right. For **Protect yourself from scams**, bookmark official login pages, turn on multi-factor authentication, and treat unexpected payment requests as hostile until proven otherwise.
-
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
-
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when a simple system helped
-
-Aisha nearly transferred savings after a convincing ‘bank fraud’ call. Taylor hung up, dialled the number on the back of the card, and learned the real bank had not called. The lesson for **protect yourself from scams**: slow clarity beats fast regret.
-
-## Practical steps for Protect yourself from scams
-
-1. Stop contact with the suspected scammer and do not send more money.
-2. Call your bank or card provider on a number from their official site.
-3. Change passwords starting with email, then banking, then social.
-4. Report via Scamwatch and keep evidence (messages, receipts, wallet addresses).
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Money stress now** — prioritise rent, food, utilities, and medicine, then use [Urgent help](/urgent). National Debt Helpline: 1800 007 007.
-- **After a scam** — contact your bank, change passwords, and report via Scamwatch; keep evidence.
+If money has already left, follow [What to do if you’ve been scammed](/topics/scams-safety/check-report/what-to-do-if-youve-been-scammed) without waiting to “feel ready.”
 
 ## What to do next
 
-- Call your bank from an official number and report the scam channels you used.
-- Read [How to spot a scam website](/topics/scams-safety/online-safety/how-to-spot-a-scam-website) for a related decision.
-- Read [Online shopping safety](/topics/scams-safety/online-safety/online-shopping-safety) for a related decision.
-- If essentials are at risk, open [Urgent help](/urgent) before taking on new credit.
+- Practise the stop–separate–confirm sequence once this week on a low-stakes message so it feels automatic under pressure.
+- Tell household members: never share OTPs, and real banks do not ask for remote access to “save” funds.
+- Bookmark Scamwatch and your bank’s official contact page so you are not searching under stress.
+- If you already sent money or shared codes, open [Urgent help](/urgent) and contact your bank now.

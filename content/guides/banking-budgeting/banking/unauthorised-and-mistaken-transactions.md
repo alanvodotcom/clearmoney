@@ -10,7 +10,8 @@ tags:
 relatedGuides:
   - banking-budgeting/banking/transaction-accounts-and-debit-cards
   - banking-budgeting/banking/direct-debits
-  - scams-safety/online-safety/protecting-your-personal-details
+  - scams-safety/online-safety/protect-yourself-from-scams
+  - scams-safety/online-safety/identity-theft
   - scams-safety/check-report/what-to-do-if-youve-been-scammed
 ---
 
@@ -66,5 +67,5 @@ Riley saw a large hotel-shaped hold the morning after booking travel and assumed
 
 - Enable purchase and low-balance alerts today.
 - Save your bank’s official dispute phone number offline.
-- Skim [Protecting your personal details](/topics/scams-safety/online-safety/protecting-your-personal-details).
+- Skim [Protect yourself from scams](/topics/scams-safety/online-safety/protect-yourself-from-scams) and [Identity theft](/topics/scams-safety/online-safety/identity-theft).
 - Keep PDFs of any cancellation confirmations for subscriptions you end.

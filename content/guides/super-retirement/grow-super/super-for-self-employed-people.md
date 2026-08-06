@@ -5,79 +5,62 @@ pillar: super-retirement
 hub: grow-super
 slug: super-for-self-employed-people
 updated: "2026-08-03"
-tags: 
-  - grow super
-relatedGuides: 
-  - super-retirement/grow-super/how-to-check-your-super
-  - super-retirement/grow-super/how-much-super-should-i-have
+tags:
+  - grow-super
+  - work
+relatedGuides:
+  - banking-budgeting/work-tax/self-employment
   - super-retirement/grow-super/super-contributions
-  - super-retirement/grow-super/super-investment-options
+  - super-retirement/how-super-works/tax-and-super
+  - super-retirement/grow-super/get-your-super-working-over-time
 ---
 
-Paying your own SG-equivalent contributions. Growing super is usually about contributions, fees, insurance inside super, and investment mix—not one hot tip.
+If you invoice as a sole trader or pay yourself through your own company, nobody automatically deposits Superannuation Guarantee into your fund unless you build the habit. Employees receive regular employer contributions; self-employed people must treat future selves as a creditor who gets paid on schedule—not when December profit feels generous.
 
-## What is Super for self-employed people?
+## Super as a non-negotiable business expense
 
-**Super for self-employed people** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Paying your own SG-equivalent contributions. Growing super is usually about contributions, fees, insurance inside super, and investment mix—not one hot tip.
+Pick a percentage of receipts or a fixed monthly amount and transfer it like BAS obligations. Parking “whatever is left at EOFY” usually means zero. Align transfers with invoicing cycles so lean months still contribute something small rather than skipping entirely.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Business money basics sit in [self-employment money basics](/topics/banking-budgeting/work-tax/self-employment). Use separate bank spaces for tax, GST, and super so a quiet quarter does not raid retirement money to cover a BAS surprise. Label accounts clearly; your future accountant will thank you.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+## Company directors paying wages
 
-## How to think about the moving parts
+If you pay yourself wages through a company, SG obligations can apply as they do for other employees—confirm current thresholds and rates with the ATO. Mixing drawings and wages carelessly creates both tax and super gaps. Your bookkeeper should show SG remittances matching payroll each quarter.
 
-Setup quality decides whether **super for self-employed people** helps or nags you later. Confirm identity and contact details, choose alerts you will actually read, and decide who else can see or move money. If a salesperson is present, ask for the key numbers in writing before you sign.
+When you hire your first external employee, budget their SG beside wages from day one. Mixing personal contributions with employee remittances in one confused transfer creates reconciliation pain and risk of underpaying staff—a serious compliance failure.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+## Concessional contributions and tax deductions
 
-## Upsides worth wanting
+Self-employed people often make personal concessional contributions and claim a deduction if conditions are met, including lodging notices with the fund on time. Caps still apply and change—see [super contributions](/topics/super-retirement/grow-super/super-contributions) and [tax and super](/topics/super-retirement/how-super-works/tax-and-super). This area is technical; use a registered tax agent when amounts are material.
 
-- Automations that reduce missed payments and late fees
-- Alerts that surface problems while they are still small
-- Shared understanding when more than one person is involved
+Company profits retained in the business are not the same as super contributions. Franking, Division 7A, and contribution caps can interact. Get accounting advice before moving large EOFY sums with improvised journal entries.
 
-## Risks and traps to watch
+## Cash-flow design for uneven income
 
-### Easy-to-miss costs
+Prefer percentage-of-receipts automation over annual lump guilt. When drawings are irregular, base contributions on revenue percentages deposited into a holding account weekly, then transfer to super monthly. Bookkeepers can code these correctly for tax time.
 
-Set-and-forget errors (wrong account, wrong amount, wrong date). For **Super for self-employed people**, read the conditions that turn a good deal average.
+Keep an emergency buffer **outside** super so late-paying clients do not push you toward illegal early-access schemes. Super is preserved; your landlord and suppliers are not. Quiet quarters are normal in contracting—plan for them in the business budget, not by skipping super entirely.
 
-### Timing and people problems
+## Insurance without an employer safety net
 
-Giving too much authority to another person. If someone rushes you, that is data—slow down.
+Without employer default cover, check whether your fund still holds life, TPD, or income protection and whether definitions fit self-employed work. Income protection held personally may interact with tax differently than cover inside super—get advice before cancelling anything.
 
-### Recovery friction
+A claim definition that assumes you can be redeployed by an employer may not match how you actually earn. Read the product disclosure statement with your occupation description in mind.
 
-Missing fine print on fees or cooling-off rights. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+## Measuring adequacy against employee benchmarks
 
-## Details that change the decision
+Compare your contribution rate to the SG percentage employees receive—not always a legal requirement for every sole-trader structure, but a fairness benchmark to yourself. Project balances with the same tools employees use and adjust when profits rise. [Get your super working over time](/topics/super-retirement/grow-super/get-your-super-working-over-time) has automation ideas you can adapt to business rhythms.
 
-Extra contributions only help if cash flow can carry them and rules allow them. For **Super for self-employed people**, compare concessional versus after-tax pathways with current caps in mind, and watch insurance premiums deducted from your balance.
+If you took years off super while building the business, catch-up is harder but not impossible. Higher contributions in good years, spouse contributions where eligible, and downsizer rules later in life may all play a part—each with caps and conditions that change.
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+## Spouse and family contributions
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when a simple system helped
-
-Aisha set everything up in a hurry and only noticed the wrong account after a payment bounced. Taylor now screenshots every confirmation and nicknames accounts so automations are obvious. The lesson for **super for self-employed people**: slow clarity beats fast regret.
-
-## Practical steps for Super for self-employed people
-
-1. Gather ID, income evidence, and any existing contracts or statements.
-2. Confirm who else is affected (partner, guarantor, dependants) before you sign.
-3. Complete the application or setup deliberately—screenshot confirmations.
-4. Turn on alerts and store reference numbers where you can find them.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Rule changes** — contribution caps, preservation ages, and Age Pension settings change; confirm current figures before acting.
+Where eligible, a partner might contribute to your fund if your business year was weak—rules and caps apply. Conversely, contributing for a working spouse who lacks super can balance household retirement risk. Tax treatment differs between spouse contributions, splitting, and ordinary personal contributions; your agent can map what fits this financial year.
 
 ## What to do next
 
-- Decide the next action for **super for self-employed people** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [How to check your super](/topics/super-retirement/grow-super/how-to-check-your-super) for a related decision.
-- Read [How much super should I have?](/topics/super-retirement/grow-super/how-much-super-should-i-have) for a related decision.
-- Tell one trusted person your plan if accountability helps you follow through.
+- Open a dedicated bank space labelled “super” and automate a transfer—even a modest amount.
+- Ask your tax agent which contribution pathway fits this year’s profit structure.
+- Confirm any company payroll SG is actually remitting to your fund each quarter.
+- Review insurance cover given you lack an employer default policy.
+- Diary a quarterly super top-up the same week you lodge BAS.

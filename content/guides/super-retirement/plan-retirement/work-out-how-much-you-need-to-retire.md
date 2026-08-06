@@ -5,84 +5,72 @@ pillar: super-retirement
 hub: plan-retirement
 slug: work-out-how-much-you-need-to-retire
 updated: "2026-08-03"
-tags: 
-  - plan retirement
-relatedTools: 
+tags:
+  - plan-retirement
+relatedTools:
   - retirement-planner
-relatedGuides: 
+relatedGuides:
   - super-retirement/plan-retirement/make-a-retirement-plan
-  - super-retirement/plan-retirement/super-and-the-age-pension
-  - super-retirement/plan-retirement/what-happens-to-your-super-when-you-retire
-  - super-retirement/plan-retirement/your-home-in-retirement
+  - super-retirement/grow-super/how-much-super-should-i-have
+  - super-retirement/income-sources/age-pension-and-government-benefits
+  - banking-budgeting/budgeting/how-to-do-a-budget
 ---
 
-Lifestyle budgets and nest-egg estimates. Retirement planning turns a vague ‘enough’ into a spending estimate, an income mix, and a timing plan.
+“How much is enough?” becomes answerable when you replace vibes with a spending target and an income model. Precision to the dollar is false comfort; a reasoned range is enough to steer contributions, housing choices, and retirement timing. Rules and caps change—treat every figure here as a method, not a promise.
 
-## What is Work out how much you need to retire?
+## Start from today’s spending
 
-**Work out how much you need to retire** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Lifestyle budgets and nest-egg estimates. Retirement planning turns a vague ‘enough’ into a spending estimate, an income mix, and a timing plan.
+Begin with a current spending review—[how to do a budget](/topics/banking-budgeting/budgeting/how-to-do-a-budget)—then adjust for retirement life:
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+- Remove work costs: commuting, some lunches, professional clothes, union fees
+- Add home-time costs: utilities, hobbies, more time at home
+- Be honest about health, private insurance, and helping adult children
+- Include infrequent replacements: hot water systems, cars, roofs
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+Produce two annual figures: **lean** and **comfortable**. Your nest egg must stretch across a range, not a fantasy middle copied from a podcast.
 
-## How to think about the moving parts
+## Own home versus rent reshapes the target
 
-Setup quality decides whether **work out how much you need to retire** helps or nags you later. Confirm identity and contact details, choose alerts you will actually read, and decide who else can see or move money. If a salesperson is present, ask for the key numbers in writing before you sign.
+A paid-off home lowers the income you must generate each year. Renters need a higher sustainable income or another housing strategy—downsizing capital, boarder income, or a larger super balance. Do not copy a homeowner’s “magic number” from social media. If you expect to rent, model rent with a cautious uplift for the next twenty years.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+## Subtract non-super income first
 
-ClearMoney calculators that pair with this topic: [Retirement Planner](/tools/retirement-planner). Use them to turn guesses into numbers before you commit.
+From each annual spending figure, subtract expected Age Pension and other income: part-time wages, rental yield, defined-benefit pensions, annuities already purchased. Overview of government payments: [Age Pension and government benefits](/topics/super-retirement/income-sources/age-pension-and-government-benefits).
 
-## Upsides worth wanting
+The remainder is what portfolio withdrawals must cover. Rough capitalisation rules are starting points only—longevity, investment returns, fees, and tax change the maths. Use the [retirement planner](/tools/retirement-planner) and stress lower returns than your fund’s glossy assumption.
 
-- Automations that reduce missed payments and late fees
-- Alerts that surface problems while they are still small
-- Shared understanding when more than one person is involved
+## Longevity and sequence risk
 
-## Risks and traps to watch
+You might live longer than average—plan income into your 90s unless health information suggests otherwise. Big withdrawals in a bad market early in retirement hurt more than the same withdrawals later. Keeping a cash buffer for near-term spending reduces forced sales when shares are down.
 
-### Easy-to-miss costs
+Couples should model survivor scenarios: one Age Pension, one super balance, changed spending. The cheaper two-person household often becomes a more expensive one-person household.
 
-Set-and-forget errors (wrong account, wrong amount, wrong date). For **Work out how much you need to retire**, read the conditions that turn a good deal average.
+## Healthcare and aged-care placeholders
 
-### Timing and people problems
+Even if you feel healthy today, include a line for rising out-of-pocket medical costs and a note that aged-care deposits may require capital later. You do not need a precise refundable accommodation deposit figure today; you need to stop pretending housing equity automatically solves care without trade-offs.
 
-Giving too much authority to another person. If someone rushes you, that is data—slow down.
+## One-off capital versus recurring spend
 
-### Recovery friction
+Separate car replacements, roof jobs, and one-time family gifts from the yearly living budget. Fund one-offs from a capital reserve so they do not inflate the permanent income need and cause despair when the spreadsheet says you are “short.”
 
-Missing fine print on fees or cooling-off rights. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+## Part-pension sensitivity
 
-## Details that change the decision
+Run your capital need once assuming some Age Pension and once assuming none. If the plan collapses without pension, you are exposed to rule changes. Building flexibility—work options, spending levers, housing choices—matters as much as hitting a single magic number.
 
-A retirement age is a hypothesis until health, work, and housing cooperate. For **Work out how much you need to retire**, model a ‘base’ and a ‘frugal’ budget, then test what happens if you retire two years earlier or later. Include Age Pension assumptions carefully—they are means-tested.
+## From target back to today’s actions
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+If the gap is large: raise contributions, trim fees, adjust lifestyle target, delay retirement, or plan part-time work. If the gap is small: avoid lifestyle inflation that reopens it. Benchmark progress with [how much super should I have?](/topics/super-retirement/grow-super/how-much-super-should-i-have).
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+Document assumptions in writing: inflation guess, retirement age, pension eligibility assumption, and investment return caution. When any assumption breaks, update the number. Paste the result into [make a retirement plan](/topics/super-retirement/plan-retirement/make-a-retirement-plan).
 
-## A short story: when a simple system helped
+## Benchmarks are guides, not verdicts
 
-Aisha set everything up in a hurry and only noticed the wrong account after a payment bounced. Taylor now screenshots every confirmation and nicknames accounts so automations are obvious. The lesson for **work out how much you need to retire**: slow clarity beats fast regret.
-
-## Practical steps for Work out how much you need to retire
-
-1. Gather ID, income evidence, and any existing contracts or statements.
-2. Confirm who else is affected (partner, guarantor, dependants) before you sign.
-3. Complete the application or setup deliberately—screenshot confirmations.
-4. Turn on alerts and store reference numbers where you can find them.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Rule changes** — contribution caps, preservation ages, and Age Pension settings change; confirm current figures before acting.
+Industry “comfortable retirement” figures assume particular household types and home ownership. Use them to sense-check your lean and comfortable budgets, not to declare failure if you sit below a headline number. Progress matters: closing a gap slowly beats never measuring the gap at all.
 
 ## What to do next
 
-- Decide the next action for **work out how much you need to retire** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Make a retirement plan](/topics/super-retirement/plan-retirement/make-a-retirement-plan) for a related decision.
-- Read [Super and the Age Pension](/topics/super-retirement/plan-retirement/super-and-the-age-pension) for a related decision.
-- Run the numbers with [Retirement Planner](/tools/retirement-planner).
-- Tell one trusted person your plan if accountability helps you follow through.
+- Finalise lean and comfortable annual budgets from your current spending review.
+- Estimate non-super income and calculate the residual withdrawal need.
+- Model capital with the [retirement planner](/tools/retirement-planner) under a cautious return assumption.
+- Build a tiny sensitivity table: weaker markets, longer life, care costs—and one response for each.
+- Choose one lever—save more, spend less, work longer—to close any gap you find.

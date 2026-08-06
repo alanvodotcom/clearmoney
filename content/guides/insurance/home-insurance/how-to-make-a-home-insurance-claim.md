@@ -5,79 +5,65 @@ pillar: insurance
 hub: home-insurance
 slug: how-to-make-a-home-insurance-claim
 updated: "2026-08-03"
-tags: 
+tags:
   - home insurance
-relatedGuides: 
+relatedGuides:
   - insurance/home-insurance/choosing-home-insurance
   - insurance/home-insurance/contents-insurance
   - insurance/home-insurance/underinsurance-what-it-is-and-how-to-avoid-it
   - insurance/home-insurance/storm-flood-and-fire-insurance
+  - insurance/home-insurance/how-home-insurance-cash-settlements-work
 ---
 
-Evidence, temporary accommodation, and timelines. Home and contents insurance protect against sudden loss—sum insured and exclusions decide whether a claim helps.
+A home claim is a project: make the property safe, notify the insurer, prove what was damaged, then navigate repairs or cash settlement. Catastrophe periods stretch timelines, so organised evidence is the advantage you control.
 
-## What is How to make a home insurance claim?
+## Make safe, then make contact
 
-**How to make a home insurance claim** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Evidence, temporary accommodation, and timelines. Home and contents insurance protect against sudden loss—sum insured and exclusions decide whether a claim helps.
+Prioritise injuries and hazards—gas, electrics, structural collapse. Call emergency services when needed. Prevent further damage where safe: tarp a roof, move undamaged contents higher, photograph before you throw soaked goods away if you can. Insurers expect reasonable mitigation; they do not expect you to risk injury.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Open a claim by phone or app as soon as practical. Ask for a claim number, the excess that will apply (including any event-specific excess), and whether emergency make-safe works can start under insurer direction. If the event is a declared disaster, also skim [what to do after a natural disaster](/topics/insurance/natural-disasters/what-to-do-after-a-natural-disaster) for support services beyond insurance.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+## Evidence that shortens assessment
 
-## How to think about the moving parts
+Provide:
 
-Insurance decisions for **how to make a home insurance claim** are about the claim you hope never happens. Read exclusions and waiting periods before you compare price alone. Check whether you already hold overlapping cover elsewhere.
+- photos and video of every damaged room, exterior, and serial plates where possible
+- a contents list with approximate ages and replacement costs
+- purchase receipts, valuations, or cloud photo libraries dated before the event
+- trades’ emergency invoices if you had to stabilise the property
+- police report numbers for theft or malicious damage
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Do not dispose of major items until the assessor agrees, except where health rules require it—keep samples or photos. For water events, note timing and source; flood versus storm disputes hinge on facts. Revisit [storm, flood and fire](/topics/insurance/home-insurance/storm-flood-and-fire-insurance) wording if the insurer’s category surprises you.
 
-## Upsides worth wanting
+Keep a communication log. Assign one household member to be the claims contact so instructions do not scatter.
 
-- A financial backstop after insured events
-- Clearer recovery planning when documents are ready
-- Peace of mind when sums insured match rebuild or replace costs
+## Temporary accommodation and living costs
 
-## Risks and traps to watch
+If the home is unliveable, ask what temporary accommodation benefit applies, the daily cap, and the maximum duration. Book within those rules where you can; luxury upgrades come out of your pocket. Meal and laundry allowances, if any, need receipts.
 
-### Easy-to-miss costs
+Landlord claimants should ask about loss-of-rent benefits and proof tenants could not occupy. Renters claim contents on their own policy—the landlord’s building claim will not replace personal goods.
 
-Underinsurance and uncovered flood or temporary accommodation gaps. For **How to make a home insurance claim**, read the conditions that turn a good deal average.
+## Repairs, delays, and disagreements
 
-### Timing and people problems
+Insurers may appoint builders and contents restoration firms. Scope disputes are common after widespread storms. If the scope misses rooms or under-quotes materials, raise it in writing with photos attached. You can seek your own quote for comparison; process rules vary by insurer.
 
-Overlapping policies that still leave a hole. If someone rushes you, that is data—slow down.
+If a cash settlement is offered instead of managing repairs, understand obligations and shortfalls first—[cash settlements explained](/topics/insurance/home-insurance/how-home-insurance-cash-settlements-work). Underinsurance problems surface here when rebuild quotes exceed limits.
 
-### Recovery friction
+Internal complaints and AFCA remain options when process or liability decisions feel wrong. Unsolicited door-knock rebuild offers after disasters deserve caution—see [disaster chasers](/topics/insurance/natural-disasters/be-aware-of-disaster-chasers).
 
-Add-ons that cost more than the likely benefit. Keep PDFs and screenshots; verbal promises are hard to enforce later.
 
-## Details that change the decision
+## Working with assessors without losing the thread
 
-Sums insured should reflect rebuild cost, not market price. For **How to make a home insurance claim**, confirm flood and temporary accommodation wording for your address. Keep a contents inventory with photos.
+Meet assessors with your photo pack and inventory already organised by room. Take your own notes of what they say is in scope. If a room is skipped, point to it before they leave. Afterward, email a short summary of your understanding so disagreements surface early.
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+When catastrophe volumes are high, one clear email trail beats five anxious phone calls that nobody logs.
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when a simple system helped
-
-Priya discovered after a claim that the sum insured was years out of date. Alex now reviews cover at renewal with rebuild and contents lists, not just the premium. The lesson for **how to make a home insurance claim**: slow clarity beats fast regret.
-
-## Practical steps for How to make a home insurance claim
-
-1. List the risks you actually need covered versus nice-to-haves.
-2. Compare sum insured, excess, exclusions, and waiting periods.
-3. Check whether cover already exists inside super, bank, or another policy.
-4. Store policy numbers and claim phone lines offline as well as in the app.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Claims** — photograph damage, keep receipts for emergency spends, and ask about temporary accommodation cover if you cannot stay home.
+Ask early whether mould remediation, asbestos testing, or stripping of wet plasterboard sits inside the approved scope. Those line items expand after floods and fires; catching them late creates second disputes and second excess arguments.
 
 ## What to do next
 
-- Decide the next action for **how to make a home insurance claim** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Choosing home insurance](/topics/insurance/home-insurance/choosing-home-insurance) for a related decision.
-- Read [Contents insurance](/topics/insurance/home-insurance/contents-insurance) for a related decision.
-- Tell one trusted person your plan if accountability helps you follow through.
+- Secure the site, photograph damage, and lodge a claim number before major disposal of goods.
+- Ask for written confirmation of excess, temporary accommodation caps, and next assessment steps.
+- Send a labelled evidence pack rather than piecemeal texts.
+- Track every insurer deadline; escalate in writing if silence stretches past promised timeframes.
+- If essentials cash flow breaks while you wait, use [Urgent help](/urgent) and community disaster supports alongside the claim.

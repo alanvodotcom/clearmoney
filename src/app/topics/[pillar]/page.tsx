@@ -83,7 +83,7 @@ export default async function PillarPage({ params }: Props) {
         </h2>
         <ul className="mt-4 space-y-3">
           {articles.map((article) => (
-            <li key={article.slug}>
+            <li key={`${article.hub}/${article.slug}`}>
               <Link
                 href={`/topics/${id}/${article.hub}/${article.slug}`}
                 className="font-medium hover:text-accent"

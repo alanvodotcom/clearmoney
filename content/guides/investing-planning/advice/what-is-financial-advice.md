@@ -5,80 +5,68 @@ pillar: investing-planning
 hub: advice
 slug: what-is-financial-advice
 updated: "2026-08-03"
-tags: 
+tags:
   - advice
-relatedGuides: 
+relatedGuides:
   - investing-planning/advice/general-and-personal-financial-advice
   - investing-planning/advice/choosing-a-financial-adviser
   - investing-planning/advice/financial-advice-costs
   - investing-planning/advice/working-with-a-financial-adviser
 ---
 
-General vs personal advice—and why the difference matters. Paid advice can help complex decisions—but only if the adviser is appropriately licensed and clear about fees.
+Financial advice, in everyday language, means guidance about money products and strategies—super, investments, insurance, retirement income, and sometimes credit. In Australian regulation, **financial product advice** has a more precise meaning, and the split between general and personal advice changes duties and documents. Knowing the landscape helps you buy the right help—or confidently help yourself.
 
-## Understanding What is financial advice
+## Advice versus information versus sales
 
-**What is financial advice?** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. General vs personal advice—and why the difference matters. Paid advice can help complex decisions—but only if the adviser is appropriately licensed and clear about fees.
+**Information** explains how something works (what an ETF is, how compound returns behave). **Advice** steers toward a course of action about financial products. **Sales** pushes a specific application, often with urgency. The same conversation can blend all three. Your job is to notice when you have crossed from learning into being sold.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+ClearMoney publishes educational information. It is not a substitute for licensed personal advice about your situation.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+## Where people typically get help
 
-## How to think about the moving parts
+- licensed financial advisers and planners
+- digital advice tools (robo-style) operating under an AFSL
+- accountants or lawyers (who may refer, or hold separate authorisations for certain advice)
+- product issuers’ call centres (often general advice or factual information)
+- media, social platforms, and informal peers (usually neither licensed nor accountable to you)
 
-With **what is financial advice?**, match the product to your time horizon. Money you may need within a few years usually should not sit in volatile assets. Fees and diversification matter more than a single tip from social media.
+Informal tips can be costly. Chat-group stock calls and finfluencer lives are not advice relationships ([finfluencers](/topics/scams-safety/online-safety/what-is-a-finfluencer)).
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+## Personal advice in one picture
 
-## Upsides worth wanting
+When a provider considers your objectives, financial situation, or needs and recommends products or strategies, you are generally in personal advice territory. That usually means fact-finding, a written basis for recommendations, and fee disclosure. Details sit in [general and personal financial advice](/topics/investing-planning/advice/general-and-personal-financial-advice).
 
-- Potential growth above cash over long periods
-- Diversification that reduces single-company drama
-- Alignment with goals like retirement or a distant home deposit
+Personal advice is useful for complex, high-stakes, or emotionally loaded decisions: retirement timing, large inheritance deployment, business exit, blended-family estate coordination with product choices, insurance structuring. It is optional for many straightforward accumulation journeys built on diversified low-cost products.
 
-## Risks and traps to watch
+## What advice cannot honestly promise
 
-### Easy-to-miss costs
+No legitimate adviser can guarantee investment returns, eliminate risk, or make markets obey a spreadsheet. Guarantees plus secrecy plus speed are scam markers ([investment scams](/topics/scams-safety/financial-scams/investment-scams)). Advice quality shows up in process: clear goals, suitable strategies, documented trade-offs, and reviews when life changes.
 
-Buying under social pressure or FOMO. For **What is financial advice?**, read the conditions that turn a good deal average.
+## Costs and accountability
 
-### Timing and people problems
+Advice has a price ([financial advice costs](/topics/investing-planning/advice/financial-advice-costs)). In return you should get clarity—not mystique. Authorised advisers can be checked ([financial advisers register](/topics/investing-planning/advice/financial-advisers-register)) and complained about through internal dispute resolution and AFCA when things go wrong ([problems with a financial adviser](/topics/investing-planning/advice/problems-with-a-financial-adviser)). Unlicensed coaches offering “mindset plus forex” packages skip those protections on purpose.
 
-Concentrated bets and high fees. Write down who can authorise changes.
+## A practical self-test before you hire someone
 
-### Recovery friction
+Ask:
 
-Needing the money earlier than the investment can recover. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+1. What decision am I stuck on that education alone has not unblocked?
+2. What would a good outcome look like in 12 months?
+3. How much am I willing to pay for help with that decision?
+4. Am I prepared to share accurate details about debts, spending, and goals?
 
-## Details that change the decision
+If you cannot answer, start with education and a written [investing plan](/topics/investing-planning/how-to-invest/develop-an-investing-plan) outline, then revisit whether personal advice is needed.
 
-Licensed advice should come with a clear fee, a scope, and documents you can keep. For **What is financial advice?**, ask how the adviser is paid and what happens if you say no to a product. If someone guarantees returns or pushes you to act today, treat that as a warning sign.
+## Advice is not the same as product access
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+You can buy many investments through a broker without an adviser. Advice adds judgement, structure, and accountability—when it is real personal advice. If someone will only “help” after you transfer money into their preferred platform, separate the access pitch from the advice pitch and verify both.
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when the fine print mattered
-
-Harper bought after a viral tip and sold in a panic three weeks later. Drew wrote a one-page plan: horizon, fee budget, and a rule not to check prices daily. The lesson for **what is financial advice?**: slow clarity beats fast regret.
-
-## Practical steps for What is financial advice
-
-1. Define the time horizon and what would force you to sell early.
-2. List fees (management, brokerage, advice) in dollars per year if you can.
-3. Diversify enough that one tip cannot wreck the plan.
-4. Ignore urgency: legitimate offers survive a night’s sleep.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Life changes** — job loss, a new dependant, or a move can invalidate last year’s choice; schedule a review.
-- **Records** — keep PDFs of contracts, statements, and cancellation confirmations for at least a year.
+Households that mainly need a diversified ETF plan may not need an ongoing advice retainer. Households facing intertwined insurance, estate, and retirement choices often do. Match the tool to the tangle.
 
 ## What to do next
 
-- Decide the next action for **what is financial advice?** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [General and personal financial advice](/topics/investing-planning/advice/general-and-personal-financial-advice) for a related decision.
-- Read [Choosing a financial adviser](/topics/investing-planning/advice/choosing-a-financial-adviser) for a related decision.
-- Write your constraints on paper so a sales pitch cannot rewrite them.
+- Separate learning (general information) from recommendations about your money (possible personal advice).
+- Read [general and personal financial advice](/topics/investing-planning/advice/general-and-personal-financial-advice) before any seminar or sales meeting.
+- If you hire help, verify authorisation and fees first—see [choosing a financial adviser](/topics/investing-planning/advice/choosing-a-financial-adviser).
+- Treat guaranteed-return “advisory” offers as scam risks via [check before you invest](/topics/scams-safety/check-report/check-before-you-invest).
+- Keep written records of any advice you rely on.

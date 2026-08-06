@@ -5,80 +5,67 @@ pillar: investing-planning
 hub: shares
 slug: shares-what-is-an-ipo
 updated: "2026-08-03"
-tags: 
+tags:
   - shares
-relatedGuides: 
+relatedGuides:
   - investing-planning/shares/how-to-buy-and-sell-shares
   - investing-planning/shares/choosing-shares-to-buy
   - investing-planning/shares/what-is-share-market-volatility
   - investing-planning/shares/employee-share-schemes
 ---
 
-Floats, prospectuses, and IPO risks. Shares are ownership slices. Prices move daily; your plan should not.
+An initial public offering (IPO)—often called a float in Australia—is when a company first offers shares to the public and lists on an exchange such as the ASX. Existing owners may sell down; the company may raise new capital; brokers and media may create excitement. Excitement is not analysis. Many IPOs are volatile and some disappoint long after the listing party ends.
 
-## What is an IPO: the clear version
+## Why companies float
 
-**What is an IPO?** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Floats, prospectuses, and IPO risks. Shares are ownership slices. Prices move daily; your plan should not.
+Common motives include raising funds for growth or debt reduction, giving early investors and staff a path to liquidity, and raising the firm’s profile. Those motives can align with public shareholders—or leave you buying after private owners have already taken substantial value off the table. Read who is selling and why.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+## Prospectus reality check
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+A prospectus (or Product Disclosure Statement for certain offers) is the core document. It describes the business, risks, use of proceeds, financial history, and offer structure. It is long on purpose. Skimming the colourful wraparound brochure is not due diligence.
 
-## How to think about the moving parts
+Pay attention to:
 
-With **what is an IPO?**, match the product to your time horizon. Money you may need within a few years usually should not sit in volatile assets. Fees and diversification matter more than a single tip from social media.
+- revenue quality and customer concentration
+- debt, related-party deals, and escrow (escrowed shares that unlock later can pressure price)
+- forecasts and the assumptions underneath them
+- fees paid to advisers and how many shares are issued
+- industry cyclicality and competitor threats
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+If you cannot explain the business model in a few sentences, you are guessing with real money.
 
-## Upsides worth wanting
+## Allocation, openings, and the first weeks
 
-- Potential growth above cash over long periods
-- Diversification that reduces single-company drama
-- Alignment with goals like retirement or a distant home deposit
+Retail investors sometimes receive partial allocations when deals are hot, then watch prices jump—or sink—on day one. Opening pops are not free money; someone else may be selling into strength. Cold IPOs can list below offer price and stay weak while research coverage is thin.
 
-## Risks and traps to watch
+Trading in the first months can be dominated by short-term flows, index inclusion effects, and lock-up expiries. That is a different game from patient ownership of a diversified portfolio. See [share market volatility](/topics/investing-planning/shares/what-is-share-market-volatility).
 
-### Easy-to-miss costs
+## Risks that are easy to underestimate
 
-Buying under social pressure or FOMO. For **What is an IPO?**, read the conditions that turn a good deal average.
+- Limited operating history as a public company
+- Optimistic forecasts that miss once public scrutiny arrives
+- Governance that still behaves like a private firm
+- Liquidity gaps in smaller floats
+- Information asymmetry versus institutions that saw roadshows you did not
 
-### Timing and people problems
+Comparing an IPO only to “friends who made money on the last one” is selection bias. Plenty of floats quietly underperform the broader market after the headlines fade.
 
-Concentrated bets and high fees. Put review dates in your calendar.
+## IPO hype versus scams
 
-### Recovery friction
+Legitimate IPOs still carry risk. Separately, scammers invent fake “pre-IPO” placements, cloned broker applications, or overseas floats that Australians cannot verify. Guaranteed listing gains and pressure to pay in crypto or gift cards are red flags. Use [check before you invest](/topics/scams-safety/check-report/check-before-you-invest), [investment scams](/topics/scams-safety/financial-scams/investment-scams), and [investment hype](/topics/investing-planning/warnings/dont-get-burned-by-investment-hype).
 
-Needing the money earlier than the investment can recover. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+Finfluencers hyping allocations they may be paid to promote deserve extra scepticism ([what is a finfluencer?](/topics/scams-safety/online-safety/what-is-a-finfluencer)).
 
-## Details that change the decision
+## A sturdier default for most people
 
-Company news moves prices; your plan should not move with every headline. For **What is an IPO?**, understand brokerage, tax lots, and concentration risk if one stock becomes a large share of your wealth. Dividends are not ‘free money’—they are part of total return and can be cut.
+You do not need to participate in IPOs to own shares. Buying diversified ETFs or established listed companies through ordinary brokerage avoids offer-season theatre—see [how to buy and sell shares](/topics/investing-planning/shares/how-to-buy-and-sell-shares) and [choosing shares to buy](/topics/investing-planning/shares/choosing-shares-to-buy). If you still want IPO exposure, size it as speculative capital you can lose without touching goal money, and read the prospectus before the broker deadline—not the night before.
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
-
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when timing changed the outcome
-
-Noah bought after a viral tip and sold in a panic three weeks later. Riley wrote a one-page plan: horizon, fee budget, and a rule not to check prices daily. The lesson for **what is an IPO?**: slow clarity beats fast regret.
-
-## Practical steps for What is an IPO
-
-1. Define the time horizon and what would force you to sell early.
-2. List fees (management, brokerage, advice) in dollars per year if you can.
-3. Diversify enough that one tip cannot wreck the plan.
-4. Ignore urgency: legitimate offers survive a night’s sleep.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Life changes** — job loss, a new dependant, or a move can invalidate last year’s choice; schedule a review.
-- **Records** — keep PDFs of contracts, statements, and cancellation confirmations for at least a year.
+Employee participants in pre-IPO or listing events should understand escrow and tax timing ([employee share schemes](/topics/investing-planning/shares/employee-share-schemes)).
 
 ## What to do next
 
-- Decide the next action for **what is an IPO?** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [How to buy and sell shares](/topics/investing-planning/shares/how-to-buy-and-sell-shares) for a related decision.
-- Read [Choosing shares to buy](/topics/investing-planning/shares/choosing-shares-to-buy) for a related decision.
-- Set a calendar reminder to revisit this decision after the next statement cycle.
+- If an IPO interests you, download and read the prospectus risks and use-of-proceeds sections first.
+- Note who is selling shares and when escrowed stock can hit the market.
+- Assume day-one price action is unpredictable; size any application as money you can leave alone—or lose.
+- Prefer building core wealth with diversified listed assets unless you have a researched thesis.
+- Reject “secret pre-IPO” pitches; verify via [check before you invest](/topics/scams-safety/check-report/check-before-you-invest).

@@ -1,83 +1,78 @@
 ---
-title: "How to prove your identity"
-description: "ID options when opening accounts or claiming money."
+title: How to prove your identity
+description: ID options when opening accounts or claiming money.
 pillar: community
 hub: first-nations
 slug: how-to-prove-your-identity
 updated: "2026-08-03"
-tags: 
+tags:
   - first nations
-relatedGuides: 
-  - community/first-nations/first-nations-services-that-can-help
+relatedGuides:
   - community/first-nations/bank-accounts
-  - community/first-nations/book-up
-  - community/first-nations/cash-loans
+  - community/first-nations/first-nations-services-that-can-help
+  - community/unclaimed-money/proof-of-ownership-for-unclaimed-money
+  - community/first-nations/superannuation
 ---
 
-ID options when opening accounts or claiming money. First Nations money guides respect community contexts while covering practical banking, debt, and consumer rights.
+Proving who you are unlocks bank accounts, Centrelink, travel, and claims on money owed to you. When licences and passports are missing, the path is longer—but not closed. Prepare a mix of documents and ask each organisation what they accept.
 
-## What is How to prove your identity?
+## Why banks and agencies ask for ID
 
-**How to prove your identity** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. ID options when opening accounts or claiming money. First Nations money guides respect community contexts while covering practical banking, debt, and consumer rights.
+Identity checks reduce fraud and meet legal duties. They are not a judgement on your community. Knowing that does not make the paperwork easier—but it explains why staff cannot simply “take your word for it” on a large withdrawal or a new account.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Different organisations use different document lists. A combination that works for Centrelink may need a tweak for a bank. Always ask for the list in writing or from their website for remote customers.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+## Document combinations that often work
 
-## How to think about the moving parts
+Common building blocks:
 
-If **how to prove your identity** involves suspected fraud, speed and verification beat cleverness. Use official phone numbers from a statement or the organisation’s website—not numbers from a text. Never share one-time codes.
+- Birth certificate or birth extract
+- Driver licence or proof of age card
+- Passport
+- Medicare card
+- Government correspondence with your name and address
+- Centrelink or Services Australia documents
+- Certificate of Aboriginality or confirmation of Aboriginality where accepted as supporting evidence (ask—acceptance varies by purpose)
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Secondary evidence can include school records, mail, or community organisation letters on letterhead. Certified copies are often required for postal applications—ask who can certify in your town (JP, police, listed professions).
 
-## Upsides worth wanting
+For reclaiming unclaimed money, agencies are strict—see [proof of ownership for unclaimed money](/topics/community/unclaimed-money/proof-of-ownership-for-unclaimed-money).
 
-- Limiting further loss by freezing channels quickly
-- Helping others when reports feed warning systems
-- Recovering access to accounts and identity credentials
+## When standard documents are hard to get
 
-## Risks and traps to watch
+If you do not have a birth certificate:
 
-### Easy-to-miss costs
+- Apply through your state registry; community workers can help with forms and fees hardship
+- Ask the bank about their alternative verification pathways for customers with limited ID
+- Use [First Nations services that can help](/topics/community/first-nations/first-nations-services-that-can-help) to find local support
 
-Sending more money because someone claims fees will ‘release’ funds. For **How to prove your identity**, read the conditions that turn a good deal average.
+Name variations (community name vs legal name, spelling differences, married names) cause many failed checks. Carry evidence of name links—marriage certificates, change-of-name documents, or consistent older records.
 
-### Timing and people problems
+Never pay a stranger who claims they can “get you ID overnight” for a large cash fee. Use official registries.
 
-Deleting evidence before reporting. If someone rushes you, that is data—slow down.
+## Keeping copies safe
 
-### Recovery friction
+- Store certified copies separate from originals when travelling
+- Photograph documents in a secure album—not a public social feed
+- Update address details when you move so replacement cards arrive
+- If documents are stolen, report to police and the issuing agency; freeze bank cards
 
-Shame delays that shrink recovery options. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+Good ID habits also support [bank accounts](/topics/community/first-nations/bank-accounts) and [super](/topics/community/first-nations/superannuation) claims later.
 
-## Details that change the decision
+## Digital identity and myGov
 
-Practical money steps should respect kinship, remote access barriers, and community obligations. For **How to prove your identity**, prefer culturally safe services and confirm rights around banking, Centrelink interactions, and consumer credit.
+Many services now push myGov and digital ID pathways. That can help if you have a smartphone and stable email—or create a new barrier if you do not. Library and community centre computers, plus a worker beside you, are legitimate ways to set these up. Do not hand your myGov login to a casual acquaintance who offers to “do it for you” unsupervised.
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+Once digital access works, download or screenshot key documents ( Centrelink statements, Medicare details) into a secure folder so future ID packs are easier. Update recovery email and phone numbers when your prepaid number changes.
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+## Helping elders with ID packs
 
-## A short story: when a simple system helped
-
-Mei nearly transferred savings after a convincing ‘bank fraud’ call. Chris hung up, dialled the number on the back of the card, and learned the real bank had not called. The lesson for **how to prove your identity**: slow clarity beats fast regret.
-
-## Practical steps for How to prove your identity
-
-1. Stop contact with the suspected scammer and do not send more money.
-2. Call your bank or card provider on a number from their official site.
-3. Change passwords starting with email, then banking, then social.
-4. Report via Scamwatch and keep evidence (messages, receipts, wallet addresses).
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **After a scam** — contact your bank, change passwords, and report via Scamwatch; keep evidence.
+Offer to photocopy and label documents for older relatives—without taking control of their money. A labelled sleeve (licence, Medicare, birth extract, confirmation letters) saves repeated trips. Return originals the same day. Consent matters: do not open accounts in someone else’s name “to make it easier.”
 
 ## What to do next
 
-- Call your bank from an official number and report the scam channels you used.
-- Read [First Nations services that can help](/topics/community/first-nations/first-nations-services-that-can-help) for a related decision.
-- Read [Bank accounts](/topics/community/first-nations/bank-accounts) for a related decision.
-- Tell one trusted person your plan if accountability helps you follow through.
+- Ask your bank and Centrelink for their current acceptable ID lists.
+- List every document you already have; note gaps (birth certificate, licence).
+- Book help with a community worker to order missing certificates if needed.
+- Keep certified copies ready before you apply for accounts or unclaimed money.
+- Protect originals; report loss quickly and freeze related cards.

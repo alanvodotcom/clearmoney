@@ -1,85 +1,67 @@
 ---
-title: "Superannuation scams"
-description: "Illegal early access and SMSF takeover tricks."
+title: Superannuation scams
+description: Illegal early access and SMSF takeover tricks.
 pillar: scams-safety
 hub: financial-scams
 slug: superannuation-scams
 updated: "2026-08-03"
-tags: 
+tags:
   - financial scams
-relatedGuides: 
-  - scams-safety/financial-scams/banking-scams
+relatedGuides:
   - scams-safety/financial-scams/investment-scams
-  - scams-safety/financial-scams/crypto-scams
-  - scams-safety/financial-scams/ponzi-schemes
+  - super-retirement/grow-super/protect-your-super-from-pushy-sales-calls
+  - super-retirement/how-super-works/when-you-can-access-your-super-early
+  - scams-safety/check-report/what-to-do-if-youve-been-scammed
 ---
 
-Illegal early access and SMSF takeover tricks. If money stress is affecting essentials this week, start at [Urgent help](/urgent). Scams succeed by urgency and secrecy. Real institutions do not need you to move money ‘to keep it safe’.
+Your super is a long-term balance scammers treat as a lump sum to steal. Pitches focus on early access, “SMSF help,” or free reviews that end in a rollover you did not understand. Legitimate early release is narrow and goes through official pathways—not a cold caller. If someone already moved your super or fees have left you short, use [Urgent help](/urgent) and contact your fund on a number from a statement.
 
-## What is Superannuation scams?
+## Illegal early access pitches
 
-**Superannuation scams** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Illegal early access and SMSF takeover tricks. Scams succeed by urgency and secrecy. Real institutions do not need you to move money ‘to keep it safe’.
+Promoters claim they can unlock super for holidays, debt, or a house deposit outside the legal rules. They may:
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+- create paperwork that misrepresents your situation
+- charge large fees for “processing”
+- vanish after the balance is rolled somewhere they control
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+Early access is tightly limited (for example specific hardship or compassionate grounds assessed through official channels). If a stranger promises a shortcut, assume illegality and walk away. Read [When you can access your super early](/topics/super-retirement/how-super-works/when-you-can-access-your-super-early) for the real landscape—then verify with the ATO or your fund, not the promoter.
 
-## How to think about the moving parts
+## SMSF and rollover takeover tricks
 
-If **superannuation scams** involves suspected fraud, speed and verification beat cleverness. Use official phone numbers from a statement or the organisation’s website—not numbers from a text. Never share one-time codes.
+Another route: pressure to open a self-managed super fund or roll to a fund they nominate so they can “invest” the money in a private deal, crypto scheme, or property pitch. SMSFs have real uses for some people—and heavy responsibilities. They are a terrible idea when invented by a cold contact.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Warning signs:
 
-## Upsides worth wanting
+- They complete forms for you and ask only for signatures and OTPs
+- The investment sits outside mainstream regulated products with no clear custody
+- You are told not to speak to your current fund or a licensed adviser
 
-- Limiting further loss by freezing channels quickly
-- Helping others when reports feed warning systems
-- Recovering access to accounts and identity credentials
+Never share OTPs or myGov codes with someone arranging a rollover. That can hand them control.
 
-## Risks and traps to watch
+## Cold calls offering a “free super check”
 
-### Easy-to-miss costs
+Unsolicited calls and door approaches that offer a free performance review often aim to switch your fund for commission or worse. Hang up. You can review fees and insurance yourself through your fund’s app or advice you choose. Practical pushback tips: [Protect your super from pushy sales calls](/topics/super-retirement/grow-super/protect-your-super-from-pushy-sales-calls).
 
-Sending more money because someone claims fees will ‘release’ funds. For **Superannuation scams**, read the conditions that turn a good deal average.
+If the caller shifts into high-return investing, treat it as an [investment scam](/topics/scams-safety/financial-scams/investment-scams) wearing a super costume.
 
-### Timing and people problems
+## Legitimate ways to switch or release
 
-Deleting evidence before reporting. If someone rushes you, that is data—slow down.
+- Contact your current fund using details on a statement or the fund’s official website you type yourself.
+- Compare options calmly; check insurance before consolidating.
+- For early release, start with official ATO/fund guidance—not a paid “unlock” agent.
+- Confirm any adviser on official licence registers before signing authorities.
 
-### Recovery friction
+If you suspect a rollover or release was fraudulent, call the losing and receiving funds, report to [Scamwatch](https://www.scamwatch.gov.au), and consider [ReportCyber](https://www.cyber.gov.au/report-and-recover/report) if credentials were compromised. Then follow [What to do if you’ve been scammed](/topics/scams-safety/check-report/what-to-do-if-youve-been-scammed).
 
-Shame delays that shrink recovery options. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+Ask each fund for written confirmation of balances, insurance status, and any pending rollover. Keep those emails with your Scamwatch reference. Family members with lasting power of attorney should know your fund’s official number so they are not tricked by a “helpful” cold caller either.
 
-## Details that change the decision
+Your super fund will not ask you to buy gift cards or crypto to complete a rollover. Any such request is a scam, full stop.
 
-Romance, investment, and impersonation scams share a script: isolation, urgency, and a story about why you must not tell anyone. For **Superannuation scams**, break the script—call a trusted person and verify via independent channels.
-
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
-
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when a simple system helped
-
-Jordan nearly transferred savings after a convincing ‘bank fraud’ call. Sam hung up, dialled the number on the back of the card, and learned the real bank had not called. The lesson for **superannuation scams**: slow clarity beats fast regret.
-
-## Practical steps for Superannuation scams
-
-1. Stop contact with the suspected scammer and do not send more money.
-2. Call your bank or card provider on a number from their official site.
-3. Change passwords starting with email, then banking, then social.
-4. Report via Scamwatch and keep evidence (messages, receipts, wallet addresses).
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Money stress now** — prioritise rent, food, utilities, and medicine, then use [Urgent help](/urgent). National Debt Helpline: 1800 007 007.
-- **After a scam** — contact your bank, change passwords, and report via Scamwatch; keep evidence.
-- **Rule changes** — contribution caps, preservation ages, and Age Pension settings change; confirm current figures before acting.
+Before signing any rollover form from a stranger, call your current fund and ask them to read back what they see pending. Surprises on that call are a reason to cancel, not to hurry.
 
 ## What to do next
 
-- Call your bank from an official number and report the scam channels you used.
-- Read [Banking scams](/topics/scams-safety/financial-scams/banking-scams) for a related decision.
-- Read [Investment scams](/topics/scams-safety/financial-scams/investment-scams) for a related decision.
-- If essentials are at risk, open [Urgent help](/urgent) before taking on new credit.
+- Add your fund’s official phone number to contacts; refuse rollover help from cold callers.
+- Review recent super correspondence for switches you did not authorise.
+- Report early-access or SMSF pitches to Scamwatch even if you declined.
+- If money or control already moved, contact the fund today and use [Urgent help](/urgent) if income is disrupted.

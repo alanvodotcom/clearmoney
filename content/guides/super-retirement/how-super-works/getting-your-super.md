@@ -5,79 +5,77 @@ pillar: super-retirement
 hub: how-super-works
 slug: getting-your-super
 updated: "2026-08-03"
-tags: 
+tags:
   - how super works
-relatedGuides: 
-  - super-retirement/how-super-works/superannuation
-  - super-retirement/how-super-works/types-of-super-funds
-  - super-retirement/how-super-works/choosing-a-super-fund
-  - super-retirement/how-super-works/stapled-super-fund
+relatedGuides:
+  - super-retirement/how-super-works/when-you-can-access-your-super-early
+  - super-retirement/income-sources/account-based-pensions
+  - super-retirement/income-sources/transition-to-retirement
+  - super-retirement/plan-retirement/what-happens-to-your-super-when-you-retire
 ---
 
-Preservation age and conditions of release. Super is compulsory saving for later life, with rules on contributions, investments, and when you can access it.
+You generally cannot treat super like a savings account. Access opens when you meet a **condition of release**—most often reaching preservation age and retiring, or turning 65. Exact ages depend on your date of birth; confirm your preservation age on official tables before you resign.
 
-## Understanding Getting your super
+## Preservation age in plain terms
 
-**Getting your super** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Preservation age and conditions of release. Super is compulsory saving for later life, with rules on contributions, investments, and when you can access it.
+Preservation age is the earliest age at which you may access super under retirement-related conditions. For anyone born on or after 1 July 1964 it is 60; older birth cohorts had lower ages. **Verify your row on the current ATO table**—do not rely on a friend’s age.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Hitting preservation age alone is not always enough. You usually also need to meet a retirement definition (or another condition such as turning 65).
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+## Common legal pathways to access
 
-## How to think about the moving parts
+- **Retired** after preservation age (ceased an arrangement of gainful employment and intend never to work again full-time—definitions matter)
+- **Age 65** even if still working (subject to fund rules)
+- **Transition to retirement** income stream while still working, after preservation age—see [Transition to retirement](/topics/super-retirement/income-sources/transition-to-retirement)
+- **Terminal medical condition**, permanent incapacity, and other regulated compassionate or financial hardship grounds—narrow and documented
+- **Death** — paid to dependants or the estate under fund rules
 
-Setup quality decides whether **getting your super** helps or nags you later. Confirm identity and contact details, choose alerts you will actually read, and decide who else can see or move money. If a salesperson is present, ask for the key numbers in writing before you sign.
+Illegal “early access schemes” that funnel money through sham arrangements are a crime. Read [When you can access your super early](/topics/super-retirement/how-super-works/when-you-can-access-your-super-early).
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+## Lump sum, pension, or both
 
-## Upsides worth wanting
+Once released, you can often:
 
-- Automations that reduce missed payments and late fees
-- Alerts that surface problems while they are still small
-- Shared understanding when more than one person is involved
+1. Take a lump sum
+2. Start an account-based pension (regular drawdowns with minimum factors by age)
+3. Mix both
 
-## Risks and traps to watch
+Tax treatment depends on age and components—see [Tax and super](/topics/super-retirement/how-super-works/tax-and-super). Longevity risk rises if you cash everything into everyday spending. [Account-based pensions](/topics/super-retirement/income-sources/account-based-pensions) and [Super lump sum](/topics/super-retirement/income-sources/super-lump-sum) compare the shapes.
 
-### Easy-to-miss costs
+## Practical timeline before you stop work
 
-Set-and-forget errors (wrong account, wrong amount, wrong date). For **Getting your super**, read the conditions that turn a good deal average.
+**6–12 months out:** request a benefit quote; confirm preservation age and Age Pension age (they differ); sketch spending needs.
 
-### Timing and people problems
+**3 months out:** decide pension vs lump sum split; check insurance cessation; update bank details.
 
-Giving too much authority to another person. Write down who can authorise changes.
+**After the last day:** lodge retirement declarations the fund requires; set the first pension payment date; keep a cash buffer for delays.
 
-### Recovery friction
+Use [What happens to your super when you retire](/topics/super-retirement/plan-retirement/what-happens-to-your-super-when-you-retire) for the product-side walkthrough.
 
-Missing fine print on fees or cooling-off rights. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+## Fund paperwork quirks
 
-## Details that change the decision
+Funds may ask for certified ID, employment cessation evidence, or specific forms for TTR vs full retirement. Processing is not instant—do not empty your transaction account assuming same-day super cash.
 
-Contributions, investment options, insurance inside super, and fees interact. For **Getting your super**, log in, download a statement, and note beneficiary nominations. Multiple funds often mean multiple fee drags—consolidation can help after you check insurance loss risks.
+## Transfer balance cap awareness
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+When you move money into retirement phase, a transfer balance cap limits how much can support a tax-free retirement income stream. Cap amounts are legislated and can be indexed—confirm the figure that applies to you. Exceeding it creates complicated corrective options. Large balances may need advice before commencing multiple pensions.
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+If you have already commenced a pension and later receive a death benefit or other large rollover, ask the fund how the cap interacts before you tick boxes online. Cap mistakes are fixable more often than people fear, but they are stressful and paperwork-heavy.
 
-## A short story: when the fine print mattered
+## Verification steps unique to Getting your super
 
-Mei set everything up in a hurry and only noticed the wrong account after a payment bounced. Chris now screenshots every confirmation and nicknames accounts so automations are obvious. The lesson for **getting your super**: slow clarity beats fast regret.
+Confirm live contribution caps, Age Pension thresholds, preservation details, and product fees on official ATO, Services Australia, or fund PDS pages the week you act. ClearMoney offers general information only—not personal advice. Write one next action with a date and store PDFs of confirmations where you can find them in six months.
 
-## Practical steps for Getting your super
+If the dollar amount is large, sleep on the decision and consider licensed advice. Cold callers who demand one-time codes or remote access are not helpers. Hang up and use bookmarks you typed yourself.
 
-1. Gather ID, income evidence, and any existing contracts or statements.
-2. Confirm who else is affected (partner, guarantor, dependants) before you sign.
-3. Complete the application or setup deliberately—screenshot confirmations.
-4. Turn on alerts and store reference numbers where you can find them.
+## Filing habits for getting your super
 
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
+Keep statements, insurance schedules, advice fee consents, and solicitor letters in a dated folder. Share access rules with a trusted person without pasting every password into a group chat. Organised evidence shortens disputes, estate claims, and Centrelink conversations.
 
-## When life changes
-
-- **Rule changes** — contribution caps, preservation ages, and Age Pension settings change; confirm current figures before acting.
+Revisit after job changes, relationship changes, or health shocks. A short annual review beats a perfect plan nobody opens.
 
 ## What to do next
-
-- Decide the next action for **getting your super** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Superannuation basics](/topics/super-retirement/how-super-works/superannuation) for a related decision.
-- Read [Types of super funds](/topics/super-retirement/how-super-works/types-of-super-funds) for a related decision.
-- Write your constraints on paper so a sales pitch cannot rewrite them.
+- Confirm preservation age and the condition of release you will rely on.
+- Ask your fund for a written benefit options summary.
+- Compare lump sum vs pension using your spending plan—not a neighbour’s story.
+- Bookmark official age tables so you recheck if you delay retirement by a few years.

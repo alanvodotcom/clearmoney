@@ -1,89 +1,68 @@
 ---
-title: "Car loans"
-description: "Dealer finance vs bank loans, and total cost of the car."
+title: Car loans
+description: Dealer finance vs bank loans, and total cost of the car.
 pillar: loans-credit-debt
 hub: loans
 slug: car-loans
 updated: "2026-08-03"
-tags: 
+tags:
   - loans
-relatedTools: 
+  - cars
+relatedTools:
   - personal-loan
-relatedGuides: 
+relatedGuides:
   - loans-credit-debt/loans/personal-loans
-  - loans-credit-debt/loans/payday-loans
-  - loans-credit-debt/loans/no-interest-loans
   - loans-credit-debt/loans/going-guarantor-on-a-loan
+  - loans-credit-debt/other-borrowing/interest-free-deals
+  - community/students/buying-and-running-a-car
 ---
 
-Dealer finance vs bank loans, and total cost of the car. Borrowing is buying money now and paying for it later—compare the total cost, not only the weekly repayment.
+A car loan funds a vehicle you will drive for years—and repay even longer if the term is stretched. The drive-away price is only the start; finance, insurance, and running costs decide whether the car fits your life.
 
-## What is Car loans?
+## The car price is not the loan cost
 
-**Car loans** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Dealer finance vs bank loans, and total cost of the car. Borrowing is buying money now and paying for it later—compare the total cost, not only the weekly repayment.
+Work from two numbers:
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+1. **What the car costs to own** — purchase price, stamp duty or transfer fees where they apply, registration, compulsory third party (CTP) or greenslip, comprehensive insurance, fuel, servicing, tyres, and unexpected repairs.
+2. **What the finance costs** — interest, establishment fees, monthly fees, and any balloon or residual left at the end.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+A cheaper car with a short loan can cost less overall than a newer model on a long term with a tempting low weekly repayment. Stretching the loan to five, six, or seven years often means you still owe money when the car needs major work—or when its market value has dropped below the loan balance (negative equity).
 
-## How to think about the moving parts
+List running costs for a month before you shop. If the repayment plus fuel and insurance would crowd out rent or groceries, downsize the car or wait.
 
-For **car loans**, translate marketing into cash-flow reality. What is the total repayable? What happens if rates rise or hours fall? Can you still cover rent, food, and utilities after the repayment leaves?
+## Dealer finance versus shopping your own loan
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Dealerships often arrange finance on the spot. That convenience can cost you:
 
-ClearMoney calculators that pair with this topic: [Personal Loan](/tools/personal-loan). Use them to turn guesses into numbers before you commit.
+- rates and fees that look fine until you compare a bank, credit union, or online lender
+- pressure to decide before you leave the yard
+- extras bundled into the loan (paint protection, extended warranty, gap insurance) that inflate the amount financed
 
-## Upsides worth wanting
+Get a **pre-approval or written quote** from your own lender first. Walk into the dealership knowing the maximum you will borrow and the rate you can already get. If dealer finance beats that all-in cost, take it—otherwise stick with your own loan and treat the car purchase as a separate negotiation.
 
-- Access to a lump sum when cash flow cannot stretch
-- Predictable repayments if the rate and term are understood
-- A chance to refinance or restructure later if you keep records
+Use the [personal loan calculator](/tools/personal-loan) with the same amount and term as any dealer offer so you can compare total repayable side by side.
 
-## Risks and traps to watch
+## Balloon payments and residual traps
 
-### Easy-to-miss costs
+Some car finance structures keep repayments lower by leaving a **balloon** or residual amount due at the end. That can feel manageable now and painful later when a large lump sum falls due. Ask in plain language:
 
-Focusing on weekly repayments instead of total cost. For **Car loans**, read the conditions that turn a good deal average.
+- How much will I still owe at the end if I make every scheduled repayment?
+- Can I refinance the balloon, and at what rate?
+- What happens if the car is worth less than the balloon when I sell or trade it in?
 
-### Timing and people problems
+If you cannot see a realistic way to pay or refinance that final amount, choose a loan that amortises to zero—or buy a cheaper car.
 
-Guarantor or security risks you did not price emotionally. If someone rushes you, that is data—slow down.
+## Insurance and add-ons sold at the desk
 
-### Recovery friction
+Expect offers for consumer credit insurance, tyre and rim cover, and other add-ons. Many are optional. Check whether your existing life, income protection, or home contents policies already cover parts of the risk. Declining add-ons you do not need keeps the loan principal smaller and interest lower.
 
-Stacking credit products until cash flow snaps. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+Never sign blank forms. Read the finance contract overnight if you feel rushed. If repayments later become unmanageable, contact the lender early and see [problems paying your bills](/topics/loans-credit-debt/managing-debt/problems-paying-your-bills-and-fines)—or [/urgent](/urgent) and the National Debt Helpline on **1800 007 007** if essentials are at risk.
 
-## Details that change the decision
-
-The sticker rate is not the whole cost. Establishment fees, monthly fees, insurance add-ons, and longer terms change the total repayable. For **Car loans**, ask what happens on early repayment and whether the loan is secured. If a dealer or broker rushes you, take the contract home—urgency is a sales tool.
-
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
-
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when a simple system helped
-
-Mei chose the lowest weekly repayment with a long term and paid far more interest. Chris compared total cost and picked a shorter term they could still stress-test if hours dropped. The lesson for **car loans**: slow clarity beats fast regret.
-
-## Practical steps for Car loans
-
-1. Calculate the total amount repayable, not only the weekly figure.
-2. Compare at least two lenders or credit types with the same loan amount and term.
-3. Stress-test repayments if rates rise or hours drop.
-4. Avoid stacking new credit to pay old credit without a written plan.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Life changes** — job loss, a new dependant, or a move can invalidate last year’s choice; schedule a review.
-- **Records** — keep PDFs of contracts, statements, and cancellation confirmations for at least a year.
+Used-car tip: a cheaper reliable car with a shorter loan usually beats a newer model stretched to seven years. Price the full ownership week—fuel, parking, tolls, and servicing—before you fall in love on the yard.
 
 ## What to do next
 
-- Decide the next action for **car loans** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Personal loans](/topics/loans-credit-debt/loans/personal-loans) for a related decision.
-- Read [Payday loans](/topics/loans-credit-debt/loans/payday-loans) for a related decision.
-- Run the numbers with [Personal Loan](/tools/personal-loan).
-- Tell one trusted person your plan if accountability helps you follow through.
+- Budget the full monthly cost of owning the car, not only the loan repayment.
+- Get an independent finance quote before you accept dealer finance.
+- Run the numbers in the [personal loan](/tools/personal-loan) tool and reject balloons you cannot clear.
+- Say no to add-ons you have not researched—and walk away overnight if sales pressure rises.

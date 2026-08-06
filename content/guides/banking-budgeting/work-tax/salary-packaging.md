@@ -1,84 +1,83 @@
 ---
-title: "Salary packaging"
-description: "When packaging benefits can help—and when it doesn’t."
+title: Salary packaging
+description: When packaging benefits can help—and when it doesn’t.
 pillar: banking-budgeting
 hub: work-tax
 slug: salary-packaging
 updated: "2026-08-03"
-tags: 
+tags:
   - work tax
-relatedGuides: 
+relatedGuides:
   - banking-budgeting/work-tax/income-tax
-  - banking-budgeting/work-tax/lodging-a-tax-return
+  - banking-budgeting/work-tax/first-payslip
   - banking-budgeting/work-tax/choosing-an-accountant
-  - banking-budgeting/work-tax/self-employment
+  - banking-budgeting/work-tax/lodging-a-tax-return
 ---
 
-When packaging benefits can help—and when it doesn’t. Work and tax decisions change take-home pay, super, and how much buffer you need between paydays.
+Salary packaging (salary sacrifice) trades some cash salary for approved benefits or super, usually to reduce taxable income. It can improve take-home value for some employees—especially in not-for-profit or public-health settings with concessional caps—and waste money for others once fees, lease costs, and cash-flow hits are counted. Run the numbers before you sign the packaging forms.
 
-## Salary packaging: the clear version
+## What packaging actually changes
 
-**Salary packaging** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. When packaging benefits can help—and when it doesn’t. Work and tax decisions change take-home pay, super, and how much buffer you need between paydays.
+In a typical arrangement you agree that part of your remuneration is provided as benefits (or extra super) instead of cash. Your **taxable salary** may fall, which can reduce income tax withheld. You still need to live on the cash that remains.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Common packaged items (availability depends on your employer and provider) include:
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+- Extra **superannuation** contributions
+- Novated leases on vehicles
+- Living expenses or meal entertainment within specific employer rules and caps
+- Devices or other work-related items where policies allow
 
-## How to think about the moving parts
+Packaging is not free money. Someone still pays—through your reduced cash, fringe benefits tax (FBT) settings, lease interest, or administration fees. The win, when there is one, is the after-tax comparison versus buying the same thing from post-tax pay.
 
-Setup quality decides whether **salary packaging** helps or nags you later. Confirm identity and contact details, choose alerts you will actually read, and decide who else can see or move money. If a salesperson is present, ask for the key numbers in writing before you sign.
+## When packaging often helps
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Packaging tends to look better when:
 
-## Upsides worth wanting
+- Your employer offers **concessional FBT treatment** (common in some public benevolent and health employers) and you stay inside published caps
+- You were going to pay for the item anyway (for example a car you need for work and home) and the packaged cost beats a post-tax loan or cash purchase
+- You salary-sacrifice to **super** and are comfortable locking money away until preservation age, within contribution caps
+- Admin fees are modest relative to the tax saving
 
-- Automations that reduce missed payments and late fees
-- Alerts that surface problems while they are still small
-- Shared understanding when more than one person is involved
+Even then, compare **apples with apples**: include fuel, insurance, balloon payments, and what happens if you change jobs mid-lease.
 
-## Risks and traps to watch
+## When packaging often doesn’t
 
-### Easy-to-miss costs
+Be sceptical when:
 
-Set-and-forget errors (wrong account, wrong amount, wrong date). For **Salary packaging**, read the conditions that turn a good deal average.
+- The “saving” ignores fees, residual risk, or a car that is larger than you need
+- You are cash-tight—reducing take-home pay to package lifestyle spending can push you onto credit cards
+- You are close to income tests for government payments or HELP thresholds where lower taxable income helps tax but interacts with other rules—check current settings rather than assuming
+- A salesperson leads with fortnightly “savings” without a full cost schedule
+- You could achieve a similar outcome with ordinary deductible work expenses or a simpler super contribution via payroll
 
-### Timing and people problems
+If you do not understand the exit cost of a novated lease, do not start one.
 
-Giving too much authority to another person. Put review dates in your calendar.
+## Caps, FBT, and paperwork
 
-### Recovery friction
+Some sectors publish annual packaging caps for certain benefit types. Exceeding concessional arrangements can trigger different FBT outcomes and erase the benefit. Your packaging provider should show residual amounts and YTD packaged totals—read them.
 
-Missing fine print on fees or cooling-off rights. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+Keep:
 
-## Details that change the decision
+- The salary packaging agreement and any lease contract
+- Fee schedules
+- Payslips showing packaged amounts vs cash salary
 
-Payslips hide the story: gross pay, tax withheld, super, and deductions. For **Salary packaging**, keep records across the year—receipts, mileage logs, and private health details if relevant—so lodgement is not a scavenger hunt. Job changes and parental leave reset assumptions about take-home pay; rebuild the budget when the first new payslip arrives.
+At tax time, packaging can change what appears as income and reportable fringe benefits. That reportable amount can matter for some income tests even when it is not taxed the same way as salary. If your return is already complex, ask a [registered tax agent](/topics/banking-budgeting/work-tax/choosing-an-accountant) how packaging appears on your assessment.
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+## Check the story on your payslip
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+Before and after packaging, compare:
 
-## A short story: when timing changed the outcome
+- Cash net pay
+- Super contributions (employer vs salary sacrifice)
+- Any packaging fee lines
+- Year-to-date totals
 
-Jordan set everything up in a hurry and only noticed the wrong account after a payment bounced. Sam now screenshots every confirmation and nicknames accounts so automations are obvious. The lesson for **salary packaging**: slow clarity beats fast regret.
-
-## Practical steps for Salary packaging
-
-1. Gather ID, income evidence, and any existing contracts or statements.
-2. Confirm who else is affected (partner, guarantor, dependants) before you sign.
-3. Complete the application or setup deliberately—screenshot confirmations.
-4. Turn on alerts and store reference numbers where you can find them.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Life changes** — job loss, a new dependant, or a move can invalidate last year’s choice; schedule a review.
-- **Records** — keep PDFs of contracts, statements, and cancellation confirmations for at least a year.
+Use [Income tax basics](/topics/banking-budgeting/work-tax/income-tax) and [Reading your first payslip](/topics/banking-budgeting/work-tax/first-payslip) if the labels are unfamiliar. A good packaging decision survives a quiet week of scrutiny; a bad one depends on urgency and glossy brochures.
 
 ## What to do next
 
-- Decide the next action for **salary packaging** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Income tax basics](/topics/banking-budgeting/work-tax/income-tax) for a related decision.
-- Read [Lodging a tax return](/topics/banking-budgeting/work-tax/lodging-a-tax-return) for a related decision.
-- Set a calendar reminder to revisit this decision after the next statement cycle.
+- List what you would buy anyway over the next 12 months; only package items on that list.
+- Ask payroll or the packaging provider for a written comparison of cash vs packaged cost including fees and exit terms.
+- If super sacrifice is the goal, confirm contribution caps and your fund’s receipt of amounts.
+- Revisit the arrangement at renewal or job change—do not assume last year’s packaging still fits.

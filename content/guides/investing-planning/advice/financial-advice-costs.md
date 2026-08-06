@@ -5,80 +5,67 @@ pillar: investing-planning
 hub: advice
 slug: financial-advice-costs
 updated: "2026-08-03"
-tags: 
+tags:
   - advice
-relatedGuides: 
+relatedGuides:
   - investing-planning/advice/what-is-financial-advice
   - investing-planning/advice/general-and-personal-financial-advice
   - investing-planning/advice/choosing-a-financial-adviser
   - investing-planning/advice/working-with-a-financial-adviser
 ---
 
-Fees, commissions history, and ongoing advice costs. Paid advice can help complex decisions—but only if the adviser is appropriately licensed and clear about fees.
+Financial advice is a professional service with a price. Ambiguous pricing is how households overpay for product-led relationships that feel like “free help.” Ask for numbers in dollars per year—not only percentages that look tiny on a slide.
 
-## Financial advice costs: the clear version
+## Common ways advisers charge
 
-**Financial advice costs** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Fees, commissions history, and ongoing advice costs. Paid advice can help complex decisions—but only if the adviser is appropriately licensed and clear about fees.
+- **Fixed fee** for a defined piece of work (for example a retirement strategy document)
+- **Hourly rates** for time-based engagements
+- **Assets under advice (AUA) fees** — a percentage of investments they oversee
+- **Ongoing advice packages** — annual reviews, implementation support, bundled services
+- **Insurance-related remuneration** — still relevant in some arrangements; understand what is paid by whom
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Australian reforms reduced or banned many conflicted commission structures in advice, but history matters: older products may still carry embedded costs. Always ask what *you* pay and what third parties pay in connection with your advice.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+## Translate percentages into household dollars
 
-## How to think about the moving parts
+One percent of a $400,000 portfolio is $4,000 a year before product fees inside funds and platforms. Add platform costs and managed-fund MERs and the total drag can surprise you. Advice can still be worth it—clarity beats false thrift—but you should see the stack.
 
-With **financial advice costs**, match the product to your time horizon. Money you may need within a few years usually should not sit in volatile assets. Fees and diversification matter more than a single tip from social media.
+Ask for a worked example using your approximate balances. If the adviser will not provide one, that is information.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+## What you should receive for ongoing fees
 
-## Upsides worth wanting
+Ongoing fees need ongoing value: scheduled reviews, documented recommendations, help implementing changes, and accessibility when life shifts. Paying a percentage for a once-a-year PDF you could have printed yourself is a poor trade.
 
-- Potential growth above cash over long periods
-- Diversification that reduces single-company drama
-- Alignment with goals like retirement or a distant home deposit
+You generally must agree to ongoing fees and can opt out according to the rules that apply to your arrangement—read the consent documents. If services stop but fees continue, escalate ([problems with a financial adviser](/topics/investing-planning/advice/problems-with-a-financial-adviser)).
 
-## Risks and traps to watch
+## Insurance and product pathways
 
-### Easy-to-miss costs
+Where life insurance is recommended, understand premiums, commissions or fees, and whether alternatives were compared. Product recommendations should connect to your needs analysis—not to whichever insurer pays best. Ask how conflicts are managed inside the licensee.
 
-Buying under social pressure or FOMO. For **Financial advice costs**, read the conditions that turn a good deal average.
+## Staged engagements to control spend
 
-### Timing and people problems
+You can buy advice in chapters: cash-flow and debt first; then super; then investment implementation. Paying for a full “wealth package” on day one is optional. Scoped personal advice can be cheaper and clearer than an open-ended retainer you do not use—see [general and personal financial advice](/topics/investing-planning/advice/general-and-personal-financial-advice).
 
-Concentrated bets and high fees. Put review dates in your calendar.
+DIY education (including ClearMoney guides) is not a substitute for personal advice when your situation is complex, but it helps you brief an adviser efficiently and spot upselling.
 
-### Recovery friction
+## Pressure sales disguised as fee discounts
 
-Needing the money earlier than the investment can recover. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+“Sign this week for a reduced advice fee” paired with a product application is a conflict flare. Fee discounts that require buying a specific high-fee platform deserve extra scrutiny. Unlicensed “advisers” offering free advice that funnels into offshore trading are scam patterns ([investment scams](/topics/scams-safety/financial-scams/investment-scams)). Verify via the [financial advisers register](/topics/investing-planning/advice/financial-advisers-register) pathway.
 
-## Details that change the decision
+## Comparing cost to expected benefit
 
-Licensed advice should come with a clear fee, a scope, and documents you can keep. For **Financial advice costs**, ask how the adviser is paid and what happens if you say no to a product. If someone guarantees returns or pushes you to act today, treat that as a warning sign.
+Good advice may prevent costly mistakes: unsuitable leverage, insurance gaps, tax-inefficient chaos, or panic selling. Those benefits are real but not guaranteed. Write the decisions you need help with, get fee quotes from more than one authorised adviser, and choose the engagement that fits the problem—see [choosing a financial adviser](/topics/investing-planning/advice/choosing-a-financial-adviser).
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+## Paying from cash versus from investments
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+Some firms deduct advice fees from platform balances; others invoice you. Deduction can feel painless and hide the true annual cost. Ask for a yearly total in dollars either way. If fees are deducted, confirm you still receive the same disclosure and opt-in requirements that apply to ongoing advice arrangements.
 
-## A short story: when timing changed the outcome
-
-Luca bought after a viral tip and sold in a panic three weeks later. Morgan wrote a one-page plan: horizon, fee budget, and a rule not to check prices daily. The lesson for **financial advice costs**: slow clarity beats fast regret.
-
-## Practical steps for Financial advice costs
-
-1. Define the time horizon and what would force you to sell early.
-2. List fees (management, brokerage, advice) in dollars per year if you can.
-3. Diversify enough that one tip cannot wreck the plan.
-4. Ignore urgency: legitimate offers survive a night’s sleep.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Life changes** — job loss, a new dependant, or a move can invalidate last year’s choice; schedule a review.
-- **Records** — keep PDFs of contracts, statements, and cancellation confirmations for at least a year.
+Never pay advice fees to a personal crypto wallet, gift-card vendor, or overseas account unrelated to the licensee’s stated billing details—that pattern belongs to scams, not professional practice.
 
 ## What to do next
 
-- Decide the next action for **financial advice costs** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [What is financial advice?](/topics/investing-planning/advice/what-is-financial-advice) for a related decision.
-- Read [General and personal financial advice](/topics/investing-planning/advice/general-and-personal-financial-advice) for a related decision.
-- Set a calendar reminder to revisit this decision after the next statement cycle.
+- Request a written fee schedule with a dollar example using your rough balances.
+- Separate advice fees from product and platform fees so you see the full stack.
+- Match ongoing fees to ongoing services you will actually use.
+- Confirm authorisation before paying deposits or sharing ID documents.
+- If costs feel unclear mid-relationship, raise it in writing and review [working with a financial adviser](/topics/investing-planning/advice/working-with-a-financial-adviser).

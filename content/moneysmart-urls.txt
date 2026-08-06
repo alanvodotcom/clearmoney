@@ -1,4 +1,4 @@
-﻿https://moneysmart.gov.au/banking
+https://moneysmart.gov.au/banking
 https://moneysmart.gov.au/banking/savings-accounts
 https://moneysmart.gov.au/banking/transaction-accounts-and-debit-cards
 https://moneysmart.gov.au/banking/joint-accounts
@@ -110,7 +110,7 @@ https://moneysmart.gov.au/how-to-invest/investing-and-tax
 https://moneysmart.gov.au/how-to-invest/borrowing-to-invest
 https://moneysmart.gov.au/how-to-invest/environmental-social-governance-esg-investing
 https://moneysmart.gov.au/how-to-invest/islamic-finance-in-australia
-https://moneysmart.gov.au/how-to-invest/what-is-private-credit
+https://moneysmart.gov.au/how-to-invest/micro-investing
 https://moneysmart.gov.au/financial-advice
 https://moneysmart.gov.au/financial-advice/what-is-financial-advice
 https://moneysmart.gov.au/financial-advice/general-and-personal-financial-advice
@@ -126,6 +126,7 @@ https://moneysmart.gov.au/shares/employee-share-schemes
 https://moneysmart.gov.au/shares/shares-what-is-an-ipo
 https://moneysmart.gov.au/shares/buying-shares-through-crowd-sourced-funding
 https://moneysmart.gov.au/shares/what-is-share-market-volatility
+https://moneysmart.gov.au/shares/fractional-share-trading
 https://moneysmart.gov.au/managed-funds-and-etfs
 https://moneysmart.gov.au/managed-funds-and-etfs/what-is-a-managed-fund
 https://moneysmart.gov.au/managed-funds-and-etfs/choosing-a-managed-fund
@@ -133,7 +134,6 @@ https://moneysmart.gov.au/managed-funds-and-etfs/managed-funds-fee-calculator
 https://moneysmart.gov.au/managed-funds-and-etfs/exchange-traded-funds-etfs
 https://moneysmart.gov.au/managed-funds-and-etfs/hedge-funds
 https://moneysmart.gov.au/managed-funds-and-etfs/listed-investment-companies-lics
-https://moneysmart.gov.au/managed-funds-and-etfs/peer-to-peer-lending
 https://moneysmart.gov.au/property-investment
 https://moneysmart.gov.au/property-investment/property-funds
 https://moneysmart.gov.au/property-investment/timeshares
@@ -149,14 +149,11 @@ https://moneysmart.gov.au/investment-warnings/lead-generation-and-how-it-works
 https://moneysmart.gov.au/investment-warnings/investment-seminars
 https://moneysmart.gov.au/investment-warnings/dont-get-burned-by-investment-hype
 https://moneysmart.gov.au/investment-warnings/binary-options
-https://moneysmart.gov.au/investment-warnings/contracts-for-difference-cfds
-https://moneysmart.gov.au/investment-warnings/forex-trading
-https://moneysmart.gov.au/investment-warnings/crypto-assets
-https://moneysmart.gov.au/investment-warnings/bills-of-exchange
 https://moneysmart.gov.au/investment-warnings/land-banking
 https://moneysmart.gov.au/investment-warnings/company-director-fraud
 https://moneysmart.gov.au/investment-warnings/insider-trading
 https://moneysmart.gov.au/investment-warnings/pump-and-dump-schemes
+https://moneysmart.gov.au/investment-warnings/prediction-markets
 https://moneysmart.gov.au/retirement
 https://moneysmart.gov.au/retirement/case-study-lillians-health-scare
 https://moneysmart.gov.au/retirement/case-study-bills-mortgage-decision
@@ -753,3 +750,12 @@ https://moneysmart.gov.au/your-stories
 https://moneysmart.gov.au/your-stories/stay-mindful-and-be-resourceful
 https://moneysmart.gov.au/your-stories/its-not-too-late-to-have-aspirations-for-retirement
 https://moneysmart.gov.au/your-stories/one-of-my-main-goals-is-to-travel-australia
+https://moneysmart.gov.au/complex-investment-products
+https://moneysmart.gov.au/complex-investment-products/what-is-private-credit
+https://moneysmart.gov.au/complex-investment-products/exchange-traded-options
+https://moneysmart.gov.au/complex-investment-products/futures-contracts
+https://moneysmart.gov.au/complex-investment-products/crypto-assets
+https://moneysmart.gov.au/complex-investment-products/contracts-for-difference-cfds
+https://moneysmart.gov.au/complex-investment-products/bills-of-exchange
+https://moneysmart.gov.au/complex-investment-products/forex-trading
+https://moneysmart.gov.au/complex-investment-products/peer-to-peer-lending

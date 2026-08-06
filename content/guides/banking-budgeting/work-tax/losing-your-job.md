@@ -1,90 +1,82 @@
 ---
-title: "Losing your job"
-description: "Final pay, entitlements, and a short-term money plan."
+title: Losing your job
+description: Final pay, entitlements, and a short-term money plan.
 pillar: banking-budgeting
 hub: work-tax
 slug: losing-your-job
 updated: "2026-08-03"
-tags: 
+tags:
   - work tax
-relatedTools: 
+relatedTools:
   - budget-planner
   - emergency-fund
-relatedGuides: 
-  - banking-budgeting/work-tax/income-tax
+relatedGuides:
+  - banking-budgeting/saving/save-for-an-emergency-fund
+  - banking-budgeting/budgeting/how-to-do-a-budget
+  - banking-budgeting/budgeting/cost-of-living-help
   - banking-budgeting/work-tax/lodging-a-tax-return
-  - banking-budgeting/work-tax/choosing-an-accountant
-  - banking-budgeting/work-tax/salary-packaging
 ---
 
-Final pay, entitlements, and a short-term money plan. Work and tax decisions change take-home pay, super, and how much buffer you need between paydays.
+A job ending is both an admin problem and a cash-flow shock. In the first fortnight, focus on money you are owed, money you must pay, and a temporary budget—not on redesigning your whole career. Clarity beats optimism when the next payday is uncertain.
 
-## Understanding Losing your job
+## Final pay and entitlements to document
 
-**Losing your job** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Final pay, entitlements, and a short-term money plan. Work and tax decisions change take-home pay, super, and how much buffer you need between paydays.
+Ask HR or payroll (in writing) for a breakdown of your **final pay**. Depending on your award, contract, and how employment ended, it may include:
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+- Outstanding wages and allowances
+- Accrued annual leave
+- Long service leave (if eligible)
+- Payment in lieu of notice
+- Redundancy pay (if applicable)
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+Check super: confirm the fund, the last contribution date, and whether any salary-sacrificed amounts are still pending. Keep your employment contract, separation letter, payslips, and the final payment advice in one folder.
 
-## How to think about the moving parts
+If the figures look wrong, raise it quickly with the employer. Fair Work resources and your union (if any) can help you understand minimum entitlements; this guide does not replace that advice.
 
-Setup quality decides whether **losing your job** helps or nags you later. Confirm identity and contact details, choose alerts you will actually read, and decide who else can see or move money. If a salesperson is present, ask for the key numbers in writing before you sign.
+Update your tax position when you start new work—your [TFN declaration](/topics/banking-budgeting/work-tax/first-payslip) and withholding settings may need a reset. Year-end [lodgement](/topics/banking-budgeting/work-tax/lodging-a-tax-return) still matters if you had multiple employers or a lump sum.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+## Income support and other bridges
 
-ClearMoney calculators that pair with this topic: [Budget Planner](/tools/budget-planner), [Emergency Fund](/tools/emergency-fund). Use them to turn guesses into numbers before you commit.
+Centrelink payments, if you are eligible, have claim processes and waiting periods. Start the claim as soon as you can; delays compound rent stress. Have ID, employment separation details, and bank info ready.
 
-## Upsides worth wanting
+Also check:
 
-- Automations that reduce missed payments and late fees
-- Alerts that surface problems while they are still small
-- Shared understanding when more than one person is involved
+- Whether you can claim on income protection or mortgage protection insurance
+- Union or employee assistance supports
+- Industry schemes or training subsidies tied to redundancy
 
-## Risks and traps to watch
+Insurance claims take time—lodge early if a policy might apply. Do not assume a payout before you have written confirmation.
 
-### Easy-to-miss costs
+## A two-week money triage
 
-Set-and-forget errors (wrong account, wrong amount, wrong date). For **Losing your job**, read the conditions that turn a good deal average.
+Open the [Budget planner](/tools/budget-planner) and build a **survival budget**, not last month’s lifestyle budget:
 
-### Timing and people problems
+1. List cash and offset balances available without penalties
+2. List essential outgoings for the next 14–28 days (rent/mortgage, utilities, food, transport, medicine, minimum debt repayments)
+3. Pause non-essentials: extra streaming, discretionary shopping, holiday holds
+4. Note the date final pay lands and the date any benefits might start
 
-Giving too much authority to another person. Write down who can authorise changes.
+Use the [Emergency fund](/tools/emergency-fund) tool to see how many weeks your cash covers at that essential rate. If the gap is immediate, see [Cost of living help](/topics/banking-budgeting/budgeting/cost-of-living-help) and [/urgent](/urgent). National Debt Helpline (1800 007 007) can help you prioritise debts without shame.
 
-### Recovery friction
+## Talk to lenders and billers before you miss a payment
 
-Missing fine print on fees or cooling-off rights. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+Banks, energy retailers, and telecoms often have hardship teams—but they need you to call before multiple defaults stack fees. Ask about:
 
-## Details that change the decision
+- Short-term payment deferrals or reduced repayments
+- Holding off collection activity while you provide documents
+- Switching to a cheaper plan you can sustain
 
-Payslips hide the story: gross pay, tax withheld, super, and deductions. For **Losing your job**, keep records across the year—receipts, mileage logs, and private health details if relevant—so lodgement is not a scavenger hunt. Job changes and parental leave reset assumptions about take-home pay; rebuild the budget when the first new payslip arrives.
+Get outcomes in writing. Keep paying something where you can; silence is read as avoidance even when you are overwhelmed.
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+## Protect the next three months
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+Avoid high-cost credit to “smooth” a job gap unless you have a concrete repayment plan from a known start date. Job-search costs (travel, licences, suitable clothing) deserve a small budget line; speculative courses and gadgets do not.
 
-## A short story: when the fine print mattered
-
-Harper set everything up in a hurry and only noticed the wrong account after a payment bounced. Drew now screenshots every confirmation and nicknames accounts so automations are obvious. The lesson for **losing your job**: slow clarity beats fast regret.
-
-## Practical steps for Losing your job
-
-1. Gather ID, income evidence, and any existing contracts or statements.
-2. Confirm who else is affected (partner, guarantor, dependants) before you sign.
-3. Complete the application or setup deliberately—screenshot confirmations.
-4. Turn on alerts and store reference numbers where you can find them.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Life changes** — job loss, a new dependant, or a move can invalidate last year’s choice; schedule a review.
-- **Records** — keep PDFs of contracts, statements, and cancellation confirmations for at least a year.
+Revisit [How to do a budget](/topics/banking-budgeting/budgeting/how-to-do-a-budget) when an offer arrives—new take-home pay rarely matches the old one dollar for dollar. If you have little cash buffer left, rebuild even a small [emergency fund](/topics/banking-budgeting/saving/save-for-an-emergency-fund) once income restarts.
 
 ## What to do next
 
-- Decide the next action for **losing your job** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Income tax basics](/topics/banking-budgeting/work-tax/income-tax) for a related decision.
-- Read [Lodging a tax return](/topics/banking-budgeting/work-tax/lodging-a-tax-return) for a related decision.
-- Run the numbers with [Budget Planner](/tools/budget-planner).
-- Write your constraints on paper so a sales pitch cannot rewrite them.
+- Request a written final-pay and leave breakdown; file contract and separation documents today.
+- Map essentials vs cash with [Budget planner](/tools/budget-planner) and [Emergency fund](/tools/emergency-fund).
+- Start any Centrelink or insurance claims; call hardship lines before bills bounce.
+- If debt pressure is rising, contact National Debt Helpline on 1800 007 007 and use [/urgent](/urgent).

@@ -5,79 +5,58 @@ pillar: insurance
 hub: car-insurance
 slug: claiming-on-your-car-insurance
 updated: "2026-08-03"
-tags: 
+tags:
   - car insurance
-relatedGuides: 
+relatedGuides:
   - insurance/car-insurance/choosing-car-insurance
   - insurance/car-insurance/how-to-save-money-on-car-insurance
   - insurance/car-insurance/no-claim-bonus-on-car-insurance
   - insurance/car-insurance/add-on-car-insurance
 ---
 
-What to do after an accident. Car insurance levels of cover trade premium against how much you pay after a crash or theft.
+After a crash or theft, the claim path is operational: stay safe, capture facts, then decide whether involving the insurer beats paying yourself. Excess, no-claim effects, and repair quality all sit inside that decision.
 
-## Understanding Claiming on your car insurance
+## First hours at the scene and afterward
 
-**Claiming on your car insurance** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. What to do after an accident. Car insurance levels of cover trade premium against how much you pay after a crash or theft.
+If anyone is hurt, call emergency services. Move to a safe place when you can. Exchange names, licence numbers, rego, and insurer details. Photograph vehicle positions, damage, number plates, dashcam stills, and the surrounding road. Get witness contacts if people stop.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Do not admit fault roadside in a signed statement you do not understand—share facts. Report the incident to police when required (injury, hit-and-run, or as your policy demands for theft). For theft, you will usually need a police report number before the insurer proceeds.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+Call your insurer’s claims line promptly, even if you are still unsure whether you will proceed. Ask how choosing to claim would affect your excess and rating so you can decide with numbers.
 
-## How to think about the moving parts
+## When claiming is worth it
 
-Insurance decisions for **claiming on your car insurance** are about the claim you hope never happens. Read exclusions and waiting periods before you compare price alone. Check whether you already hold overlapping cover elsewhere.
+Rough rule: if repairs clearly exceed your excess by a comfortable margin, claiming often makes sense. If damage is only slightly above the excess, paying yourself can protect a [no-claim bonus](/topics/insurance/car-insurance/no-claim-bonus-on-car-insurance) and avoid a loading at renewal.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Also claim when someone else’s insurer is stalling and your policy allows you to claim comprehensively then recover—your excess handling depends on fault and policy wording. If you are at fault and only hold third party property, your own car repairs are on you unless another product applies.
 
-## Upsides worth wanting
+Write down the excess before you authorise work. Young-driver or after-hours excesses can stack. Confirm whether a windscreen claim is excess-free on your policy—those details change the maths.
 
-- A financial backstop after insured events
-- Clearer recovery planning when documents are ready
-- Peace of mind when sums insured match rebuild or replace costs
+## Repairs, total loss, and getting around
 
-## Risks and traps to watch
+Insurers often steer you to preferred smash repairers. You can usually ask about a repairer you trust; authorisation rules vary. Keep the car available for assessment and do not commit to private repairs that void the claim path without written approval.
 
-### Easy-to-miss costs
+If the car is a total loss, the insurer pays the agreed or market value (minus excess and any unpaid premiums), then usually takes ownership of the wreck. Check whether finance payout exceeds the settlement—the gap is your problem unless you bought separate gap cover (often pricey; see [add-on car insurance](/topics/insurance/car-insurance/add-on-car-insurance)).
 
-Underinsurance and uncovered flood or temporary accommodation gaps. For **Claiming on your car insurance**, read the conditions that turn a good deal average.
+Hire-car benefits, if included, have daily limits and time caps. Taxi or rideshare receipts may or may not be reimbursed—ask before you spend.
 
-### Timing and people problems
+## Disputes and next steps if talks stall
 
-Overlapping policies that still leave a hole. Write down who can authorise changes.
+If liability is contested, keep communicating in writing and supply the photo pack early. If repairs feel incomplete, raise it with the claims consultant before you sign a satisfaction note. Internal complaints, then AFCA, remain available when process breaks down—see [how to complain](/topics/community/publications/how-to-complain).
 
-### Recovery friction
+After settlement, update your policy if you replace the car, and recalculate whether cover level still fits.
 
-Add-ons that cost more than the likely benefit. Keep PDFs and screenshots; verbal promises are hard to enforce later.
 
-## Details that change the decision
+## Not-at-fault claims and other insurers
 
-Comprehensive, third party, and fire/theft covers different worlds of loss. For **Claiming on your car insurance**, match cover to the car’s value and your excess comfort. List drivers accurately; undeclared drivers sink claims.
+When another driver is clearly at fault, you can often claim on your comprehensive policy for speed, then let insurers recover. Ask how your excess is handled if recovery succeeds, and whether your no-claim rating is protected on a not-at-fault claim with an identified third party.
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
-
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when the fine print mattered
-
-Harper discovered after a claim that the sum insured was years out of date. Drew now reviews cover at renewal with rebuild and contents lists, not just the premium. The lesson for **claiming on your car insurance**: slow clarity beats fast regret.
-
-## Practical steps for Claiming on your car insurance
-
-1. List the risks you actually need covered versus nice-to-haves.
-2. Compare sum insured, excess, exclusions, and waiting periods.
-3. Check whether cover already exists inside super, bank, or another policy.
-4. Store policy numbers and claim phone lines offline as well as in the app.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Claims** — photograph damage, keep receipts for emergency spends, and ask about temporary accommodation cover if you cannot stay home.
+If the other party is uninsured or flees, your comprehensive cover (and police report) usually matters more than arguing on the roadside. Keep dashcam footage backed up off the phone in case the handset is damaged too.
 
 ## What to do next
 
-- Decide the next action for **claiming on your car insurance** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Choosing car insurance](/topics/insurance/car-insurance/choosing-car-insurance) for a related decision.
-- Read [How to save money on car insurance](/topics/insurance/car-insurance/how-to-save-money-on-car-insurance) for a related decision.
-- Write your constraints on paper so a sales pitch cannot rewrite them.
+- Gather photos, details, and police numbers, then open a claim reference even while you decide.
+- Compare repair quotes (or insurer assessment) against your excess and likely premium impact.
+- Authorise repairs only through the agreed claim process; clarify hire-car limits up front.
+- For theft or total loss, confirm agreed vs market value and any loan shortfall early.
+- Read [no-claim bonus](/topics/insurance/car-insurance/no-claim-bonus-on-car-insurance) rules before you assume a small claim is “free” beyond the excess.

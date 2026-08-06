@@ -1,82 +1,66 @@
 ---
-title: "Investor alert list"
-description: "How regulator alert lists help you spot known risks."
+title: Investor alert list
+description: How regulator alert lists help you spot known risks.
 pillar: scams-safety
 hub: check-report
 slug: investor-alert-list
 updated: "2026-08-03"
-tags: 
+tags:
   - check report
-relatedGuides: 
-  - scams-safety/check-report/what-to-do-if-youve-been-scammed
+relatedGuides:
   - scams-safety/check-report/check-before-you-invest
   - scams-safety/check-report/report-an-investment-scam
+  - scams-safety/financial-scams/investment-scams
+  - scams-safety/financial-scams/imposter-bond-investment-scams
 ---
 
-How regulator alert lists help you spot known risks. If money stress is affecting essentials this week, start at [Urgent help](/urgent). Checking and reporting quickly limits damage—and helps others avoid the same pitch.
+Regulator and consumer alert lists publish names, websites, and clones that have already drawn complaints or look like unlicensed investment offers. They are a fast negative screen—not a quality rating of everything else. Search them before you send money. If an alert matches a deal you already funded, stop further payments and use [Urgent help](/urgent) when household cash is tight.
 
-## Understanding Investor alert list
+## What an alert list is for
 
-**Investor alert list** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. How regulator alert lists help you spot known risks. Checking and reporting quickly limits damage—and helps others avoid the same pitch.
+Alert lists exist to warn the public about suspicious operators, impersonators, and cold-call schemes. Appearance on a list is a strong signal to walk away. Absence from a list does **not** mean an offer is safe—new scams appear daily, and names change.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Lists are strongest against recycled brands and known call-centre scripts. They are weakest against brand-new domains registered last week. That is why a clean search is only step one.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+Use alerts alongside licence checks described in [Check before you invest](/topics/scams-safety/check-report/check-before-you-invest), not instead of them. If a salesperson becomes angry when you mention checking alerts, end the call—legitimate firms expect verification.
 
-## How to think about the moving parts
+## How to search before you send money
 
-If **investor alert list** involves suspected fraud, speed and verification beat cleverness. Use official phone numbers from a statement or the organisation’s website—not numbers from a text. Never share one-time codes.
+1. Collect every name in the pitch: company, trading name, website domain, app name, and people on the call.
+2. Search those strings on official ASIC investor alert materials and on [Scamwatch](https://www.scamwatch.gov.au).
+3. Check slight variants—extra words, different suffixes (Pty Ltd vs Ltd), and lookalike domains.
+4. Save screenshots of any hits with the date you searched.
+5. If the site uses a famous bank or “Treasury bond” brand, compare the domain to the real organisation’s site character by character.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+If the salesperson tells you alerts are “out of date” or “posted by competitors,” treat that as another red flag. Verify on the regulator’s site you typed yourself. Do not install an app they send “so you can see the cleared version of the list.”
 
-## Upsides worth wanting
+## Limits of any list
 
-- Limiting further loss by freezing channels quickly
-- Helping others when reports feed warning systems
-- Recovering access to accounts and identity credentials
+- Clones of real banks and bond issuers may use names that look legitimate until you compare domains—see [Imposter bond investment scams](/topics/scams-safety/financial-scams/imposter-bond-investment-scams).
+- Overseas sites may not appear on Australian lists yet.
+- Social-media-only personas may lack a company name worth searching until after money moves.
+- Misspellings in your search can hide a hit—try the exact URL from the address bar.
 
-## Risks and traps to watch
+So: alert hit = stop. No hit = continue verifying, do not celebrate. Broader pitch patterns are covered in [Investment scams](/topics/scams-safety/financial-scams/investment-scams).
 
-### Easy-to-miss costs
+Print or screenshot a clean “no match” result only as a reminder that you searched—not as proof the deal is sound. Your notes should still include licence numbers and custody details from independent sources.
 
-Sending more money because someone claims fees will ‘release’ funds. For **Investor alert list**, read the conditions that turn a good deal average.
+## Building a personal verification habit
 
-### Timing and people problems
+Make the search boring and routine:
 
-Deleting evidence before reporting. Write down who can authorise changes.
+- No transfer until names are checked on alerts and registers
+- No exceptions for friends’ tips or “guaranteed” coupons
+- No sharing of OTPs because a broker needs them to “clear” an alert
+- Re-check if the company suddenly changes its website domain mid-conversation
 
-### Recovery friction
+When you find a suspicious offer—even if you did not pay—report it so lists can improve. Use [Report an investment scam](/topics/scams-safety/check-report/report-an-investment-scam) and Scamwatch. Cyber elements (malware, phishing logins) go to [ReportCyber](https://www.cyber.gov.au/report-and-recover/report).
 
-Shame delays that shrink recovery options. Keep PDFs and screenshots; verbal promises are hard to enforce later.
-
-## Details that change the decision
-
-Reporting is not only for large losses. For **Investor alert list**, gather messages, wallet addresses, and receipts, then file with the right channel and your bank. Early reports can freeze funds still in transit.
-
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
-
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when the fine print mattered
-
-Aisha nearly transferred savings after a convincing ‘bank fraud’ call. Taylor hung up, dialled the number on the back of the card, and learned the real bank had not called. The lesson for **investor alert list**: slow clarity beats fast regret.
-
-## Practical steps for Investor alert list
-
-1. Stop contact with the suspected scammer and do not send more money.
-2. Call your bank or card provider on a number from their official site.
-3. Change passwords starting with email, then banking, then social.
-4. Report via Scamwatch and keep evidence (messages, receipts, wallet addresses).
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Money stress now** — prioritise rent, food, utilities, and medicine, then use [Urgent help](/urgent). National Debt Helpline: 1800 007 007.
+If an older relative is being pitched, sit with them while you search together. Hearing “this name is on an alert list” from a family member often lands harder than a stranger’s warning. Keep the tone practical, not blaming—the goal is to stop the next transfer.
 
 ## What to do next
 
-- Call your bank from an official number and report the scam channels you used.
-- Read [What to do if you've been scammed](/topics/scams-safety/check-report/what-to-do-if-youve-been-scammed) for a related decision.
-- Read [Check before you invest](/topics/scams-safety/check-report/check-before-you-invest) for a related decision.
-- If essentials are at risk, open [Urgent help](/urgent) before taking on new credit.
+- Before your next unfamiliar investment, search company, domain, and salesperson names on alert and Scamwatch pages.
+- Bookmark the official alert page so sales links cannot redirect you.
+- If you get a hit, decline the deal and report the contact.
+- If you already paid a listed or lookalike operator, call your bank and open [Urgent help](/urgent) if needed.

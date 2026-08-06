@@ -1,84 +1,68 @@
 ---
-title: "How to spot a scam website"
-description: "URLs, certificates, and too-good offers."
+title: How to spot a scam website
+description: URLs, certificates, and too-good offers.
 pillar: scams-safety
 hub: online-safety
 slug: how-to-spot-a-scam-website
 updated: "2026-08-03"
-tags: 
+tags:
   - online safety
-relatedGuides: 
+relatedGuides:
   - scams-safety/online-safety/protect-yourself-from-scams
   - scams-safety/online-safety/online-shopping-safety
   - scams-safety/online-safety/identity-theft
   - scams-safety/online-safety/using-comparison-websites
 ---
 
-URLs, certificates, and too-good offers. If money stress is affecting essentials this week, start at [Urgent help](/urgent). Online money safety is mostly habits: slow down, verify, and never share one-time codes.
+A polished website is cheap to fake. Logos, padlocks, and “customer reviews” can all be copied. Learn to inspect the address and the offer—not the graphics. If a checkout already took money and you suspect fraud, start at [Urgent help](/urgent).
 
-## How to spot a scam website: the clear version
+## Read the address bar before you type secrets
 
-**How to spot a scam website** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. URLs, certificates, and too-good offers. Online money safety is mostly habits: slow down, verify, and never share one-time codes.
+The address (URL) is the first line of defence.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+- Type known sites yourself or use a bookmark you created earlier. Links in texts and emails are easy to disguise.
+- Check the domain carefully: `yourbank.com.au` is not the same as `yourbank-secure.com`, `yourbank.com.au.evil.site`, or a lookalike with swapped letters (`rn` vs `m`).
+- A padlock (HTTPS) only means the connection is encrypted. Scam sites use HTTPS too. Encryption does not prove the business is real.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+If the URL feels even slightly off, stop. Open a fresh tab and navigate from a source you already trust.
 
-## How to think about the moving parts
+## Lookalike brands and cloned checkouts
 
-If **how to spot a scam website** involves suspected fraud, speed and verification beat cleverness. Use official phone numbers from a statement or the organisation’s website—not numbers from a text. Never share one-time codes.
+Impersonation sites often clone a bank, courier, tax office, or popular retailer. Common tells:
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+- Slightly wrong brand colours, fonts, or logos that “almost” match.
+- Poor grammar on pages that should be professionally written—or perfect English with weird urgency (“verify within 15 minutes or your parcel is destroyed”).
+- Forms that ask for more than needed: full card details plus OTP, government ID photos, or remote-access software downloads.
+- Contact details that only lead to a chat bot or an overseas mobile number.
 
-## Upsides worth wanting
+Compare against the real organisation’s site side by side. Differences jump out when you are not being rushed.
 
-- Limiting further loss by freezing channels quickly
-- Helping others when reports feed warning systems
-- Recovering access to accounts and identity credentials
+## Offers that only work if you ignore the price
 
-## Risks and traps to watch
+Scam shops lean on prices that are too good: flagship phones at a fraction of retail, “limited wholesale” stock, or crypto “platforms” promising fixed high returns. The site’s job is to make the bargain feel normal.
 
-### Easy-to-miss costs
+Ask: why would a stranger sell this at a loss to me? If the answer is “because I clicked an ad,” walk away. For shopping-specific habits after you decide a seller might be real, use [Online shopping safety](/topics/scams-safety/online-safety/online-shopping-safety).
 
-Sending more money because someone claims fees will ‘release’ funds. For **How to spot a scam website**, read the conditions that turn a good deal average.
+## A five-minute walkthrough before you pay
 
-### Timing and people problems
+1. Arrive via a typed address or trusted bookmark—not a cold link.
+2. Confirm the domain spelling out loud.
+3. Find an ABN, physical address, and returns policy that you can verify elsewhere (not only on that page).
+4. Search the business name plus “scam” or “review” on an independent result page.
+5. Prefer payment methods with dispute options over irreversible transfers or gift cards.
+6. Never enter an OTP because a website or caller “needs it to release your order.”
 
-Deleting evidence before reporting. Put review dates in your calendar.
+If any step fails, leave. There will be another seller.
 
-### Recovery friction
+## When the site was fine yesterday
 
-Shame delays that shrink recovery options. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+Some people land on a real site that has been compromised, or on a fake ad that leads to a clone. Watch for sudden login prompts on pages that never asked before, unexpected browser warnings, or a payment page that looks different from the rest of the shop. Close the tab, clear the session, and contact the business through a known channel.
 
-## Details that change the decision
-
-Phishing works because it looks almost right. For **How to spot a scam website**, bookmark official login pages, turn on multi-factor authentication, and treat unexpected payment requests as hostile until proven otherwise.
-
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
-
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when timing changed the outcome
-
-Aisha nearly transferred savings after a convincing ‘bank fraud’ call. Taylor hung up, dialled the number on the back of the card, and learned the real bank had not called. The lesson for **how to spot a scam website**: slow clarity beats fast regret.
-
-## Practical steps for How to spot a scam website
-
-1. Stop contact with the suspected scammer and do not send more money.
-2. Call your bank or card provider on a number from their official site.
-3. Change passwords starting with email, then banking, then social.
-4. Report via Scamwatch and keep evidence (messages, receipts, wallet addresses).
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Money stress now** — prioritise rent, food, utilities, and medicine, then use [Urgent help](/urgent). National Debt Helpline: 1800 007 007.
-- **After a scam** — contact your bank, change passwords, and report via Scamwatch; keep evidence.
+Report suspicious sites to [Scamwatch](https://www.scamwatch.gov.au). If malware or account takeover is involved, use [ReportCyber](https://www.cyber.gov.au/report-and-recover/report). Broader habits live in [Protect yourself from scams](/topics/scams-safety/online-safety/protect-yourself-from-scams). When in doubt, leave the tab—there is always another seller tomorrow.
 
 ## What to do next
 
-- Call your bank from an official number and report the scam channels you used.
-- Read [Protect yourself from scams](/topics/scams-safety/online-safety/protect-yourself-from-scams) for a related decision.
-- Read [Online shopping safety](/topics/scams-safety/online-safety/online-shopping-safety) for a related decision.
-- If essentials are at risk, open [Urgent help](/urgent) before taking on new credit.
+- Audit your bookmarks for banks, ATO/myGov, and frequent shops so you stop relying on search ads.
+- On your next online purchase, force yourself through the five-minute walkthrough before paying.
+- Tell family: HTTPS and a logo are not proof of a real business.
+- If you already paid on a suspect site, contact your bank or card issuer and report via Scamwatch.

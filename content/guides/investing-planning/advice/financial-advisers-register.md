@@ -5,80 +5,73 @@ pillar: investing-planning
 hub: advice
 slug: financial-advisers-register
 updated: "2026-08-03"
-tags: 
+tags:
   - advice
-relatedGuides: 
+relatedGuides:
   - investing-planning/advice/what-is-financial-advice
   - investing-planning/advice/general-and-personal-financial-advice
   - investing-planning/advice/choosing-a-financial-adviser
   - investing-planning/advice/financial-advice-costs
 ---
 
-How to check an adviser is authorised. Paid advice can help complex decisions—but only if the adviser is appropriately licensed and clear about fees.
+Before you share financial details or pay for advice, confirm the person is allowed to provide the service they are offering. Australia maintains official registers for financial advisers and related licence information. Checking takes minutes and prevents a painful class of mistakes: trusting a convincing stranger who was never authorised.
 
-## Understanding Financial advisers register
+## What you are trying to verify
 
-**Financial advisers register** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. How to check an adviser is authorised. Paid advice can help complex decisions—but only if the adviser is appropriately licensed and clear about fees.
+At minimum:
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+- the adviser’s name matches who you met
+- they are listed as authorised to give financial advice
+- the licensee (AFSL holder) they work under is identifiable
+- any bans, disqualifications, or relevant constraints are visible on official sources
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+Business cards, LinkedIn titles, and “wealth coach” stickers are not registers. Marketing sites can be cloned ([scam websites](/topics/scams-safety/online-safety/how-to-spot-a-scam-website)).
 
-## How to think about the moving parts
+## How to check without getting lost
 
-With **financial advisers register**, match the product to your time horizon. Money you may need within a few years usually should not sit in volatile assets. Fees and diversification matter more than a single tip from social media.
+1. Get the adviser’s full legal name and their licensee’s name in writing.
+2. Search the official Financial Advisers Register (and related ASIC licence registers as needed) yourself—do not rely on a screenshot the adviser sends.
+3. Confirm the authorisations cover the topics discussed (for example, if they push exotic products, does their authorisation make sense?).
+4. Note the date you checked; re-check if there is a long gap before you implement advice.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+If the person hesitates to give their licensee details, treat that as a stop sign.
 
-## Upsides worth wanting
+ClearMoney summarises the habit; the register itself lives on official government/regulator sites—use those primary sources for the live data.
 
-- Potential growth above cash over long periods
-- Diversification that reduces single-company drama
-- Alignment with goals like retirement or a distant home deposit
+## Red flags the register habit catches
 
-## Risks and traps to watch
+- advisers who “used to be authorised” but are not current
+- name mismatches (similar spelling, different person)
+- offshore “brokers” posing as local planners
+- seminar speakers who are product marketers without adviser status
+- recovery scammers claiming to be forensic advisers after a loss
 
-### Easy-to-miss costs
+Pair register checks with [check before you invest](/topics/scams-safety/check-report/check-before-you-invest) when products are involved, and with [investor alert](/topics/scams-safety/check-report/investor-alert-list) awareness for known scam entities.
 
-Buying under social pressure or FOMO. For **Financial advisers register**, read the conditions that turn a good deal average.
+## Authorisation is necessary—not sufficient
 
-### Timing and people problems
+A listed adviser can still give poor advice, charge a lot, or mismanage conflicts. The register answers “are they allowed to?”—not “are they right for me?” Continue with fit questions in [choosing a financial adviser](/topics/investing-planning/advice/choosing-a-financial-adviser), cost clarity in [financial advice costs](/topics/investing-planning/advice/financial-advice-costs), and category literacy in [general and personal financial advice](/topics/investing-planning/advice/general-and-personal-financial-advice).
 
-Concentrated bets and high fees. Write down who can authorise changes.
+## Record-keeping for your own file
 
-### Recovery friction
+Save a PDF or note of the register result (adviser name, licensee, date). If a dispute arises later, proving who you thought you hired matters. Keep engagement letters and Statements of Advice in the same folder.
 
-Needing the money earlier than the investment can recover. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+## When something looks wrong
 
-## Details that change the decision
+Do not “sort it out” by sending more money. Cease contact if you suspect impersonation. Report suspected scams via Scamwatch pathways and [report an investment scam](/topics/scams-safety/check-report/report-an-investment-scam). If money already moved, use [/urgent](/urgent) and [what to do if you've been scammed](/topics/scams-safety/check-report/what-to-do-if-youve-been-scammed).
 
-Licensed advice should come with a clear fee, a scope, and documents you can keep. For **Financial advisers register**, ask how the adviser is paid and what happens if you say no to a product. If someone guarantees returns or pushes you to act today, treat that as a warning sign.
+Complaints about authorised advisers follow a different track—see [problems with a financial adviser](/topics/investing-planning/advice/problems-with-a-financial-adviser).
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+## Helpers who “check for you”
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+Relatives sometimes forward a screenshot and say the person is “ASIC approved.” Screenshots can be forged. Repeat the search yourself on the official site, on your own device, typing the address carefully. If a helper insists you must use their link or their café Wi-Fi to “verify,” that is another reason to stop.
 
-## A short story: when the fine print mattered
-
-Noah bought after a viral tip and sold in a panic three weeks later. Riley wrote a one-page plan: horizon, fee budget, and a rule not to check prices daily. The lesson for **financial advisers register**: slow clarity beats fast regret.
-
-## Practical steps for Financial advisers register
-
-1. Define the time horizon and what would force you to sell early.
-2. List fees (management, brokerage, advice) in dollars per year if you can.
-3. Diversify enough that one tip cannot wreck the plan.
-4. Ignore urgency: legitimate offers survive a night’s sleep.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Life changes** — job loss, a new dependant, or a move can invalidate last year’s choice; schedule a review.
-- **Records** — keep PDFs of contracts, statements, and cancellation confirmations for at least a year.
+Authorisation checks are cheap insurance. Make them a habit before every new advice relationship—and again before large implementations months later.
 
 ## What to do next
 
-- Decide the next action for **financial advisers register** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [What is financial advice?](/topics/investing-planning/advice/what-is-financial-advice) for a related decision.
-- Read [General and personal financial advice](/topics/investing-planning/advice/general-and-personal-financial-advice) for a related decision.
-- Write your constraints on paper so a sales pitch cannot rewrite them.
+- Ask every prospective adviser for their full name and licensee; check the official register yourself today.
+- Save evidence of the check beside any advice documents you receive.
+- Continue suitability and fee conversations only after authorisation is confirmed.
+- Cross-check products through [check before you invest](/topics/scams-safety/check-report/check-before-you-invest).
+- Report impersonators early—do not test them with a “small” deposit.

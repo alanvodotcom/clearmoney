@@ -1,88 +1,91 @@
 ---
-title: "Debt consolidation and refinancing"
-description: "When combining debts helps—and when it costs more."
+title: Debt consolidation and refinancing
+description: When combining debts helps—and when it costs more.
 pillar: loans-credit-debt
 hub: managing-debt
 slug: debt-consolidation-and-refinancing
 updated: "2026-08-03"
-tags: 
-  - managing debt
-relatedTools: 
+tags:
+  - debt
+  - loans
+relatedTools:
   - loan-comparison
-relatedGuides: 
-  - loans-credit-debt/managing-debt/urgent-help-with-money
+relatedGuides:
   - loans-credit-debt/managing-debt/get-debt-under-control
-  - loans-credit-debt/managing-debt/financial-hardship
-  - loans-credit-debt/managing-debt/financial-counselling
+  - loans-credit-debt/loans/personal-loans
+  - loans-credit-debt/credit-cards/credit-card-balance-transfers
+  - loans-credit-debt/home-loans/switching-home-loans
 ---
 
-When combining debts helps—and when it costs more. If money stress is affecting essentials this week, start at [Urgent help](/urgent). Debt stress shrinks options. Prioritise essentials, talk early, and use free help before high-cost credit.
+Debt consolidation means combining several debts into one loan or facility—ideally with a lower total cost and a repayment you can sustain. Refinancing replaces one facility with another. Both can help or harm depending on the maths and your behaviour afterward.
 
-## What is Debt consolidation and refinancing?
+## What consolidation really does
 
-**Debt consolidation and refinancing** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. When combining debts helps—and when it costs more. Debt stress shrinks options. Prioritise essentials, talk early, and use free help before high-cost credit.
+Mechanically, a lender pays out your cards or loans and you make one repayment to them. Emotionally, it feels like a clean slate. Financially, you have simply moved the obligation.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Consolidation products include:
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+- personal loans that clear multiple cards
+- balance-transfer cards for eligible card debt
+- refinancing a home loan and cash-out/debt consolidation features (high caution)
 
-## How to think about the moving parts
+None of these erase the need for a spending reset. If old cards stay open and refill, you can end up with the consolidation loan **plus** new card balances.
 
-When **debt consolidation and refinancing** collides with debt stress, order of operations matters: essentials first, then contact lenders, then free counselling if you cannot see a path. Silence usually makes options worse.
+## When a single loan saves money
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Consolidation tends to help when:
 
-ClearMoney calculators that pair with this topic: [Loan Comparison](/tools/loan-comparison). Use them to turn guesses into numbers before you commit.
+- the new **interest rate and fees** beat the blended cost of current debts
+- the term is not stretched so far that total interest rises despite a lower rate
+- you close or freeze the cleared revolving accounts
+- repayments fit a written budget with a buffer
+- you compared at least two offers with the [loan comparison](/tools/loan-comparison) tool
 
-## Upsides worth wanting
+Worked habit: calculate total repayable on the consolidation loan versus staying the course with aggressive card paydowns—see [pay off your credit card](/topics/loans-credit-debt/credit-cards/pay-off-your-credit-card) and [get debt under control](/topics/loans-credit-debt/managing-debt/get-debt-under-control).
 
-- Hardship programs that can pause or reshape repayments
-- Reduced stress when there is a written plan
-- Protection pathways if collectors breach the rules
+## When it costs more overall
 
-## Risks and traps to watch
+Warning patterns:
 
-### Easy-to-miss costs
+- longer term lowers the weekly figure but increases lifetime interest
+- fees and brokers’ costs are glossed over
+- home-equity consolidation turns three-year card debt into twenty-five-year mortgage debt without a plan to accelerate
+- approval requires a guarantor you should not ask
+- you are consolidating because of income collapse—fix the income problem first via hardship and **1800 007 007**
 
-Ignoring contact until default listing or legal steps begin. For **Debt consolidation and refinancing**, read the conditions that turn a good deal average.
+If you cannot get approved without exaggerating income, stop. A declined or unaffordable consolidation worsens stress.
 
-### Timing and people problems
+## Comparing offers side by side
 
-Using payday-style credit to patch structural shortfalls. If someone rushes you, that is data—slow down.
+Align apples with apples:
 
-### Recovery friction
+| Feature | Offer A | Offer B | Stay put + extra payments |
+| --- | --- | --- | --- |
+| Rate | | | |
+| Fees | | | |
+| Term | | | |
+| Total repayable | | | |
+| Ability to repay early | | | |
 
-Signing payment plans you cannot keep. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+Include balance-transfer fees if that path is in play—[credit card balance transfers](/topics/loans-credit-debt/credit-cards/credit-card-balance-transfers). For mortgage-related consolidation, read [switching home loans](/topics/loans-credit-debt/home-loans/switching-home-loans) and price break-even carefully.
 
-## Details that change the decision
+If collectors are already involved or essentials are short, speak to a financial counsellor before signing—[/urgent](/urgent).
 
-Collectors and lenders have rules; you have rights to request hardship consideration and to be treated fairly. For **Debt consolidation and refinancing**, keep a call log and prefer written agreements. Free financial counsellors help you prioritise and negotiate—use them before selling essentials or borrowing more to patch interest.
+## Behaviour rules after the new loan starts
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+The consolidation loan only works if the old habits change on day one:
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+- Cut up or freeze paid-out cards; request limit reductions in writing.
+- Automate the new repayment for the day after payday.
+- Keep a small emergency buffer so a tyre or dental bill does not restart BNPL.
+- Review progress every quarter: balance down, no new consumer credit, budget still realistic.
+- If income drops, contact the new lender’s hardship team early—do not wait for default.
 
-## A short story: when a simple system helped
-
-Noah avoided lender calls until fees stacked. Riley asked for hardship in writing, listed essentials first, and booked a free counsellor session the same week. The lesson for **debt consolidation and refinancing**: slow clarity beats fast regret.
-
-## Practical steps for Debt consolidation and refinancing
-
-1. List debts with balances, rates, and minimums; mark essentials separately.
-2. Contact lenders early and ask about hardship options in writing.
-3. Speak with a free financial counsellor if repayments no longer fit.
-4. Avoid high-cost short-term credit as a ‘bridge’ without a repayment date.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Money stress now** — prioritise rent, food, utilities, and medicine, then use [Urgent help](/urgent). National Debt Helpline: 1800 007 007.
+People often feel “richer” after several minimums become one payment and accidentally increase spending. Name that risk out loud. A consolidation that lowers interest but raises lifestyle erase the gain within months. If you catch yourself applying for a store card “just for the discount,” stop and reopen your debt list—the project is not finished until behaviour matches the spreadsheet.
 
 ## What to do next
 
-- Decide the next action for **debt consolidation and refinancing** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Urgent help with money](/topics/loans-credit-debt/managing-debt/urgent-help-with-money) for a related decision.
-- Read [Get debt under control](/topics/loans-credit-debt/managing-debt/get-debt-under-control) for a related decision.
-- Run the numbers with [Loan Comparison](/tools/loan-comparison).
-- If essentials are at risk, open [Urgent help](/urgent) before taking on new credit.
+- List current balances, rates, and minimums on one page.
+- Compare consolidation quotes with [loan comparison](/tools/loan-comparison) on total repayable—not weekly cost alone.
+- Commit in writing to closing or freezing cleared revolving credit.
+- Call **1800 007 007** if consolidation is being sold as a cure for hardship without a budget.

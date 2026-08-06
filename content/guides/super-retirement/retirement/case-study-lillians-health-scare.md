@@ -5,79 +5,86 @@ pillar: super-retirement
 hub: retirement
 slug: case-study-lillians-health-scare
 updated: "2026-08-03"
-tags: 
+tags:
   - retirement
-relatedGuides: 
+relatedGuides:
+  - super-retirement/manage-retirement/manage-health-costs-in-retirement
+  - super-retirement/manage-retirement/aged-care
+  - super-retirement/manage-retirement/memory-loss-dementia-and-your-money
   - super-retirement/retirement/retirement-checklist
-  - super-retirement/retirement/case-study-helen-and-joe-retire
-  - super-retirement/retirement/case-study-bills-mortgage-decision
-  - super-retirement/retirement/first-nations-resources
 ---
 
-Health costs and money decisions later in life. Retirement money is a multi-decade project: super, Age Pension, and spending habits interact.
+Lillian is 71 and had planned a quiet retirement built on an account-based pension plus a part Age Pension. A sudden hospital stay and follow-up treatment forced money decisions she had postponed: health gaps, who can pay bills if she is unwell, and whether her home still works.
 
-## Case study: Lillian's health scare: the clear version
+This story is composite and educational—not a prediction of anyone’s medical path.
 
-**Case study: Lillian's health scare** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Health costs and money decisions later in life. Retirement money is a multi-decade project: super, Age Pension, and spending habits interact.
+## What changed in six weeks
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Before the scare, Lillian’s budget assumed Medicare plus a basic private hospital policy. After discharge she faced:
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+- Specialist gaps not fully covered
+- Transport and pharmacy costs that do not look large one-by-one but add up
+- A daughter taking unpaid leave to help—family time has a financial shadow
+- Realisation that her two-storey home would be hard to manage after further mobility limits
 
-## How to think about the moving parts
+She did not need a new investment product. She needed a **cash buffer**, clearer **authorities**, and a **housing plan B**.
 
-Setup quality decides whether **case study: Lillian's health scare** helps or nags you later. Confirm identity and contact details, choose alerts you will actually read, and decide who else can see or move money. If a salesperson is present, ask for the key numbers in writing before you sign.
+## Cash buffer before product tweaks
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Lillian moved three months of essential spending into a high-access savings account outside her pension’s growth option. That stopped her from selling investment units on a bad market week just to pay a gap fee.
 
-## Upsides worth wanting
+If you draw from super or a pension for medical costs, ask the fund about processing times and any tax consequences for your age and product. Rules differ; verify with the fund and ATO materials.
 
-- Automations that reduce missed payments and late fees
-- Alerts that surface problems while they are still small
-- Shared understanding when more than one person is involved
+## Insurance and Medicare realities
 
-## Risks and traps to watch
+She reviewed private health extras and hospital cover against what she actually claimed. Some extras were unused; hospital cover mattered more after the scare. She also checked Pharmaceutical Benefits Scheme safety-net timing so pharmacy costs were not a monthly shock.
 
-### Easy-to-miss costs
+[Manage health costs in retirement](/topics/super-retirement/manage-retirement/manage-health-costs-in-retirement) covers the broader checklist. Nothing here replaces clinical or health-insurance advice.
 
-Set-and-forget errors (wrong account, wrong amount, wrong date). For **Case study: Lillian's health scare**, read the conditions that turn a good deal average.
+## Who can act when you cannot
 
-### Timing and people problems
+Lillian’s daughter could not speak to the bank or energy retailer without authority. They organised:
 
-Giving too much authority to another person. Put review dates in your calendar.
+- Enduring power of attorney (while Lillian had capacity)
+- Updated bank “authorised third party” where appropriate
+- A simple folder: Medicare card, health fund, GP, medications list, fund login hints stored safely
 
-### Recovery friction
+See [Wills and powers of attorney](/topics/super-retirement/plan-retirement/wills-and-powers-of-attorney) and [Memory loss, dementia and your money](/topics/super-retirement/manage-retirement/memory-loss-dementia-and-your-money)—planning is easier before a crisis.
 
-Missing fine print on fees or cooling-off rights. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+## Housing and care forks
 
-## Details that change the decision
+Occupational therapy suggested rails and a shower redesign. Lillian compared:
 
-Spending in retirement is the plan; products are tools. For **Case study: Lillian's health scare**, estimate annual costs, then map income sources and buffers for health and home repairs. Longevity risk—living longer than the money—deserves as much attention as investment returns.
+1. Modify the current home
+2. Downsize to a single-level unit
+3. Investigate home-care packages if needs grew
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+Aged care fees and means testing are detailed and change—start with official My Aged Care information and [Aged care](/topics/super-retirement/manage-retirement/aged-care). She refused cold callers offering “free aged care assessments” that were really lead generation.
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+## Scam risk rises with stress
 
-## A short story: when timing changed the outcome
+While exhausted, Lillian almost clicked a text claiming her “pension review” needed a new password. She hung up, used a bookmarked official site, and reported the text. Health emergencies are peak scam season—see [Protect your money in retirement](/topics/super-retirement/manage-retirement/protect-your-money-in-retirement).
 
-Luca set everything up in a hurry and only noticed the wrong account after a payment bounced. Morgan now screenshots every confirmation and nicknames accounts so automations are obvious. The lesson for **case study: Lillian's health scare**: slow clarity beats fast regret.
+## What she changed in the plan
 
-## Practical steps for Case study: Lillian's health scare
+- Larger cash buffer; slightly lower discretionary travel for two years
+- Powers of attorney completed
+- Home modification quote obtained before any sale panic
+- Beneficiary nominations checked after updating her will
 
-1. Gather ID, income evidence, and any existing contracts or statements.
-2. Confirm who else is affected (partner, guarantor, dependants) before you sign.
-3. Complete the application or setup deliberately—screenshot confirmations.
-4. Turn on alerts and store reference numbers where you can find them.
+Income strategy stayed mostly the same; governance and buffers carried the load.
 
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
+## What Lillian changed in her paperwork
 
-## When life changes
+After the scare she listed every direct debit, stored enduring power of attorney documents with a neighbour’s spare key plan, and set calendar reminders for health-fund excess resets each January. She also told her GP practice who could discuss accounts if she was admitted again. Small admin steps prevented the next hospital stay from becoming another cash-flow emergency.
 
-- **Rule changes** — contribution caps, preservation ages, and Age Pension settings change; confirm current figures before acting.
+## Money conversations with adult children
+
+Lillian’s children offered to pay gaps; she accepted help for one invoice and declined an open-ended arrangement that would have hidden her true budget from herself. She kept a written note of who paid what to avoid later confusion about gifts versus loans. ClearMoney’s takeaway: love is welcome; invisible subsidies make planning impossible.
 
 ## What to do next
-
-- Decide the next action for **case study: Lillian's health scare** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Retirement checklist](/topics/super-retirement/retirement/retirement-checklist) for a related decision.
-- Read [Case study: Helen and Joe retire](/topics/super-retirement/retirement/case-study-helen-and-joe-retire) for a related decision.
-- Set a calendar reminder to revisit this decision after the next statement cycle.
+- Price a three-month essentials buffer and park it somewhere accessible.
+- Confirm who can deal with banks and utilities if you are in hospital.
+- Read [Manage health costs in retirement](/topics/super-retirement/manage-retirement/manage-health-costs-in-retirement) and update health cover deliberately.
+- If mobility is changing, get a modification quote before you assume you must sell.
+- Keep Scamwatch habits even when you are tired—bookmark official login pages now.

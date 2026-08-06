@@ -5,80 +5,88 @@ pillar: investing-planning
 hub: warnings
 slug: pump-and-dump-schemes
 updated: "2026-08-03"
-tags: 
+tags:
   - warnings
-relatedGuides: 
+relatedGuides:
   - investing-planning/warnings/dont-get-burned-by-investment-hype
   - investing-planning/warnings/crypto-assets
   - investing-planning/warnings/forex-trading
   - investing-planning/warnings/contracts-for-difference-cfds
 ---
 
-How promoters inflate prices then sell. Investment warnings exist because some offers are illegal, unsuitable, or designed to rush you.
+A pump and dump inflates a thin stock or token with hype, then insiders sell into the frenzy. Late buyers hold the bag. Chat rooms call it “community.” Law enforcement calls patterns of market manipulation when rules are broken—and either way, you can lose heavily.
 
-## Pump and dump schemes: the clear version
+Already bought after a Discord rocket emoji parade? Document everything; if fraud is suspected, use [/urgent](/urgent) and reporting guides.
 
-**Pump and dump schemes** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. How promoters inflate prices then sell. Investment warnings exist because some offers are illegal, unsuitable, or designed to rush you.
+## How the pump is built
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Common sequence:
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+1. Promoters accumulate a cheap, illiquid asset
+2. Coordinated tips, paid finfluencers, fake news, or spam flood attention
+3. Price spikes on thin volume
+4. Insiders sell
+5. Price collapses; excuses appear (“whales,” “manipulation by others”)
 
-## How to think about the moving parts
+Micro-caps and obscure crypto tokens are favourite stages because a little buying moves the tape ([crypto assets](/topics/investing-planning/warnings/crypto-assets), [choosing shares](/topics/investing-planning/shares/choosing-shares-to-buy)).
 
-With **pump and dump schemes**, match the product to your time horizon. Money you may need within a few years usually should not sit in volatile assets. Fees and diversification matter more than a single tip from social media.
+## Tells you can spot in minutes
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+- sudden social buzz with no credible filings
+- pressure to buy *now* before “moontime”
+- organisers who discourage selling “for the community”
+- unrealistic price targets without business substance
+- paid promotion without clear disclosure
+- “insider info” teases ([insider trading](/topics/investing-planning/warnings/insider-trading) is illegal—and often fake anyway)
 
-## Upsides worth wanting
+If the thesis cannot survive a boring ASX announcement read-through, it is entertainment risk at best.
 
-- Potential growth above cash over long periods
-- Diversification that reduces single-company drama
-- Alignment with goals like retirement or a distant home deposit
+## Protecting yourself
 
-## Risks and traps to watch
+- Prefer liquid, well-followed companies or broad ETFs for real money
+- Ignore unsolicited hot tips ([investment hype](/topics/investing-planning/warnings/dont-get-burned-by-investment-hype))
+- Assume paid shills populate comment sections
+- Never buy because strangers claim they will “hold together”
+- Verify news on primary sources, not screenshots
 
-### Easy-to-miss costs
+Market misconduct can be reported to ASIC; scams also go through Scamwatch ([report an investment scam](/topics/scams-safety/check-report/report-an-investment-scam)).
 
-Buying under social pressure or FOMO. For **Pump and dump schemes**, read the conditions that turn a good deal average.
+## Thin order books are the playground
 
-### Timing and people problems
+If a few modest buy orders spike the price 40%, you are not in a deep market—you are in a stage set. Check average daily volume and spread before any speculative buy. Wide spreads mean you already pay a tax to enter and exit.
 
-Concentrated bets and high fees. Put review dates in your calendar.
+Options and CFD leverage on pumped names accelerate damage ([CFDs](/topics/investing-planning/warnings/contracts-for-difference-cfds)).
 
-### Recovery friction
+## Paid promotion and disclosure failures
 
-Needing the money earlier than the investment can recover. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+Australian rules require certain advertising disclosures. Hidden paid posts and fake organic chatter still flourish. Assume enthusiastic strangers are paid until evidence shows otherwise.
 
-## Details that change the decision
+Company announcements that merely “note” social media speculation without substance are not research.
 
-Cold calls, secret tips, and ‘recovery rooms’ after a loss are classic patterns. For **Pump and dump schemes**, verify licences, ignore urgency, and never install remote-access software for a stranger. If an offer targets your super or equity, slow down further.
+## After the dump: ignore the sequel
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+Post-crash narratives include “we go again,” lawsuits that need funding, or recovery bots. Do not fund sequels. Capture chat logs and trade records if you report misconduct; then step away from the community that harmed you.
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+## Workplace and club tips
 
-## A short story: when timing changed the outcome
+Pumps sometimes start as casual tips among colleagues or club members. Social cost of saying no feels high; financial cost of saying yes can be higher. Practise a line: “I only buy after filings, not tips.”
 
-Jordan bought after a viral tip and sold in a panic three weeks later. Sam wrote a one-page plan: horizon, fee budget, and a rule not to check prices daily. The lesson for **pump and dump schemes**: slow clarity beats fast regret.
+## Screenshots lie
 
-## Practical steps for Pump and dump schemes
+Edited broker screenshots and borrowed lifestyle photos fuel pumps. Reverse-image search extravagant proof when something feels staged. If evidence cannot survive basic verification, your capital should not fund the story.
 
-1. Define the time horizon and what would force you to sell early.
-2. List fees (management, brokerage, advice) in dollars per year if you can.
-3. Diversify enough that one tip cannot wreck the plan.
-4. Ignore urgency: legitimate offers survive a night’s sleep.
+## Options and leverage on pumped names
 
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
+Using options or CFDs on a pumped micro-cap multiplies the dump. If you cannot explain valuation without memes, you should not add leverage. Walk away while the chat is still screaming; boredom is your friend.
 
-## When life changes
 
-- **Life changes** — job loss, a new dependant, or a move can invalidate last year’s choice; schedule a review.
-- **Records** — keep PDFs of contracts, statements, and cancellation confirmations for at least a year.
+
+Keep written notes of every claim a promoter makes and compare them later to documents. Gaps between the pitch and the paperwork are where households lose money.
 
 ## What to do next
 
-- Decide the next action for **pump and dump schemes** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Don't get burned by investment hype](/topics/investing-planning/warnings/dont-get-burned-by-investment-hype) for a related decision.
-- Read [Crypto assets](/topics/investing-planning/warnings/crypto-assets) for a related decision.
-- Set a calendar reminder to revisit this decision after the next statement cycle.
+- Mute tip channels that revel in pumps.
+- Stick to research habits and position caps for any single name.
+- If you were dumped, stop sending “recovery” money to new heroes.
+- Report coordinated fraud attempts through official channels.
+- Rebuild with a dull [investing plan](/topics/investing-planning/how-to-invest/develop-an-investing-plan)—pumps hate boredom.

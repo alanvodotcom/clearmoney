@@ -5,79 +5,70 @@ pillar: super-retirement
 hub: retirement
 slug: case-study-helen-and-joe-retire
 updated: "2026-08-03"
-tags: 
+tags:
   - retirement
-relatedGuides: 
+relatedGuides:
   - super-retirement/retirement/retirement-checklist
+  - super-retirement/plan-retirement/super-and-the-age-pension
+  - super-retirement/income-sources/account-based-pensions
   - super-retirement/retirement/case-study-bills-mortgage-decision
-  - super-retirement/retirement/case-study-lillians-health-scare
-  - super-retirement/retirement/first-nations-resources
 ---
 
-A couple plans income from super and Age Pension. Retirement money is a multi-decade project: super, Age Pension, and spending habits interact.
+Helen (67) and Joe (65) want to stop full-time work within a year. Their question is not “what is the perfect product?”—it is how to blend super drawdowns with a possible Age Pension without running the nest egg down too fast.
 
-## Understanding Case study: Helen and Joe retire
+Figures below are illustrative only. Caps, rates, and means-test settings change; always verify with Services Australia, the ATO, and your fund.
 
-**Case study: Helen and Joe retire** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. A couple plans income from super and Age Pension. Retirement money is a multi-decade project: super, Age Pension, and spending habits interact.
+## Their starting position
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+- Combined super about $720,000 (mostly in Helen’s industry fund; Joe has a smaller retail account)
+- Own their home; modest car loan of $8,000 remaining
+- Helen eligible for Age Pension age; Joe will reach it later
+- Want about $55,000 a year after tax for ordinary living, plus a travel buffer every second year
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+They used a simple three-column note: **income sources**, **must-pay costs**, **risks**. That beat a 40-tab spreadsheet they never finished.
 
-## How to think about the moving parts
+## Why they did not take everything as cash
 
-Setup quality decides whether **case study: Helen and Joe retire** helps or nags you later. Confirm identity and contact details, choose alerts you will actually read, and decide who else can see or move money. If a salesperson is present, ask for the key numbers in writing before you sign.
+Joe liked the idea of a large lump sum “so we can see it.” Helen pushed back: a big cash pile in a bank account can be spent faster than planned, earns little after inflation, and can affect Age Pension means tests differently depending on how money is held.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+They chose a middle path:
 
-## Upsides worth wanting
+1. Clear the car loan from a small super lump sum once Joe meets a condition of release
+2. Start an [account-based pension](/topics/super-retirement/income-sources/account-based-pensions) from Helen’s larger balance for regular income
+3. Keep Joe’s account invested until he retires fully, then decide whether to consolidate
 
-- Automations that reduce missed payments and late fees
-- Alerts that surface problems while they are still small
-- Shared understanding when more than one person is involved
+Minimum and maximum drawdown rates for account-based pensions are set in law and change with age brackets—confirm the current percentages with your fund before you set a payment.
 
-## Risks and traps to watch
+## Age Pension as a floor, not a surprise
 
-### Easy-to-miss costs
+Helen applied for Age Pension when she reached eligibility age. The assets and income tests use rules that treat the family home differently from financial assets. Super in accumulation and pension phases can be assessed differently depending on age and product—so they read Services Australia guidance carefully instead of relying on a café tip.
 
-Set-and-forget errors (wrong account, wrong amount, wrong date). For **Case study: Helen and Joe retire**, read the conditions that turn a good deal average.
+While Joe was still working part-time, his earnings reduced their combined pension entitlement. They preferred that trade-off: part-time wages plus a smaller pension beat rushing Joe into full retirement with a thinner buffer.
 
-### Timing and people problems
+See [Super and the Age Pension](/topics/super-retirement/plan-retirement/super-and-the-age-pension) and [Age Pension and government benefits](/topics/super-retirement/income-sources/age-pension-and-government-benefits).
 
-Giving too much authority to another person. Write down who can authorise changes.
+## Investment option: they dialled risk down, not off
 
-### Recovery friction
+Both had been in growth options for decades. Two years out, they moved a slice of Helen’s balance toward a more balanced option so sequence-of-returns risk near the first drawdowns hurt less. They did **not** shift everything to cash—longevity risk (outliving the money) mattered too.
 
-Missing fine print on fees or cooling-off rights. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+They review the mix each birthday, not each market headline.
 
-## Details that change the decision
+## What nearly tripped them up
 
-Spending in retirement is the plan; products are tools. For **Case study: Helen and Joe retire**, estimate annual costs, then map income sources and buffers for health and home repairs. Longevity risk—living longer than the money—deserves as much attention as investment returns.
+- **Insurance inside super:** Helen’s default death cover was higher than they needed and was eroding her balance; they reduced it after reading the PDS.
+- **Two funds, two fee sets:** Joe almost ignored his small account until a statement showed a high percentage fee on a low balance.
+- **Beneficiary nominations:** Joe’s binding nomination had expired; they renewed it before any rollover talk.
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+## Lessons you can steal without copying their numbers
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when the fine print mattered
-
-Aisha set everything up in a hurry and only noticed the wrong account after a payment bounced. Taylor now screenshots every confirmation and nicknames accounts so automations are obvious. The lesson for **case study: Helen and Joe retire**: slow clarity beats fast regret.
-
-## Practical steps for Case study: Helen and Joe retire
-
-1. Gather ID, income evidence, and any existing contracts or statements.
-2. Confirm who else is affected (partner, guarantor, dependants) before you sign.
-3. Complete the application or setup deliberately—screenshot confirmations.
-4. Turn on alerts and store reference numbers where you can find them.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Rule changes** — contribution caps, preservation ages, and Age Pension settings change; confirm current figures before acting.
+- Build income in layers (part-time work, Age Pension, pension drawdown) rather than one big cash event
+- Treat means tests as a design input, not an afterthought
+- Fix small debts and expired nominations before product shopping
+- Revisit investment risk when the spending phase begins—not only when markets fall
 
 ## What to do next
 
-- Decide the next action for **case study: Helen and Joe retire** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Retirement checklist](/topics/super-retirement/retirement/retirement-checklist) for a related decision.
-- Read [Case study: Bill's mortgage decision](/topics/super-retirement/retirement/case-study-bills-mortgage-decision) for a related decision.
-- Write your constraints on paper so a sales pitch cannot rewrite them.
+- Draft your own three columns: income sources, must-pay costs, risks.
+- Read [Types of retirement income](/topics/super-retirement/income-sources/types-of-retirement-income) before choosing a product shape.
+- Model drawdowns with the [retirement planner](/tools/retirement-planner) and confirm Age Pension rules on official sites.
+- Use the [Retirement checklist](/topics/super-retirement/retirement/retirement-checklist) so insurance and paperwork are not left to the last week.

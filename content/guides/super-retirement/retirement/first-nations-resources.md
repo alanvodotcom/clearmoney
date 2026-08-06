@@ -5,79 +5,75 @@ pillar: super-retirement
 hub: retirement
 slug: first-nations-resources
 updated: "2026-08-03"
-tags: 
+tags:
   - retirement
-relatedGuides: 
+  - first nations
+relatedGuides:
   - super-retirement/retirement/retirement-checklist
-  - super-retirement/retirement/case-study-helen-and-joe-retire
-  - super-retirement/retirement/case-study-bills-mortgage-decision
-  - super-retirement/retirement/case-study-lillians-health-scare
+  - community/first-nations/first-nations-services-that-can-help
+  - community/first-nations/superannuation
+  - super-retirement/how-super-works/find-lost-super
 ---
 
-Pathways and culturally aware retirement support. Retirement money is a multi-decade project: super, Age Pension, and spending habits interact.
+Retirement planning for Aboriginal and Torres Strait Islander people often starts with relationships, Country, and community obligations—not a product comparison table. This page points to practical money pathways while recognising culture and trust matter as much as fees.
 
-## What is First Nations retirement resources?
+ClearMoney is general information only. Prefer local Aboriginal Community Controlled services and official government channels for eligibility.
 
-**First Nations retirement resources** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Pathways and culturally aware retirement support. Retirement money is a multi-decade project: super, Age Pension, and spending habits interact.
+## Start with people and services you trust
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Before logging into a fund portal, note who already helps with money or paperwork in your community:
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+- Aboriginal financial counselling and money-management programs
+- Local Aboriginal Community Controlled Health or family services that can warm-refer
+- Legal Aid or Aboriginal legal services for wills, powers of attorney, and disputes
+- The [First Nations services that can help](/topics/community/first-nations/first-nations-services-that-can-help) hub on ClearMoney
 
-## How to think about the moving parts
+If English or digital access is a barrier, ask for a support person or interpreter for Centrelink and fund calls. You are allowed to take time and ask for plain language.
 
-Use **first Nations retirement resources** as a toolkit. Take what fits your household, leave what does not, and prefer official registers and licensed help for high-stakes steps.
+## Super that may be missing or scattered
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Many people have multiple small super accounts from seasonal, remote, or short contracts. Lost or ATO-held super is common. Use myGov linked to the ATO to search, and read [Find lost super](/topics/super-retirement/how-super-works/find-lost-super).
 
-## Upsides worth wanting
+Before you combine accounts, check whether insurance would be lost—see [Consolidating super funds](/topics/super-retirement/how-super-works/consolidating-super-funds). Community [superannuation](/topics/community/first-nations/superannuation) tips add culturally grounded context.
 
-- Shared language for classrooms, families, or community groups
-- Pointers to free or low-cost support
-- Practical checklists you can adapt locally
+Hang up on cold callers offering a “free super health check.” Real help does not rush you to switch funds on the phone. See [Protect your super from pushy sales calls](/topics/super-retirement/grow-super/protect-your-super-from-pushy-sales-calls).
 
-## Risks and traps to watch
+## Identity and access barriers
 
-### Easy-to-miss costs
+Proving identity for banks, myGov, and funds can be harder if birth registration, name variations, or address history are complex. The guide [How to prove your identity](/topics/community/first-nations/how-to-prove-your-identity) walks alternatives. Take certified copies and a support person to branch appointments when you can.
 
-Treating a tip as universal advice. For **First Nations retirement resources**, read the conditions that turn a good deal average.
+If someone else controls your bank access or pressures you to hand over super or pension money, that can be financial abuse or family pressure—read [Dealing with family pressure about money](/topics/community/first-nations/dealing-with-family-pressure-about-money) and seek a safe service.
 
-### Timing and people problems
+## Age Pension, rent, and living on Country
 
-Out-of-date thresholds if you skip official checks. If someone rushes you, that is data—slow down.
+Retirement income may mix super, Age Pension, wages, and support from family. Means tests and rent assistance rules change—confirm on Services Australia. Living remotely can mean higher food and travel costs even when housing looks “simple” on paper; budget for travel to health appointments.
 
-### Recovery friction
+Funeral costs and Sorry Business can be large and sudden. Community guides on [paying for funerals](/topics/community/first-nations/paying-for-funerals) and ClearMoney’s [Paying for your funeral](/topics/super-retirement/manage-retirement/paying-for-your-funeral) help you compare prepaid, bonds, and insurance without sales pressure.
 
-Sharing someone else’s story without consent. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+## A culturally safer planning conversation
 
-## Details that change the decision
+When you talk with a fund, planner, or Centrelink officer:
 
-Spending in retirement is the plan; products are tools. For **First Nations retirement resources**, estimate annual costs, then map income sources and buffers for health and home repairs. Longevity risk—living longer than the money—deserves as much attention as investment returns.
+1. Say what “a good later life” means for you (stay on Country, support grandchildren, health access)
+2. Ask them to write down fees, access ages, and what happens to insurance if you roll over
+3. Refuse same-day switch pressure
+4. Book a second yarn before signing
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+Use the [Retirement checklist](/topics/super-retirement/retirement/retirement-checklist) as a prompt list, adapting it to community priorities.
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+## Talking about super without shame
 
-## A short story: when a simple system helped
+Short work histories, unpaid caring, and moving between communities are common reasons balances look smaller than glossy ads. Frame the conversation as reclaiming what is already yours—lost accounts, unpaid SG, incorrect names—rather than catching up to a brochure average. Finding a forgotten few thousand dollars is a real win.
 
-Sofia shared a tip that worked for a dual-income household with a student living on casual shifts—and it backfired. Casey now checks constraints before recommending a step. The lesson for **first Nations retirement resources**: slow clarity beats fast regret.
+When workshops include mixed ages, pair younger workers with Elders only when both consent. Money stories can include Sorry Business, royalty payments, or compensation. Facilitators should never demand disclosure. Offer private one-to-one time with a trusted local service after the group session.
 
-## Practical steps for First Nations retirement resources
+## Paperwork barriers worth naming aloud
 
-1. Skim for the one action that helps this week.
-2. Note any official registers, forms, or hotlines mentioned.
-3. Adapt the idea to your household—not every tip fits every culture or income.
-4. Share useful steps with someone who asked for help, with consent.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Rule changes** — contribution caps, preservation ages, and Age Pension settings change; confirm current figures before acting.
+No birth certificate, expired ID, or a name that differs across Medicare, ATO, and the fund will stall claims. Build time for [how to prove your identity](/topics/community/first-nations/how-to-prove-your-identity) into any retirement yarn. Phone reception and myGov lockouts are practical barriers, not personal failings—plan for in-person help days.
 
 ## What to do next
-
-- Decide the next action for **first Nations retirement resources** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Retirement checklist](/topics/super-retirement/retirement/retirement-checklist) for a related decision.
-- Read [Case study: Helen and Joe retire](/topics/super-retirement/retirement/case-study-helen-and-joe-retire) for a related decision.
-- Tell one trusted person your plan if accountability helps you follow through.
+- Open the [First Nations hub](/topics/community/first-nations) and save two local service numbers.
+- Search for lost super via myGov/ATO and note every account’s insurance.
+- Read community [superannuation](/topics/community/first-nations/superannuation) alongside [Superannuation basics](/topics/super-retirement/how-super-works/superannuation).
+- Plan funeral and Sorry Business costs before a crisis forces a rushed product.
+- Share [Campaign resources](/topics/super-retirement/retirement/campaign-resources) with educators running group sessions.

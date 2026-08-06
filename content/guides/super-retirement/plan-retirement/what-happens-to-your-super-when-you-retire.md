@@ -5,79 +5,71 @@ pillar: super-retirement
 hub: plan-retirement
 slug: what-happens-to-your-super-when-you-retire
 updated: "2026-08-03"
-tags: 
-  - plan retirement
-relatedGuides: 
-  - super-retirement/plan-retirement/make-a-retirement-plan
-  - super-retirement/plan-retirement/work-out-how-much-you-need-to-retire
-  - super-retirement/plan-retirement/super-and-the-age-pension
-  - super-retirement/plan-retirement/your-home-in-retirement
+tags:
+  - plan-retirement
+relatedGuides:
+  - super-retirement/how-super-works/getting-your-super
+  - super-retirement/income-sources/account-based-pensions
+  - super-retirement/income-sources/super-lump-sum
+  - super-retirement/income-sources/annuities
 ---
 
-Pensions, lump sums, and account-based income. Retirement planning turns a vague ‘enough’ into a spending estimate, an income mix, and a timing plan.
+Once you meet a condition of release—often reaching preservation age and retiring, or turning 65—your accumulation balance does not vanish. It becomes available to withdraw as a lump sum, convert to an income stream, leave in accumulation in some cases, or combine approaches. The choice shapes tax, Age Pension means tests, and how long the money lasts. Confirm your eligibility first via [getting your super](/topics/super-retirement/how-super-works/getting-your-super).
 
-## What is What happens to your super when you retire?
+Rules and caps change—transfer balance limits, minimum drawdown rates, and tax treatment are not frozen in time. Treat fund fact sheets and ATO guidance as live documents, not memories from a seminar you attended five years ago.
 
-**What happens to your super when you retire** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Pensions, lump sums, and account-based income. Retirement planning turns a vague ‘enough’ into a spending estimate, an income mix, and a timing plan.
+## Conditions of release in plain terms
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Common pathways include reaching preservation age and finishing a qualifying employment arrangement, turning 65 even if you still work, or meeting specific hardship and compassionate grounds that are narrow and evidence-heavy. “Retired” has a technical meaning for super law that may differ from how you describe yourself at a barbecue.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+If you are unsure, ask the fund in writing what documentation they require before you resign. Switching products without a valid condition of release can create tax and compliance problems you cannot unwind with a phone call.
 
-## How to think about the moving parts
+## The account-based pension path
 
-Setup quality decides whether **what happens to your super when you retire** helps or nags you later. Confirm identity and contact details, choose alerts you will actually read, and decide who else can see or move money. If a salesperson is present, ask for the key numbers in writing before you sign.
+You move some or all of the balance into a retirement-phase product that pays regular amounts. Legislation sets minimum annual drawdown percentages by age bracket; you choose frequency and can often take extras within rules. Earnings on assets supporting the pension are generally tax-favoured subject to transfer balance cap rules that index over time.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Flexibility is high: you can often vary payments or take additional withdrawals. Longevity risk remains yours—the account can run down to zero if markets fall and withdrawals stay high. Deep dive: [Account-based pensions](/topics/super-retirement/income-sources/account-based-pensions). Try the [account-based pension](/tools/account-based-pension) tool for payment sketches—not guarantees.
 
-## Upsides worth wanting
+## The lump sum path
 
-- Automations that reduce missed payments and late fees
-- Alerts that surface problems while they are still small
-- Shared understanding when more than one person is involved
+Cash leaves the fund outright. Useful for clearing debt, funding home repairs, or building a cash buffer—dangerous as an unstructured lifestyle spending pile without rules. Tax depends on age, components, and whether you take everything at once. See [Super lump sum](/topics/super-retirement/income-sources/super-lump-sum).
 
-## Risks and traps to watch
+Large lump sums sitting in the bank can affect Age Pension assets tests differently from money left in super, depending on your age and account type. Model both sides before you move.
 
-### Easy-to-miss costs
+## Annuities and lifetime income streams
 
-Set-and-forget errors (wrong account, wrong amount, wrong date). For **What happens to your super when you retire**, read the conditions that turn a good deal average.
+You trade flexibility for a more predictable income for life or a fixed term. Features, fees, death benefits, and indexation vary widely between providers. Read [Annuities](/topics/super-retirement/income-sources/annuities) before signing. Partial annuities can sit beside an account-based pension as a longevity hedge without giving up all access to capital.
 
-### Timing and people problems
+## Combining paths—the mix most retirees use
 
-Giving too much authority to another person. If someone rushes you, that is data—slow down.
+Many retirees keep a cash buffer outside super, run an account-based pension for regular income, and leave a growth sleeve invested. Some buy a small annuity slice for peace of mind. There is no single correct recipe; the mix should match spending needs, pension eligibility, and how much volatility you can tolerate in drawdown years.
 
-### Recovery friction
+Leaving a slice in accumulation can make sense when you are still building pension phase room under the transfer balance cap, or when you want growth exposure outside minimum drawdown rules. The trade-off is tax on earnings in accumulation and how Centrelink assesses the balance if you claim Age Pension—model both sides rather than copying a friend’s split.
 
-Missing fine print on fees or cooling-off rights. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+## Tax and Centrelink at the switch
 
-## Details that change the decision
+Tax treatment often favours income streams for people aged 60 and over from taxed funds, but untaxed funds, components, and withdrawals before 60 differ. Age Pension deeming and assets tests can shift when money moves from accumulation to pension phase or into your bank account. A decision that saves tax can reduce pension, or the reverse.
 
-A retirement age is a hypothesis until health, work, and housing cooperate. For **What happens to your super when you retire**, model a ‘base’ and a ‘frugal’ budget, then test what happens if you retire two years earlier or later. Include Age Pension assumptions carefully—they are means-tested.
+This is general information, not personal advice. When balances are large or you are near pension thresholds, a one-hour review with a licensed adviser or Financial Information Service officer can be cheaper than guessing.
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+## Insurance, nominations, and leftover accounts
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+Default insurance often ends or changes when you leave accumulation or employment. Confirm cover before you switch products—you may need to apply for new cover at older ages. Update beneficiaries for the new product; nominations do not always carry over automatically.
 
-## A short story: when a simple system helped
+Close empty accounts so fees do not nibble leftovers. Consolidation is simpler once you are in retirement phase, but check transfer balance cap tracking before you move large amounts.
 
-Luca set everything up in a hurry and only noticed the wrong account after a payment bounced. Morgan now screenshots every confirmation and nicknames accounts so automations are obvious. The lesson for **what happens to your super when you retire**: slow clarity beats fast regret.
+## The first ninety days after you switch
 
-## Practical steps for What happens to your super when you retire
-
-1. Gather ID, income evidence, and any existing contracts or statements.
-2. Confirm who else is affected (partner, guarantor, dependants) before you sign.
-3. Complete the application or setup deliberately—screenshot confirmations.
-4. Turn on alerts and store reference numbers where you can find them.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Rule changes** — contribution caps, preservation ages, and Age Pension settings change; confirm current figures before acting.
+- Confirm the first pension payment date and which account pays bills
+- Redirect direct debits from salary rhythm to pension rhythm
+- Recheck Age Pension reporting if applicable—product changes can alter deeming
+- Keep login access, paper statements, and a written fund checklist
+- Revisit investment mix for drawdown years before you flip the switch, not after
 
 ## What to do next
 
-- Decide the next action for **what happens to your super when you retire** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Make a retirement plan](/topics/super-retirement/plan-retirement/make-a-retirement-plan) for a related decision.
-- Read [Work out how much you need to retire](/topics/super-retirement/plan-retirement/work-out-how-much-you-need-to-retire) for a related decision.
-- Tell one trusted person your plan if accountability helps you follow through.
+- Confirm you meet a condition of release via [Getting your super](/topics/super-retirement/how-super-works/getting-your-super).
+- Compare pension versus lump sum against your spending plan—not a friend’s anecdote.
+- Ask the fund for a written transition checklist and transfer balance cap tracking.
+- Read [Annuities](/topics/super-retirement/income-sources/annuities) if longevity fear dominates your product choice.
+- Set a yearly payment review date on your birthday calendar.

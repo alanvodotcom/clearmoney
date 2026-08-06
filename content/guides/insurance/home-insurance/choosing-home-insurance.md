@@ -5,79 +5,60 @@ pillar: insurance
 hub: home-insurance
 slug: choosing-home-insurance
 updated: "2026-08-03"
-tags: 
+tags:
   - home insurance
-relatedGuides: 
+relatedGuides:
   - insurance/home-insurance/contents-insurance
   - insurance/home-insurance/underinsurance-what-it-is-and-how-to-avoid-it
   - insurance/home-insurance/storm-flood-and-fire-insurance
   - insurance/home-insurance/how-to-make-a-home-insurance-claim
 ---
 
-Building sums insured for rebuild—not market value. Home and contents insurance protect against sudden loss—sum insured and exclusions decide whether a claim helps.
+Home insurance is really two decisions glued together: how you insure the building, and how you insure what is in it. Owners usually need both; renters typically need contents only. The premium is the easy number. The sum insured and the exclusions decide whether a disaster claim actually rebuilds your life.
 
-## What is Choosing home insurance?
+## Building cover versus contents cover
 
-**Choosing home insurance** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Building sums insured for rebuild—not market value. Home and contents insurance protect against sudden loss—sum insured and exclusions decide whether a claim helps.
+**Building (home) cover** responds to the structure—walls, roof, fixed appliances, and other fixtures the policy defines. **Contents cover** responds to belongings that would leave if you moved. Strata lots complicate this: the owners corporation often insures the building shell while you insure contents and sometimes fixtures inside the lot. Read the strata documents before you buy a standalone building policy you do not need—or skip cover you do.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Combined home-and-contents policies can be convenient, but only if each sum insured is set properly. A cheap combined premium with a thin building sum is still underinsurance.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+## Set the building sum insured to rebuild cost
 
-## How to think about the moving parts
+Market value includes land. Insurance should target the cost to rebuild to a similar standard on the same site—labour, materials, demolition, debris removal, and professional fees. Insurers and calculators help estimate; independent quantity surveyor input is worth it on complex or heritage homes.
 
-Insurance decisions for **choosing home insurance** are about the claim you hope never happens. Read exclusions and waiting periods before you compare price alone. Check whether you already hold overlapping cover elsewhere.
+Underinsurance is common after construction costs rise. Treat the sum insured as a living figure—see [underinsurance](/topics/insurance/home-insurance/underinsurance-what-it-is-and-how-to-avoid-it). Temporary accommodation limits also matter: after a fire or storm you may need months of rent elsewhere while rebuilds wait in a queue.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+## Excess, flood, and other wording pivots
 
-## Upsides worth wanting
+Choose an excess you can pay without creating a second crisis. Some policies apply different excesses for earthquake, named cyclones, or flood. **Flood** cover is not automatic everywhere—definitions of flood versus stormwater versus runoff decide claims after heavy rain. Read [storm, flood and fire](/topics/insurance/home-insurance/storm-flood-and-fire-insurance) before storm season, not after water enters the house.
 
-- A financial backstop after insured events
-- Clearer recovery planning when documents are ready
-- Peace of mind when sums insured match rebuild or replace costs
+Other frequent gaps:
 
-## Risks and traps to watch
+- gradual damage, maintenance failures, and wear
+- actions of the sea or erosion (policy-specific)
+- unoccupied home clauses if you travel for long stretches
+- renovations—notify the insurer when walls come down
+- high-value contents that need listing inside a contents schedule
 
-### Easy-to-miss costs
+Landlord policies differ again (loss of rent, tenant damage limits). Do not assume a holiday-let is covered under a standard owner-occupier PDS.
 
-Underinsurance and uncovered flood or temporary accommodation gaps. For **Choosing home insurance**, read the conditions that turn a good deal average.
+## Comparing quotes without fooling yourself
 
-### Timing and people problems
+Match building sums, contents sums, excesses, and flood inclusions before you declare a winner. Ask about portable contents limits away from home, and whether accidental damage is included or optional. The lowest premium with flood excluded is not comparable to a flood-inclusive quote on a river-adjacent block.
 
-Overlapping policies that still leave a hole. If someone rushes you, that is data—slow down.
 
-### Recovery friction
+## Landlord and holiday-let twists
 
-Add-ons that cost more than the likely benefit. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+Investment properties need landlord wordings: loss of rent, malice by tenants, and different contents boundaries. Short-stay holiday letting is often excluded from standard owner-occupier policies unless endorsed. If you list on a platform even occasionally, tell the insurer before the first guest arrives.
 
-## Details that change the decision
+A cheap owner-occupier premium that excludes your actual use is not a saving—it is an uninsured business activity under a household label.
 
-Sums insured should reflect rebuild cost, not market price. For **Choosing home insurance**, confirm flood and temporary accommodation wording for your address. Keep a contents inventory with photos.
-
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
-
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when a simple system helped
-
-Luca discovered after a claim that the sum insured was years out of date. Morgan now reviews cover at renewal with rebuild and contents lists, not just the premium. The lesson for **choosing home insurance**: slow clarity beats fast regret.
-
-## Practical steps for Choosing home insurance
-
-1. List the risks you actually need covered versus nice-to-haves.
-2. Compare sum insured, excess, exclusions, and waiting periods.
-3. Check whether cover already exists inside super, bank, or another policy.
-4. Store policy numbers and claim phone lines offline as well as in the app.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Claims** — photograph damage, keep receipts for emergency spends, and ask about temporary accommodation cover if you cannot stay home.
+When you compare, print or save each quote’s key facts sheet beside the PDS flood definition. Price gaps often hide a missing flood inclusion, a thinner temporary accommodation cap, or a higher cyclone excess—not a bargain on identical cover.
 
 ## What to do next
 
-- Decide the next action for **choosing home insurance** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Contents insurance](/topics/insurance/home-insurance/contents-insurance) for a related decision.
-- Read [Underinsurance: what it is and how to avoid it](/topics/insurance/home-insurance/underinsurance-what-it-is-and-how-to-avoid-it) for a related decision.
-- Tell one trusted person your plan if accountability helps you follow through.
+- Confirm whether you need building, contents, or both (and what strata already covers).
+- Recalculate rebuild cost and set the building sum insured accordingly—not to sale price.
+- Check flood, storm, and fire definitions plus temporary accommodation limits in the PDS.
+- Pick an excess you could pay this month, then compare like-for-like quotes.
+- Diary a renewal review of sums insured so construction inflation does not silently underinsure you.

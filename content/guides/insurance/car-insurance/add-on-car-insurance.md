@@ -5,79 +5,64 @@ pillar: insurance
 hub: car-insurance
 slug: add-on-car-insurance
 updated: "2026-08-03"
-tags: 
+tags:
   - car insurance
-relatedGuides: 
+relatedGuides:
   - insurance/car-insurance/choosing-car-insurance
   - insurance/car-insurance/how-to-save-money-on-car-insurance
   - insurance/car-insurance/claiming-on-your-car-insurance
   - insurance/car-insurance/no-claim-bonus-on-car-insurance
 ---
 
-Extras sold with cars—often skippable. Car insurance levels of cover trade premium against how much you pay after a crash or theft.
+Dealerships and lenders often sell insurance-like extras beside the car: gap cover, tyre and rim, extended warranty packaged as protection, or loan repayment insurance. Some fill a narrow gap. Many cost more than the risk warrants—especially when comprehensive motor cover already responds.
 
-## Add-on car insurance: the clear version
+## Products that appear on the finance desk
 
-**Add-on car insurance** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Extras sold with cars—often skippable. Car insurance levels of cover trade premium against how much you pay after a crash or theft.
+Common add-ons include:
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+- **Gap or shortfall cover** — aims to pay the difference if a total loss settlement is less than the loan balance.
+- **Tyre, rim, and alloy protection** — repairs or replaces damaged wheels outside normal comprehensive responses.
+- **Interior or paint protection “insurance”** — sometimes closer to a product warranty than regulated general insurance.
+- **Consumer credit insurance on the car loan** — targets death, disability, or involuntary unemployment affecting repayments (see also [CCI](/topics/insurance/add-on-insurance/consumer-credit-insurance)).
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+Sales pressure is part of the business model: extras are high-margin and easy to bury in monthly repayments. Ask for each premium, term, and exclusion on a separate line before you sign.
 
-## How to think about the moving parts
+## Overlap with comprehensive policies
 
-Insurance decisions for **add-on car insurance** are about the claim you hope never happens. Read exclusions and waiting periods before you compare price alone. Check whether you already hold overlapping cover elsewhere.
+A solid [comprehensive policy](/topics/insurance/car-insurance/choosing-car-insurance) already addresses accident damage, theft, and third-party property. Wheel and tyre claims may be partly covered, partly excluded as wear. Gap cover only matters if you are heavily financed, the car depreciates fast, and your sum insured basis is market value.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Extended mechanical cover is not a substitute for servicing—and exclusions for pre-existing faults and failure to service are common. Read waiting periods before you assume day-one protection.
 
-## Upsides worth wanting
+If you already hold life or income protection personally or in super, loan-linked CCI can duplicate benefits while adding its own waiting periods and job-loss definitions that rarely match real redundancy paperwork.
 
-- A financial backstop after insured events
-- Clearer recovery planning when documents are ready
-- Peace of mind when sums insured match rebuild or replace costs
+## Cooling-off, cancellation, and refund maths
 
-## Risks and traps to watch
+Many add-on general insurance products give a cooling-off window. Use it. If you cancel later, refunds may be pro-rata minus fees—or limited once a claim is made. Financed premiums mean you may pay interest on the add-on itself; cancelling the cover does not always unwind the interest already charged without a loan restructure.
 
-### Easy-to-miss costs
+Get the product disclosure statement, not a flyer. Check who the underwriter is, what excess applies, and whether claims require specific repairers.
 
-Underinsurance and uncovered flood or temporary accommodation gaps. For **Add-on car insurance**, read the conditions that turn a good deal average.
+## Cheaper ways to cover the same risks
 
-### Timing and people problems
+- Bigger deposit or shorter loan term to shrink gap risk.
+- Agreed-value comprehensive cover on cars that fall outside average market guides.
+- Standalone comprehensive extras (hire car, windscreen) quoted by your motor insurer—often clearer than dealer bundles.
+- An emergency fund sized to one excess plus a few weeks of transport.
 
-Overlapping policies that still leave a hole. Put review dates in your calendar.
+Saying no at the desk is easier when you arrive with a comprehensive quote already in hand.
 
-### Recovery friction
 
-Add-ons that cost more than the likely benefit. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+## What to say at the finance desk
 
-## Details that change the decision
+Arrive with a comprehensive motor quote and a clear sentence: you will decide add-ons after reading each PDS at home. Ask the dealer to remove any pre-ticked extras from the purchase order and reprint the figures. If the interest rate or approval suddenly depends on buying CCI or gap cover, get that condition in writing and compare another lender.
 
-Comprehensive, third party, and fire/theft covers different worlds of loss. For **Add-on car insurance**, match cover to the car’s value and your excess comfort. List drivers accurately; undeclared drivers sink claims.
+Most people who skip add-ons on the day still sleep fine—and keep cooling-off rights if something slipped through.
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
-
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when timing changed the outcome
-
-Sofia discovered after a claim that the sum insured was years out of date. Casey now reviews cover at renewal with rebuild and contents lists, not just the premium. The lesson for **add-on car insurance**: slow clarity beats fast regret.
-
-## Practical steps for Add-on car insurance
-
-1. List the risks you actually need covered versus nice-to-haves.
-2. Compare sum insured, excess, exclusions, and waiting periods.
-3. Check whether cover already exists inside super, bank, or another policy.
-4. Store policy numbers and claim phone lines offline as well as in the app.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Claims** — photograph damage, keep receipts for emergency spends, and ask about temporary accommodation cover if you cannot stay home.
+Keep the cooling-off expiry date in your phone calendar the day you drive away. Many buyers only notice the extras when the first loan statement arrives—by then the easy exit window may already be closed.
 
 ## What to do next
 
-- Decide the next action for **add-on car insurance** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Choosing car insurance](/topics/insurance/car-insurance/choosing-car-insurance) for a related decision.
-- Read [How to save money on car insurance](/topics/insurance/car-insurance/how-to-save-money-on-car-insurance) for a related decision.
-- Set a calendar reminder to revisit this decision after the next statement cycle.
+- List every add-on on the purchase contract with premium, term, excess, and waiting periods.
+- Cross-check each against your comprehensive PDS for duplication.
+- Use cooling-off rights on anything you did not plan to buy before you arrived.
+- If CCI was bundled into the loan, compare it with existing life and income cover before you keep paying.
+- For premium cuts on the main motor policy, see [how to save money on car insurance](/topics/insurance/car-insurance/how-to-save-money-on-car-insurance).

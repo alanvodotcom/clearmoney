@@ -17,6 +17,8 @@ export type ArticleFrontmatter = {
   relatedTools?: string[];
   relatedGuides?: string[];
   tags?: string[];
+  /** Optional reusable SVG diagram id from the guide diagrams registry */
+  diagram?: string;
 };
 
 export type Hub = {

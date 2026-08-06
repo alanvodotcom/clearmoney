@@ -153,6 +153,135 @@ body {
   font-weight: 600;
 }
 
+.prose-cm .cm-callout {
+  margin: 1.5rem 0;
+  padding: 0.875rem 1rem;
+  border-radius: var(--radius);
+  border: 1px solid var(--border);
+  background: var(--surface);
+  max-width: 42rem;
+}
+
+.prose-cm .cm-callout__label {
+  margin: 0 0 0.35rem;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--foreground);
+}
+
+.prose-cm .cm-callout p:last-child,
+.prose-cm .cm-callout ul:last-child {
+  margin-bottom: 0;
+}
+
+.prose-cm .cm-callout--tip {
+  border-color: color-mix(in srgb, var(--accent) 35%, var(--border));
+  background: var(--accent-soft);
+}
+
+.prose-cm .cm-callout--warning {
+  border-color: color-mix(in srgb, var(--urgent) 40%, var(--border));
+  background: var(--urgent-soft);
+}
+
+.prose-cm .cm-callout--checklist {
+  border-color: color-mix(in srgb, var(--success) 35%, var(--border));
+  background: color-mix(in srgb, var(--success) 8%, var(--surface));
+}
+
+.prose-cm .cm-callout--tool {
+  border-color: color-mix(in srgb, var(--accent) 35%, var(--border));
+  background: var(--accent-soft);
+}
+
+.cm-diagram,
+.prose-cm .cm-diagram {
+  margin: 1.25rem 0 1.5rem;
+  padding: 1rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--surface);
+  color: var(--accent);
+  max-width: 28rem;
+}
+
+.cm-diagram__svg,
+.prose-cm .cm-diagram__svg {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-width: 20rem;
+}
+
+.cm-diagram__caption,
+.prose-cm .cm-diagram__caption {
+  margin: 0.75rem 0 0;
+  font-size: 0.875rem;
+  color: var(--muted);
+  line-height: 1.45;
+}
+
+.cm-visual,
+.prose-cm .cm-visual {
+  margin: 1.75rem 0 2rem;
+  padding: 0;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--surface);
+  color: var(--foreground);
+  max-width: 36rem;
+  overflow: hidden;
+}
+
+.cm-visual__frame {
+  display: block;
+  margin: 0;
+  aspect-ratio: 3 / 2;
+  background: var(--accent-soft);
+}
+
+.cm-visual__img,
+.prose-cm .cm-visual__img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.cm-visual__svg,
+.prose-cm .cm-visual__svg {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-width: 18rem;
+  margin: 1rem auto;
+}
+
+.cm-visual__caption,
+.prose-cm .cm-visual__caption {
+  margin: 0;
+  padding: 0.75rem 1rem 0.25rem;
+  font-size: 0.9375rem;
+  color: var(--muted);
+  line-height: 1.45;
+}
+
+.cm-visual__credit,
+.prose-cm .cm-visual__credit {
+  margin: 0;
+  padding: 0 1rem 0.75rem;
+  font-size: 0.75rem;
+  color: var(--muted);
+}
+
+.cm-visual__credit a {
+  color: var(--muted);
+  text-decoration: underline;
+  text-underline-offset: 0.12em;
+}
+
 @keyframes fade-up {
   from {
     opacity: 0;

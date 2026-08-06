@@ -1,84 +1,90 @@
 ---
-title: "Door-to-door sales"
-description: "Cooling-off rights when sellers come to you."
+title: Door-to-door sales
+description: Cooling-off rights when sellers come to you.
 pillar: community
 hub: first-nations
 slug: door-to-door-sales
 updated: "2026-08-03"
-tags: 
+tags:
   - first nations
-relatedGuides: 
+relatedGuides:
+  - community/first-nations/buying-a-hamper
   - community/first-nations/first-nations-services-that-can-help
-  - community/first-nations/bank-accounts
-  - community/first-nations/how-to-prove-your-identity
-  - community/first-nations/book-up
+  - banking-budgeting/budgeting/avoiding-sales-pressure
+  - community/publications/how-to-complain
 ---
 
-Cooling-off rights when sellers come to you. First Nations money guides respect community contexts while covering practical banking, debt, and consumer rights.
+When a seller knocks on your door or approaches you in a community space, the sales pitch is designed to feel personal and urgent. Australian consumer rules give you cooling-off rights for many unsolicited consumer agreements—knowing them makes “I’ll think about it” easier to say.
 
-## Door-to-door sales: the clear version
+## Why door sales feel hard to refuse
 
-**Door-to-door sales** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Cooling-off rights when sellers come to you. First Nations money guides respect community contexts while covering practical banking, debt, and consumer rights.
+Sellers may:
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+- Talk for a long time until you feel rude ending it
+- Say the deal is “only today”
+- Ask for a signature “just to get information”
+- Involve family members so saying no feels shameful
+- Sell in language that skips total cost
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+You can close the door. You can ask them to leave. You do not owe a stranger your afternoon. Practising a short line helps: “I don’t do door deals—please leave information and go.”
 
-## How to think about the moving parts
+More pressure tactics: [avoiding sales pressure](/topics/banking-budgeting/budgeting/avoiding-sales-pressure).
 
-Use **door-to-door sales** as a toolkit. Take what fits your household, leave what does not, and prefer official registers and licensed help for high-stakes steps.
+## Cooling-off and your rights
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Many unsolicited sales (door-to-door and some outbound calls) come with a cooling-off period under the Australian Consumer Law—often 10 business days for consumer agreements, longer in some cases (for example certain longer-term agreements). During cooling-off you can cancel in writing without penalty as the law provides.
 
-## Upsides worth wanting
+Keep:
 
-- Shared language for classrooms, families, or community groups
-- Pointers to free or low-cost support
-- Practical checklists you can adapt locally
+- The contract
+- The salesperson’s details
+- The date and time of the visit
+- Proof of how you cancelled (email, letter, form)
 
-## Risks and traps to watch
+Rules have detail—if unsure, a community legal centre or [services that can help](/topics/community/first-nations/first-nations-services-that-can-help) can check your paperwork quickly.
 
-### Easy-to-miss costs
+## Products often sold this way
 
-Treating a tip as universal advice. For **Door-to-door sales**, read the conditions that turn a good deal average.
+Watch for:
 
-### Timing and people problems
+- Education or “training” packages
+- Vacuum cleaners and household goods at inflated prices
+- Energy offers
+- Funeral or insurance products
+- Hamper or credit-style goods—see [buying a hamper](/topics/community/first-nations/buying-a-hamper)
 
-Out-of-date thresholds if you skip official checks. Put review dates in your calendar.
+Compare the total price with a shop or online quote before you sign. If they will not leave a copy of the contract for you to read quietly, do not sign.
 
-### Recovery friction
+## Saying no and ending unwanted contracts
 
-Sharing someone else’s story without consent. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+1. Do not sign on the spot
+2. If you already signed, check cooling-off and cancel in writing within the period
+3. Stop direct debits if needed through your bank while the dispute runs—ask a counsellor how to do this safely
+4. Complain to the company, then escalate if needed via [how to complain](/topics/community/publications/how-to-complain)
 
-## Details that change the decision
+Tell family you are not taking door purchases this year so group pressure softens.
 
-Practical money steps should respect kinship, remote access barriers, and community obligations. For **Door-to-door sales**, prefer culturally safe services and confirm rights around banking, Centrelink interactions, and consumer credit.
+## Recording the visit
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+As soon as the seller leaves—or while they are still talking if you feel safe—note:
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+- Names on badges and any company name
+- Vehicle registration if visible
+- What they claimed the total price was
+- What you said yes or no to
 
-## A short story: when timing changed the outcome
+Those notes help if you cancel during cooling-off or complain later. If elders or young people were present, check they did not sign anything separately. Some sellers ask a second household member to “co-sign” under social pressure.
 
-Jordan shared a tip that worked for a dual-income household with a student living on casual shifts—and it backfired. Sam now checks constraints before recommending a step. The lesson for **door-to-door sales**: slow clarity beats fast regret.
+Put a simple sign near the door if it helps your household: “No door sales.” It gives everyone the same script.
 
-## Practical steps for Door-to-door sales
+## Online lookalikes of door sales
 
-1. Skim for the one action that helps this week.
-2. Note any official registers, forms, or hotlines mentioned.
-3. Adapt the idea to your household—not every tip fits every culture or income.
-4. Share useful steps with someone who asked for help, with consent.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Life changes** — job loss, a new dependant, or a move can invalidate last year’s choice; schedule a review.
-- **Records** — keep PDFs of contracts, statements, and cancellation confirmations for at least a year.
+Unsolicited video calls and social-media DMs use the same urgency tricks as door knocks. Cooling-off rules can differ for online purchases, so do not assume every channel has the same exit rights. The habit still helps: no signatures while someone is watching, and no payments to “hold a deal” without a contract you can read alone.
 
 ## What to do next
 
-- Decide the next action for **door-to-door sales** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [First Nations services that can help](/topics/community/first-nations/first-nations-services-that-can-help) for a related decision.
-- Read [Bank accounts](/topics/community/first-nations/bank-accounts) for a related decision.
-- Set a calendar reminder to revisit this decision after the next statement cycle.
+- Practise one refusal sentence you can say at the door.
+- If you signed recently, find the cooling-off section and cancel in writing if you want out.
+- Keep the contract and cancellation proof together.
+- Compare any product’s total cost with a normal retail price before reconsidering.
+- Ask a community worker or legal service to review high-value door contracts before cooling-off ends.

@@ -1,83 +1,80 @@
 ---
-title: "Money held by state governments"
-description: "State unclaimed money registers."
+title: Money held by state governments
+description: State unclaimed money registers.
 pillar: community
 hub: unclaimed-money
 slug: money-held-by-state-governments
 updated: "2026-08-03"
-tags: 
+tags:
   - unclaimed money
-relatedGuides: 
+relatedGuides:
   - community/unclaimed-money/claim-money-from-bank-accounts-and-bank-dividends
-  - community/unclaimed-money/claim-money-from-shares-and-investments
-  - community/unclaimed-money/claim-money-from-life-insurance-policies
   - community/unclaimed-money/claim-money-owed-to-a-deregistered-company
+  - community/unclaimed-money/interest-paid-on-unclaimed-money
+  - community/unclaimed-money/proof-of-ownership-for-unclaimed-money
 ---
 
-State unclaimed money registers. Unclaimed money sits with governments and companies when contact details go stale—worth a periodic search.
+Each state and territory runs its own unclaimed money arrangements. There is no single national website that covers every dollar. If you lived, worked, or rented in more than one state, you may need several searches.
 
-## What is Money held by state governments?
+## Why states hold money
 
-**Money held by state governments** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. State unclaimed money registers. Unclaimed money sits with governments and companies when contact details go stale—worth a periodic search.
+State unclaimed money schemes typically catch amounts that organisations could not return to the rightful owner after a set period—things like:
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+- Unpaid wages or employment-related amounts in some jurisdictions
+- Rental bonds or related tenancy money in certain cases (rules vary)
+- Estate or trustee amounts administered under state law
+- Other statutory “unclaimed” categories defined in that state’s legislation
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+The categories differ by jurisdiction. A hit in New South Wales does not mean the same rules apply in Western Australia. Always read the local scheme’s own claimant instructions.
 
-## How to think about the moving parts
+Commonwealth-held amounts (many bank accounts and some company monies) sit separately—often via ASIC. Use state searches when your lead looks local: old wages, state-administered estates, or other state-listed amounts.
 
-Insurance decisions for **money held by state governments** are about the claim you hope never happens. Read exclusions and waiting periods before you compare price alone. Check whether you already hold overlapping cover elsewhere.
+## Searching each register (not one national list)
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Plan a short circuit:
 
-## Upsides worth wanting
+1. List every state or territory where you (or the person you represent) lived, worked, banked, or rented.
+2. Search that jurisdiction’s unclaimed money register or treasury/revenue unclaimed money page.
+3. Repeat under previous names and spellings.
+4. Note reference numbers for any possible matches before you lodge.
 
-- A financial backstop after insured events
-- Clearer recovery planning when documents are ready
-- Peace of mind when sums insured match rebuild or replace costs
+Bookmark the official government domains. Scam sites mimic “unclaimed money” searches and then harvest ID. Navigate from known government portals rather than random ads.
 
-## Risks and traps to watch
+If nothing appears, that may still be useful information—you can focus on [bank and dividend searches](/topics/community/unclaimed-money/claim-money-from-bank-accounts-and-bank-dividends) or [deregistered company money](/topics/community/unclaimed-money/claim-money-owed-to-a-deregistered-company) instead.
 
-### Easy-to-miss costs
+## Common sources: wages, bonds, estates
 
-Underinsurance and uncovered flood or temporary accommodation gaps. For **Money held by state governments**, read the conditions that turn a good deal average.
+**Wages and employment money.** Former employers sometimes remit amounts they could not pay. Your old payslips, employment contracts, and tax records help prove the link.
 
-### Timing and people problems
+**Tenancy-related money.** Bond refund pathways usually start with the bond board or tenancy authority—not always the general unclaimed money register. Check both if a bond vanished after a move interstate.
 
-Overlapping policies that still leave a hole. If someone rushes you, that is data—slow down.
+**Estates.** Executors should search states where the deceased lived and held property. Personal claims without authority will usually be rejected.
 
-### Recovery friction
+Write down which category you believe the money falls into. Using the wrong form is a frequent cause of delays.
 
-Add-ons that cost more than the likely benefit. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+## Matching names across jurisdictions
 
-## Details that change the decision
+State databases are literal. “Jon” will not always find “Jonathan.” Search:
 
-People move, change names, and lose statements. For **Money held by state governments**, search periodically with previous addresses and name variants. Keep tax file and ID details ready so claims are not stuck on verification.
+- Legal names and preferred names
+- Maiden and married surnames
+- Hyphenated variants
+- Initials-only formats if the search allows it
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+Old addresses inside that state improve match confidence when the register displays them. If you find a close match that is not clearly you, do not invent a story—gather more documents or move on.
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+## Keeping claim references organised
 
-## A short story: when a simple system helped
+Create one folder per state search: screenshots of results, claim numbers, and copies of ID packs sent. Interstate moves make it easy to forget which treasury you already contacted. A simple spreadsheet with state, date searched, and outcome prevents duplicate lodgements and missed follow-ups.
 
-Noah discovered after a claim that the sum insured was years out of date. Riley now reviews cover at renewal with rebuild and contents lists, not just the premium. The lesson for **money held by state governments**: slow clarity beats fast regret.
+If you find nothing, save the date you searched. Repeat annually or after a relative dies—new amounts are still transferred into schemes over time.
 
-## Practical steps for Money held by state governments
-
-1. List the risks you actually need covered versus nice-to-haves.
-2. Compare sum insured, excess, exclusions, and waiting periods.
-3. Check whether cover already exists inside super, bank, or another policy.
-4. Store policy numbers and claim phone lines offline as well as in the app.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Claims** — photograph damage, keep receipts for emergency spends, and ask about temporary accommodation cover if you cannot stay home.
+When a relative dies, add unclaimed-money searches in every state they lived to the executor checklist alongside bank and super searches.
 
 ## What to do next
 
-- Decide the next action for **money held by state governments** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Claim money from bank accounts and bank dividends](/topics/community/unclaimed-money/claim-money-from-bank-accounts-and-bank-dividends) for a related decision.
-- Read [Claim money from shares and investments](/topics/community/unclaimed-money/claim-money-from-shares-and-investments) for a related decision.
-- Tell one trusted person your plan if accountability helps you follow through.
+- List every state or territory connected to your work, rent, or family history.
+- Search each official unclaimed money register under all name variants.
+- Separate bond-board and employer issues from general unclaimed money claims.
+- Prepare ID and proof of entitlement before lodging—see [proof of ownership](/topics/community/unclaimed-money/proof-of-ownership-for-unclaimed-money).
+- Check [interest paid on unclaimed money](/topics/community/unclaimed-money/interest-paid-on-unclaimed-money) so you know what to expect on timing versus return.

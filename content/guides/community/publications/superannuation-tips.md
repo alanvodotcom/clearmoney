@@ -5,79 +5,59 @@ pillar: community
 hub: publications
 slug: superannuation-tips
 updated: "2026-08-03"
-tags: 
+tags:
   - publications
-relatedGuides: 
+relatedGuides:
   - community/publications/publications
+  - community/publications/money-and-working-in-australia
+  - community/publications/insurance-tips
   - community/publications/how-to-complain
-  - community/publications/money-tips-in-other-languages
-  - community/publications/beware-of-scams
 ---
 
-Short super tip sheet. ClearMoney publications are starting points—use them with your own numbers and official sources for thresholds.
+Superannuation is long-term money for retirement, with strict access rules. This tip sheet covers the everyday checks workers can do without becoming an investment expert: contributions, fund choice, insurance inside super, and lost accounts.
 
-## What is Superannuation (community tip)?
+## Watch employer contributions land
 
-**Superannuation (community tip)** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Short super tip sheet. ClearMoney publications are starting points—use them with your own numbers and official sources for thresholds.
+If you are eligible, your employer pays super guarantee into a fund. Payslip lines are useful; fund statements are proof. After each quarter, confirm the amount arrived and matches roughly what your earnings suggest. Delays happen; silence for multiple quarters deserves a written question to payroll.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Give every new employer the correct fund details (or confirm stapling/default arrangements as they apply to you). Wrong USI or member numbers send money sideways and create chase-up work later. Keep [money and working in Australia](/topics/community/publications/money-and-working-in-australia) nearby when you start a role.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+Multiple jobs can mean multiple small accounts if you do not steer contributions. That can mean multiple fee sets—consolidate carefully after checking insurance and exit costs.
 
-## How to think about the moving parts
+## One main fund usually beats clutter
 
-Use **superannuation (community tip)** as a toolkit. Take what fits your household, leave what does not, and prefer official registers and licensed help for high-stakes steps.
+Compare your current fund’s fees, investment options, and performance disclosures using official comparison tools and the Product Disclosure Statement—not a mate’s rumour. Lower fees help, but switching solely on last year’s return can backfire; past performance is not a promise.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Before you roll money in, check whether you will lose valuable insurance or trigger fees. After you consolidate, close empty accounts properly and update your employer so new contributions follow.
 
-## Upsides worth wanting
+Investment choice (growth, balanced, conservative) changes risk. Younger workers often accept more growth risk; people near retirement may prefer less volatility—but your situation is personal. This page does not recommend options; it reminds you that “default” is still a choice you can review.
 
-- Shared language for classrooms, families, or community groups
-- Pointers to free or low-cost support
-- Practical checklists you can adapt locally
+## Insurance sitting inside your super
 
-## Risks and traps to watch
+Many funds include death, total and permanent disability, or income protection cover. Cover can be useful—and premiums reduce your balance. Check whether you are covered, what is excluded, and whether the sum insured still fits dependants and debts.
 
-### Easy-to-miss costs
+If you hold separate life or income cover, you may be paying twice for overlapping benefits. Read [insurance tips](/topics/community/publications/insurance-tips) before cancelling anything; gaps matter more than duplicated marketing names.
 
-Treating a tip as universal advice. For **Superannuation (community tip)**, read the conditions that turn a good deal average.
+Age and inactive-account rules can turn insurance off. After parental leave, travel, or casual gaps, confirm cover is still active if you need it.
 
-### Timing and people problems
+## Lost super, nominations and life events
 
-Out-of-date thresholds if you skip official checks. If someone rushes you, that is data—slow down.
+Use ATO lost super tools via myGov to find accounts from old jobs or different name spellings. Claiming small balances into one account reduces fee drag—again checking insurance first.
 
-### Recovery friction
+Bind or non-binding death benefit nominations tell the fund who should be considered when you die. Update them after marriage, separation, new children, or a partner’s death. An outdated nomination creates delay and conflict for people you care about.
 
-Sharing someone else’s story without consent. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+Moving overseas, starting a business, or financial hardship each has specific early-access rules. Access is limited; scams promising “easy early release” for a fee are common. Verify through official ATO and fund channels only.
 
-## Details that change the decision
+If your fund mishandles a switch, insurance claim, or rollover, use their complaint process, then external dispute options where available—see [how to complain](/topics/community/publications/how-to-complain).
 
-Use checklists as prompts, then replace sample numbers with yours. For **Superannuation (community tip)**, note the date you read a guide and re-check official thresholds when acting on dollar figures.
+## A light yearly habit
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
-
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when a simple system helped
-
-Sofia shared a tip that worked for a dual-income household with a student living on casual shifts—and it backfired. Casey now checks constraints before recommending a step. The lesson for **superannuation (community tip)**: slow clarity beats fast regret.
-
-## Practical steps for Superannuation (community tip)
-
-1. Skim for the one action that helps this week.
-2. Note any official registers, forms, or hotlines mentioned.
-3. Adapt the idea to your household—not every tip fits every culture or income.
-4. Share useful steps with someone who asked for help, with consent.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Rule changes** — contribution caps, preservation ages, and Age Pension settings change; confirm current figures before acting.
+On your birthday or each July, spend twenty minutes: login, check balance and fees, confirm employer contributions, review insurance and beneficiaries, and update contact details. That habit catches more problems than occasional panic after a news headline.
 
 ## What to do next
 
-- Decide the next action for **superannuation (community tip)** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Publications](/topics/community/publications/publications) for a related decision.
-- Read [How to complain](/topics/community/publications/how-to-complain) for a related decision.
-- Tell one trusted person your plan if accountability helps you follow through.
+- Log into your fund and confirm the latest employer contribution date and amount.
+- Search for lost super through myGov and list every account you find.
+- Read your insurance schedule inside super and note premiums and exclusions.
+- Update beneficiary nominations if your family situation has changed.
+- Return to [publications](/topics/community/publications/publications) for related tip sheets.

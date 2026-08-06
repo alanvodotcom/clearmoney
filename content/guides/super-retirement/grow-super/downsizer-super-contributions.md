@@ -5,79 +5,65 @@ pillar: super-retirement
 hub: grow-super
 slug: downsizer-super-contributions
 updated: "2026-08-03"
-tags: 
+tags:
   - grow super
-relatedGuides: 
-  - super-retirement/grow-super/how-to-check-your-super
-  - super-retirement/grow-super/how-much-super-should-i-have
+relatedGuides:
+  - super-retirement/manage-retirement/downsizing-in-retirement
+  - super-retirement/plan-retirement/your-home-in-retirement
   - super-retirement/grow-super/super-contributions
-  - super-retirement/grow-super/super-investment-options
+  - super-retirement/how-super-works/tax-and-super
 ---
 
-Rules for contributing home sale proceeds to super. Growing super is usually about contributions, fees, insurance inside super, and investment mix—not one hot tip.
+Downsizer contributions let eligible people move part of the proceeds from selling their home into super under a dedicated rule set—outside the usual non-concessional cap treatment (though other limits and total super considerations still matter). Age eligibility, amounts, and timing have been reformed before; **confirm current ATO criteria before you settle a sale**.
 
-## Understanding Downsizer super contributions
+## The idea in one paragraph
 
-**Downsizer super contributions** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Rules for contributing home sale proceeds to super. Growing super is usually about contributions, fees, insurance inside super, and investment mix—not one hot tip.
+You sell a qualifying dwelling in Australia that you owned for a required period, meet the age test (widely set at 55+ in recent rules—verify), and contribute up to the downsizer maximum per person (commonly discussed as $300,000 each for a couple who both qualify—**confirm the dollar limit**). The contribution goes into super as a downsizer contribution with its own reporting.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+## Why people use it
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+- Move sale proceeds into a tax-advantaged retirement environment
+- Useful when standard non-concessional caps or total super balance tests would block large after-tax contributions
+- Pairs with a genuine downsizing or lifestyle move—not only a paper shuffle
 
-## How to think about the moving parts
+It is not free money and it does not bypass every other super rule (transfer balance cap issues can still arise when you start a pension).
 
-Setup quality decides whether **downsizer super contributions** helps or nags you later. Confirm identity and contact details, choose alerts you will actually read, and decide who else can see or move money. If a salesperson is present, ask for the key numbers in writing before you sign.
+## Eligibility traps
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+- Property type and ownership period must qualify
+- Contribution timing windows after settlement are strict—miss them and you may fall back to ordinary contribution rules (or be unable to contribute that way)
+- Both members of a couple must each meet personal eligibility to use two maxima
+- Living with family after sale, moving into aged care, or selling an investment property can change outcomes—read the current ruling carefully
 
-## Upsides worth wanting
+This guide cannot list every edge case; the ATO downsizer page is the source of truth.
 
-- Automations that reduce missed payments and late fees
-- Alerts that surface problems while they are still small
-- Shared understanding when more than one person is involved
+## Interaction with Age Pension and cash needs
 
-## Risks and traps to watch
+Putting sale proceeds into super can change how assets are counted for means tests depending on age and product phase—and it reduces accessible cash outside super. Keep a deliberate cash buffer for moving costs, stamp duty on the next home, and the first year of higher expenses. See [Downsizing in retirement](/topics/super-retirement/manage-retirement/downsizing-in-retirement).
 
-### Easy-to-miss costs
+## Process sketch
 
-Set-and-forget errors (wrong account, wrong amount, wrong date). For **Downsizer super contributions**, read the conditions that turn a good deal average.
+1. Confirm eligibility in writing (ATO guidance + fund acceptance)
+2. Settle the sale and document proceeds
+3. Complete downsizer approved forms your fund requires within the time limit
+4. Keep evidence with tax records
 
-### Timing and people problems
+Speak with a registered tax agent if the amounts are large or ownership history is messy.
 
-Giving too much authority to another person. Write down who can authorise changes.
+## Verification steps unique to Downsizer super contributions
 
-### Recovery friction
+Confirm live contribution caps, Age Pension thresholds, preservation details, and product fees on official ATO, Services Australia, or fund PDS pages the week you act. ClearMoney offers general information only—not personal advice. Write one next action with a date and store PDFs of confirmations where you can find them in six months.
 
-Missing fine print on fees or cooling-off rights. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+If the dollar amount is large, sleep on the decision and consider licensed advice. Cold callers who demand one-time codes or remote access are not helpers. Hang up and use bookmarks you typed yourself.
 
-## Details that change the decision
+## Filing habits for downsizer super contributions
 
-Extra contributions only help if cash flow can carry them and rules allow them. For **Downsizer super contributions**, compare concessional versus after-tax pathways with current caps in mind, and watch insurance premiums deducted from your balance.
+Keep statements, insurance schedules, advice fee consents, and solicitor letters in a dated folder. Share access rules with a trusted person without pasting every password into a group chat. Organised evidence shortens disputes, estate claims, and Centrelink conversations.
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
-
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when the fine print mattered
-
-Noah set everything up in a hurry and only noticed the wrong account after a payment bounced. Riley now screenshots every confirmation and nicknames accounts so automations are obvious. The lesson for **downsizer super contributions**: slow clarity beats fast regret.
-
-## Practical steps for Downsizer super contributions
-
-1. Gather ID, income evidence, and any existing contracts or statements.
-2. Confirm who else is affected (partner, guarantor, dependants) before you sign.
-3. Complete the application or setup deliberately—screenshot confirmations.
-4. Turn on alerts and store reference numbers where you can find them.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Rule changes** — contribution caps, preservation ages, and Age Pension settings change; confirm current figures before acting.
+Revisit after job changes, relationship changes, or health shocks. A short annual review beats a perfect plan nobody opens.
 
 ## What to do next
-
-- Decide the next action for **downsizer super contributions** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [How to check your super](/topics/super-retirement/grow-super/how-to-check-your-super) for a related decision.
-- Read [How much super should I have?](/topics/super-retirement/grow-super/how-much-super-should-i-have) for a related decision.
-- Write your constraints on paper so a sales pitch cannot rewrite them.
+- Read the current ATO downsizer contribution page end-to-end before listing the home.
+- Ask your fund whether they accept downsizer contributions and what forms they need.
+- Budget cash left *outside* super after the contribution.
+- Weigh lifestyle fit of the move in [Your home in retirement](/topics/super-retirement/plan-retirement/your-home-in-retirement)—not only the super angle.

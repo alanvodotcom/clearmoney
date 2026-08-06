@@ -5,79 +5,75 @@ pillar: investing-planning
 hub: interest-investments
 slug: debentures-secured-and-unsecured-notes
 updated: "2026-08-03"
-tags: 
+tags:
   - interest investments
-relatedGuides: 
+relatedGuides:
   - investing-planning/interest-investments/term-deposits
   - investing-planning/interest-investments/bonds
   - investing-planning/interest-investments/hybrid-securities-and-notes
+  - investing-planning/warnings/dont-get-burned-by-investment-hype
 ---
 
-Higher yields often mean higher credit risk. Interest products prioritise income and capital stability; returns are usually lower than growth assets over long periods.
+Debentures and notes are IOUs issued by companies. “Secured” means some claim on assets in a priority stack—not a magic shield. “Unsecured” means you rely mainly on the issuer’s promise. Higher advertised rates usually price higher odds of pain.
 
-## What is Debentures, secured and unsecured notes?
+## Security is a hierarchy, not a guarantee
 
-**Debentures, secured and unsecured notes** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Higher yields often mean higher credit risk. Interest products prioritise income and capital stability; returns are usually lower than growth assets over long periods.
+If an issuer fails, secured noteholders may rank ahead of unsecured creditors—but collateral might be insufficient, hard to sell, or already shared. Trustees, charge documents, and intercreditor agreements decide outcomes. Retail investors who stop reading at the word “secured” get surprised in collapses.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Ask: secured over what, valued how, and ranked behind whom?
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+## Liquidity and rollover culture
 
-## How to think about the moving parts
+Many notes cannot be sold easily before maturity. Some markets are informal or issuer-driven. Rollover campaigns at maturity can pressure you to stay invested when you wanted cash. Diary maturities and decide with a cool head—not a same-day phone script.
 
-With **debentures, secured and unsecured notes**, match the product to your time horizon. Money you may need within a few years usually should not sit in volatile assets. Fees and diversification matter more than a single tip from social media.
+Compare that inflexibility with ADI [term deposits](/topics/investing-planning/interest-investments/term-deposits) if your priority is capital stability and known protection frameworks for eligible deposits.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+## Prospectuses and ugly histories
 
-## Upsides worth wanting
+Australia has seen note and debenture failures that devastated retirees chasing yield. Pattern recognition:
 
-- Potential growth above cash over long periods
-- Diversification that reduces single-company drama
-- Alignment with goals like retirement or a distant home deposit
+- rates far above bank deposits without clear risk talk
+- related-party loans inside the issuer group
+- complex charts instead of plain financials
+- sales via seminars or affinity groups
+- continuous “first ranking secured” slogans
 
-## Risks and traps to watch
+Read audited accounts, related-party disclosures, and risk factors. If you cannot, do not buy. Verify licensees ([check before you invest](/topics/scams-safety/check-report/check-before-you-invest)).
 
-### Easy-to-miss costs
+## Portfolio role—if any
 
-Buying under social pressure or FOMO. For **Debentures, secured and unsecured notes**, read the conditions that turn a good deal average.
+At most, speculative credit exposure sized so a total loss does not break your retirement or housing plans. Never replace your emergency fund with company notes. Never borrow to buy them.
 
-### Timing and people problems
+Hybrids are a different complexity class again ([hybrids](/topics/investing-planning/interest-investments/hybrid-securities-and-notes)).
 
-Concentrated bets and high fees. If someone rushes you, that is data—slow down.
+## Ranking, covenants, and what “first ranking” hides
 
-### Recovery friction
+Priority language only helps if assets exist and enforcement works. Floating charges over changing inventories, valuations based on related-party appraisals, and cross-defaults with sibling companies can hollow out security.
 
-Needing the money earlier than the investment can recover. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+Covenants—rules the issuer promises to keep—matter when they are monitored and enforced. Paper covenants nobody tests are theatre. Ask how often compliance certificates arrive and who reviews them.
 
-## Details that change the decision
+Trustee roles sound protective; read fee arrangements and whether the trustee has resources and incentives to act early for noteholders.
 
-Term deposits and bonds prioritise predictability. For **Debentures, secured and unsecured notes**, ladder maturity dates so not all cash unlocks at once, and understand what happens if you break a term early. Inflation can erode real returns even when the nominal rate looks fine.
+## Distribution channels that raise risk
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+Notes sold through affinity groups, cold calls, or wealth evenings deserve extra scepticism. High-commission distribution can favour the salesperson’s target over your capital preservation.
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+Compare the promised rate with ADI deposit rates and investment-grade bond yields. A huge gap is information: either credit risk, liquidity risk, complexity risk—or fiction.
 
-## A short story: when a simple system helped
+## If you already hold stressed notes
 
-Mei bought after a viral tip and sold in a panic three weeks later. Chris wrote a one-page plan: horizon, fee budget, and a rule not to check prices daily. The lesson for **debentures, secured and unsecured notes**: slow clarity beats fast regret.
+Do not ignore missed interest. Write to the trustee or issuer, keep records, and seek advice early. Rolling over “to help the company through a rough patch” without fresh disclosure is how capital disappears. Join noteholder communications if they exist; isolation favours the issuer’s story.
 
-## Practical steps for Debentures, secured and unsecured notes
+Report suspected misconduct to ASIC. If the pitch was fraudulent from the start, use scam reporting pathways and bank recall options while trails are warm.
 
-1. Define the time horizon and what would force you to sell early.
-2. List fees (management, brokerage, advice) in dollars per year if you can.
-3. Diversify enough that one tip cannot wreck the plan.
-4. Ignore urgency: legitimate offers survive a night’s sleep.
+## Size limits and sleep tests
 
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Life changes** — job loss, a new dependant, or a move can invalidate last year’s choice; schedule a review.
-- **Records** — keep PDFs of contracts, statements, and cancellation confirmations for at least a year.
+A practical rule: only buy notes with money whose total loss would not change your housing, food, or essential debt payments. If you need the income to meet living costs, you cannot afford issuer default. Sleep tests beat yield tables—if the prospectus keeps you awake, the rate is not high enough to compensate.
 
 ## What to do next
 
-- Decide the next action for **debentures, secured and unsecured notes** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Term deposits](/topics/investing-planning/interest-investments/term-deposits) for a related decision.
-- Read [Bonds](/topics/investing-planning/interest-investments/bonds) for a related decision.
-- Tell one trusted person your plan if accountability helps you follow through.
+- Treat outsized yields as a risk headline, not a gift.
+- Read security descriptions and related-party sections line by line—or walk away.
+- Prefer ADI deposits or plain bonds for money you cannot lose.
+- Hang up on seminar urgency around “secured note offers.”
+- Cap any note holding at a truly affordable loss.

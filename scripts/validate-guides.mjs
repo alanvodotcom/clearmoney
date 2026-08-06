@@ -22,6 +22,12 @@ const STUB_MARKERS = [
   "Questions worth answering before you act",
   "A worked mini-plan for this topic",
   "Habits that keep this decision healthy",
+  // Former single-template H2s — guides must not reuse this skeleton
+  "## How to think about the moving parts",
+  "## Upsides worth wanting",
+  "## Risks and traps to watch",
+  "## Details that change the decision",
+  "## Practical steps for ",
 ];
 
 function bodyOf(raw) {

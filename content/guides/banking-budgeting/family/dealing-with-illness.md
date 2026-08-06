@@ -1,83 +1,93 @@
 ---
-title: "Dealing with illness"
-description: "Income, insurance, and bills when health changes."
+title: Dealing with illness
+description: Income, insurance, and bills when health changes.
 pillar: banking-budgeting
 hub: family
 slug: dealing-with-illness
 updated: "2026-08-03"
-tags: 
+tags:
   - family
-relatedGuides: 
-  - banking-budgeting/family/relationships-and-money
-  - banking-budgeting/family/marriage-and-money
-  - banking-budgeting/family/having-a-baby
-  - banking-budgeting/family/getting-a-pet
+relatedGuides:
+  - banking-budgeting/work-tax/losing-your-job
+  - banking-budgeting/saving/save-for-an-emergency-fund
+  - banking-budgeting/family/losing-your-partner
+  - banking-budgeting/budgeting/cost-of-living-help
 ---
 
-Income, insurance, and bills when health changes. Family money decisions affect more than one person. Clarity and safety matter as much as the spreadsheet.
+Illness can cut income overnight while bills stay on the same schedule. Stabilise cash flow, check entitlements and insurance, then talk to lenders before missed payments pile up.
 
-## Understanding Dealing with illness
+## Income when you cannot work
 
-**Dealing with illness** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Income, insurance, and bills when health changes. Family money decisions affect more than one person. Clarity and safety matter as much as the spreadsheet.
+List every possible income source for the next 4–12 weeks:
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+- sick leave and annual leave balances
+- employer income protection or workers compensation (if applicable)
+- personal income-protection insurance (through super or standalone)
+- partner income and any carer payments you may be eligible for
+- Centrelink payments you might qualify for when leave runs out
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+Call insurers early. Waiting periods and definition-of-disability wording decide whether a claim pays. Keep medical certificates and claim numbers in one folder.
 
-## How to think about the moving parts
+If your job may end, read [Losing your job](/topics/banking-budgeting/work-tax/losing-your-job) for practical next steps alongside health recovery.
 
-Setup quality decides whether **dealing with illness** helps or nags you later. Confirm identity and contact details, choose alerts you will actually read, and decide who else can see or move money. If a salesperson is present, ask for the key numbers in writing before you sign.
+## Insurance and entitlements to check
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Review:
 
-## Upsides worth wanting
+- income protection — waiting period, benefit period, offsets against other income
+- total and permanent disability (TPD) cover inside super — only if your situation may meet the definition; get advice before assuming a payout
+- trauma / critical illness cover if you hold it
+- private health extras and hospital cover — gap fees for treatment
+- ambulance cover in your state or territory
+- travel or ticket refunds if illness cancels plans
 
-- Automations that reduce missed payments and late fees
-- Alerts that surface problems while they are still small
-- Shared understanding when more than one person is involved
+Also check pharmaceutical costs, travel to appointments, and parking—these drip costs are easy to underestimate.
 
-## Risks and traps to watch
+## Keeping essential bills alive
 
-### Easy-to-miss costs
+Rank bills: housing, energy, water, medicine, food, transport, then everything else. Pause or cancel non-essential subscriptions. Use [Cost of living help](/topics/banking-budgeting/budgeting/cost-of-living-help) ideas for household squeeze points.
 
-Set-and-forget errors (wrong account, wrong amount, wrong date). For **Dealing with illness**, read the conditions that turn a good deal average.
+If you have an [emergency fund](/topics/banking-budgeting/saving/save-for-an-emergency-fund), this is what it is for. Prefer using savings for rent and medicine over high-cost credit when you can.
 
-### Timing and people problems
+## Talking to lenders and utilities
 
-Giving too much authority to another person. Write down who can authorise changes.
+Contact people **before** you default:
 
-### Recovery friction
+- home loan hardship teams
+- credit card and personal loan providers
+- electricity, gas, and water retailers (hardship programs exist)
+- telco and internet providers
+- the ATO if tax debts are involved
 
-Missing fine print on fees or cooling-off rights. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+Ask what hardship options exist: reduced payments, deferrals, or payment plans. Get agreements in writing. Missing contact often triggers fees and collection faster than an honest call.
 
-## Details that change the decision
+The National Debt Helpline (1800 007 007) can help you prioritise debts when everything feels urgent.
 
-Households break when money rules are unspoken. Decide what is shared, what is personal, and how you will talk about shortfalls without blame. For **Dealing with illness**, safety outranks efficiency: if someone uses money to control or frighten you, seek support before optimising accounts. Write down bill owners and due dates so one person’s illness or travel does not create late fees.
+## Household roles and access
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+If you are too unwell to manage banking:
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+- ensure a trusted person can help **with your informed consent**—via joint access you already set up carefully, or formal arrangements such as power of attorney where appropriate (get legal advice)
+- enable bank alerts so unusual transactions are visible
+- keep PINs private; “helping” should not become permanent takeover
 
-## A short story: when the fine print mattered
+If someone is using your illness to seize control of money, that may be [financial abuse](/topics/banking-budgeting/family/financial-abuse)—seek support.
 
-Jordan set everything up in a hurry and only noticed the wrong account after a payment bounced. Sam now screenshots every confirmation and nicknames accounts so automations are obvious. The lesson for **dealing with illness**: slow clarity beats fast regret.
+## What treatment choices cost
 
-## Practical steps for Dealing with illness
+Ask clinics for quotes on out-of-pocket costs. Compare PBS medicines with your pharmacist. Say yes to medically necessary care; question add-ons that are optional when money is tight. Your clinical team can often help prioritise.
 
-1. Gather ID, income evidence, and any existing contracts or statements.
-2. Confirm who else is affected (partner, guarantor, dependants) before you sign.
-3. Complete the application or setup deliberately—screenshot confirmations.
-4. Turn on alerts and store reference numbers where you can find them.
+## Partners, carers, and side costs
 
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
+Carers often lose shifts or leave work entirely. Include their lost income and extra fuel in the household picture, not only the patient’s pay cut. Check whether carer payments or workplace carer leave apply in your situation.
 
-## When life changes
+Appoint a backup bill-payer for bad weeks: someone who knows due dates and can click “pay” with clear limits. Write the limits down so help does not drift into open-ended control of accounts.
 
-- **Safety first** — if someone controls money as a form of harm, see ClearMoney’s financial abuse guidance and 1800RESPECT (1800 737 732).
+If cash runs out for food or medicine this week, use [Urgent help](/urgent) rather than hoping the next claim payment arrives in time.
 
 ## What to do next
 
-- Decide the next action for **dealing with illness** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Relationships and money](/topics/banking-budgeting/family/relationships-and-money) for a related decision.
-- Read [Marriage and money](/topics/banking-budgeting/family/marriage-and-money) for a related decision.
-- Write your constraints on paper so a sales pitch cannot rewrite them.
+- Map income for the next two months (leave, insurance, partner pay, possible government support).
+- Call insurers and start claims early—waiting periods do not pause while you hesitate.
+- Contact housing and energy providers to ask about hardship before payments bounce.
+- If debts are snowballing, phone the National Debt Helpline (1800 007 007) or use [Urgent help](/urgent) for crisis links.

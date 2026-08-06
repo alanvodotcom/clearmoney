@@ -1,89 +1,77 @@
 ---
-title: "How to do a budget"
-description: "A simple step-by-step method to see where money goes."
+title: How to do a budget
+description: A simple step-by-step method to see where money goes.
 pillar: banking-budgeting
 hub: budgeting
 slug: how-to-do-a-budget
 updated: "2026-08-03"
-tags: 
+tags:
   - budgeting
-relatedTools: 
+relatedTools:
   - budget-planner
-relatedGuides: 
+relatedGuides:
   - banking-budgeting/budgeting/track-your-spending
-  - banking-budgeting/budgeting/cost-of-living-help
-  - banking-budgeting/budgeting/managing-on-a-low-income
   - banking-budgeting/budgeting/managing-on-a-casual-income
+  - banking-budgeting/budgeting/cost-of-living-help
+  - banking-budgeting/saving/how-to-start-saving
+diagram: budget-three-buckets
 ---
 
-A simple step-by-step method to see where money goes. A budget is a map of cash in and cash out—not a personality test. Numbers first, judgement later.
+A budget is a snapshot of cash in and cash out—not a verdict on your character. Build it from statements, not memory, and you will see where money actually goes.
 
-## How to do a budget: the clear version
+::: tip
+Use a low-income month as your baseline if pay varies—treat surplus as optional, not a lifestyle upgrade.
+:::
 
-**How to do a budget** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. A simple step-by-step method to see where money goes. A budget is a map of cash in and cash out—not a personality test. Numbers first, judgement later.
+::: tool relatedTools[0]
+:::
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+## What a budget actually is
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+A usable budget has three layers:
 
-## How to think about the moving parts
+- **Income** — pay, Centrelink, side work, anything that lands in your account.
+- **Must-pays** — rent or mortgage, utilities, transport to work, groceries, minimum debt repayments, insurance you need.
+- **Everything else** — subscriptions, takeaway, hobbies, gifts, “just this once” purchases.
 
-Setup quality decides whether **how to do a budget** helps or nags you later. Confirm identity and contact details, choose alerts you will actually read, and decide who else can see or move money. If a salesperson is present, ask for the key numbers in writing before you sign.
+The point is not perfection. It is to stop guessing. If income varies, use a low month as your baseline and treat surplus as optional—not as proof you can permanently upgrade your lifestyle. For jumpier pay cycles, switch early to [Managing on a casual income](/topics/banking-budgeting/budgeting/managing-on-a-casual-income).
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+## The five-step build
 
-ClearMoney calculators that pair with this topic: [Budget Planner](/tools/budget-planner). Use them to turn guesses into numbers before you commit.
+1. **Pick a window** — one full month of bank and credit-card statements (or the last four payslips if you are paid fortnightly).
+2. **List income** — write every deposit. If you share costs with a partner, note what actually hits *your* accounts.
+3. **Sort the outgoings** — mark each line as must-pay or flexible. Annual bills (rego, insurance) get divided by 12 so they do not ambush you.
+4. **Do the sum** — income minus must-pays leaves your flexible allowance. If the result is negative, must-pays are the problem—not your coffee habit alone.
+5. **Set rules, not vibes** — decide how much goes to flexible spend, debt extra, and savings *before* the money feels available.
 
-## Upsides worth wanting
+Open the [Budget Planner](/tools/budget-planner) while you do this. Typing the numbers once is faster than juggling them in your head. Match the budget to your pay cycle—weekly or fortnightly—so three bills do not all land in a “quiet” week on a monthly average that never appears in real life.
 
-- Automations that reduce missed payments and late fees
-- Alerts that surface problems while they are still small
-- Shared understanding when more than one person is involved
+## Where first budgets usually break
 
-## Risks and traps to watch
+**Forgotten annual costs.** Car rego, school costs, dental, and Christmas do not appear every week—so people omit them, then “overspend” when they arrive. Create a monthly sinking line even if the bill is yearly.
 
-### Easy-to-miss costs
+**Net vs gross.** Budget from the amount that lands in your account after tax and super, not your salary headline on the contract.
 
-Set-and-forget errors (wrong account, wrong amount, wrong date). For **How to do a budget**, read the conditions that turn a good deal average.
+**Shared bills with fuzzy ownership.** If you and a housemate or partner chip in unevenly, write who pays what. Ambiguity shows up as resentment and unpaid invoices.
 
-### Timing and people problems
+**Optimism bias.** A budget that only works on your best fortnight is a wish list. Quiet weeks are the design constraint.
 
-Giving too much authority to another person. Put review dates in your calendar.
+**Skipping the track step.** If categories still feel fictional, pull one honest month with [Track your spending](/topics/banking-budgeting/budgeting/track-your-spending) before you lock rules in.
 
-### Recovery friction
+## Keep it alive month to month
 
-Missing fine print on fees or cooling-off rights. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+A budget dies when it is a one-off spreadsheet you never reopen. Keep it light:
 
-## Details that change the decision
+- Review after each payday or once a fortnight—ten minutes is enough.
+- Move one leak at a time (a subscription, a duplicate insurance, a high energy plan) rather than rewriting everything.
+- When prices rise, update the must-pay lines first. Stretch ideas live in [Cost of living help](/topics/banking-budgeting/budgeting/cost-of-living-help).
+- After a job change, rent rise, or new dependant, rebuild the five steps—do not stretch last year’s map.
 
-A usable budget separates **essentials**, **commitments**, and **flexible spend**. Essentials keep you housed and fed; commitments are contracts you already signed; flexible spend is where most leaks hide. For **How to do a budget**, use one month of statements—not memory—as the source of truth. If income varies, budget from a low month and treat surplus as savings or debt repayment, not a permanent lifestyle upgrade.
-
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
-
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when timing changed the outcome
-
-Harper set everything up in a hurry and only noticed the wrong account after a payment bounced. Drew now screenshots every confirmation and nicknames accounts so automations are obvious. The lesson for **how to do a budget**: slow clarity beats fast regret.
-
-## Practical steps for How to do a budget
-
-1. Gather ID, income evidence, and any existing contracts or statements.
-2. Confirm who else is affected (partner, guarantor, dependants) before you sign.
-3. Complete the application or setup deliberately—screenshot confirmations.
-4. Turn on alerts and store reference numbers where you can find them.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Life changes** — job loss, a new dependant, or a move can invalidate last year’s choice; schedule a review.
-- **Records** — keep PDFs of contracts, statements, and cancellation confirmations for at least a year.
+Once the map is clear, you can decide whether to start saving, cut a cost, or leave things alone. For first savings moves, [How to start saving](/topics/banking-budgeting/saving/how-to-start-saving) pairs well with a finished budget. If essentials do not fit no matter how you trim flexible spend, that is a support-and-income problem—see free help pathways rather than a harsher colouring-in exercise.
 
 ## What to do next
 
-- Decide the next action for **how to do a budget** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Track your spending](/topics/banking-budgeting/budgeting/track-your-spending) for a related decision.
-- Read [Cost of living help](/topics/banking-budgeting/budgeting/cost-of-living-help) for a related decision.
-- Run the numbers with [Budget Planner](/tools/budget-planner).
-- Set a calendar reminder to revisit this decision after the next statement cycle.
+- Download last month’s statements and run them through the [Budget Planner](/tools/budget-planner).
+- Separate must-pays from flexible spend, and add annual bills as monthly amounts.
+- Follow up with [Track your spending](/topics/banking-budgeting/budgeting/track-your-spending) if any category still feels like a mystery.
+- If pay jumps around, switch to the approach in [Managing on a casual income](/topics/banking-budgeting/budgeting/managing-on-a-casual-income).

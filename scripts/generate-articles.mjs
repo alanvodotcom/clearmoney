@@ -163,6 +163,8 @@ export const inventory = [
       { title: "ESG investing", slug: "environmental-social-governance-esg-investing", description: "What ESG labels mean—and what to verify." },
       { title: "Islamic finance in Australia", slug: "islamic-finance-in-australia", description: "Sharia-compliant banking and investment options overview." },
       { title: "What is private credit?", slug: "what-is-private-credit", description: "Private credit risks, liquidity, and who it suits." },
+      { title: "Micro investing", slug: "micro-investing", description: "Small regular buys via apps—fees, diversification, and habits." },
+
     ],
   },
   {
@@ -188,6 +190,8 @@ export const inventory = [
       { title: "Share market volatility", slug: "what-is-share-market-volatility", description: "Why prices swing and how long-term investors respond." },
       { title: "Employee share schemes", slug: "employee-share-schemes", description: "ESS tax timing and concentration risk." },
       { title: "Buying shares through crowd-sourced funding", slug: "buying-shares-through-crowd-sourced-funding", description: "CSF offers are high risk and often illiquid." },
+      { title: "Fractional share trading", slug: "fractional-share-trading", description: "Buying part of a share—costs, rights, and when it helps." },
+
     ],
   },
   {
@@ -238,6 +242,9 @@ export const inventory = [
       { title: "Company director fraud", slug: "company-director-fraud", description: "Warning signs when directors misuse investor money." },
       { title: "Bills of exchange", slug: "bills-of-exchange", description: "Exotic paper promises—treat with extreme caution." },
       { title: "Lead generation and how it works", slug: "lead-generation-and-how-it-works", description: "Your details get sold—expect sales calls after ‘free’ forms." },
+      { title: "Prediction markets", slug: "prediction-markets", description: "Event-contract betting dressed as investing—risks and scam lookalikes." },
+      { title: "Futures contracts", slug: "futures-contracts", description: "How futures work and why retail leverage is easy to underestimate." },
+      { title: "Exchange traded options", slug: "exchange-traded-options", description: "Calls, puts, premiums, and common misunderstandings." },
     ],
   },
 

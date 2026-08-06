@@ -1,90 +1,81 @@
 ---
-title: "Track your spending"
-description: "Use statements and categories to spot leaks fast."
+title: Track your spending
+description: Use statements and categories to spot leaks fast.
 pillar: banking-budgeting
 hub: budgeting
 slug: track-your-spending
 updated: "2026-08-03"
-tags: 
+tags:
   - budgeting
-relatedTools: 
+relatedTools:
   - budget-planner
   - simple-money-manager
-relatedGuides: 
+relatedGuides:
   - banking-budgeting/budgeting/how-to-do-a-budget
-  - banking-budgeting/budgeting/cost-of-living-help
-  - banking-budgeting/budgeting/managing-on-a-low-income
-  - banking-budgeting/budgeting/managing-on-a-casual-income
+  - banking-budgeting/budgeting/ways-to-save-on-food-and-fuel
+  - banking-budgeting/budgeting/ways-to-save-on-energy-costs
+  - banking-budgeting/budgeting/avoiding-sales-pressure
 ---
 
-Use statements and categories to spot leaks fast. A budget is a map of cash in and cash out—not a personality test. Numbers first, judgement later.
+Most people underestimate takeaway, undercount subscriptions, and forget the “small” card taps that add up. Tracking turns fog into a list you can act on.
 
-## Track your spending: the clear version
+## Pull one month of truth
 
-**Track your spending** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Use statements and categories to spot leaks fast. A budget is a map of cash in and cash out—not a personality test. Numbers first, judgement later.
+Start with evidence, not a notebook you abandon by Wednesday.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+1. Export or screenshot transactions from every account and card you use day to day.
+2. Include Afterpay, Zip, or similar if you use them—those purchases still left your future cash.
+3. Cover at least 30 days. A quiet week followed by a birthday week will mislead you if you only sample seven days.
+4. Ignore the emotion of each line for now. You are collecting data, not scoring yourself.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+Cash and transfers to mates are easy to miss. If you withdraw cash often, estimate that pile in one line labelled “cash / untracked” so the gap is visible.
 
-## How to think about the moving parts
+## Category labels that actually help
 
-Setup quality decides whether **track your spending** helps or nags you later. Confirm identity and contact details, choose alerts you will actually read, and decide who else can see or move money. If a salesperson is present, ask for the key numbers in writing before you sign.
+Too many categories create busywork. Too few hide the leak. Aim for eight to twelve buckets that match how you live:
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+- Rent or mortgage
+- Utilities and phone
+- Groceries
+- Transport and fuel
+- Eating out and coffee
+- Subscriptions and streaming
+- Personal care and health
+- Debt repayments
+- Kids / pets / hobbies (pick what fits)
+- Misc / cash
 
-ClearMoney calculators that pair with this topic: [Budget Planner](/tools/budget-planner), [Simple Money Manager](/tools/simple-money-manager). Use them to turn guesses into numbers before you commit.
+Put supermarket “non-food” (toiletries, cleaning) with groceries if that matches how you shop. Split only when a category is large enough to deserve its own dial—often food and fuel, covered in [Ways to save on food and fuel](/topics/banking-budgeting/budgeting/ways-to-save-on-food-and-fuel).
 
-## Upsides worth wanting
+Tools help when the list gets long. Drop totals into the [Budget Planner](/tools/budget-planner) or keep a lighter weekly view in the [Simple Money Manager](/tools/simple-money-manager).
 
-- Automations that reduce missed payments and late fees
-- Alerts that surface problems while they are still small
-- Shared understanding when more than one person is involved
+## Spotting the leaks
 
-## Risks and traps to watch
+Look for patterns, not one-off shame:
 
-### Easy-to-miss costs
+- **Repeating small hits** — $8–$15 taps three times a week beat a single big shop for stealth.
+- **Zombie subscriptions** — gym, software, delivery memberships you forgot to cancel.
+- **Convenience premiums** — petrol at the corner when a slightly longer trip is cheaper; delivery fees on groceries you could collect.
+- **Energy and phone** — plan rates that drifted up while you were busy; see [Ways to save on energy costs](/topics/banking-budgeting/budgeting/ways-to-save-on-energy-costs).
+- **Pressure buys** — door-to-door, street, or “today only” deals; [Avoiding sales pressure](/topics/banking-budgeting/budgeting/avoiding-sales-pressure) covers cooling-off and pushback tactics.
 
-Set-and-forget errors (wrong account, wrong amount, wrong date). For **Track your spending**, read the conditions that turn a good deal average.
+Circle the top three leaks by dollar total, not by guilt. A $40 subscription you never use beats fretting over a $4 coffee you enjoy. Also scan for double-ups: two video apps, two cloud storage plans, or insurance you already have through work or a partner.
 
-### Timing and people problems
+Seasonal spikes matter. School holidays, Christmas, and winter energy often look like “bad months” when they are predictable. Tag them once so next year you can set money aside instead of blaming the calendar.
 
-Giving too much authority to another person. Put review dates in your calendar.
+## From tracking to a usable plan
 
-### Recovery friction
+Tracking alone does not change spending. Close the loop:
 
-Missing fine print on fees or cooling-off rights. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+1. Pick one leak to shrink this fortnight (cancel, switch, or set a weekly cap).
+2. Move must-pays to the week they leave the account so payday timing is clear.
+3. Turn the cleaned numbers into a forward budget with [How to do a budget](/topics/banking-budgeting/budgeting/how-to-do-a-budget).
 
-## Details that change the decision
-
-A usable budget separates **essentials**, **commitments**, and **flexible spend**. Essentials keep you housed and fed; commitments are contracts you already signed; flexible spend is where most leaks hide. For **Track your spending**, use one month of statements—not memory—as the source of truth. If income varies, budget from a low month and treat surplus as savings or debt repayment, not a permanent lifestyle upgrade.
-
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
-
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when timing changed the outcome
-
-Aisha set everything up in a hurry and only noticed the wrong account after a payment bounced. Taylor now screenshots every confirmation and nicknames accounts so automations are obvious. The lesson for **track your spending**: slow clarity beats fast regret.
-
-## Practical steps for Track your spending
-
-1. Gather ID, income evidence, and any existing contracts or statements.
-2. Confirm who else is affected (partner, guarantor, dependants) before you sign.
-3. Complete the application or setup deliberately—screenshot confirmations.
-4. Turn on alerts and store reference numbers where you can find them.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Life changes** — job loss, a new dependant, or a move can invalidate last year’s choice; schedule a review.
-- **Records** — keep PDFs of contracts, statements, and cancellation confirmations for at least a year.
+Re-track for one week after a change. If the category did not move, the rule was too vague—make it a number (“$60 eating out this week”) or an automation (cancel the app). Share the top-line totals with a partner or housemate if you split costs; mismatched mental models are a common leak of their own.
 
 ## What to do next
 
-- Decide the next action for **track your spending** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [How to do a budget](/topics/banking-budgeting/budgeting/how-to-do-a-budget) for a related decision.
-- Read [Cost of living help](/topics/banking-budgeting/budgeting/cost-of-living-help) for a related decision.
-- Run the numbers with [Budget Planner](/tools/budget-planner).
-- Set a calendar reminder to revisit this decision after the next statement cycle.
+- Pull 30 days of statements and sort them into a short category list.
+- Highlight the three largest flexible categories and pick one action for each.
+- Enter totals in the [Budget Planner](/tools/budget-planner) or [Simple Money Manager](/tools/simple-money-manager).
+- Convert the cleaned picture into a forward plan with [How to do a budget](/topics/banking-budgeting/budgeting/how-to-do-a-budget).

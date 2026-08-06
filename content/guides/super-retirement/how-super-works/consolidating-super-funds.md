@@ -5,84 +5,86 @@ pillar: super-retirement
 hub: how-super-works
 slug: consolidating-super-funds
 updated: "2026-08-03"
-tags: 
+tags:
   - how super works
-relatedTools: 
+relatedTools:
   - super
-relatedGuides: 
-  - super-retirement/how-super-works/superannuation
-  - super-retirement/how-super-works/types-of-super-funds
-  - super-retirement/how-super-works/choosing-a-super-fund
+relatedGuides:
+  - super-retirement/how-super-works/find-lost-super
   - super-retirement/how-super-works/stapled-super-fund
+  - super-retirement/how-super-works/choosing-a-super-fund
+  - super-retirement/grow-super/switching-super-funds
 ---
 
-Combine accounts carefully—check insurance first. Super is compulsory saving for later life, with rules on contributions, investments, and when you can access it.
+Combining super accounts can cut duplicate fees and simplify paperwork. Done carelessly, it cancels insurance you still need or triggers exit frictions you did not expect. Sequence matters: **insurance check → choose destination → roll in → verify**.
 
-## Understanding Consolidating super funds
+## Why people consolidate
 
-**Consolidating super funds** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Combine accounts carefully—check insurance first. Super is compulsory saving for later life, with rules on contributions, investments, and when you can access it.
+- Multiple admin fees on small balances
+- Forgotten accounts after job hopping
+- Cleaner beneficiary nominations
+- Easier to track with the [super calculator](/tools/super)
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Consolidation is not mandatory. A second account can make sense if it holds unique insurance or a defined benefit you must not disturb.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+## Insurance: the non-negotiable first step
 
-## How to think about the moving parts
+For every account you might close, write down:
 
-With **consolidating super funds**, match the product to your time horizon. Money you may need within a few years usually should not sit in volatile assets. Fees and diversification matter more than a single tip from social media.
+- Death / TPD / income protection sums insured
+- Monthly premium
+- Whether cover is fixed or units that shrink
+- Exclusions (especially hazardous work)
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Get written confirmation that new or continuing cover on the destination fund is active **before** you exit the old fund. Underwriting gaps have left people uninsured between rollovers.
 
-ClearMoney calculators that pair with this topic: [Super](/tools/super). Use them to turn guesses into numbers before you commit.
+## Defined benefits and quirky products
 
-## Upsides worth wanting
+Some public sector or corporate benefits lose value if you cash out or roll over. Request a written exit quote and, if needed, personal advice. “Everyone consolidates” is not a reason to break a defined benefit.
 
-- Potential growth above cash over long periods
-- Diversification that reduces single-company drama
-- Alignment with goals like retirement or a distant home deposit
+## How a careful rollover looks
 
-## Risks and traps to watch
+1. Choose the destination fund (fees, options, insurance)—see [Choosing a super fund](/topics/super-retirement/how-super-works/choosing-a-super-fund)
+2. Confirm TFN is recorded on both funds
+3. Start the rollover via the destination fund or ATO online tools where available
+4. Watch for the money to arrive; keep old statements until the old account shows nil and closed
+5. Re-check insurance and investment option on the surviving account
+6. Update payroll if SG must follow the destination (stapling may already point there)
 
-### Easy-to-miss costs
+Exit fees are less common than they were, but still read the PDS. In-specie transfers (moving assets as assets) mainly arise in SMSFs.
 
-Buying under social pressure or FOMO. For **Consolidating super funds**, read the conditions that turn a good deal average.
+## Lost super first, merge second
 
-### Timing and people problems
+Search ATO-held and lost super before you assume you only have two funds. [Find lost super](/topics/super-retirement/how-super-works/find-lost-super) can surface balances worth merging—or worth leaving if insurance is valuable.
 
-Concentrated bets and high fees. Write down who can authorise changes.
+## After the merge: tidy the edges
 
-### Recovery friction
+- Binding nominations on the closed fund do not magically copy—remake them on the survivor
+- Salary sacrifice arrangements must point to the right member number
+- Download a “before” fee snapshot so you can prove the win a year later
 
-Needing the money earlier than the investment can recover. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+## Small inactive account fees
 
-## Details that change the decision
+Some small accounts are protected by fee rules in certain circumstances, but you should not rely on folklore. Read current settings and still prefer one healthy account when insurance allows. Consolidation is usually cleaner than babysitting five apps.
 
-Contributions, investment options, insurance inside super, and fees interact. For **Consolidating super funds**, log in, download a statement, and note beneficiary nominations. Multiple funds often mean multiple fee drags—consolidation can help after you check insurance loss risks.
+## Exit statements and proof of cover end dates
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+Download a final statement and insurance cessation confirmation when an account closes. Years later, a claim dispute may ask when cover ended. Cloud folders beat shoeboxes. Name files with fund and date so executors can find them too.
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+## Verification steps unique to Consolidating super funds
 
-## A short story: when the fine print mattered
+Confirm live contribution caps, Age Pension thresholds, preservation details, and product fees on official ATO, Services Australia, or fund PDS pages the week you act. ClearMoney offers general information only—not personal advice. Write one next action with a date and store PDFs of confirmations where you can find them in six months.
 
-Luca bought after a viral tip and sold in a panic three weeks later. Morgan wrote a one-page plan: horizon, fee budget, and a rule not to check prices daily. The lesson for **consolidating super funds**: slow clarity beats fast regret.
+If the dollar amount is large, sleep on the decision and consider licensed advice. Cold callers who demand one-time codes or remote access are not helpers. Hang up and use bookmarks you typed yourself.
 
-## Practical steps for Consolidating super funds
+## Filing habits for consolidating super funds
 
-1. Define the time horizon and what would force you to sell early.
-2. List fees (management, brokerage, advice) in dollars per year if you can.
-3. Diversify enough that one tip cannot wreck the plan.
-4. Ignore urgency: legitimate offers survive a night’s sleep.
+Keep statements, insurance schedules, advice fee consents, and solicitor letters in a dated folder. Share access rules with a trusted person without pasting every password into a group chat. Organised evidence shortens disputes, estate claims, and Centrelink conversations.
 
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Rule changes** — contribution caps, preservation ages, and Age Pension settings change; confirm current figures before acting.
+Revisit after job changes, relationship changes, or health shocks. A short annual review beats a perfect plan nobody opens.
 
 ## What to do next
-
-- Decide the next action for **consolidating super funds** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Superannuation basics](/topics/super-retirement/how-super-works/superannuation) for a related decision.
-- Read [Types of super funds](/topics/super-retirement/how-super-works/types-of-super-funds) for a related decision.
-- Run the numbers with [Super](/tools/super).
-- Write your constraints on paper so a sales pitch cannot rewrite them.
+- List every account, balance, fee, and insurance line in one table.
+- Do not submit a rollover until replacement cover is confirmed in writing.
+- Search lost super, then consolidate leftovers into your best fund.
+- Re-run beneficiaries and payroll details the same week the money lands.

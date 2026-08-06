@@ -1,84 +1,74 @@
 ---
-title: "Problems paying your mortgage"
-description: "Hardship options if repayments become tough."
+title: Problems paying your mortgage
+description: Hardship options if repayments become tough.
 pillar: loans-credit-debt
 hub: home-loans
 slug: problems-paying-your-mortgage
 updated: "2026-08-03"
-tags: 
-  - home loans
-relatedGuides: 
-  - loans-credit-debt/home-loans/buying-a-house
-  - loans-credit-debt/home-loans/choosing-a-home-loan
-  - loans-credit-debt/home-loans/interest-only-home-loans
-  - loans-credit-debt/home-loans/mortgage-offset-accounts
+tags:
+  - home-loans
+  - hardship
+relatedTools: []
+relatedGuides:
+  - loans-credit-debt/managing-debt/financial-hardship
+  - loans-credit-debt/managing-debt/financial-counselling
+  - loans-credit-debt/managing-debt/urgent-help-with-money
+  - loans-credit-debt/home-loans/switching-home-loans
 ---
 
-Hardship options if repayments become tough. A home loan is usually the largest debt most people take on—rate, fees, and buffers decide comfort.
+Missing a mortgage repayment feels alarming because your home is on the line. Lenders expect life events—job loss, illness, separation, disaster—and most have hardship processes. Early contact preserves options; silence shrinks them.
 
-## Understanding Problems paying your mortgage
+## Contact the lender early
 
-**Problems paying your mortgage** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Hardship options if repayments become tough. A home loan is usually the largest debt most people take on—rate, fees, and buffers decide comfort.
+As soon as you know a repayment will fail—or has failed:
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+1. Call the lender’s hardship or collections line; ask for a reference number.
+2. Explain what changed (income drop, expense spike) and how long you think it will last.
+3. Ask what temporary options exist and what documents they need.
+4. Keep paying whatever you can afford without skipping food, medicine, or utilities.
+5. Confirm every arrangement **in writing**.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+Do not ignore letters or default notices. Open them, date them, and respond. If you feel overwhelmed, start at [/urgent](/urgent) and call the National Debt Helpline on **1800 007 007** the same day.
 
-## How to think about the moving parts
+## Hardship options lenders may offer
 
-For **problems paying your mortgage**, translate marketing into cash-flow reality. What is the total repayable? What happens if rates rise or hours fall? Can you still cover rent, food, and utilities after the repayment leaves?
+Depending on your loan and circumstances, options can include:
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+- short repayment pauses or reductions
+- extending the loan term to lower repayments (costs more interest long-term)
+- switching repayment types where policy allows
+- capitalising arrears (adding missed amounts to principal) in some cases
+- disaster relief processes after declared events
 
-## Upsides worth wanting
+Each option has trade-offs. A pause stops immediate pressure but may increase total interest. Get the new schedule in writing and diary the end date of any concession. Related reading: [financial hardship](/topics/loans-credit-debt/managing-debt/financial-hardship).
 
-- Access to a lump sum when cash flow cannot stretch
-- Predictable repayments if the rate and term are understood
-- A chance to refinance or restructure later if you keep records
+## Free help while you negotiate
 
-## Risks and traps to watch
+A [financial counsellor](/topics/loans-credit-debt/managing-debt/financial-counselling) can help you prepare a statement of financial position, prioritise essential spending, talk to the lender with you, and spot proposals that make the loan less sustainable. Counselling through the National Debt Helpline channel is free. Avoid paid “mortgage rescue” or illegal early-super-access schemes.
 
-### Easy-to-miss costs
+If refinance might help, only pursue it when approval odds are realistic; a failed refinance without a hardship plan wastes time—see [switching home loans](/topics/loans-credit-debt/home-loans/switching-home-loans).
 
-Focusing on weekly repayments instead of total cost. For **Problems paying your mortgage**, read the conditions that turn a good deal average.
+## What not to do when repayments slip
 
-### Timing and people problems
+- Do not take a payday loan or high-cost credit to cover the mortgage.
+- Do not hand your title to a private “investor rescuer” without independent legal advice.
+- Do not empty super early via illegal promoters.
+- Do not assume selling is instant; talk through timelines before fire sales.
+- Do not hide the problem from a co-borrower—joint loans need joint strategies.
 
-Guarantor or security risks you did not price emotionally. Write down who can authorise changes.
+## Co-borrowers and communication
 
-### Recovery friction
+On a joint mortgage, both borrowers usually remain liable even if only one lost income. Agree who leads the hardship call, share the written arrangement, and update each other after every contact. If family violence or financial abuse is part of the picture, tell the counsellor—safety planning may need to come before joint negotiations, and 1800RESPECT (1800 737 732) can help.
 
-Stacking credit products until cash flow snaps. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+If foreclosure or possession action begins, get legal and counselling help immediately via [free legal advice](/topics/loans-credit-debt/managing-debt/free-legal-advice) pathways.
 
-## Details that change the decision
+## Keep a mortgage hardship folder
 
-Serviceability calculators and lender buffers exist because rates and life both move. For **Problems paying your mortgage**, include strata, council rates, insurance, and maintenance in the ‘can we afford this’ test—not only the loan repayment. Offset and redraw features help only if you actually park spare cash there and understand access rules.
-
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
-
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when the fine print mattered
-
-Aisha chose the lowest weekly repayment with a long term and paid far more interest. Taylor compared total cost and picked a shorter term they could still stress-test if hours dropped. The lesson for **problems paying your mortgage**: slow clarity beats fast regret.
-
-## Practical steps for Problems paying your mortgage
-
-1. Calculate the total amount repayable, not only the weekly figure.
-2. Compare at least two lenders or credit types with the same loan amount and term.
-3. Stress-test repayments if rates rise or hours drop.
-4. Avoid stacking new credit to pay old credit without a written plan.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Life changes** — job loss, a new dependant, or a move can invalidate last year’s choice; schedule a review.
-- **Records** — keep PDFs of contracts, statements, and cancellation confirmations for at least a year.
+Create one folder (digital or paper) with: the loan contract summary, every hardship letter, payment receipts during the arrangement, income evidence, and a running call log with dates and reference numbers. When staff change or you escalate a complaint, that folder is your memory. Update it after every contact. If you later refinance or sell, the same records show what happened and why arrears arose—useful for brokers, conveyancers, and free advisers. A clear folder also reduces the chance you accidentally agree to two conflicting arrangements because you forgot what was already approved.
 
 ## What to do next
 
-- Decide the next action for **problems paying your mortgage** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Buying a house](/topics/loans-credit-debt/home-loans/buying-a-house) for a related decision.
-- Read [Choosing a home loan](/topics/loans-credit-debt/home-loans/choosing-a-home-loan) for a related decision.
-- Write your constraints on paper so a sales pitch cannot rewrite them.
+- Call your lender’s hardship team today and request written options.
+- Call **1800 007 007** and open [/urgent](/urgent) for a same-day stabilisation plan.
+- Gather income evidence, hardship letters, and a basic budget for the counsellor and lender.
+- Reassess expenses and temporary income supports while the arrangement runs.

@@ -1,83 +1,69 @@
 ---
-title: "Tips to keep retirement savings on track"
+title: "Tips to keep your retirement savings on track"
 description: "Fees, insurance, and contribution habits that matter."
 pillar: super-retirement
 hub: grow-super
 slug: tips-to-keep-your-retirement-savings-on-track
 updated: "2026-08-03"
-tags: 
-  - grow super
-relatedGuides: 
+tags:
+  - grow-super
+relatedGuides:
   - super-retirement/grow-super/how-to-check-your-super
+  - super-retirement/grow-super/get-your-super-working-over-time
   - super-retirement/grow-super/how-much-super-should-i-have
-  - super-retirement/grow-super/super-contributions
-  - super-retirement/grow-super/super-investment-options
+  - super-retirement/plan-retirement/make-a-retirement-plan
 ---
 
-Fees, insurance, and contribution habits that matter. Growing super is usually about contributions, fees, insurance inside super, and investment mix—not one hot tip.
+Retirement saving rewards boring consistency more than clever timing. Most Australians who end up comfortable did not pick winning stocks—they kept fees low, paid themselves regularly, and checked the account once a year instead of panicking every market wobble. The habits below are the ones that actually move the needle.
 
-## Tips to keep retirement savings on track: the clear version
+## The annual fund check-up
 
-**Tips to keep retirement savings on track** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Fees, insurance, and contribution habits that matter. Growing super is usually about contributions, fees, insurance inside super, and investment mix—not one hot tip.
+Once every twelve months, treat your super like a car service. Log in, read the statement, and work through [how to check your super](/topics/super-retirement/grow-super/how-to-check-your-super). Look for duplicate accounts still charging fees, insurance you no longer need, and advice charges you did not authorise. Fix what you find before the next statement arrives.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+This single ritual catches slow leaks that compound over decades. A duplicate account with a $200 annual fee might feel trivial at 40; at 60 it is thousands of dollars that never earned returns. Consolidate where it makes sense, but check insurance and any defined-benefit entitlements before you close anything.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+## Pay yourself before lifestyle expands
 
-## How to think about the moving parts
+Superannuation Guarantee is the floor, not the ceiling. If cash flow allows, automate an extra contribution through salary sacrifice or a regular personal transfer—ideas in [get your super working over time](/topics/super-retirement/grow-super/get-your-super-working-over-time). The trick is timing: raise the amount when you get a pay rise, before the extra income disappears into subscriptions and dining out.
 
-Setup quality decides whether **tips to keep retirement savings on track** helps or nags you later. Confirm identity and contact details, choose alerts you will actually read, and decide who else can see or move money. If a salesperson is present, ask for the key numbers in writing before you sign.
+Split promotions deliberately. Some to lifestyle, some to super or debt reduction, some to a cash buffer. Future you does not send thank-you notes, but they notice the difference at preservation age.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+## Fees deserve a line on your dashboard
 
-## Upsides worth wanting
+Administration fees, investment fees, and indirect costs eat returns quietly. Compare your fund’s total fee percentage against alternatives—not every switch saves money, but many people discover they pay for a fancy brand without better outcomes. A half-percent fee gap on a $200,000 balance is real money over twenty years.
 
-- Automations that reduce missed payments and late fees
-- Alerts that surface problems while they are still small
-- Shared understanding when more than one person is involved
+Write your fee percentage on a one-page dashboard alongside balance, annual contributions, insurance cost, target retirement age, and a rough monthly spending goal. Update it yearly. If all six fields are blank, you are flying without instruments.
 
-## Risks and traps to watch
+## Insurance inside super: match cover to actual risk
 
-### Easy-to-miss costs
+Default life and TPD cover helped when you had a mortgage and young children. Premiums often rise with age inside the fund, and what felt cheap at 35 can drain balances at 55. Re-underwrite outside super, reduce cover intentionally when debts fall, or cancel cover you no longer need—but do not cancel blindly if your health would make new cover expensive.
 
-Set-and-forget errors (wrong account, wrong amount, wrong date). For **Tips to keep retirement savings on track**, read the conditions that turn a good deal average.
+Income protection definitions written for employees may not suit self-employed work. Read the product disclosure statement or ask the fund what triggers a claim.
 
-### Timing and people problems
+## Investment mix and your time horizon
 
-Giving too much authority to another person. Put review dates in your calendar.
+Revisit investment options when retirement moves from “someday” to “this decade.” Lifecycle defaults shift automatically, but confirm the glide path matches your actual finish date. Do not lock into panic cash after a downturn if you still have long compounding years—unless health or job insecurity genuinely demands safety.
 
-### Recovery friction
+Risk tolerance is not a personality quiz; it is how much volatility you can absorb before you sell at the wrong time. Honesty beats bravado.
 
-Missing fine print on fees or cooling-off rights. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+## Debt and super in the same conversation
 
-## Details that change the decision
+High-interest consumer debt can undermine contribution heroics. Sometimes the on-track move is pausing extras until cards are cleared, then restarting automation. Paying 20% on a credit card while chasing concessional tax can be false economy. Rank debts by rate and urgency, then decide where the next dollar goes.
 
-Extra contributions only help if cash flow can carry them and rules allow them. For **Tips to keep retirement savings on track**, compare concessional versus after-tax pathways with current caps in mind, and watch insurance premiums deducted from your balance.
+## Refuse product pressure
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+Hang up on unsolicited super sales. On-track includes keeping criminals and spruikers out of the account. Legitimate reviews are appointments you book, with documents you can read overnight. If someone cannot explain fees and insurance in plain language, they are not helping you stay on track.
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+## When life bends the trajectory
 
-## A short story: when timing changed the outcome
+Career breaks, divorce, illness, and business failure bend trajectories. Recalculate with [how much super should I have?](/topics/super-retirement/grow-super/how-much-super-should-i-have), adjust contributions or retirement age, and keep going. Shame is not a strategy. New partners, separations, and blended families change beneficiaries and housing plans—update nominations after any status change.
 
-Harper set everything up in a hurry and only noticed the wrong account after a payment bounced. Drew now screenshots every confirmation and nicknames accounts so automations are obvious. The lesson for **tips to keep retirement savings on track**: slow clarity beats fast regret.
-
-## Practical steps for Tips to keep retirement savings on track
-
-1. Gather ID, income evidence, and any existing contracts or statements.
-2. Confirm who else is affected (partner, guarantor, dependants) before you sign.
-3. Complete the application or setup deliberately—screenshot confirmations.
-4. Turn on alerts and store reference numbers where you can find them.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Rule changes** — contribution caps, preservation ages, and Age Pension settings change; confirm current figures before acting.
+From your 50s, sketch income sources, Age Pension timing, and spending in [make a retirement plan](/topics/super-retirement/plan-retirement/make-a-retirement-plan). On-track balances still fail if drawdown and tax are ignored at the finish line.
 
 ## What to do next
 
-- Decide the next action for **tips to keep retirement savings on track** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [How to check your super](/topics/super-retirement/grow-super/how-to-check-your-super) for a related decision.
-- Read [How much super should I have?](/topics/super-retirement/grow-super/how-much-super-should-i-have) for a related decision.
-- Set a calendar reminder to revisit this decision after the next statement cycle.
+- Create the one-page dashboard this week and fill all six fields.
+- Book the annual fund physical on your calendar with a recurring reminder.
+- Automate one improvement—a small extra contribution or a fee review.
+- Compare your contribution rate to the current SG percentage as a fairness benchmark.
+- Share the hang-up rule with anyone who jointly influences your money decisions.

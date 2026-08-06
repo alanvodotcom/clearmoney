@@ -1,4 +1,4 @@
-﻿<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 	
 
                 <url>
@@ -127,7 +127,7 @@
                 </url>
                 <url>
                     <loc>https://moneysmart.gov.au/saving/ways-to-buy-a-home-sooner</loc>
-                    <lastmod>2026-08-03T02:52:00&#x2B;00:00</lastmod>
+                    <lastmod>2026-08-03T04:59:45&#x2B;00:00</lastmod>
                 </url>
                 <url>
                     <loc>https://moneysmart.gov.au/work-and-tax</loc>
@@ -450,8 +450,8 @@
                     <lastmod>2026-06-18T07:13:39&#x2B;00:00</lastmod>
                 </url>
                 <url>
-                    <loc>https://moneysmart.gov.au/how-to-invest/what-is-private-credit</loc>
-                    <lastmod>2026-07-29T02:34:41&#x2B;00:00</lastmod>
+                    <loc>https://moneysmart.gov.au/how-to-invest/micro-investing</loc>
+                    <lastmod>2026-08-05T22:41:05&#x2B;00:00</lastmod>
                 </url>
                 <url>
                     <loc>https://moneysmart.gov.au/financial-advice</loc>
@@ -514,6 +514,10 @@
                     <lastmod>2026-06-18T07:14:15&#x2B;00:00</lastmod>
                 </url>
                 <url>
+                    <loc>https://moneysmart.gov.au/shares/fractional-share-trading</loc>
+                    <lastmod>2026-08-05T22:41:35&#x2B;00:00</lastmod>
+                </url>
+                <url>
                     <loc>https://moneysmart.gov.au/managed-funds-and-etfs</loc>
                     <lastmod>2026-06-18T07:18:30&#x2B;00:00</lastmod>
                 </url>
@@ -540,10 +544,6 @@
                 <url>
                     <loc>https://moneysmart.gov.au/managed-funds-and-etfs/listed-investment-companies-lics</loc>
                     <lastmod>2026-06-18T07:19:38&#x2B;00:00</lastmod>
-                </url>
-                <url>
-                    <loc>https://moneysmart.gov.au/managed-funds-and-etfs/peer-to-peer-lending</loc>
-                    <lastmod>2026-06-18T07:20:03&#x2B;00:00</lastmod>
                 </url>
                 <url>
                     <loc>https://moneysmart.gov.au/property-investment</loc>
@@ -606,22 +606,6 @@
                     <lastmod>2026-06-18T07:24:00&#x2B;00:00</lastmod>
                 </url>
                 <url>
-                    <loc>https://moneysmart.gov.au/investment-warnings/contracts-for-difference-cfds</loc>
-                    <lastmod>2026-07-31T06:04:57&#x2B;00:00</lastmod>
-                </url>
-                <url>
-                    <loc>https://moneysmart.gov.au/investment-warnings/forex-trading</loc>
-                    <lastmod>2026-06-18T07:24:28&#x2B;00:00</lastmod>
-                </url>
-                <url>
-                    <loc>https://moneysmart.gov.au/investment-warnings/crypto-assets</loc>
-                    <lastmod>2026-06-18T07:24:43&#x2B;00:00</lastmod>
-                </url>
-                <url>
-                    <loc>https://moneysmart.gov.au/investment-warnings/bills-of-exchange</loc>
-                    <lastmod>2026-06-18T07:24:56&#x2B;00:00</lastmod>
-                </url>
-                <url>
                     <loc>https://moneysmart.gov.au/investment-warnings/land-banking</loc>
                     <lastmod>2026-07-30T03:49:01&#x2B;00:00</lastmod>
                 </url>
@@ -636,6 +620,10 @@
                 <url>
                     <loc>https://moneysmart.gov.au/investment-warnings/pump-and-dump-schemes</loc>
                     <lastmod>2026-07-16T02:04:44&#x2B;00:00</lastmod>
+                </url>
+                <url>
+                    <loc>https://moneysmart.gov.au/investment-warnings/prediction-markets</loc>
+                    <lastmod>2026-08-03T05:54:00&#x2B;00:00</lastmod>
                 </url>
                 <url>
                     <loc>https://moneysmart.gov.au/retirement</loc>
@@ -791,7 +779,7 @@
                 </url>
                 <url>
                     <loc>https://moneysmart.gov.au/grow-your-super/switching-super-funds</loc>
-                    <lastmod>2026-07-22T23:48:49&#x2B;00:00</lastmod>
+                    <lastmod>2026-08-03T06:17:43&#x2B;00:00</lastmod>
                 </url>
                 <url>
                     <loc>https://moneysmart.gov.au/grow-your-super/super-contributions-optimiser</loc>
@@ -3020,6 +3008,42 @@
                 <url>
                     <loc>https://moneysmart.gov.au/your-stories/one-of-my-main-goals-is-to-travel-australia</loc>
                     <lastmod>2026-07-21T00:22:31&#x2B;00:00</lastmod>
+                </url>
+                <url>
+                    <loc>https://moneysmart.gov.au/complex-investment-products</loc>
+                    <lastmod>2026-08-05T05:48:04&#x2B;00:00</lastmod>
+                </url>
+                <url>
+                    <loc>https://moneysmart.gov.au/complex-investment-products/what-is-private-credit</loc>
+                    <lastmod>2026-07-29T02:34:41&#x2B;00:00</lastmod>
+                </url>
+                <url>
+                    <loc>https://moneysmart.gov.au/complex-investment-products/exchange-traded-options</loc>
+                    <lastmod>2026-08-04T23:22:21&#x2B;00:00</lastmod>
+                </url>
+                <url>
+                    <loc>https://moneysmart.gov.au/complex-investment-products/futures-contracts</loc>
+                    <lastmod>2026-08-04T23:01:28&#x2B;00:00</lastmod>
+                </url>
+                <url>
+                    <loc>https://moneysmart.gov.au/complex-investment-products/crypto-assets</loc>
+                    <lastmod>2026-08-04T00:47:17&#x2B;00:00</lastmod>
+                </url>
+                <url>
+                    <loc>https://moneysmart.gov.au/complex-investment-products/contracts-for-difference-cfds</loc>
+                    <lastmod>2026-07-31T06:04:57&#x2B;00:00</lastmod>
+                </url>
+                <url>
+                    <loc>https://moneysmart.gov.au/complex-investment-products/bills-of-exchange</loc>
+                    <lastmod>2026-06-18T07:24:56&#x2B;00:00</lastmod>
+                </url>
+                <url>
+                    <loc>https://moneysmart.gov.au/complex-investment-products/forex-trading</loc>
+                    <lastmod>2026-06-18T07:24:28&#x2B;00:00</lastmod>
+                </url>
+                <url>
+                    <loc>https://moneysmart.gov.au/complex-investment-products/peer-to-peer-lending</loc>
+                    <lastmod>2026-06-18T07:20:03&#x2B;00:00</lastmod>
                 </url>
 
 

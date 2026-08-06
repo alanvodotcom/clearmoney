@@ -5,80 +5,83 @@ pillar: super-retirement
 hub: income-sources
 slug: annuities
 updated: "2026-08-03"
-tags: 
+tags:
   - income sources
-relatedGuides: 
-  - super-retirement/income-sources/types-of-retirement-income
-  - super-retirement/income-sources/account-based-pensions
-  - super-retirement/income-sources/age-pension-and-government-benefits
+relatedGuides:
   - super-retirement/income-sources/lifetime-income-streams
+  - super-retirement/income-sources/account-based-pensions
+  - super-retirement/income-sources/types-of-retirement-income
+  - investing-planning/advice/what-is-financial-advice
 ---
 
-Guaranteed income products—trade-offs vs flexibility. Retirement income can come from super, Age Pension, work, and other assets—each with different rules.
+An annuity converts a lump sum into a series of payments under a contract with a life insurer or approved provider. Payments may last for a fixed number of years or for life. In exchange for income certainty, you usually give up free access to the capital and accept that early death or high inflation can make the deal look poor in hindsight.
 
-## Understanding Annuities
+"Guaranteed" still depends on the issuer meeting its obligations and on the terms written in the product disclosure statement (PDS). Read the contract before you romanticise the word. ClearMoney offers general information—not personal advice.
 
-**Annuities** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Guaranteed income products—trade-offs vs flexibility. Retirement income can come from super, Age Pension, work, and other assets—each with different rules.
+## How annuities turn capital into income
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+You pay a lump sum—often from super after meeting a condition of release, or from savings outside super. The provider calculates payments based on your age, gender where permitted, interest rates at purchase, indexation choices, and fees. Payments arrive monthly, quarterly, or at another interval you select.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+Unlike an account-based pension, you cannot generally withdraw the lump sum on demand. Some contracts allow limited commutation or withdrawal windows; many do not. Death benefits vary: some return a residual capital value, others stop when you die unless a guaranteed period or reversion to a spouse applies.
 
-## How to think about the moving parts
+## Fixed-term versus lifetime contracts
 
-Setup quality decides whether **annuities** helps or nags you later. Confirm identity and contact details, choose alerts you will actually read, and decide who else can see or move money. If a salesperson is present, ask for the key numbers in writing before you sign.
+**Fixed-term annuities** pay for a set number of years—commonly five, ten, or fifteen. They suit bridging to Age Pension age, covering a known spending period, or topping up income while you defer super drawdowns.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+**Lifetime annuities** pay until death, sometimes with a minimum guaranteed period so beneficiaries receive something if you die early. They address longevity risk—the fear of outliving your money. See [Lifetime income streams](/topics/super-retirement/income-sources/lifetime-income-streams) for newer product labels that share similar goals.
 
-## Upsides worth wanting
+Indexation matters: a level payment of $800 per month buys less each year as prices rise. CPI-linked or fixed-percentage indexation costs more at purchase but preserves purchasing power better over decades.
 
-- Automations that reduce missed payments and late fees
-- Alerts that surface problems while they are still small
-- Shared understanding when more than one person is involved
+## Reading a quote properly
 
-## Risks and traps to watch
+Compare quotes on equal terms. Ask each provider for:
 
-### Easy-to-miss costs
+- Payment amount with and without indexation
+- Explicit fees and how they are deducted
+- Death benefits and residual capital value
+- Commutation or withdrawal rights
+- Provider financial strength and regulatory protections
+- Tax treatment inside versus outside super
 
-Set-and-forget errors (wrong account, wrong amount, wrong date). For **Annuities**, read the conditions that turn a good deal average.
+"Guaranteed" illustrations often assume favourable reinvestment rates. Stress-test conservative scenarios. If two quotes differ wildly, check whether one includes indexation and the other does not.
 
-### Timing and people problems
+## Pairing with flexible super
 
-Giving too much authority to another person. Write down who can authorise changes.
+A common pattern covers essentials with Age Pension plus an annuity slice, then uses an [account-based pension](/topics/super-retirement/income-sources/account-based-pensions) for discretionary spending, travel, and gifts. Ratios are personal. Some households annuitise 20–30% of investable assets; others prefer zero.
 
-### Recovery friction
+The annuity provides a floor; the ABP provides flexibility and potential inheritance. Neither replaces the need for a cash buffer for cars, dental bills, and family emergencies. [Types of retirement income](/topics/super-retirement/income-sources/types-of-retirement-income) maps how the pieces fit together.
 
-Missing fine print on fees or cooling-off rights. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+## When certainty helps—and when it does not
 
-## Details that change the decision
+Annuities can help if you fear outliving an account-based pension, want predictable money for rent and groceries, or dislike managing investment volatility for a portion of wealth.
 
-Account-based pensions, Age Pension, wages, and annuities each behave differently when markets fall. For **Annuities**, write which bills each income stream is meant to cover. Keep a cash buffer so you are not forced to sell growth assets in a downturn.
+They can disappoint if you need emergency access to the lump sum, inflation outpaces a non-indexed payment, you die early with thin residual benefits, or sales illustrations used rosy assumptions you did not challenge.
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+Do not annuitise money you might need for a home deposit to help a child, aged care accommodation, or major medical costs within the next few years.
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+## Shopping without pressure
 
-## A short story: when the fine print mattered
+Get multiple written quotes. Refuse same-day signature demands at seminars or home visits. Take the PDS home overnight. Check whether the annuity is purchased with super money (conditions of release apply) or non-super money (different tax rules).
 
-Jordan set everything up in a hurry and only noticed the wrong account after a payment bounced. Sam now screenshots every confirmation and nicknames accounts so automations are obvious. The lesson for **annuities**: slow clarity beats fast regret.
+For large sums, licensed financial advice may be worthwhile—see [What is financial advice](/topics/investing-planning/advice/what-is-financial-advice). Verify adviser credentials on the financial advisers register. Free advice at a product lunch is rarely free.
 
-## Practical steps for Annuities
+## Inflation is the quiet enemy
 
-1. Gather ID, income evidence, and any existing contracts or statements.
-2. Confirm who else is affected (partner, guarantor, dependants) before you sign.
-3. Complete the application or setup deliberately—screenshot confirmations.
-4. Turn on alerts and store reference numbers where you can find them.
+A level payment that feels comfortable in year one can feel tight in year fifteen. CPI-linked or partly indexed annuities usually start with a lower initial payment for the same purchase price. Run both illustrations: what you receive now versus estimated buying power later. If indexation uses a capped formula, ask what happens when inflation runs hotter than the cap.
 
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
+## Provider and product due diligence
 
-## When life changes
+Ask how the annuity is backed, what happens if you need aged care, and whether any cooling-off applies. For super-purchased annuities, confirm the condition of release and transfer balance cap usage. Keep quote packs; comparing them a week later is easier when seminar energy has faded.
 
-- **Life changes** — job loss, a new dependant, or a move can invalidate last year’s choice; schedule a review.
-- **Records** — keep PDFs of contracts, statements, and cancellation confirmations for at least a year.
+## Partial annuitisation example (illustrative)
+
+Imagine $400,000 in super and essentials of $1,500 a month above Age Pension. Annuitising $120,000–$150,000 might cover a large slice of that gap while leaving $250,000+ in an account-based pension for flexibility. The split is a teaching sketch—not a recommendation. Health, home ownership, and spouse coverage change the arithmetic.
+
 
 ## What to do next
 
-- Decide the next action for **annuities** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Types of retirement income](/topics/super-retirement/income-sources/types-of-retirement-income) for a related decision.
-- Read [Account-based pensions](/topics/super-retirement/income-sources/account-based-pensions) for a related decision.
-- Write your constraints on paper so a sales pitch cannot rewrite them.
+- Price the share of essential spending you wish were certain each month.
+- Request two lifetime and one fixed-term quote with CPI indexation options if available.
+- Compare death benefits and residual capital side by side in writing.
+- Keep enough capital outside the annuity for shocks and one-off goals.
+- Sleep on any decision over $50,000 before signing.

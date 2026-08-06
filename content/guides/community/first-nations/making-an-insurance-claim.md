@@ -1,83 +1,81 @@
 ---
-title: "Making an insurance claim"
-description: "Steps and documents for claims."
+title: Making an insurance claim
+description: Steps and documents for claims.
 pillar: community
 hub: first-nations
 slug: making-an-insurance-claim
 updated: "2026-08-03"
-tags: 
+tags:
   - first nations
-relatedGuides: 
+relatedGuides:
+  - community/first-nations/how-insurance-works
+  - community/first-nations/how-to-choose-insurance
   - community/first-nations/first-nations-services-that-can-help
-  - community/first-nations/bank-accounts
-  - community/first-nations/how-to-prove-your-identity
-  - community/first-nations/book-up
+  - community/publications/how-to-complain
 ---
 
-Steps and documents for claims. First Nations money guides respect community contexts while covering practical banking, debt, and consumer rights.
+After damage, theft, or an accident, the claim process rewards clear evidence and early contact. You do not need perfect paperwork on hour one—but safety and photos should come before long phone holds.
 
-## What is Making an insurance claim?
+## Safety and evidence first
 
-**Making an insurance claim** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Steps and documents for claims. First Nations money guides respect community contexts while covering practical banking, debt, and consumer rights.
+1. Make sure people are safe; call emergency services if needed
+2. Prevent further damage where safe (for example tarp a roof only if it is safe to do so)
+3. Photograph and video the scene, vehicle positions, and damaged items
+4. Get police report numbers for theft or accidents when applicable
+5. Keep damaged items until the insurer says you may dispose of them
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Do not admit fault in ways that confuse the process—stick to facts for police and insurers. Basics of what policies do: [how insurance works](/topics/community/first-nations/how-insurance-works).
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+## Contacting the insurer
 
-## How to think about the moving parts
+Find the claim number on your policy schedule or app—not from a random SMS after a disaster (disaster chasers and fake claim helpers appear quickly).
 
-Insurance decisions for **making an insurance claim** are about the claim you hope never happens. Read exclusions and waiting periods before you compare price alone. Check whether you already hold overlapping cover elsewhere.
+Be ready with:
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+- Policy number
+- What happened and when
+- Where the property or car is now
+- Photos and police numbers
+- Your bank details for any cash settlement
 
-## Upsides worth wanting
+Ask what excess applies and whether temporary accommodation or a hire car is included. Write down the claim reference.
 
-- A financial backstop after insured events
-- Clearer recovery planning when documents are ready
-- Peace of mind when sums insured match rebuild or replace costs
+A support person or community worker can sit in on calls—see [services that can help](/topics/community/first-nations/first-nations-services-that-can-help).
 
-## Risks and traps to watch
+## What to expect while you wait
 
-### Easy-to-miss costs
+Assessors, repair quotes, and parts delays are common. Ask for timeframes in writing. Keep receipts for emergency purchases the insurer asks you to make.
 
-Underinsurance and uncovered flood or temporary accommodation gaps. For **Making an insurance claim**, read the conditions that turn a good deal average.
+If you are offered a cash settlement instead of repair, make sure the amount would actually fix or replace what you lost before you accept. Choosing cover wisely beforehand reduces claim pain—[how to choose insurance](/topics/community/first-nations/how-to-choose-insurance).
 
-### Timing and people problems
+## If the claim is delayed or declined
 
-Overlapping policies that still leave a hole. If someone rushes you, that is data—slow down.
+Ask for the decline or delay reasons in writing. Check the PDS section they cite. You can:
 
-### Recovery friction
+- Provide more evidence
+- Use the insurer’s internal complaint process
+- Escalate to AFCA if unresolved—see [how to complain](/topics/community/publications/how-to-complain)
 
-Add-ons that cost more than the likely benefit. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+Do not sign blank authorities for unknown “claim managers” who knock after floods or fires.
 
-## Details that change the decision
+## Working with assessors and repairers
 
-Practical money steps should respect kinship, remote access barriers, and community obligations. For **Making an insurance claim**, prefer culturally safe services and confirm rights around banking, Centrelink interactions, and consumer credit.
+When an assessor visits, walk them through what you photographed and what changed since the event. Point out pre-existing marks only if asked—honesty matters, and so does not volunteering unrelated damage that confuses the claim. Ask whether preferred repairers are optional; in some cases you can seek your own quote.
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+Get repair scopes in writing. If a cash settlement is offered, ask a builder, mechanic, or community contact whether the figure would actually complete the job in your town—remote loading and freight can make metro quotes useless. Do not feel rushed into accepting on the spot if you need a day to check.
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+## Living arrangements while you wait
 
-## A short story: when a simple system helped
+If the home is unliveable, ask the insurer immediately about temporary accommodation benefits and any caps. Keep receipts for emergency stays the policy covers. Community housing help may bridge gaps insurance does not—contact local services in parallel so you are not waiting on a single phone line.
 
-Noah discovered after a claim that the sum insured was years out of date. Riley now reviews cover at renewal with rebuild and contents lists, not just the premium. The lesson for **making an insurance claim**: slow clarity beats fast regret.
+Keep a single notebook for claim calls: date, person, what they promised next. When staff change, your notes become the continuity the file needs.
 
-## Practical steps for Making an insurance claim
-
-1. List the risks you actually need covered versus nice-to-haves.
-2. Compare sum insured, excess, exclusions, and waiting periods.
-3. Check whether cover already exists inside super, bank, or another policy.
-4. Store policy numbers and claim phone lines offline as well as in the app.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Claims** — photograph damage, keep receipts for emergency spends, and ask about temporary accommodation cover if you cannot stay home.
+If English is a barrier on claim calls, ask for an interpreter at the start of the conversation so details about excesses and repair scopes are not lost.
 
 ## What to do next
 
-- Decide the next action for **making an insurance claim** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [First Nations services that can help](/topics/community/first-nations/first-nations-services-that-can-help) for a related decision.
-- Read [Bank accounts](/topics/community/first-nations/bank-accounts) for a related decision.
-- Tell one trusted person your plan if accountability helps you follow through.
+- Secure safety, then photograph everything before cleanup goes too far.
+- Lodge the claim with your insurer using the official number and keep the reference.
+- Diary assessor visits and keep all receipts.
+- If communication stalls, complain in writing with your claim number.
+- Escalate through AFCA if IDR does not resolve a genuine dispute.

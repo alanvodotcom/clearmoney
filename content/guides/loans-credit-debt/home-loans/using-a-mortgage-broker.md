@@ -1,84 +1,84 @@
 ---
-title: "Using a mortgage broker"
-description: "What brokers do, how they’re paid, and questions to ask."
+title: Using a mortgage broker
+description: What brokers do, how they’re paid, and questions to ask.
 pillar: loans-credit-debt
 hub: home-loans
 slug: using-a-mortgage-broker
 updated: "2026-08-03"
-tags: 
-  - home loans
-relatedGuides: 
-  - loans-credit-debt/home-loans/buying-a-house
+tags:
+  - home-loans
+relatedTools: []
+relatedGuides:
   - loans-credit-debt/home-loans/choosing-a-home-loan
-  - loans-credit-debt/home-loans/interest-only-home-loans
-  - loans-credit-debt/home-loans/mortgage-offset-accounts
+  - loans-credit-debt/home-loans/buying-a-house
+  - loans-credit-debt/home-loans/switching-home-loans
+  - loans-credit-debt/managing-debt/credit-scores-and-credit-reports
 ---
 
-What brokers do, how they’re paid, and questions to ask. A home loan is usually the largest debt most people take on—rate, fees, and buffers decide comfort.
+A mortgage broker helps you compare home loans from a panel of lenders and manages much of the application paperwork. A good broker saves time and surfaces suitable products; a poor one pushes whatever pays them best. Interview them like any professional you will rely on for a huge decision.
 
-## Using a mortgage broker: the clear version
+## What brokers do in the process
 
-**Using a mortgage broker** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. What brokers do, how they’re paid, and questions to ask. A home loan is usually the largest debt most people take on—rate, fees, and buffers decide comfort.
+Typical broker services:
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+- discuss your income, debts, deposit, and goals
+- suggest loan structures (variable, fixed, split, IO vs P&I)
+- submit applications to lenders on their panel
+- interpret valuation and conditional-approval requirements
+- coordinate toward settlement with your conveyancer
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+Brokers do **not** usually provide comprehensive financial advice across super, investing, and tax unless separately licensed for that. They also cannot guarantee approval—lenders decide.
 
-## How to think about the moving parts
+You can still talk directly to a bank. Many people do both: broker shortlist plus one preferred-bank quote.
 
-For **using a mortgage broker**, translate marketing into cash-flow reality. What is the total repayable? What happens if rates rise or hours fall? Can you still cover rent, food, and utilities after the repayment leaves?
+## How brokers are paid
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Most residential brokers are paid **commission by the lender** when a loan settles, sometimes with trail commission while the loan remains. That model can create conflicts:
 
-## Upsides worth wanting
+- preference for lenders on the panel that pay more
+- preference for larger loan sizes
+- less enthusiasm for advising you to buy less house
 
-- Access to a lump sum when cash flow cannot stretch
-- Predictable repayments if the rate and term are understood
-- A chance to refinance or restructure later if you keep records
+Ask for a clear explanation of how they are remunerated on your deal, including any fees you might pay directly. Transparent brokers answer without defensiveness. In Australia, brokers must meet best-interest duty obligations for many consumers—ask how they document that for your situation.
 
-## Risks and traps to watch
+## Questions that reveal fit
 
-### Easy-to-miss costs
+Use these in a first meeting:
 
-Focusing on weekly repayments instead of total cost. For **Using a mortgage broker**, read the conditions that turn a good deal average.
+- Which lenders are on your panel—and who is missing that I might want?
+- How many lenders will you seriously compare for me?
+- Can I see a written comparison of rate, fees, and features—not just a recommendation?
+- What is your process if my application is declined?
+- How do you handle complaints?
+- Will you help renegotiate at the end of a fixed term?
+- Are you recommending interest-only or a package fee—why, in my numbers?
 
-### Timing and people problems
+Also check their licence details through official registers and read recent reviews with scepticism toward both glowing and furious outliers.
 
-Guarantor or security risks you did not price emotionally. Put review dates in your calendar.
+Bring a summary of income, living costs, and debts. Clean credit behaviour helps—see [credit scores and credit reports](/topics/loans-credit-debt/managing-debt/credit-scores-and-credit-reports).
 
-### Recovery friction
+## Going direct to a lender instead
 
-Stacking credit products until cash flow snaps. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+Going direct can make sense when:
 
-## Details that change the decision
+- you already know the product (existing customer package)
+- you want a lender not on a broker’s panel
+- you prefer to negotiate retention without a third party
+- your situation is simple and you are confident comparing [home loan features](/topics/loans-credit-debt/home-loans/choosing-a-home-loan)
 
-Serviceability calculators and lender buffers exist because rates and life both move. For **Using a mortgage broker**, include strata, council rates, insurance, and maintenance in the ‘can we afford this’ test—not only the loan repayment. Offset and redraw features help only if you actually park spare cash there and understand access rules.
+Hybrid approach: let a broker show options, then ask your bank to beat the best written offer. Keep notes so sales stories do not overwrite figures.
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+If payment stress emerges after settlement, hardship paths still run through your lender—and free help via **1800 007 007** and [/urgent](/urgent).
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+## After settlement: what good ongoing service looks like
 
-## A short story: when timing changed the outcome
+A broker relationship should not vanish the day the loan funds. Useful follow-through includes reminding you before a fixed rate ends, helping with variation requests, and explaining how to make extra repayments without accidental break costs. Ask at the start whether annual reviews are part of their service or only available on request.
 
-Luca chose the lowest weekly repayment with a long term and paid far more interest. Morgan compared total cost and picked a shorter term they could still stress-test if hours dropped. The lesson for **using a mortgage broker**: slow clarity beats fast regret.
-
-## Practical steps for Using a mortgage broker
-
-1. Calculate the total amount repayable, not only the weekly figure.
-2. Compare at least two lenders or credit types with the same loan amount and term.
-3. Stress-test repayments if rates rise or hours drop.
-4. Avoid stacking new credit to pay old credit without a written plan.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Life changes** — job loss, a new dependant, or a move can invalidate last year’s choice; schedule a review.
-- **Records** — keep PDFs of contracts, statements, and cancellation confirmations for at least a year.
+If you feel pushed toward a particular lender every time—regardless of your numbers—get a second opinion. Your job is to understand the loan well enough to explain it to a friend; if you cannot, keep asking questions until you can.
 
 ## What to do next
 
-- Decide the next action for **using a mortgage broker** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Buying a house](/topics/loans-credit-debt/home-loans/buying-a-house) for a related decision.
-- Read [Choosing a home loan](/topics/loans-credit-debt/home-loans/choosing-a-home-loan) for a related decision.
-- Set a calendar reminder to revisit this decision after the next statement cycle.
+- Interview at least one broker and compare with a direct-lender quote.
+- Demand a written product comparison including fees and features.
+- Confirm how the broker is paid and how they manage conflicts.
+- Choose structure based on your cash flow—not on approval of the largest possible loan.

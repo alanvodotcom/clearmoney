@@ -1,83 +1,71 @@
 ---
-title: "What is a finfluencer?"
-description: "Social media money tips aren’t personal advice."
+title: What is a finfluencer?
+description: Social media money tips aren’t personal advice.
 pillar: scams-safety
 hub: online-safety
 slug: what-is-a-finfluencer
 updated: "2026-08-03"
-tags: 
+tags:
   - online safety
-relatedGuides: 
+relatedGuides:
   - scams-safety/online-safety/protect-yourself-from-scams
-  - scams-safety/online-safety/how-to-spot-a-scam-website
-  - scams-safety/online-safety/online-shopping-safety
-  - scams-safety/online-safety/identity-theft
+  - scams-safety/online-safety/ai-and-money-decisions
+  - investing-planning/warnings/dont-get-burned-by-investment-hype
+  - investing-planning/advice/what-is-financial-advice
 ---
 
-Social media money tips aren’t personal advice. If money stress is affecting essentials this week, start at [Urgent help](/urgent). Online money safety is mostly habits: slow down, verify, and never share one-time codes.
+A finfluencer is someone who builds an audience by talking about money on social media—budgeting, shares, property, crypto, “side hustles.” Some share useful education. Many blur entertainment, advertising, and high-risk tips. Treat the feed as media, not as a personal plan. If a creator is pushing you to send money to a “mentor” wallet or private platform now, step back—and use [Urgent help](/urgent) if funds already left.
 
-## Understanding What is a finfluencer
+## Entertainment is not personal advice
 
-**What is a finfluencer?** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Social media money tips aren’t personal advice. Online money safety is mostly habits: slow down, verify, and never share one-time codes.
+Australian financial advice rules distinguish general information from personal advice tailored to your circumstances. A viral reel does not know your debts, dependents, or risk capacity. Liking a creator does not create a duty of care the way a licensed adviser relationship can.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+If you need advice that considers your situation, learn what that means in [What is financial advice?](/topics/investing-planning/advice/what-is-financial-advice)—then verify licensing independently. A blue tick or large follower count is not an AFSL. Charisma is not a substitute for a statement of advice.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+## How paid promotions hide in plain sight
 
-## How to think about the moving parts
+Creators earn through:
 
-Setup quality decides whether **what is a finfluencer?** helps or nags you later. Confirm identity and contact details, choose alerts you will actually read, and decide who else can see or move money. If a salesperson is present, ask for the key numbers in writing before you sign.
+- affiliate links and referral codes
+- sponsored posts for apps, courses, or brokers
+- their own paid communities and “signals” groups
+- equity or tokens in projects they promote
+- lead-generation forms sold to sales floors
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Disclosures can be tiny, spoken quickly, or missing. Assume incentives until proven otherwise. Ask: who gets paid if I click? If the answer is unclear, do not treat the tip as neutral research. Comparison-style funnels that harvest your number after a creator’s link deserve the same caution as [Using comparison websites](/topics/scams-safety/online-safety/using-comparison-websites).
 
-## Upsides worth wanting
+## Red flags in “free” money content
 
-- Automations that reduce missed payments and late fees
-- Alerts that surface problems while they are still small
-- Shared understanding when more than one person is involved
+- Guaranteed or “set and forget” returns
+- Pressure to join a private Telegram/WhatsApp group to unlock trades
+- Screenshots of profits with no verifiable brokerage statements
+- Urgency tied to a coin, IPO, or property deal “closing tonight”
+- Requests for remote access, seed phrases, or OTPs to “help you set up”
+- Stories that shame caution as “fear mindset”
 
-## Risks and traps to watch
+Those patterns overlap with [investment hype](/topics/investing-planning/warnings/dont-get-burned-by-investment-hype) and outright scams. Never share OTPs or wallet recovery phrases with anyone who contacted you through social media.
 
-### Easy-to-miss costs
+## A healthier way to learn money skills online
 
-Set-and-forget errors (wrong account, wrong amount, wrong date). For **What is a finfluencer?**, read the conditions that turn a good deal average.
+Use creators for vocabulary and curiosity—then verify elsewhere:
 
-### Timing and people problems
+- Cross-check product claims on official regulator and issuer materials.
+- Separate budgeting ideas (often low risk to try) from leveraged or speculative products (easy to get hurt).
+- Prefer slow written explainers over live “buy now” streams.
+- Be cautious with AI-generated “tips” that circulate without sources—see [AI and money decisions](/topics/scams-safety/online-safety/ai-and-money-decisions).
+- Follow more than one voice so a single narrative cannot dominate your decisions.
 
-Giving too much authority to another person. Write down who can authorise changes.
+If a tip leads to a website that feels off, apply [Protect yourself from scams](/topics/scams-safety/online-safety/protect-yourself-from-scams) habits before you enter card details. Report suspected scam promotions to [Scamwatch](https://www.scamwatch.gov.au). When malware or account takeover is involved, use [ReportCyber](https://www.cyber.gov.au/report-and-recover/report).
 
-### Recovery friction
+Mute live trading rooms that punish questions. Communities that cannot tolerate doubt are sales floors, not classrooms.
 
-Missing fine print on fees or cooling-off rights. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+Treat referral codes as advertising. The larger the kickback for signing up, the more carefully you should verify the underlying product on an official site.
 
-## Details that change the decision
-
-Phishing works because it looks almost right. For **What is a finfluencer?**, bookmark official login pages, turn on multi-factor authentication, and treat unexpected payment requests as hostile until proven otherwise.
-
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
-
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when the fine print mattered
-
-Luca set everything up in a hurry and only noticed the wrong account after a payment bounced. Morgan now screenshots every confirmation and nicknames accounts so automations are obvious. The lesson for **what is a finfluencer?**: slow clarity beats fast regret.
-
-## Practical steps for What is a finfluencer
-
-1. Gather ID, income evidence, and any existing contracts or statements.
-2. Confirm who else is affected (partner, guarantor, dependants) before you sign.
-3. Complete the application or setup deliberately—screenshot confirmations.
-4. Turn on alerts and store reference numbers where you can find them.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Money stress now** — prioritise rent, food, utilities, and medicine, then use [Urgent help](/urgent). National Debt Helpline: 1800 007 007.
+Save screenshots of any tip that later costs you money—those help Scamwatch and your bank reconstruct the funnel from first click to final transfer.
 
 ## What to do next
 
-- Decide the next action for **what is a finfluencer?** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Protect yourself from scams](/topics/scams-safety/online-safety/protect-yourself-from-scams) for a related decision.
-- Read [How to spot a scam website](/topics/scams-safety/online-safety/how-to-spot-a-scam-website) for a related decision.
-- If essentials are at risk, open [Urgent help](/urgent) before taking on new credit.
+- Unfollow or mute accounts that mix guarantees with countdown pressure.
+- Write down one money topic you care about and find a non-social, official or textbook source for the same topic.
+- Before acting on any creator tip that moves money, verify licensing and the platform independently.
+- If you already paid into a social-media “trading” scheme, contact your bank and report via Scamwatch.

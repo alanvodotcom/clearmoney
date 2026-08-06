@@ -1,89 +1,64 @@
 ---
-title: "Switching home loans"
-description: "Refinancing steps and costs before you switch."
+title: Switching home loans
+description: Refinancing steps and costs before you switch.
 pillar: loans-credit-debt
 hub: home-loans
 slug: switching-home-loans
 updated: "2026-08-03"
-tags: 
-  - home loans
-relatedTools: 
+tags:
+  - home-loans
+relatedTools:
   - refinance-break-even
-relatedGuides: 
-  - loans-credit-debt/home-loans/buying-a-house
+relatedGuides:
   - loans-credit-debt/home-loans/choosing-a-home-loan
-  - loans-credit-debt/home-loans/interest-only-home-loans
+  - loans-credit-debt/home-loans/using-a-mortgage-broker
+  - loans-credit-debt/home-loans/pay-off-your-mortgage-faster
   - loans-credit-debt/home-loans/mortgage-offset-accounts
 ---
 
-Refinancing steps and costs before you switch. A home loan is usually the largest debt most people take on—rate, fees, and buffers decide comfort.
+Refinancing means replacing your current home loan with a new one—often to get a better rate, different features, or to consolidate debts. The win is the net saving after fees, break costs, and the risk of a declined application.
 
-## Understanding Switching home loans
+## Why people refinance
 
-**Switching home loans** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Refinancing steps and costs before you switch. A home loan is usually the largest debt most people take on—rate, fees, and buffers decide comfort.
+Common reasons include an uncompetitive rate, package fees that outweigh benefits, needing an offset or better redraw, a fixed period ending on a high revert rate, or wanting to change structure after life events. Start by asking your **current** lender for a better rate—retention teams sometimes match offers without a full refinance. Get any variation in writing.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Cash-out consolidation into the mortgage needs extra caution: stretching short-term debts over decades can cost more interest overall even when the monthly figure looks friendlier.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+## Costs that erase a lower rate
 
-## How to think about the moving parts
+Price the exit and entry: discharge fees, break costs on fixed rates, application and valuation fees, possible LMI, packaged annual fees, and your time. A rate 0.2% lower can take years to recover a large break cost. Use the [refinance break-even](/tools/refinance-break-even) calculator before you sign anything.
 
-For **switching home loans**, translate marketing into cash-flow reality. What is the total repayable? What happens if rates rise or hours fall? Can you still cover rent, food, and utilities after the repayment leaves?
+## Break-even before you switch
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Break-even asks how many months of lower repayments (or interest) until cumulative savings exceed switching costs. If you might sell or refinance again soon, a long break-even is a poor fit. Also stress-test the new loan at higher rates and confirm features you rely on—offset, redraw, extra repayment rights—are included. See [choosing a home loan](/topics/loans-credit-debt/home-loans/choosing-a-home-loan).
 
-ClearMoney calculators that pair with this topic: [Refinance Break Even](/tools/refinance-break-even). Use them to turn guesses into numbers before you commit.
+## The application and discharge process
 
-## Upsides worth wanting
+1. Compare offers (broker shortlist and/or carefully sequenced direct applications).
+2. Gather income, ID, and liability documents.
+3. Obtain formal approval—not only an indicative quote.
+4. Sign new documents and book settlement/discharge with both lenders.
+5. Confirm the old loan closes and the new offset/redraw is set up correctly.
+6. Redirect salary and bill payments on day one.
 
-- Access to a lump sum when cash flow cannot stretch
-- Predictable repayments if the rate and term are understood
-- A chance to refinance or restructure later if you keep records
+Do not stop paying the old loan until the refinance settles. If approval looks shaky, fix credit use and documentation first. For broker help, read [using a mortgage broker](/topics/loans-credit-debt/home-loans/using-a-mortgage-broker).
 
-## Risks and traps to watch
+## Timing your switch
 
-### Easy-to-miss costs
+Fixed-rate end dates, package renewal fees, and upcoming job changes all affect when an application looks strongest. If your fixed period ends in three months, start comparing now so you are not rolled to a high revert rate by default. Ask for a discharge fee quote early—surprises there change break-even maths.
 
-Focusing on weekly repayments instead of total cost. For **Switching home loans**, read the conditions that turn a good deal average.
+If you are refinancing under payment stress, contact hardship teams and **1800 007 007**—a declined refinance without a plan can worsen things. Use [/urgent](/urgent) when essentials are at risk.
 
-### Timing and people problems
+## Documents lenders usually want
 
-Guarantor or security risks you did not price emotionally. Write down who can authorise changes.
+Expect to supply recent payslips or tax returns, ID, statements for existing loans and cards, and details of living costs. Self-employed applicants often need longer income history. Clean up unused credit-card limits beforehand if they hurt serviceability. Incomplete packs slow approvals and can leave you stranded between lenders—start gathering papers the week you request retention quotes, not the week before settlement.
 
-### Recovery friction
-
-Stacking credit products until cash flow snaps. Keep PDFs and screenshots; verbal promises are hard to enforce later.
-
-## Details that change the decision
-
-Serviceability calculators and lender buffers exist because rates and life both move. For **Switching home loans**, include strata, council rates, insurance, and maintenance in the ‘can we afford this’ test—not only the loan repayment. Offset and redraw features help only if you actually park spare cash there and understand access rules.
-
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
-
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when the fine print mattered
-
-Aisha chose the lowest weekly repayment with a long term and paid far more interest. Taylor compared total cost and picked a shorter term they could still stress-test if hours dropped. The lesson for **switching home loans**: slow clarity beats fast regret.
-
-## Practical steps for Switching home loans
-
-1. Calculate the total amount repayable, not only the weekly figure.
-2. Compare at least two lenders or credit types with the same loan amount and term.
-3. Stress-test repayments if rates rise or hours drop.
-4. Avoid stacking new credit to pay old credit without a written plan.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Life changes** — job loss, a new dependant, or a move can invalidate last year’s choice; schedule a review.
-- **Records** — keep PDFs of contracts, statements, and cancellation confirmations for at least a year.
+After settlement, check the first two new statements carefully: rate, fees, offset linkage, and repayment amount. Errors are easier to fix in week one than month six. If the new lender’s app or offset setup is confusing, call them before your first payday so salary landing does not miss the loan. Keep the old loan’s final discharge letter forever—it proves the previous mortgage closed cleanly if a credit report later looks messy.
 
 ## What to do next
 
-- Decide the next action for **switching home loans** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Buying a house](/topics/loans-credit-debt/home-loans/buying-a-house) for a related decision.
-- Read [Choosing a home loan](/topics/loans-credit-debt/home-loans/choosing-a-home-loan) for a related decision.
-- Run the numbers with [Refinance Break Even](/tools/refinance-break-even).
-- Write your constraints on paper so a sales pitch cannot rewrite them.
+- Request a retention offer from your current lender in writing.
+- Run costs through [refinance break-even](/tools/refinance-break-even) before you apply.
+- Shortlist products that include the features you will actually use.
+- Only start a full application when documents and credit behaviour are refinance-ready.
+- After settlement, verify the first statement matches the offer you accepted.

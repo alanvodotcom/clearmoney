@@ -1,83 +1,70 @@
 ---
-title: "Using comparison websites"
-description: "Sponsored rankings and lead-gen follow-ups."
+title: Using comparison websites
+description: Sponsored rankings and lead-gen follow-ups.
 pillar: scams-safety
 hub: online-safety
 slug: using-comparison-websites
 updated: "2026-08-03"
-tags: 
+tags:
   - online safety
-relatedGuides: 
+relatedGuides:
   - scams-safety/online-safety/protect-yourself-from-scams
   - scams-safety/online-safety/how-to-spot-a-scam-website
-  - scams-safety/online-safety/online-shopping-safety
-  - scams-safety/online-safety/identity-theft
+  - scams-safety/online-safety/what-is-a-finfluencer
+  - investing-planning/warnings/lead-generation-and-how-it-works
 ---
 
-Sponsored rankings and lead-gen follow-ups. If money stress is affecting essentials this week, start at [Urgent help](/urgent). Online money safety is mostly habits: slow down, verify, and never share one-time codes.
+Comparison sites can surface options quickly. They can also sell your details, rank partners who pay more, and flood you with sales calls. Use them as a shortlist tool—not as a verdict. If a “comparison” pitch is pushing you to transfer investment money today, pause and use [Urgent help](/urgent) if pressure is already costing you sleep or cash.
 
-## Using comparison websites: the clear version
+## What the ranking usually means
 
-**Using comparison websites** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Sponsored rankings and lead-gen follow-ups. Online money safety is mostly habits: slow down, verify, and never share one-time codes.
+Many tables mix:
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+- **Paid placements** — partners pay for prominence or “featured” labels
+- **Filtered panels** — not every lender, insurer, or fund in the market
+- **Assumptions** — rates and premiums based on a profile that may not match yours
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+Read the fine print under the table. “We compare X brands” does not mean “we found the cheapest for you.” Treat the top row as a marketing position until you verify price and features on the provider’s own site.
 
-## How to think about the moving parts
+## Lead forms and the calls that follow
 
-Setup quality decides whether **using comparison websites** helps or nags you later. Confirm identity and contact details, choose alerts you will actually read, and decide who else can see or move money. If a salesperson is present, ask for the key numbers in writing before you sign.
+When you enter a mobile number or email to “see your results” or “get a callback,” you are often generating a lead. That lead can be sold or shared with multiple sales teams. Expect:
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+- calls within minutes
+- follow-ups for weeks
+- pressure to apply before you have compared elsewhere
 
-## Upsides worth wanting
+You can still use comparison tools without handing over contact details when the site allows browsing first. If you must submit details, use a dedicated email address and be ready to say no firmly. For how lead generation works more broadly, see [Lead generation and how it works](/topics/investing-planning/warnings/lead-generation-and-how-it-works).
 
-- Automations that reduce missed payments and late fees
-- Alerts that surface problems while they are still small
-- Shared understanding when more than one person is involved
+Never share OTPs, banking passwords, or remote-access codes with someone who called after a comparison form. Real product providers do not need those to quote you.
 
-## Risks and traps to watch
+## How to use a comparison site without outsourcing the decision
 
-### Easy-to-miss costs
+1. Note two or three candidates and the headline price.
+2. Open each provider’s official site in a new tab you typed or bookmarked.
+3. Re-run the quote with your real details.
+4. Compare exclusions, exit fees, waiting periods, or comparison rates—not only the big number.
+5. Ignore countdown timers and “only three left at this rate” banners.
 
-Set-and-forget errors (wrong account, wrong amount, wrong date). For **Using comparison websites**, read the conditions that turn a good deal average.
+If a site looks like a clone of a known brand, apply [How to spot a scam website](/topics/scams-safety/online-safety/how-to-spot-a-scam-website) checks before you enter ID or payment data.
 
-### Timing and people problems
+## When comparison is the wrong tool
 
-Giving too much authority to another person. Put review dates in your calendar.
+Comparison tables struggle with complex advice (retirement strategy, SMSF structure, personal insurance needs). Social “experts” who blend comparison screenshots with buy-now pitches are not a substitute for licensed advice either—see [What is a finfluencer?](/topics/scams-safety/online-safety/what-is-a-finfluencer).
 
-### Recovery friction
+Also beware “comparators” that only funnel into one high-commission product, or investment funnels that ask you to fund a trading account to “unlock” the comparison. That pattern belongs with scams more than shopping.
 
-Missing fine print on fees or cooling-off rights. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+Insurance and credit quotes change with your answers—small profile tweaks can reshuffle the table. Re-enter details carefully on the provider site so you are not buying a price that never applied to you.
 
-## Details that change the decision
+Report deceptive sites or investment cold-calls that started from a form to [Scamwatch](https://www.scamwatch.gov.au). If a downloadable “comparer” installed unwanted software, use [ReportCyber](https://www.cyber.gov.au/report-and-recover/report). Everyday scam habits still apply: [Protect yourself from scams](/topics/scams-safety/online-safety/protect-yourself-from-scams).
 
-Phishing works because it looks almost right. For **Using comparison websites**, bookmark official login pages, turn on multi-factor authentication, and treat unexpected payment requests as hostile until proven otherwise.
+Keep a simple rule: the comparison site shortlists; the provider site confirms. Never apply solely inside a lead-gen interstitial.
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
-
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when timing changed the outcome
-
-Noah set everything up in a hurry and only noticed the wrong account after a payment bounced. Riley now screenshots every confirmation and nicknames accounts so automations are obvious. The lesson for **using comparison websites**: slow clarity beats fast regret.
-
-## Practical steps for Using comparison websites
-
-1. Gather ID, income evidence, and any existing contracts or statements.
-2. Confirm who else is affected (partner, guarantor, dependants) before you sign.
-3. Complete the application or setup deliberately—screenshot confirmations.
-4. Turn on alerts and store reference numbers where you can find them.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Money stress now** — prioritise rent, food, utilities, and medicine, then use [Urgent help](/urgent). National Debt Helpline: 1800 007 007.
+If calls start within minutes of a form, ask every caller which company bought your lead. Refuse to discuss banking passwords or OTPs with any of them.
 
 ## What to do next
 
-- Decide the next action for **using comparison websites** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Protect yourself from scams](/topics/scams-safety/online-safety/protect-yourself-from-scams) for a related decision.
-- Read [How to spot a scam website](/topics/scams-safety/online-safety/how-to-spot-a-scam-website) for a related decision.
-- If essentials are at risk, open [Urgent help](/urgent) before taking on new credit.
+- On your next comparison search, refuse the lead form until you have written down candidates yourself.
+- Re-quote finalists on official provider sites before you apply.
+- Opt out of marketing calls and keep a do-not-engage rule for anyone asking for OTPs.
+- If a comparison journey turned into an investment transfer demand, stop and report via Scamwatch.

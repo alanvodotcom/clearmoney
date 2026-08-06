@@ -5,79 +5,55 @@ pillar: insurance
 hub: natural-disasters
 slug: what-to-do-after-a-natural-disaster
 updated: "2026-08-03"
-tags: 
+tags:
   - natural disasters
-relatedGuides: 
+relatedGuides:
   - insurance/natural-disasters/how-to-prepare-for-a-natural-disaster
   - insurance/natural-disasters/recovering-from-a-natural-disaster
   - insurance/natural-disasters/be-aware-of-disaster-chasers
+  - insurance/home-insurance/how-to-make-a-home-insurance-claim
 ---
 
-Safety first, then insurers and support services. If money stress is affecting essentials this week, start at [Urgent help](/urgent). Disasters scramble cash flow fast: documents, temporary housing, and insurance claims need a simple order of operations.
+In the first days after a flood, fire, or cyclone, sequence beats multitasking. People first, hazards second, then insurers and support payments. Money decisions made while exhausted—large cash deposits to strangers, signing blank scopes—are how disasters get more expensive.
 
-## Understanding What to do after a natural disaster
+## Safety and access before paperwork
 
-**What to do after a natural disaster** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Safety first, then insurers and support services. Disasters scramble cash flow fast: documents, temporary housing, and insurance claims need a simple order of operations.
+Follow emergency service instructions on returning. Watch for unstable structures, contaminated water, asbestos, live wires, and gas smells. Use photos from the street if you cannot enter safely. Register with local evacuation or recovery centres so you appear on support lists and can hear about clean-up schedules.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+If someone is missing or hurt, that outranks claims. If cash for food and fuel is already broken, open [Urgent help](/urgent) and ask recovery workers about emergency relief—do not wait for an insurance assessor before you eat or fill a script.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+Keep children and pets away from debris piles. Mould and silt create health costs that compound financial stress later.
 
-## How to think about the moving parts
+## Contact insurers with facts, not finished quotes
 
-Setup quality decides whether **what to do after a natural disaster** helps or nags you later. Confirm identity and contact details, choose alerts you will actually read, and decide who else can see or move money. If a salesperson is present, ask for the key numbers in writing before you sign.
+Call your home, contents, and car insurers once you can share a basic damage description. Get claim numbers for each policy. Ask about emergency make-safe authorisations, temporary accommodation benefits, and what not to discard yet. Detailed claim technique sits in [how to make a home insurance claim](/topics/insurance/home-insurance/how-to-make-a-home-insurance-claim); the goal on day one is to open the file and prevent further loss.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Photograph every room and the exterior before major clean-ups when safe. Keep ruined goods until the insurer agrees, except where health authorities require disposal—retain samples or clear photos and a simple list of what went to landfill.
 
-## Upsides worth wanting
+If flood versus storm classification might be contested, write down timing, water paths, and neighbouring property observations while memory is fresh. Those notes matter weeks later when hydrology arguments start.
 
-- Automations that reduce missed payments and late fees
-- Alerts that surface problems while they are still small
-- Shared understanding when more than one person is involved
+## Government, charity, and banking triage
 
-## Risks and traps to watch
+Disaster relief grants, Red Cross or local charity payments, and council clean-up programs operate on different clocks than insurance. Apply early with ID and address proof. Tell your bank you are affected—hardship arrangements on mortgages, cards, and personal loans can pause pressure while claims crawl.
 
-### Easy-to-miss costs
+Keep a single notebook (or phone note) of every agency, reference number, promise, and deadline. Fatigue makes duplicate stories and missed callbacks likely; a log reduces errors and arguments inside the household about “who was supposed to call.”
 
-Set-and-forget errors (wrong account, wrong amount, wrong date). For **What to do after a natural disaster**, read the conditions that turn a good deal average.
+Avoid door-knock contractors offering instant rebuilds for large deposits. Verify anyone later using [disaster chasers](/topics/insurance/natural-disasters/be-aware-of-disaster-chasers) guidance. Your insurer’s make-safe panel is usually the safer first path for urgent tarps and drying.
 
-### Timing and people problems
+## Stabilise living costs for the next fortnight
 
-Giving too much authority to another person. Write down who can authorise changes.
+Track temporary accommodation against policy caps from day one. Share housing with family if that preserves cash—and set a review date so informal stays do not silently break relationships. Divert non-essential direct debits. If income stopped because your workplace flooded or burned, ask about leave, disaster payments, and any income protection waiting period you must fund yourself.
 
-### Recovery friction
+Tell your employer and school what you can about timelines. Uncertainty is normal; radio silence creates secondary problems with pay and care arrangements.
 
-Missing fine print on fees or cooling-off rights. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+When the first fortnight stabilises, shift energy to the longer arc in [recovering from a natural disaster](/topics/insurance/natural-disasters/recovering-from-a-natural-disaster).
 
-## Details that change the decision
-
-In the first 72 hours, safety and documents outrank perfect paperwork. For **What to do after a natural disaster**, photograph damage, keep emergency receipts, and contact insurers early. Watch for contractors demanding large upfront cash without written scope.
-
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
-
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when the fine print mattered
-
-Noah set everything up in a hurry and only noticed the wrong account after a payment bounced. Riley now screenshots every confirmation and nicknames accounts so automations are obvious. The lesson for **what to do after a natural disaster**: slow clarity beats fast regret.
-
-## Practical steps for What to do after a natural disaster
-
-1. Gather ID, income evidence, and any existing contracts or statements.
-2. Confirm who else is affected (partner, guarantor, dependants) before you sign.
-3. Complete the application or setup deliberately—screenshot confirmations.
-4. Turn on alerts and store reference numbers where you can find them.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Money stress now** — prioritise rent, food, utilities, and medicine, then use [Urgent help](/urgent). National Debt Helpline: 1800 007 007.
-- **Claims** — photograph damage, keep receipts for emergency spends, and ask about temporary accommodation cover if you cannot stay home.
+If phone batteries are dying and towers are weak, write claim numbers and case-worker names on paper in the go-bag. Digital-only notes fail when you most need them.
 
 ## What to do next
 
-- Decide the next action for **what to do after a natural disaster** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [How to prepare for a natural disaster](/topics/insurance/natural-disasters/how-to-prepare-for-a-natural-disaster) for a related decision.
-- Read [Recovering from a natural disaster](/topics/insurance/natural-disasters/recovering-from-a-natural-disaster) for a related decision.
-- If essentials are at risk, open [Urgent help](/urgent) before taking on new credit.
+- Only re-enter when authorities say it is safe; photograph damage before major disposal.
+- Lodge insurer claim numbers and ask about make-safe and temporary accommodation immediately.
+- Register for local recovery support and tell your bank you need hardship options.
+- Centralise reference numbers and refuse pressure sales on the nature strip.
+- Revisit cash flow each few days until income and housing feel steady enough to plan rebuilds.

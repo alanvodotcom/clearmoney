@@ -1,83 +1,79 @@
 ---
-title: "Claim money owed to a deregistered company"
-description: "ASIC-held money from deregistered companies."
+title: Claim money owed to a deregistered company
+description: ASIC-held money from deregistered companies.
 pillar: community
 hub: unclaimed-money
 slug: claim-money-owed-to-a-deregistered-company
 updated: "2026-08-03"
-tags: 
+tags:
   - unclaimed money
-relatedGuides: 
-  - community/unclaimed-money/claim-money-from-bank-accounts-and-bank-dividends
+relatedGuides:
   - community/unclaimed-money/claim-money-from-shares-and-investments
-  - community/unclaimed-money/claim-money-from-life-insurance-policies
+  - community/unclaimed-money/proof-of-ownership-for-unclaimed-money
   - community/unclaimed-money/money-held-by-state-governments
+  - community/unclaimed-money/claim-money-from-bank-accounts-and-bank-dividends
 ---
 
-ASIC-held money from deregistered companies. Unclaimed money sits with governments and companies when contact details go stale—worth a periodic search.
+When a company is deregistered, leftover property—including money—can vest in ASIC. If that company owed you money, or you were entitled to funds connected to it, there is a formal pathway to ask for those amounts to be paid out. It is paperwork-heavy, but people do recover funds this way.
 
-## Claim money owed to a deregistered company: the clear version
+## What deregistration means for money owed
 
-**Claim money owed to a deregistered company** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. ASIC-held money from deregistered companies. Unclaimed money sits with governments and companies when contact details go stale—worth a periodic search.
+Deregistration ends a company’s legal existence as a going concern. Assets that were not dealt with properly beforehand may vest in ASIC. That can include bank balances, refunds, or other amounts that would otherwise have been company property.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+From a claimant’s point of view, you are not chasing a trading business for an invoice. You are applying for release of money that ASIC holds because of deregistration. The process and evidence standard differ from an ordinary commercial debt collection.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+If the company is only in liquidation or administration—not yet deregistered—the liquidator or administrator is usually the right contact, not the deregistered-company money pathway.
 
-## How to think about the moving parts
+## ASIC’s role in holding funds
 
-Insurance decisions for **claim money owed to a deregistered company** are about the claim you hope never happens. Read exclusions and waiting periods before you compare price alone. Check whether you already hold overlapping cover elsewhere.
+ASIC publishes information about property of deregistered companies and how to apply for it. Applications typically ask you to:
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+- Identify the company (name and ACN help enormously)
+- Explain your interest—why the money should be paid to you
+- Provide documents that prove the debt, entitlement, or ownership trail
+- Accept that ASIC will assess whether the claim is established
 
-## Upsides worth wanting
+ASIC is not your debt collector against third parties. It considers whether funds vested in it should be released to a person who shows a proper claim.
 
-- A financial backstop after insured events
-- Clearer recovery planning when documents are ready
-- Peace of mind when sums insured match rebuild or replace costs
+Search company records first so you are not guessing the ACN. Wrong-entity applications waste months.
 
-## Risks and traps to watch
+## Who can claim and in what capacity
 
-### Easy-to-miss costs
+Typical claimants include:
 
-Underinsurance and uncovered flood or temporary accommodation gaps. For **Claim money owed to a deregistered company**, read the conditions that turn a good deal average.
+- Creditors with clear evidence the deregistered company owed them money
+- Shareholders entitled to surplus in limited situations
+- People entitled to specific trust or client money that sat with the company
+- Legal personal representatives claiming on behalf of an estate
 
-### Timing and people problems
+Capacity matters. Claiming “as a customer who never got a refund” needs invoices, bank records, and correspondence—not only a memory. Claiming as executor needs probate or equivalent authority documents. See [proof of ownership for unclaimed money](/topics/community/unclaimed-money/proof-of-ownership-for-unclaimed-money) for the kinds of evidence agencies expect.
 
-Overlapping policies that still leave a hole. Put review dates in your calendar.
+If multiple people might claim the same pot, expect ASIC to require clarity about priority and authority.
 
-### Recovery friction
+## Expect delays and proof requests
 
-Add-ons that cost more than the likely benefit. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+These applications are slow compared with reclaiming a simple dormant bank balance. Build a file:
 
-## Details that change the decision
+- Company extract showing deregistration
+- Contracts, invoices, statements of account
+- Proof of payments you made
+- Court judgments or settlement deeds if they exist
+- Identity documents and authority papers
 
-People move, change names, and lose statements. For **Claim money owed to a deregistered company**, search periodically with previous addresses and name variants. Keep tax file and ID details ready so claims are not stuck on verification.
+Answer follow-up questions completely in one reply where you can. Partial responses restart the clock. Keep copies of everything lodged.
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+If your money is held by a **state** program instead (for example certain wages or bonds), use [money held by state governments](/topics/community/unclaimed-money/money-held-by-state-governments) rather than forcing the fact pattern into a deregistered-company application.
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+## When reinstate-the-company advice appears
 
-## A short story: when timing changed the outcome
+Sometimes advisers suggest reinstating a deregistered company to pursue assets. That path has costs and legal complexity. Get independent legal advice before paying anyone to reinstate entities—especially if ASIC already holds a defined amount you could claim more directly.
 
-Priya discovered after a claim that the sum insured was years out of date. Alex now reviews cover at renewal with rebuild and contents lists, not just the premium. The lesson for **claim money owed to a deregistered company**: slow clarity beats fast regret.
-
-## Practical steps for Claim money owed to a deregistered company
-
-1. List the risks you actually need covered versus nice-to-haves.
-2. Compare sum insured, excess, exclusions, and waiting periods.
-3. Check whether cover already exists inside super, bank, or another policy.
-4. Store policy numbers and claim phone lines offline as well as in the app.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Claims** — photograph damage, keep receipts for emergency spends, and ask about temporary accommodation cover if you cannot stay home.
+Photograph or PDF every page you send ASIC, including the back of cheques or statements. Resending a complete pack is faster than reconstructing one from memory.
 
 ## What to do next
 
-- Decide the next action for **claim money owed to a deregistered company** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Claim money from bank accounts and bank dividends](/topics/community/unclaimed-money/claim-money-from-bank-accounts-and-bank-dividends) for a related decision.
-- Read [Claim money from shares and investments](/topics/community/unclaimed-money/claim-money-from-shares-and-investments) for a related decision.
-- Set a calendar reminder to revisit this decision after the next statement cycle.
+- Confirm the company is deregistered and note the ACN from an official company search.
+- Decide whether you claim as creditor, shareholder, client, or estate representative.
+- Assemble invoices, contracts, and payment proof before you apply.
+- Follow ASIC’s published application process for property of deregistered companies.
+- Use [proof of ownership for unclaimed money](/topics/community/unclaimed-money/proof-of-ownership-for-unclaimed-money) to stress-test your evidence pack.

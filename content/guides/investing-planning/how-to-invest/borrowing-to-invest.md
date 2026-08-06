@@ -5,80 +5,72 @@ pillar: investing-planning
 hub: how-to-invest
 slug: borrowing-to-invest
 updated: "2026-08-03"
-tags: 
+tags:
   - how to invest
-relatedGuides: 
+relatedGuides:
   - investing-planning/how-to-invest/develop-an-investing-plan
   - investing-planning/how-to-invest/choose-your-investments
   - investing-planning/how-to-invest/diversification
   - investing-planning/how-to-invest/track-your-investments
 ---
 
-Leverage magnifies gains and losses—know the risks. Investing is trading certainty for the chance of growth. Time horizon and fees matter more than tips.
+Borrowing to invest—sometimes called gearing—means using a loan so you control a larger investment than your cash alone would buy. Gains can be larger. Losses, interest costs, and forced sales can be larger too. For many households, skipping leverage is the wiser default. This page is general information, not credit or investment advice.
 
-## Borrowing to invest: the clear version
+## Common forms Australians meet
 
-**Borrowing to invest** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Leverage magnifies gains and losses—know the risks. Investing is trading certainty for the chance of growth. Time horizon and fees matter more than tips.
+- **Margin loans** secured against shares or managed funds
+- **Investment property loans** (a specialised form of leverage—see [buying an investment property](/topics/investing-planning/property/buying-an-investment-property))
+- **Borrowing inside complex products** or CFDs (often high risk—see [CFDs](/topics/investing-planning/warnings/contracts-for-difference-cfds))
+- Informal borrowing (redraw, personal loan, credit card) used to buy assets
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+The last category is especially dangerous: short-term consumer rates funding long-term market risk.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+## The maths without the sales gloss
 
-## How to think about the moving parts
+If assets rise more than your after-tax interest cost, leverage can help. If assets fall, you can owe interest on a shrinking pile—and still need cash for repayments. Lenders may issue margin calls when security values drop, forcing you to deposit cash or sell at ugly prices.
 
-With **borrowing to invest**, match the product to your time horizon. Money you may need within a few years usually should not sit in volatile assets. Fees and diversification matter more than a single tip from social media.
+Interest rates change. A strategy that “worked” in a cheap-money decade can strain household cash flow when rates rise or rents and dividends disappoint at the same time.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Tax treatment of interest deductibility depends on your situation and how borrowings are used. Do not treat seminar examples as your outcome. Speak with a registered tax professional if you need personal tax information.
 
-## Upsides worth wanting
+## Stress tests worth running on paper
 
-- Potential growth above cash over long periods
-- Diversification that reduces single-company drama
-- Alignment with goals like retirement or a distant home deposit
+Before any geared strategy, write answers to:
 
-## Risks and traps to watch
+1. What happens if the asset falls 30% and stays there for three years?
+2. Can I service interest from salary alone if distributions stop?
+3. What is my exit plan if the lender changes LVR rules?
+4. Would a job loss still leave essentials covered?
+5. Am I already concentrated (employer shares, one property, one sector)?
 
-### Easy-to-miss costs
+If those answers rely on hope or on selling the family home in a hurry, the structure is too tight.
 
-Buying under social pressure or FOMO. For **Borrowing to invest**, read the conditions that turn a good deal average.
+## Behavioural traps
 
-### Timing and people problems
+Leverage amplifies FOMO. People borrow after a strong run, then meet volatility with debt service hanging over them. Others use gearing to feel “in the market” before they have an emergency fund or high-interest consumer debt under control—backwards order for most plans. Sort cash flow and [investing plan](/topics/investing-planning/how-to-invest/develop-an-investing-plan) basics first.
 
-Concentrated bets and high fees. Put review dates in your calendar.
+Finfluencer content that normalises “other people’s money” rarely shows margin calls or divorce-era forced sales. Treat swagger as entertainment, not a template ([finfluencers](/topics/scams-safety/online-safety/what-is-a-finfluencer)).
 
-### Recovery friction
+## Scams and unsuitable leverage products
 
-Needing the money earlier than the investment can recover. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+Unlicensed platforms offering leveraged trading, crypto-backed loans, or “guaranteed double-digit geared returns” are frequent scam vectors. Verify any credit provider and investment issuer yourself ([check before you invest](/topics/scams-safety/check-report/check-before-you-invest)). If you have already transferred funds under pressure, use [/urgent](/urgent) and [scam response guidance](/topics/scams-safety/check-report/what-to-do-if-youve-been-scammed).
 
-## Details that change the decision
+Borrowing to chase a hot tip from a stranger combines credit risk with [investment scam](/topics/scams-safety/financial-scams/investment-scams) patterns—decline both.
 
-Write the purpose of the money before you pick a product. For **Borrowing to invest**, if the horizon is short, capital stability usually beats growth stories. Dollar-cost averaging and broad diversification are boring on purpose—they reduce the chance that one tip defines your outcome.
+## Alternatives that still build wealth
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+Many people reach goals faster by increasing regular contributions into diversified assets, cutting fees, and avoiding high-interest debts—without a loan attached to markets. [Diversification](/topics/investing-planning/how-to-invest/diversification) and time in markets matter more than maximum dollars controlled this year.
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+If you already hold a margin loan, know your LVR, interest rate type, and buffer. [Track](/topics/investing-planning/how-to-invest/track-your-investments) security values and set personal tripwires well above the lender’s formal margin-call line.
 
-## A short story: when timing changed the outcome
+## When professional help is warranted
 
-Sofia bought after a viral tip and sold in a panic three weeks later. Casey wrote a one-page plan: horizon, fee budget, and a rule not to check prices daily. The lesson for **borrowing to invest**: slow clarity beats fast regret.
-
-## Practical steps for Borrowing to invest
-
-1. Define the time horizon and what would force you to sell early.
-2. List fees (management, brokerage, advice) in dollars per year if you can.
-3. Diversify enough that one tip cannot wreck the plan.
-4. Ignore urgency: legitimate offers survive a night’s sleep.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Life changes** — job loss, a new dependant, or a move can invalidate last year’s choice; schedule a review.
-- **Records** — keep PDFs of contracts, statements, and cancellation confirmations for at least a year.
+Personal advice may be relevant if your situation is complex (multiple properties, SMSF, large ESS holdings). Confirm any adviser is authorised and understand how they are paid—see [choosing a financial adviser](/topics/investing-planning/advice/choosing-a-financial-adviser). Advice fees are a cost; unsuitable leverage is often a larger one.
 
 ## What to do next
 
-- Decide the next action for **borrowing to invest** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Develop an investing plan](/topics/investing-planning/how-to-invest/develop-an-investing-plan) for a related decision.
-- Read [Choose your investments](/topics/investing-planning/how-to-invest/choose-your-investments) for a related decision.
-- Set a calendar reminder to revisit this decision after the next statement cycle.
+- Decide whether unlevered investing already meets your goals before exploring any loan.
+- If you still consider gearing, write stress-test answers for rate rises, asset falls, and income loss.
+- Avoid consumer credit and unlicensed leveraged platforms; verify via [check before you invest](/topics/scams-safety/check-report/check-before-you-invest).
+- Keep emergency cash separate from geared positions.
+- Review any existing loan terms and buffers as part of [track your investments](/topics/investing-planning/how-to-invest/track-your-investments).

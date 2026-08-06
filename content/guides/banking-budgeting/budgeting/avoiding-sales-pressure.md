@@ -1,84 +1,84 @@
 ---
-title: "Avoiding sales pressure"
-description: "Cooling-off rights and tactics when someone pushes a sale."
+title: Avoiding sales pressure
+description: Cooling-off rights and tactics when someone pushes a sale.
 pillar: banking-budgeting
 hub: budgeting
 slug: avoiding-sales-pressure
 updated: "2026-08-03"
-tags: 
+tags:
   - budgeting
-relatedGuides: 
+  - consumer
+relatedGuides:
   - banking-budgeting/budgeting/how-to-do-a-budget
   - banking-budgeting/budgeting/track-your-spending
   - banking-budgeting/budgeting/cost-of-living-help
-  - banking-budgeting/budgeting/managing-on-a-low-income
+  - banking-budgeting/saving/simple-ways-to-save-money
 ---
 
-Cooling-off rights and tactics when someone pushes a sale. A budget is a map of cash in and cash out—not a personality test. Numbers first, judgement later.
+Sales pressure thrives on urgency, isolation, and politeness. You are allowed to slow down, ask for numbers in writing, and walk away—especially when the deal is at your door, on the phone, or in a shopping-centre kiosk.
 
-## What is Avoiding sales pressure?
+## Pressure tactics you will recognise
 
-**Avoiding sales pressure** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Cooling-off rights and tactics when someone pushes a sale. A budget is a map of cash in and cash out—not a personality test. Numbers first, judgement later.
+Common patterns:
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+- **Today-only pricing** — the discount evaporates if you leave, so you cannot compare.
+- **Authority and jargon** — “as required by the energy market” or “bank-approved” language that sounds official but is sales copy.
+- **Friendship and guilt** — long chats, compliments, or “I’ve already done the paperwork for you.”
+- **Fear** — “your current plan is illegal / unsafe / about to fine you” without documents you can verify.
+- **Gift with a hook** — a free item that becomes a paid subscription or finance agreement.
+- **Multiple signers** — rushing a second person to co-sign before either of you has read the contract.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+If the pitch targets older relatives, people in hardship, or anyone who feels rude saying no, treat that as a warning light—not a reason to hurry.
 
-## How to think about the moving parts
+Before any non-essential purchase, check whether it fits your [budget](/topics/banking-budgeting/budgeting/how-to-do-a-budget). If you cannot name which category pays for it, you are not ready to sign.
 
-Setup quality decides whether **avoiding sales pressure** helps or nags you later. Confirm identity and contact details, choose alerts you will actually read, and decide who else can see or move money. If a salesperson is present, ask for the key numbers in writing before you sign.
+## Cooling-off and cancellation rights
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Australian Consumer Law and industry rules give unsolicited sales extra protections. Details depend on how the sale happened, so verify for your situation—but know the headlines:
 
-## Upsides worth wanting
+- **Unsolicited consumer agreements** (door-to-door and some telemarketing) often come with a **cooling-off period**—commonly 10 business days—during which you can cancel in writing without penalty. Longer periods can apply in some cases.
+- **Cooling-off is not universal** — many shop purchases, online clicks you initiate, and cars bought at a yard work differently. Do not assume every regret has a free exit.
+- **You must usually cancel in writing** — email or letter with the date, contract details, and a clear “I cancel.” Keep a copy and proof of sending.
+- **Suppliers must not take certain payments during cooling-off** for some unsolicited agreements—ask what they collected and when it will be refunded.
+- **Linked credit** — if finance was sold with the product, ask how cancellation affects the loan; do not ignore the credit contract.
 
-- Automations that reduce missed payments and late fees
-- Alerts that surface problems while they are still small
-- Shared understanding when more than one person is involved
+Energy, telco, and gym agreements often have their own exit rules and early-termination fees. Read the termination section before the glossy front page.
 
-## Risks and traps to watch
+If you suspect a scam rather than aggressive sales, report via Scamwatch and use [/urgent](/urgent) for next steps.
 
-### Easy-to-miss costs
+## Scripts that buy you time
 
-Set-and-forget errors (wrong account, wrong amount, wrong date). For **Avoiding sales pressure**, read the conditions that turn a good deal average.
+Use plain sentences. You do not owe a debate:
 
-### Timing and people problems
+- “I don’t make money decisions on the door. Leave the paperwork and I’ll call you.”
+- “Email the total cost, contract length, and cancellation fees. I won’t decide on the phone.”
+- “I’m not the only decision-maker. Goodbye.”
+- “No thank you” — repeated once, then close the door or hang up.
 
-Giving too much authority to another person. If someone rushes you, that is data—slow down.
+Practical habits:
 
-### Recovery friction
+- Put a “no door-to-door” sticker up if your building or household wants one.
+- Register on the Do Not Call Register for telemarketing you did not consent to.
+- Never confirm personal details or ID to an unexpected caller who phoned you.
+- Compare any utility switch with an independent comparison before agreeing.
 
-Missing fine print on fees or cooling-off rights. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+Pressure buys often show up later as mystery direct debits—spot them with [Track your spending](/topics/banking-budgeting/budgeting/track-your-spending).
 
-## Details that change the decision
+## After you signed and wish you hadn’t
 
-A usable budget separates **essentials**, **commitments**, and **flexible spend**. Essentials keep you housed and fed; commitments are contracts you already signed; flexible spend is where most leaks hide. For **Avoiding sales pressure**, use one month of statements—not memory—as the source of truth. If income varies, budget from a low month and treat surplus as savings or debt repayment, not a permanent lifestyle upgrade.
+Act quickly:
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+1. Find the contract and note the cooling-off deadline if one applies.
+2. Cancel in writing within that window; ask for written confirmation.
+3. Stop future payments where you can (and confirm with the provider—do not only cancel at the bank without telling them if that breaches terms).
+4. If the trader refuses, contact the ACCC information line or your state/territory consumer affairs agency for guidance on next steps.
+5. If the spend has wrecked cash flow, revisit [Cost of living help](/topics/banking-budgeting/budgeting/cost-of-living-help) and, for debt stress, 1800 007 007.
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when a simple system helped
-
-Harper set everything up in a hurry and only noticed the wrong account after a payment bounced. Drew now screenshots every confirmation and nicknames accounts so automations are obvious. The lesson for **avoiding sales pressure**: slow clarity beats fast regret.
-
-## Practical steps for Avoiding sales pressure
-
-1. Gather ID, income evidence, and any existing contracts or statements.
-2. Confirm who else is affected (partner, guarantor, dependants) before you sign.
-3. Complete the application or setup deliberately—screenshot confirmations.
-4. Turn on alerts and store reference numbers where you can find them.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Life changes** — job loss, a new dependant, or a move can invalidate last year’s choice; schedule a review.
-- **Records** — keep PDFs of contracts, statements, and cancellation confirmations for at least a year.
+Saying no is a money skill—the same family of habits as [Simple ways to save money](/topics/banking-budgeting/saving/simple-ways-to-save-money).
 
 ## What to do next
 
-- Decide the next action for **avoiding sales pressure** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [How to do a budget](/topics/banking-budgeting/budgeting/how-to-do-a-budget) for a related decision.
-- Read [Track your spending](/topics/banking-budgeting/budgeting/track-your-spending) for a related decision.
-- Tell one trusted person your plan if accountability helps you follow through.
+- Practise one refusal script so it is ready when a pitch arrives.
+- For any pending offer, demand total cost, term, and exit fees in writing before you agree.
+- If you signed under pressure, check cooling-off dates today and cancel in writing if still eligible.
+- Review recent debits with [Track your spending](/topics/banking-budgeting/budgeting/track-your-spending) so surprise contracts cannot hide.

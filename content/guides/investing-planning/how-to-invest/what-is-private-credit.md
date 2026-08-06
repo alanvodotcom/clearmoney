@@ -5,80 +5,72 @@ pillar: investing-planning
 hub: how-to-invest
 slug: what-is-private-credit
 updated: "2026-08-03"
-tags: 
+tags:
   - how to invest
-relatedGuides: 
+relatedGuides:
   - investing-planning/how-to-invest/develop-an-investing-plan
   - investing-planning/how-to-invest/choose-your-investments
   - investing-planning/how-to-invest/diversification
   - investing-planning/how-to-invest/track-your-investments
 ---
 
-Private credit risks, liquidity, and who it suits. Investing is trading certainty for the chance of growth. Time horizon and fees matter more than tips.
+Private credit generally means lending money to companies (or sometimes projects) outside the public bond market—often through a fund rather than a direct loan you underwrite yourself. Marketing sometimes frames it as “steady income like bonds, but higher.” The higher yield usually exists because liquidity is weaker, credit risk is real, and valuations can be less transparent. This is general information, not a recommendation.
 
-## What is What is private credit?
+## How the product usually reaches retail investors
 
-**What is private credit?** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Private credit risks, liquidity, and who it suits. Investing is trading certainty for the chance of growth. Time horizon and fees matter more than tips.
+Most individuals meet private credit via a managed fund, listed vehicle, or platform sleeve that pools investor money and originates or buys loans. You are exposed to borrowers’ ability to pay interest and principal. Security may include assets or covenants—or may be thinner than the brochure implies.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Unlike a term deposit with an ADI, private credit is not a bank deposit and is not covered by the Financial Claims Scheme. Unlike many listed shares or ETFs, you may face gates, notice periods, or limited withdrawal windows when many investors want cash at once.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+## Why yields look attractive—and what they buy
 
-## How to think about the moving parts
+Borrowers who use private lenders may want speed, flexibility, or capital when banks say no. Lenders charge for that. Your return is compensation for:
 
-With **what is private credit?**, match the product to your time horizon. Money you may need within a few years usually should not sit in volatile assets. Fees and diversification matter more than a single tip from social media.
+- **Credit risk** — defaults and recoveries that take years
+- **Illiquidity** — difficulty exiting at a fair price when you need cash
+- **Complexity** — layered fees, leverage inside the fund, and hard-to-compare mandates
+- **Valuation risk** — unit prices that can lag reality in a downturn
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Income distributions can continue while underlying loans deteriorate. Smooth monthly figures are not the same as safe capital.
 
-## Upsides worth wanting
+## Liquidity and gates in stressed markets
 
-- Potential growth above cash over long periods
-- Diversification that reduces single-company drama
-- Alignment with goals like retirement or a distant home deposit
+Private credit funds often match long-dated loans with investor capital that is notionally “open-ended.” When redemptions spike, managers may limit withdrawals. That protects remaining investors from a fire sale—and stranding people who needed money for a house deposit or medical bill.
 
-## Risks and traps to watch
+Before investing, ask: how often can I redeem, what notice is required, have gates been used before, and what share of the portfolio is truly liquid? If the answer is vague, assume exits will be hardest when you most want them.
 
-### Easy-to-miss costs
+## Who it tends not to suit
 
-Buying under social pressure or FOMO. For **What is private credit?**, read the conditions that turn a good deal average.
+Private credit is a poor fit for emergency savings, near-term goals, or money you cannot afford to see impaired. It also sits awkwardly for anyone still building a basic diversified portfolio of transparent, lower-cost building blocks. See [choose your investments](/topics/investing-planning/how-to-invest/choose-your-investments) and [diversification](/topics/investing-planning/how-to-invest/diversification).
 
-### Timing and people problems
+Even experienced investors usually treat it as a satellite sleeve—if they use it at all—not the core of a plan. Concentration in one manager, one vintage of loans, or one sector (for example commercial property-backed lending) magnifies idiosyncratic failure.
 
-Concentrated bets and high fees. If someone rushes you, that is data—slow down.
+## Documents and questions that matter
 
-### Recovery friction
+Read the Product Disclosure Statement (or equivalent) for:
 
-Needing the money earlier than the investment can recover. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+- borrower types and geographic mix
+- average loan size and seniority (first lien vs subordinated)
+- fee stack (management, performance, borrowing costs)
+- related-party lending and conflicts
+- historical defaults and loss rates through a full cycle—not only boom years
 
-## Details that change the decision
+Short track records in sunny credit conditions prove little. Ask what happens to distributions if interest rates fall or defaults rise together.
 
-Write the purpose of the money before you pick a product. For **What is private credit?**, if the horizon is short, capital stability usually beats growth stories. Dollar-cost averaging and broad diversification are boring on purpose—they reduce the chance that one tip defines your outcome.
+## Hype, seminars, and scam-adjacent pitches
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+“Bank-like safety with double-digit yields” is a classic mismatch. Unlicensed operators and offshore platforms may dress private lending language around pure fraud. Verify licences independently ([check before you invest](/topics/scams-safety/check-report/check-before-you-invest)) and treat pressure tactics as a hard stop ([investment scams](/topics/scams-safety/financial-scams/investment-scams), [investment hype](/topics/investing-planning/warnings/dont-get-burned-by-investment-hype)).
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+Private credit marketed through high-pressure seminars deserves extra scepticism: complexity plus urgency is a bad pairing for household money.
 
-## A short story: when a simple system helped
+## Place it only after the basics
 
-Luca bought after a viral tip and sold in a panic three weeks later. Morgan wrote a one-page plan: horizon, fee budget, and a rule not to check prices daily. The lesson for **what is private credit?**: slow clarity beats fast regret.
-
-## Practical steps for What is private credit
-
-1. Define the time horizon and what would force you to sell early.
-2. List fees (management, brokerage, advice) in dollars per year if you can.
-3. Diversify enough that one tip cannot wreck the plan.
-4. Ignore urgency: legitimate offers survive a night’s sleep.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Life changes** — job loss, a new dependant, or a move can invalidate last year’s choice; schedule a review.
-- **Records** — keep PDFs of contracts, statements, and cancellation confirmations for at least a year.
+An [investing plan](/topics/investing-planning/how-to-invest/develop-an-investing-plan) should define emergency cash, debt strategy, and diversified core holdings before any illiquid credit sleeve. If you proceed, size the allocation so a freeze or write-down would not derail rent, mortgage, or retirement timing—and [track](/topics/investing-planning/how-to-invest/track-your-investments) manager reports for rising arrears, not only headline yield.
 
 ## What to do next
 
-- Decide the next action for **what is private credit?** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Develop an investing plan](/topics/investing-planning/how-to-invest/develop-an-investing-plan) for a related decision.
-- Read [Choose your investments](/topics/investing-planning/how-to-invest/choose-your-investments) for a related decision.
-- Tell one trusted person your plan if accountability helps you follow through.
+- Confirm you do not need this money on short notice; if you might, look at more liquid options instead.
+- Read redemption rules, fees, and loan seniority in the PDS before any application form.
+- Compare the role of private credit against a simple diversified plan—not against a term-deposit rate alone.
+- Verify the product and issuer via [check before you invest](/topics/scams-safety/check-report/check-before-you-invest).
+- Cap any allocation so a bad vintage cannot sink your wider goals; review with [track your investments](/topics/investing-planning/how-to-invest/track-your-investments).

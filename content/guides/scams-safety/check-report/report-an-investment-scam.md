@@ -1,83 +1,69 @@
 ---
-title: "Report an investment scam"
-description: "Where to report and what information to keep."
+title: Report an investment scam
+description: Where to report and what information to keep.
 pillar: scams-safety
 hub: check-report
 slug: report-an-investment-scam
 updated: "2026-08-03"
-tags: 
+tags:
   - check report
-relatedGuides: 
+relatedGuides:
   - scams-safety/check-report/what-to-do-if-youve-been-scammed
   - scams-safety/check-report/check-before-you-invest
   - scams-safety/check-report/investor-alert-list
+  - scams-safety/financial-scams/investment-scams
 ---
 
-Where to report and what information to keep. If money stress is affecting essentials this week, start at [Urgent help](/urgent). Checking and reporting quickly limits damage—and helps others avoid the same pitch.
+Reporting will not always return funds, but it documents the crime, supports bank disputes, and helps warnings reach the next target. Gather evidence once, then file through the right doors. If losses mean you cannot meet essentials, combine reporting with [Urgent help](/urgent).
 
-## What is Report an investment scam?
+## What to gather before you report
 
-**Report an investment scam** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Where to report and what information to keep. Checking and reporting quickly limits damage—and helps others avoid the same pitch.
+Create a single folder (digital or paper):
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+- Dates and amounts of every payment; bank references and crypto TxIDs
+- Names, phone numbers, emails, usernames, and website URLs
+- Screenshots of chats, dashboards, ads, and “licences”
+- Contracts, invoices, and wallet addresses you were told to pay
+- Notes of calls (time, what was promised, what you were told to hide)
+- App store listings or sideloaded installer names if a trading app was involved
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+Do not hand this pack to a cold-call “recovery agent.” They often use it to refine the next scam. Never share OTPs while preparing a report. If chats are on a phone you still use for banking, export them before factory-resetting anything.
 
-## How to think about the moving parts
+## Where reports go in Australia
 
-If **report an investment scam** involves suspected fraud, speed and verification beat cleverness. Use official phone numbers from a statement or the organisation’s website—not numbers from a text. Never share one-time codes.
+Use more than one channel when they apply:
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+- **Bank or payment provider** — first call if money moved; get a fraud reference. Steps sit in [What to do if you’ve been scammed](/topics/scams-safety/check-report/what-to-do-if-youve-been-scammed).
+- **[Scamwatch](https://www.scamwatch.gov.au)** — consumer investment, romance-to-investment, and phishing-to-trading pitches.
+- **[ReportCyber](https://www.cyber.gov.au/report-and-recover/report)** — when hacking, malware, or online account takeover was part of the method.
+- **Police** — particularly for large losses, threats, or when your bank advises.
+- **ASIC / alert pathways** — suspicious unlicensed investment offers; your report can inform [investor alerts](/topics/scams-safety/check-report/investor-alert-list).
 
-## Upsides worth wanting
+If the product was sold as shares, bonds, SMSF help, or crypto trading, say so clearly—pattern matching across reports matters. Mention whether you were told not to contact your bank or family; secrecy instructions are useful intelligence.
 
-- Limiting further loss by freezing channels quickly
-- Helping others when reports feed warning systems
-- Recovering access to accounts and identity credentials
+## After you submit
 
-## Risks and traps to watch
+Save confirmation emails and reference numbers next to your evidence folder. Ask your bank how disputes proceed and what deadlines apply. Update reports if new contacts appear (especially “we can get your money back for a fee”).
 
-### Easy-to-miss costs
+Expect little day-to-day feedback. Silence does not mean the report was useless. Continue refusing further payments. Use [Check before you invest](/topics/scams-safety/check-report/check-before-you-invest) habits before any future unfamiliar deal.
 
-Sending more money because someone claims fees will ‘release’ funds. For **Report an investment scam**, read the conditions that turn a good deal average.
+If a platform still shows a fake balance, screenshot it, then stop logging in through links they send. Prefer official apps you already installed—or none at all—until your bank confirms credentials are safe.
 
-### Timing and people problems
+## Helping family report without blame
 
-Deleting evidence before reporting. If someone rushes you, that is data—slow down.
+People delay because they fear judgment. Offer practical help: sit with them while they call the bank, help screenshot chats, and dial Scamwatch together. Avoid “how could you fall for that?”—scams are engineered for smart, busy people under stress.
 
-### Recovery friction
+If the investment story matches known patterns, the [Investment scams](/topics/scams-safety/financial-scams/investment-scams) guide can help them name what happened without needing jargon. Focus on the next transfer you can still prevent, not on replaying every conversation.
 
-Shame delays that shrink recovery options. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+When cash flow is broken after a loss, National Debt Helpline **1800 007 007** can help prioritise bills while reports proceed.
 
-## Details that change the decision
+If English is not your first language, ask a trusted person to sit with you for the bank call—clarity beats perfect wording, and staff are used to scam reports.
 
-Reporting is not only for large losses. For **Report an investment scam**, gather messages, wallet addresses, and receipts, then file with the right channel and your bank. Early reports can freeze funds still in transit.
-
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
-
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when a simple system helped
-
-Sofia nearly transferred savings after a convincing ‘bank fraud’ call. Casey hung up, dialled the number on the back of the card, and learned the real bank had not called. The lesson for **report an investment scam**: slow clarity beats fast regret.
-
-## Practical steps for Report an investment scam
-
-1. Stop contact with the suspected scammer and do not send more money.
-2. Call your bank or card provider on a number from their official site.
-3. Change passwords starting with email, then banking, then social.
-4. Report via Scamwatch and keep evidence (messages, receipts, wallet addresses).
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Money stress now** — prioritise rent, food, utilities, and medicine, then use [Urgent help](/urgent). National Debt Helpline: 1800 007 007.
-- **After a scam** — contact your bank, change passwords, and report via Scamwatch; keep evidence.
+Copy your evidence folder to a second location (cloud or USB) before you factory-reset a compromised phone. Lost chats make disputes harder.
 
 ## What to do next
 
-- Call your bank from an official number and report the scam channels you used.
-- Read [What to do if you've been scammed](/topics/scams-safety/check-report/what-to-do-if-youve-been-scammed) for a related decision.
-- Read [Check before you invest](/topics/scams-safety/check-report/check-before-you-invest) for a related decision.
-- If essentials are at risk, open [Urgent help](/urgent) before taking on new credit.
+- Build the evidence folder today—even if you start with partial screenshots.
+- Call the bank (if not done), then file Scamwatch and ReportCyber as relevant.
+- Store every reference number in one place; diary a one-week follow-up with the bank.
+- If household cash flow is broken, open [Urgent help](/urgent) and consider National Debt Helpline 1800 007 007.

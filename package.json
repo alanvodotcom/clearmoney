@@ -12,7 +12,14 @@
     "e2e": "playwright test",
     "test:a11y": "playwright test e2e/a11y.spec.ts",
     "generate:articles": "node scripts/write-guides.mjs",
-    "validate:guides": "node scripts/validate-guides.mjs"
+    "rewrite:guides": "node scripts/rewrite-one-guide.mjs --all-templated",
+    "validate:guides": "node scripts/validate-guides.mjs",
+    "check:links": "node scripts/check-internal-links.mjs",
+    "crawl:404": "node scripts/crawl-404.mjs",
+    "sync:sitemap": "node scripts/sync-moneysmart-sitemap.mjs",
+    "sync:sitemap:offline": "node scripts/sync-moneysmart-sitemap.mjs --offline",
+    "sync:sitemap:report": "node scripts/sync-moneysmart-sitemap.mjs --report-only",
+    "fetch:guide-photos": "node scripts/fetch-guide-photos.mjs"
   },
   "dependencies": {
     "clsx": "^2.1.1",

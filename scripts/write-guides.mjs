@@ -1,41 +1,33 @@
 /**
- * Writes original ClearMoney markdown guides from inventory + composeBody.
+ * Syncs inventory frontmatter onto per-guide markdown bodies.
+ * Bodies live only in content/guides/{pillar}/{hub}/{slug}.md — each guide is
+ * authored separately (no shared section template).
+ *
  * Run: node scripts/write-guides.mjs
- * SKIP_EXISTING=1 — skip any file that already exists (joint-accounts always preserved).
+ * Does NOT invent bodies. Missing files are reported; use authoring agents/editors.
  */
 import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
 import { inventory } from "./generate-articles.mjs";
-import { composeBody } from "./guide-bodies/compose.mjs";
-import {
-  frontmatter,
-  siblingPaths,
-} from "./guide-bodies/_helpers.mjs";
+import { frontmatter, siblingPaths } from "./guide-bodies/_helpers.mjs";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
-const root = path.join(__dirname, "..");
-const GUIDES_ROOT = path.join(root, "content", "guides");
-const SKIP_EXISTING = process.env.SKIP_EXISTING === "1";
-const GOLD_REL = "banking-budgeting/banking/joint-accounts.md";
+const GUIDES_ROOT = path.join(__dirname, "..", "content", "guides");
 
-/** Hand-crafted guides — never overwritten by the composer. */
-const PRESERVE = new Set([
-  GOLD_REL,
-  "banking-budgeting/banking/transaction-accounts-and-debit-cards.md",
-  "banking-budgeting/banking/savings-accounts.md",
-  "banking-budgeting/banking/direct-debits.md",
-  "banking-budgeting/banking/sending-money-overseas.md",
-  "banking-budgeting/banking/unauthorised-and-mistaken-transactions.md",
-]);
-
-function isPreserved(relPosix) {
-  return PRESERVE.has(relPosix.replace(/\\/g, "/"));
+function splitMatter(raw) {
+  if (!raw.startsWith("---")) {
+    return { fm: null, body: raw.trim() + "\n" };
+  }
+  const end = raw.indexOf("\n---", 3);
+  if (end === -1) return { fm: null, body: raw.trim() + "\n" };
+  const body = raw.slice(end + 4).replace(/^\s+/, "");
+  return { fm: raw.slice(0, end + 4), body: body.trim() + "\n" };
 }
 
 export function writeGuides() {
-  let written = 0;
-  let skipped = 0;
+  let synced = 0;
+  const missing = [];
 
   for (const group of inventory) {
     const { pillar, hub, guides } = group;
@@ -45,28 +37,34 @@ export function writeGuides() {
     for (const guide of guides) {
       const fileName = `${guide.slug}.md`;
       const outFile = path.join(dir, fileName);
-      const rel = path.join(pillar, hub, fileName);
-      const exists = fs.existsSync(outFile);
+      const related = siblingPaths(pillar, hub, guides, guide.slug).slice(0, 4);
+      const fm = frontmatter(guide, pillar, hub, related);
 
-      if (isPreserved(rel) && exists) {
-        skipped += 1;
-        continue;
-      } else if (SKIP_EXISTING && exists) {
-        skipped += 1;
+      if (!fs.existsSync(outFile)) {
+        missing.push(`${pillar}/${hub}/${guide.slug}.md`);
         continue;
       }
 
-      const related = siblingPaths(pillar, hub, guides, guide.slug).slice(0, 4);
-      const body = composeBody(guide, pillar, hub, guides);
-      const fm = frontmatter(guide, pillar, hub, related);
+      const raw = fs.readFileSync(outFile, "utf8");
+      const { body } = splitMatter(raw);
+      if (!body.trim()) {
+        missing.push(`${pillar}/${hub}/${guide.slug}.md (empty body)`);
+        continue;
+      }
+
       fs.writeFileSync(outFile, `${fm}\n\n${body}`, "utf8");
-      written += 1;
+      synced += 1;
     }
   }
 
-  // Preserve campaign-resources if present (not always in inventory)
-  console.log(`Wrote ${written} guide(s); skipped ${skipped}.`);
-  return { written, skipped };
+  console.log(`Synced frontmatter on ${synced} guide(s).`);
+  if (missing.length) {
+    console.error(`Missing/empty bodies (${missing.length}):`);
+    for (const m of missing.slice(0, 30)) console.error("  -", m);
+    if (missing.length > 30) console.error(`  … +${missing.length - 30} more`);
+    process.exitCode = 1;
+  }
+  return { synced, missing };
 }
 
 const isMain =

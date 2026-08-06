@@ -1,89 +1,79 @@
 ---
-title: "Cost of living help"
-description: "Practical ways to stretch income when prices rise."
+title: Cost of living help
+description: Practical ways to stretch income when prices rise.
 pillar: banking-budgeting
 hub: budgeting
 slug: cost-of-living-help
 updated: "2026-08-03"
-tags: 
+tags:
   - budgeting
-relatedTools: 
+  - hardship
+relatedTools:
   - budget-planner
-relatedGuides: 
-  - banking-budgeting/budgeting/how-to-do-a-budget
-  - banking-budgeting/budgeting/track-your-spending
+relatedGuides:
   - banking-budgeting/budgeting/managing-on-a-low-income
-  - banking-budgeting/budgeting/managing-on-a-casual-income
+  - banking-budgeting/budgeting/ways-to-save-on-food-and-fuel
+  - banking-budgeting/budgeting/ways-to-save-on-energy-costs
+  - banking-budgeting/budgeting/how-to-do-a-budget
 ---
 
-Practical ways to stretch income when prices rise. A budget is a map of cash in and cash out—not a personality test. Numbers first, judgement later.
+When rent, food, and power climb faster than pay, the goal is not a perfect lifestyle makeover. It is to protect essentials, use help you already qualify for, and cut costs that do not cut dignity.
 
-## Understanding Cost of living help
+## Start with the bills you can still change
 
-**Cost of living help** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Practical ways to stretch income when prices rise. A budget is a map of cash in and cash out—not a personality test. Numbers first, judgement later.
+Not every price is fixed. Rank what you can influence this month:
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+1. **Energy and phone plans** — compare your current rate to market offers; loyalty discounts often hide under a higher base rate. See [Ways to save on energy costs](/topics/banking-budgeting/budgeting/ways-to-save-on-energy-costs).
+2. **Insurance and memberships** — ask for a retention quote or shop annually; cancel what you do not use.
+3. **Food and fuel** — smaller, repeated savings add up; [Ways to save on food and fuel](/topics/banking-budgeting/budgeting/ways-to-save-on-food-and-fuel) keeps that practical.
+4. **Debt minimums** — do not skip them to fund lifestyle. If you cannot meet them, contact the lender early and ask about hardship options—or call the National Debt Helpline on 1800 007 007.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+Rent and mortgage are harder to move quickly, but payment plans and hardship teams exist. Ask before arrears snowball. For urgent money stress, start at [/urgent](/urgent).
 
-## How to think about the moving parts
+## Support and concessions worth checking
 
-Setup quality decides whether **cost of living help** helps or nags you later. Confirm identity and contact details, choose alerts you will actually read, and decide who else can see or move money. If a salesperson is present, ask for the key numbers in writing before you sign.
+Eligibility rules change, so verify with the agency or provider—but do not assume you miss out:
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+- **Centrelink supplements and concessions** — energy, telephone, and pharmaceutical concessions; rent assistance if you qualify.
+- **State and territory energy rebates** — many households miss one-off or ongoing electricity relief.
+- **Council rates and water** — hardship teams and pensioner concessions.
+- **School, health, and transport** — student travel, Low Income Health Care Card benefits, public hospital and PBS arrangements.
+- **Employer or union support** — some workplaces offer EAP counselling or short-term advances; treat advances carefully if they shrink the next pay.
 
-ClearMoney calculators that pair with this topic: [Budget Planner](/tools/budget-planner). Use them to turn guesses into numbers before you commit.
+Community organisations and financial counsellors (often free) help you navigate forms. [Managing on a low income](/topics/banking-budgeting/budgeting/managing-on-a-low-income) lists free support pathways in more detail.
 
-## Upsides worth wanting
+## Cut without cutting dignity
 
-- Automations that reduce missed payments and late fees
-- Alerts that surface problems while they are still small
-- Shared understanding when more than one person is involved
+Stretching income works better when you protect what keeps you functioning:
 
-## Risks and traps to watch
+- Keep one low-cost social habit so isolation does not drive expensive coping spends.
+- Swap brands and meal patterns before you cut protein and fresh food to zero.
+- Share bulk buys with a neighbour or housemate when storage allows.
+- Pause “aspirational” subscriptions first; keep tools you need for work or study.
 
-### Easy-to-miss costs
+Put the revised numbers into the [Budget Planner](/tools/budget-planner) so you can see whether the gap closed—or whether you still need hardship help. Avoid high-cost “bridges” such as payday-style loans or stacking buy-now-pay-later for groceries—they shrink next fortnight’s room even when they solve today.
 
-Set-and-forget errors (wrong account, wrong amount, wrong date). For **Cost of living help**, read the conditions that turn a good deal average.
+## A two-week stretch plan
 
-### Timing and people problems
+**Week 1 — stop the leaks**
 
-Giving too much authority to another person. Write down who can authorise changes.
+- List every direct debit; cancel or pause one unused service.
+- Call energy or phone if a better plan exists; get the comparison in writing or email.
+- Plan five dinners from what you already have, then shop once with a list.
+- Check whether any annual bill can move to monthly payments so cash flow smooths out.
 
-### Recovery friction
+**Week 2 — lock the system**
 
-Missing fine print on fees or cooling-off rights. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+- Update your [budget](/topics/banking-budgeting/budgeting/how-to-do-a-budget) with new bill amounts.
+- Apply for any concession or rebate you have not claimed.
+- Set a fortnightly grocery and fuel cap you can see in your banking app.
+- Tell one trusted person your cap if accountability helps you stick to it.
 
-## Details that change the decision
-
-A usable budget separates **essentials**, **commitments**, and **flexible spend**. Essentials keep you housed and fed; commitments are contracts you already signed; flexible spend is where most leaks hide. For **Cost of living help**, use one month of statements—not memory—as the source of truth. If income varies, budget from a low month and treat surplus as savings or debt repayment, not a permanent lifestyle upgrade.
-
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
-
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when the fine print mattered
-
-Sofia set everything up in a hurry and only noticed the wrong account after a payment bounced. Casey now screenshots every confirmation and nicknames accounts so automations are obvious. The lesson for **cost of living help**: slow clarity beats fast regret.
-
-## Practical steps for Cost of living help
-
-1. Gather ID, income evidence, and any existing contracts or statements.
-2. Confirm who else is affected (partner, guarantor, dependants) before you sign.
-3. Complete the application or setup deliberately—screenshot confirmations.
-4. Turn on alerts and store reference numbers where you can find them.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Life changes** — job loss, a new dependant, or a move can invalidate last year’s choice; schedule a review.
-- **Records** — keep PDFs of contracts, statements, and cancellation confirmations for at least a year.
+If the fortnight still does not close, the issue may be income or housing—not willpower. Escalate to free financial counselling rather than high-cost credit.
 
 ## What to do next
 
-- Decide the next action for **cost of living help** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [How to do a budget](/topics/banking-budgeting/budgeting/how-to-do-a-budget) for a related decision.
-- Read [Track your spending](/topics/banking-budgeting/budgeting/track-your-spending) for a related decision.
-- Run the numbers with [Budget Planner](/tools/budget-planner).
-- Write your constraints on paper so a sales pitch cannot rewrite them.
+- Open the [Budget Planner](/tools/budget-planner) and refresh must-pay lines with today’s prices.
+- Tackle energy and food first via [Ways to save on energy costs](/topics/banking-budgeting/budgeting/ways-to-save-on-energy-costs) and [Ways to save on food and fuel](/topics/banking-budgeting/budgeting/ways-to-save-on-food-and-fuel).
+- Check concessions and free support outlined in [Managing on a low income](/topics/banking-budgeting/budgeting/managing-on-a-low-income).
+- If debt repayments are slipping, contact lenders or call 1800 007 007, and use [/urgent](/urgent) for next steps.

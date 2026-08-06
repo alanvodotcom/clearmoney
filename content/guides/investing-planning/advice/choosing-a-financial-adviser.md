@@ -5,80 +5,73 @@ pillar: investing-planning
 hub: advice
 slug: choosing-a-financial-adviser
 updated: "2026-08-03"
-tags: 
+tags:
   - advice
-relatedGuides: 
+relatedGuides:
   - investing-planning/advice/what-is-financial-advice
   - investing-planning/advice/general-and-personal-financial-advice
   - investing-planning/advice/financial-advice-costs
   - investing-planning/advice/working-with-a-financial-adviser
 ---
 
-Licensing, experience, and questions to ask. Paid advice can help complex decisions—but only if the adviser is appropriately licensed and clear about fees.
+Choosing a financial adviser is a hiring decision. You are selecting judgement, process, and incentives—not a celebrity brand. Start with authorisation and fit; end with a clear fee agreement. Skipping the boring checks is how people meet charming salespeople who were never right for the job.
 
-## Understanding Choosing a financial adviser
+## Define the problem you want help with
 
-**Choosing a financial adviser** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Licensing, experience, and questions to ask. Paid advice can help complex decisions—but only if the adviser is appropriately licensed and clear about fees.
+Write the decisions on one page: retirement date realism, investment structure, insurance gaps, estate-linked product nominations, business sale proceeds, or a second opinion on an existing portfolio. Vague “I want to grow wealth” briefs invite vague product tours.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+If education alone may unlock the decision, use guides first—then hire for what remains. See [what is financial advice?](/topics/investing-planning/advice/what-is-financial-advice).
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+## Non-negotiables before chemistry
 
-## How to think about the moving parts
+- Confirm the adviser is on the official Financial Advisers Register ([financial advisers register](/topics/investing-planning/advice/financial-advisers-register))
+- Identify the AFSL licensee
+- Understand whether you will receive personal advice and a written Statement of Advice
+- Get fee examples in dollars ([financial advice costs](/topics/investing-planning/advice/financial-advice-costs))
 
-With **choosing a financial adviser**, match the product to your time horizon. Money you may need within a few years usually should not sit in volatile assets. Fees and diversification matter more than a single tip from social media.
+Chemistry without credentials is a liability. Credentials without listening skills are also a liability—but check papers first.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+## Questions that reveal process
 
-## Upsides worth wanting
+1. Who is your typical client, and who do you turn away?
+2. How do you construct portfolios—and how often do you recommend in-house products?
+3. What does the first 90 days look like?
+4. How are conflicts managed inside your licensee?
+5. How do you measure whether advice succeeded a year later?
+6. What access do I have between formal reviews?
 
-- Potential growth above cash over long periods
-- Diversification that reduces single-company drama
-- Alignment with goals like retirement or a distant home deposit
+Ask for a sample (redacted) advice structure or engagement letter. Vague answers about “bespoke wealth solutions” without process detail are a warning.
 
-## Risks and traps to watch
+## Experience versus product pushing
 
-### Easy-to-miss costs
+Relevant experience means familiarity with situations like yours—not merely years in sales. An adviser excellent at aged-care strategies may be average at employee share scheme diversification. Specialisation is a feature when it matches your problem.
 
-Buying under social pressure or FOMO. For **Choosing a financial adviser**, read the conditions that turn a good deal average.
+Be cautious if every path leads to the same high-fee platform, geared property seminar partner, or offshore “opportunity.” Diversified recommendations should be possible when diversified strategies fit.
 
-### Timing and people problems
+## Interview more than one
 
-Concentrated bets and high fees. Write down who can authorise changes.
+Two or three introductory conversations calibrate fees and styles. Bring the same brief to each. Compare how well they listen versus how quickly they pitch. Take notes the same day—memory flatters the most charismatic meeting.
 
-### Recovery friction
+Digital advice tools can be enough for simple accumulation; human advisers often earn their keep in complexity, behavioural coaching through volatility, or coordinated insurance and estate-linked issues. Choose the channel that matches the problem.
 
-Needing the money earlier than the investment can recover. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+## Avoiding scam “advisers”
 
-## Details that change the decision
+Cold outreach, guaranteed returns, crypto-only deposits, and urgency are not how professional advice starts. Verify independently ([check before you invest](/topics/scams-safety/check-report/check-before-you-invest)) and read [investment scams](/topics/scams-safety/financial-scams/investment-scams). If friends pressure you into their adviser’s seminar, keep your register check anyway—social trust is not a licence.
 
-Licensed advice should come with a clear fee, a scope, and documents you can keep. For **Choosing a financial adviser**, ask how the adviser is paid and what happens if you say no to a product. If someone guarantees returns or pushes you to act today, treat that as a warning sign.
+## After you choose
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+Move into the working rhythm described in [working with a financial adviser](/topics/investing-planning/advice/working-with-a-financial-adviser). Keep copies of everything. Revisit fit annually; loyalty is optional when service fades.
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+## Referrals and “my mate’s adviser”
 
-## A short story: when the fine print mattered
+Personal referrals are useful for soft skills—punctuality, plain language, empathy—but they do not replace register checks or fee comparisons. A brilliant adviser for a retiring executive may be a poor match for a casual worker with HECS and a first ETF. Interview with your brief, not your friend’s outcome story.
 
-Priya bought after a viral tip and sold in a panic three weeks later. Alex wrote a one-page plan: horizon, fee budget, and a rule not to check prices daily. The lesson for **choosing a financial adviser**: slow clarity beats fast regret.
-
-## Practical steps for Choosing a financial adviser
-
-1. Define the time horizon and what would force you to sell early.
-2. List fees (management, brokerage, advice) in dollars per year if you can.
-3. Diversify enough that one tip cannot wreck the plan.
-4. Ignore urgency: legitimate offers survive a night’s sleep.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Life changes** — job loss, a new dependant, or a move can invalidate last year’s choice; schedule a review.
-- **Records** — keep PDFs of contracts, statements, and cancellation confirmations for at least a year.
+If a referral comes with tickets to a product seminar, treat the seminar as marketing until advice documents and authorisation check out.
 
 ## What to do next
 
-- Decide the next action for **choosing a financial adviser** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [What is financial advice?](/topics/investing-planning/advice/what-is-financial-advice) for a related decision.
-- Read [General and personal financial advice](/topics/investing-planning/advice/general-and-personal-financial-advice) for a related decision.
-- Write your constraints on paper so a sales pitch cannot rewrite them.
+- Write the specific decisions you want help with and a budget for advice fees.
+- Shortlist authorised advisers and verify each on the official register.
+- Ask the process and conflict questions above in introductory meetings.
+- Compare written fee examples before signing an engagement.
+- Decline anyone who skips documentation or pushes guaranteed outcomes.

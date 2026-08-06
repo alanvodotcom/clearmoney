@@ -5,80 +5,67 @@ pillar: community
 hub: publications
 slug: beware-of-scams
 updated: "2026-08-03"
-tags: 
+tags:
   - publications
-relatedGuides: 
+relatedGuides:
   - community/publications/publications
   - community/publications/how-to-complain
   - community/publications/money-tips-in-other-languages
   - community/publications/budgeting-and-saving-tips
 ---
 
-Short scam-awareness tip sheet. If money stress is affecting essentials this week, start at [Urgent help](/urgent). ClearMoney publications are starting points—use them with your own numbers and official sources for thresholds.
+Scammers steal money and identities by inventing urgency and fear. This tip sheet helps you recognise common patterns in Australia, verify contacts the slow way, and act quickly if something already went wrong. If essentials are at risk this week, start at [Urgent help](/urgent).
 
-## Beware of scams (community tip): the clear version
+## Urgency and secrecy are the tell
 
-**Beware of scams (community tip)** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Short scam-awareness tip sheet. ClearMoney publications are starting points—use them with your own numbers and official sources for thresholds.
+Real banks, tax offices, and police do not demand that you transfer funds “in the next ten minutes,” pay with gift cards, or keep the call secret from family. Scammers do—because delay and a second opinion kill the con.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Slow down. Say you will call back. Use a number from your bank card, a paper statement, or a government website you typed yourself. Do not tap links in unexpected texts. Do not grant remote access software because a caller says your computer is “infected.”
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+A family rule helps: no one moves money based on a phone call or message alone. Practise it once so it sticks under pressure.
 
-## How to think about the moving parts
+## Patterns that keep returning
 
-If **beware of scams (community tip)** involves suspected fraud, speed and verification beat cleverness. Use official phone numbers from a statement or the organisation’s website—not numbers from a text. Never share one-time codes.
+- **Impersonation** — fake bank, myGov, ATO, delivery, or police messages with convincing logos.
+- **Investment and romance** — kindness or “guaranteed returns,” then requests to send crypto or cash offshore.
+- **Job and rental** — too-good offers that require upfront “equipment” or bond to a personal account.
+- **Remote access** — a helper who needs to “secure your refund” while draining accounts.
+- **Recovery scams** — after a loss, a second crook claims they can retrieve funds for a fee.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Typologies evolve. Check current alerts on [Scamwatch](https://www.scamwatch.gov.au/) (run by the ACCC) and ReportCyber for identity and hacking reports. Scamwatch publishes examples and reporting steps in plain language—use it before you trust a viral post.
 
-## Upsides worth wanting
+Multilingual communities are often targeted in-language on messaging apps; share warnings through trusted channels and see [money tips in other languages](/topics/community/publications/money-tips-in-other-languages).
 
-- Limiting further loss by freezing channels quickly
-- Helping others when reports feed warning systems
-- Recovering access to accounts and identity credentials
+## Verify on channels you control
 
-## Risks and traps to watch
+Bookmark official sites. Turn on multi-factor authentication with an authenticator app where you can. Treat unexpected one-time codes as a sign someone is trying to log in—not as a prompt to read the code aloud to a caller.
 
-### Easy-to-miss costs
+If a caller already knows your name and partial details, hang up anyway. Data breaches and prior scams leak fragments; knowledge is not proof of legitimacy.
 
-Sending more money because someone claims fees will ‘release’ funds. For **Beware of scams (community tip)**, read the conditions that turn a good deal average.
+Businesses and sole traders: verify changed bank details for invoices by calling a known number. Invoice redirect fraud empties cash flow fast.
 
-### Timing and people problems
+## If you already sent money or shared details
 
-Deleting evidence before reporting. Put review dates in your calendar.
+1. Contact your bank or credit union **immediately** and ask to recall or block transfers where possible.
+2. Change passwords on email and banking from a device you trust; enable stronger MFA.
+3. Report to [Scamwatch](https://www.scamwatch.gov.au/) and, for cybercrime, ReportCyber.
+4. Watch statements for new payees and unauthorised direct debits; cancel authorities you did not set.
+5. If identity documents were shared, consider credit file alerts and document reissue steps.
 
-### Recovery friction
+Do not pay anyone who cold-contacts you offering recovery. Keep evidence for the bank and police. If a financial firm’s security response is inadequate, use [how to complain](/topics/community/publications/how-to-complain) after you secure the accounts.
 
-Shame delays that shrink recovery options. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+Shame keeps losses quiet; talking to family and reporting helps others. Scams succeed on silence as much as on software.
 
-## Details that change the decision
+## Everyday habits that shrink the attack surface
 
-Use checklists as prompts, then replace sample numbers with yours. For **Beware of scams (community tip)**, note the date you read a guide and re-check official thresholds when acting on dollar figures.
+Shred or destroy documents with account numbers. Use unique passwords. Pause before QR codes on parking meters or posters that look newly stuck on. Teach older relatives the call-back habit; teach younger relatives that “secret help” messages are a red flag.
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
-
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when timing changed the outcome
-
-Harper nearly transferred savings after a convincing ‘bank fraud’ call. Drew hung up, dialled the number on the back of the card, and learned the real bank had not called. The lesson for **beware of scams (community tip)**: slow clarity beats fast regret.
-
-## Practical steps for Beware of scams (community tip)
-
-1. Stop contact with the suspected scammer and do not send more money.
-2. Call your bank or card provider on a number from their official site.
-3. Change passwords starting with email, then banking, then social.
-4. Report via Scamwatch and keep evidence (messages, receipts, wallet addresses).
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Money stress now** — prioritise rent, food, utilities, and medicine, then use [Urgent help](/urgent). National Debt Helpline: 1800 007 007.
-- **After a scam** — contact your bank, change passwords, and report via Scamwatch; keep evidence.
+A modest savings buffer and calm bill rhythm—see [budgeting and saving tips](/topics/community/publications/budgeting-and-saving-tips)—reduce the panic that scammers exploit when they invent fake debts or refunds.
 
 ## What to do next
 
-- Call your bank from an official number and report the scam channels you used.
-- Read [Publications](/topics/community/publications/publications) for a related decision.
-- Read [How to complain](/topics/community/publications/how-to-complain) for a related decision.
-- If essentials are at risk, open [Urgent help](/urgent) before taking on new credit.
+- Agree a household rule: no money movement from a cold call or unexpected link.
+- Save [Scamwatch](https://www.scamwatch.gov.au/) and your bank’s official phone number in your contacts under clear names.
+- Review recent messages that asked for codes, remote access, or secrecy—and delete the hooks.
+- If you have already paid or shared passwords, call your bank now, then report on Scamwatch.
+- Browse [publications](/topics/community/publications/publications) for related tip sheets, or [Urgent help](/urgent) if you cannot cover essentials.

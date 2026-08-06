@@ -1,83 +1,78 @@
 ---
-title: "Losing your partner"
-description: "Practical money steps after a bereavement."
+title: Losing your partner
+description: Practical money steps after a bereavement.
 pillar: banking-budgeting
 hub: family
 slug: losing-your-partner
 updated: "2026-08-03"
-tags: 
+tags:
   - family
-relatedGuides: 
-  - banking-budgeting/family/relationships-and-money
-  - banking-budgeting/family/marriage-and-money
-  - banking-budgeting/family/having-a-baby
-  - banking-budgeting/family/getting-a-pet
+relatedGuides:
+  - banking-budgeting/banking/joint-accounts
+  - banking-budgeting/family/dealing-with-illness
+  - banking-budgeting/family/how-to-support-older-australians
+  - banking-budgeting/saving/save-for-an-emergency-fund
 ---
 
-Practical money steps after a bereavement. Family money decisions affect more than one person. Clarity and safety matter as much as the spreadsheet.
+Grief does not wait for paperwork—but some money tasks cannot wait either. Handle immediate access and essential bills first; pause big irreversible decisions until you have support and clear information.
 
-## What is Losing your partner?
+## Immediate money tasks
 
-**Losing your partner** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Practical money steps after a bereavement. Family money decisions affect more than one person. Clarity and safety matter as much as the spreadsheet.
+In the first days, focus on continuity:
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+- locate the will, if there is one, and the contact details for the executor or solicitor
+- secure cash and cards that were solely your partner’s (do not ignore joint arrangements—rules differ)
+- make sure your own income still arrives in an account you can use
+- pay or pause only what keeps the household safe: housing, utilities, food, medicine, children’s needs
+- request multiple copies of the death certificate when available—banks and insurers will ask for them
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+Ask a trusted friend to sit with you for phone calls. Financial institutions are used to bereavement processes; you do not have to sound composed.
 
-## How to think about the moving parts
+If money stress threatens essentials this week, see [Urgent help](/urgent).
 
-Setup quality decides whether **losing your partner** helps or nags you later. Confirm identity and contact details, choose alerts you will actually read, and decide who else can see or move money. If a salesperson is present, ask for the key numbers in writing before you sign.
+## Banks, accounts, and access
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Rules depend on account type:
 
-## Upsides worth wanting
+- **Joint accounts** — many either-to-operate accounts allow the surviving holder to keep operating; still notify the bank and ask what they require. See [Joint accounts](/topics/banking-budgeting/banking/joint-accounts).
+- **Sole accounts in your partner’s name** — banks usually freeze these until probate or other authority is produced. Do not assume you can keep using their card.
+- **Offset accounts and redraw** — home-loan structures need careful handling; speak to the lender before large transfers.
+- **Direct debits** — list them; some should stop, others (like insurance you still need) should move to your account.
 
-- Automations that reduce missed payments and late fees
-- Alerts that surface problems while they are still small
-- Shared understanding when more than one person is involved
+Keep records of every notification. Scammers unfortunately target grieving families—verify callers by ringing the institution on a known number.
 
-## Risks and traps to watch
+## Benefits, super, and the estate
 
-### Easy-to-miss costs
+Notify:
 
-Set-and-forget errors (wrong account, wrong amount, wrong date). For **Losing your partner**, read the conditions that turn a good deal average.
+- Centrelink / Services Australia for payments that change on death or for bereavement assistance you may be eligible for
+- your partner’s super fund — death benefits follow nominations and fund rules; the fund will explain what they need
+- life insurers — start claims early; they need certificates and forms
+- employers — final pay, leave, and any death benefits
+- Medicare and private health funds
 
-### Timing and people problems
+Estate administration (probate, debts of the estate, transferring property) is legal territory. Use a solicitor or trustee service when the estate is more than simple. Unpaid estate debts are handled under estate rules—get advice before paying everything from your own pocket “to keep the peace.”
 
-Giving too much authority to another person. If someone rushes you, that is data—slow down.
+## Pausing non-urgent decisions
 
-### Recovery friction
+You do not need to:
 
-Missing fine print on fees or cooling-off rights. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+- sell the house this month because someone suggested it
+- invest a life insurance payout on the first offer you hear
+- lend large sums to relatives who arrive with urgency stories
+- make permanent beneficiary changes while exhausted (except where a clear safety or legal reason requires it)
 
-## Details that change the decision
+Park surplus funds in a simple, accessible account until you have advice and a clearer head. Major choices keep; grief fog lifts slowly.
 
-Households break when money rules are unspoken. Decide what is shared, what is personal, and how you will talk about shortfalls without blame. For **Losing your partner**, safety outranks efficiency: if someone uses money to control or frighten you, seek support before optimising accounts. Write down bill owners and due dates so one person’s illness or travel does not create late fees.
+## Support for the household
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+Tell schools, carers, and employers what they need to know for children’s routines and your leave. Accept practical help with meals and paperwork. Loneliness and financial overwhelm often arrive together—community and counselling support are part of getting through, not a luxury.
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when a simple system helped
-
-Priya set everything up in a hurry and only noticed the wrong account after a payment bounced. Alex now screenshots every confirmation and nicknames accounts so automations are obvious. The lesson for **losing your partner**: slow clarity beats fast regret.
-
-## Practical steps for Losing your partner
-
-1. Gather ID, income evidence, and any existing contracts or statements.
-2. Confirm who else is affected (partner, guarantor, dependants) before you sign.
-3. Complete the application or setup deliberately—screenshot confirmations.
-4. Turn on alerts and store reference numbers where you can find them.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Safety first** — if someone controls money as a form of harm, see ClearMoney’s financial abuse guidance and 1800RESPECT (1800 737 732).
+Update your own will, beneficiaries, and household insurance when you are ready—your situation has changed. There is no prize for doing that on the funeral week; there is a cost to never doing it.
 
 ## What to do next
 
-- Decide the next action for **losing your partner** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Relationships and money](/topics/banking-budgeting/family/relationships-and-money) for a related decision.
-- Read [Marriage and money](/topics/banking-budgeting/family/marriage-and-money) for a related decision.
-- Tell one trusted person your plan if accountability helps you follow through.
+- Notify your bank and lender about the death; ask specifically about joint vs sole account next steps.
+- Start super and life-insurance claim packs; keep a checklist of reference numbers.
+- List direct debits and essential bills so nothing critical fails while estate processes run.
+- Delay large financial decisions until you have legal advice and trusted support beside you.

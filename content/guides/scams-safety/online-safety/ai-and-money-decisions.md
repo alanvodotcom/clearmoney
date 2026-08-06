@@ -1,83 +1,77 @@
 ---
-title: "AI and money decisions"
-description: "Use AI carefully—verify anything that moves money."
+title: AI and money decisions
+description: Use AI carefully—verify anything that moves money.
 pillar: scams-safety
 hub: online-safety
 slug: ai-and-money-decisions
 updated: "2026-08-03"
-tags: 
+tags:
   - online safety
-relatedGuides: 
+relatedGuides:
   - scams-safety/online-safety/protect-yourself-from-scams
-  - scams-safety/online-safety/how-to-spot-a-scam-website
-  - scams-safety/online-safety/online-shopping-safety
-  - scams-safety/online-safety/identity-theft
+  - scams-safety/online-safety/what-is-a-finfluencer
+  - scams-safety/check-report/check-before-you-invest
+  - investing-planning/advice/what-is-financial-advice
 ---
 
-Use AI carefully—verify anything that moves money. If money stress is affecting essentials this week, start at [Urgent help](/urgent). Online money safety is mostly habits: slow down, verify, and never share one-time codes.
+Chatbots and other AI tools can explain jargon, draft budgets, or summarise long documents. They can also invent fees, misstate Australian rules, or sound confident while wrong. Use AI as a starting draft—never as the final authority on a transfer. If an “AI adviser” or deepfake call is pushing urgent payments, treat it as a scam path and use [Urgent help](/urgent) if money stress is already acute.
 
-## AI and money decisions: the clear version
+## What AI can do well with money questions
 
-**AI and money decisions** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Use AI carefully—verify anything that moves money. Online money safety is mostly habits: slow down, verify, and never share one-time codes.
+AI is often helpful for:
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+- Plain-language definitions (offset vs redraw, concessional contributions)
+- Checklists of documents to gather before a bank or Centrelink appointment
+- Spreadsheet formulas or category ideas for spending reviews
+- Rewriting a complaint letter you already fact-checked
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+Those tasks keep you in control. You still confirm numbers against statements, Product Disclosure Statements, and official sites.
 
-## How to think about the moving parts
+## Where chatbots go wrong
 
-Setup quality decides whether **aI and money decisions** helps or nags you later. Confirm identity and contact details, choose alerts you will actually read, and decide who else can see or move money. If a salesperson is present, ask for the key numbers in writing before you sign.
+Models mix training data, guess when unsure, and may cite rules that changed. Common failure modes:
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+- Outdated tax thresholds, super caps, or lending rules stated as current fact
+- Product comparisons that omit fees or eligibility
+- “Personalised” plans built on assumptions you never stated
+- Links that look official but are wrong or outdated
 
-## Upsides worth wanting
+If the answer would change a large payment, refinance, or investment, verify with primary sources or a licensed professional. AI output is not personal financial advice—see [What is financial advice?](/topics/investing-planning/advice/what-is-financial-advice).
 
-- Automations that reduce missed payments and late fees
-- Alerts that surface problems while they are still small
-- Shared understanding when more than one person is involved
+## Never paste secrets into a prompt
 
-## Risks and traps to watch
+Do not enter:
 
-### Easy-to-miss costs
+- full account numbers, passwords, or OTPs
+- Medicare or passport numbers
+- tax file numbers
+- seed phrases or private keys
+- scans of identity documents
 
-Set-and-forget errors (wrong account, wrong amount, wrong date). For **AI and money decisions**, read the conditions that turn a good deal average.
+Treat a chat window like a postcard. Prefer hypothetical figures (“a $400k loan at 6%”) over your real credentials. Scammers also run fake “AI support” sites—confirm the tool’s address the same way you would any money site, and follow [Protect yourself from scams](/topics/scams-safety/online-safety/protect-yourself-from-scams).
 
-### Timing and people problems
+Deepfake audio of a boss or relative asking for an urgent transfer is rising. Call the person on a known number before you send anything. Never share an OTP because a voice “proved” who they were.
 
-Giving too much authority to another person. Put review dates in your calendar.
+## A verification loop before dollars move
 
-### Recovery friction
+1. Ask the AI for the claim in one sentence.
+2. Find the same claim on an official page, statement, or licence register.
+3. If investing, run [Check before you invest](/topics/scams-safety/check-report/check-before-you-invest) steps on the person or platform—not on the chatbot’s say-so.
+4. Sleep on large decisions. AI speed is not a reason to skip your usual cooling-off habit.
 
-Missing fine print on fees or cooling-off rights. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+Social money tips and AI summaries share a risk: confidence without accountability. Pair both with scepticism from [What is a finfluencer?](/topics/scams-safety/online-safety/what-is-a-finfluencer).
 
-## Details that change the decision
+Use AI to draft questions for your bank, fund, or adviser—then ask those humans. Do not let a chatbot become the only “second opinion” on a transfer larger than a week of living costs.
 
-Phishing works because it looks almost right. For **AI and money decisions**, bookmark official login pages, turn on multi-factor authentication, and treat unexpected payment requests as hostile until proven otherwise.
+Report AI-themed scams (fake support bots, deepfake investment pitches) to [Scamwatch](https://www.scamwatch.gov.au). Cyber compromises that started with a malicious AI tool download belong with [ReportCyber](https://www.cyber.gov.au/report-and-recover/report).
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+When an AI answer cites a law or fee, demand a link you can open on an official .gov.au or issuer domain. Unsourced numbers are drafts, not facts.
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when timing changed the outcome
-
-Sofia set everything up in a hurry and only noticed the wrong account after a payment bounced. Casey now screenshots every confirmation and nicknames accounts so automations are obvious. The lesson for **aI and money decisions**: slow clarity beats fast regret.
-
-## Practical steps for AI and money decisions
-
-1. Gather ID, income evidence, and any existing contracts or statements.
-2. Confirm who else is affected (partner, guarantor, dependants) before you sign.
-3. Complete the application or setup deliberately—screenshot confirmations.
-4. Turn on alerts and store reference numbers where you can find them.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Money stress now** — prioritise rent, food, utilities, and medicine, then use [Urgent help](/urgent). National Debt Helpline: 1800 007 007.
+Paste AI-generated repayment schedules into a blank spreadsheet and recalculate once yourself. Arithmetic errors hide behind fluent sentences.
 
 ## What to do next
 
-- Decide the next action for **aI and money decisions** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Protect yourself from scams](/topics/scams-safety/online-safety/protect-yourself-from-scams) for a related decision.
-- Read [How to spot a scam website](/topics/scams-safety/online-safety/how-to-spot-a-scam-website) for a related decision.
-- If essentials are at risk, open [Urgent help](/urgent) before taking on new credit.
+- Decide a personal rule: no account numbers or OTPs in any AI chat, ever.
+- For one recent AI money answer you trusted, re-check the key figure on an official source.
+- Before any AI-suggested investment, complete independent licence and alert-list checks.
+- If a deepfake or chatbot already extracted money or codes, contact your bank and open [Urgent help](/urgent) if essentials are at risk.

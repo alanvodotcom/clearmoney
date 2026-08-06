@@ -1,84 +1,78 @@
 ---
-title: "Rental bonds and leases"
-description: "Bond boards, condition reports, and rights."
+title: Rental bonds and leases
+description: Bond boards, condition reports, and rights.
 pillar: community
 hub: students
 slug: rental-bonds-and-leases
 updated: "2026-08-03"
-tags: 
+tags:
   - students
-relatedGuides: 
-  - community/students/studying
-  - community/students/getting-a-job
+relatedGuides:
   - community/students/moving-out-of-home
-  - community/students/choosing-a-mobile-phone-plan
+  - community/students/studying
+  - community/publications/how-to-complain
+  - banking-budgeting/budgeting/how-to-do-a-budget
 ---
 
-Bond boards, condition reports, and rights. Student money pressure is real: income is lumpy, costs are fixed, and credit can look like a shortcut.
+A lease and a bond are where student housing gets legal. Understanding both before you sign is cheaper than learning through a disputed cleaning bill at the end of semester.
 
-## Understanding Rental bonds and leases
+## Bond money is yours (with conditions)
 
-**Rental bonds and leases** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Bond boards, condition reports, and rights. Student money pressure is real: income is lumpy, costs are fixed, and credit can look like a shortcut.
+A rental bond is security for the landlord against unpaid rent or damage beyond fair wear and tear. In most Australian states and territories, bonds must be lodged with the official bond board or tenancy authority—not kept casually in a landlord’s personal account. Confirm the rule for your state when you pay.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Get a receipt and a lodgement number. If someone asks you to pay bond in cash with no paperwork, treat that as a warning sign.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+Bond is not a tip and not “last month’s rent” unless your agreement and local law say so. You should get it back at the end if you have met your obligations and the property is left in an appropriate condition.
 
-## How to think about the moving parts
+## Condition reports that protect you
 
-For **rental bonds and leases**, translate marketing into cash-flow reality. What is the total repayable? What happens if rates rise or hours fall? Can you still cover rent, food, and utilities after the repayment leaves?
+On move-in day (or as required in your jurisdiction), complete the condition report carefully:
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+- Photo every room, including existing marks, stains, and appliance serials if relevant
+- Note mould, cracked glass, torn flyscreens, and worn carpet
+- Keep your own copy and timestamped photos in cloud storage
 
-## Upsides worth wanting
+Fair wear and tear (gradual aging from normal use) differs from damage (holes, burns, broken fixtures). Photos taken on day one are how you prove which was which six months later.
 
-- Access to a lump sum when cash flow cannot stretch
-- Predictable repayments if the rate and term are understood
-- A chance to refinance or restructure later if you keep records
+If the agent rushes you, still photograph. A half-finished report beats none.
 
-## Risks and traps to watch
+## Lease clauses students often miss
 
-### Easy-to-miss costs
+Read before you sign:
 
-Focusing on weekly repayments instead of total cost. For **Rental bonds and leases**, read the conditions that turn a good deal average.
+- **Fixed term end date** and what happens if you leave early (break fees can be large)
+- **Rent amount and increase rules** under your state’s law
+- **Who pays which utilities** and whether the property is separately metered
+- **Share-house reality** — whose names are on the lease; subletting rules if a housemate leaves
+- **Pets, smoking, painting** — restrictions that attract claims
+- **Routine inspection** notice requirements
 
-### Timing and people problems
+International students: ensure the lease matches the address you need for enrolment and banking mail. Never sign a blank form or a lease you have not read because “orientation week is busy.”
 
-Guarantor or security risks you did not price emotionally. Write down who can authorise changes.
+More cash-flow framing for the move sits in [moving out of home](/topics/community/students/moving-out-of-home).
 
-### Recovery friction
+## Getting the bond back cleanly
 
-Stacking credit products until cash flow snaps. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+Near the end of the tenancy:
 
-## Details that change the decision
+1. Re-read the move-out cleaning expectations in your agreement
+2. Compare the property to your entry photos
+3. Attend the final inspection if you can
+4. Agree bond refund instructions in writing through the proper channel
+5. If there is a dispute, use your state’s tenancy dispute process rather than endless text arguments
 
-Irregular shifts and fixed rent create fragile months. For **Rental bonds and leases**, build a bare-bones budget and a tiny buffer before lifestyle upgrades. Treat credit as expensive, not as income.
+Do not ignore a claim letter. Deadlines matter. For escalating stuck disputes with agents or providers more generally, [how to complain](/topics/community/publications/how-to-complain) covers structured escalation habits.
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+## Share-house exits mid-lease
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+If a housemate leaves, read whether you remain jointly liable for the full rent. Landlord permission for a replacement housemate usually matters. Do not rely on a handshake that the departing person will “keep paying”—get written releases through the proper tenancy process.
 
-## A short story: when the fine print mattered
-
-Luca chose the lowest weekly repayment with a long term and paid far more interest. Morgan compared total cost and picked a shorter term they could still stress-test if hours dropped. The lesson for **rental bonds and leases**: slow clarity beats fast regret.
-
-## Practical steps for Rental bonds and leases
-
-1. Calculate the total amount repayable, not only the weekly figure.
-2. Compare at least two lenders or credit types with the same loan amount and term.
-3. Stress-test repayments if rates rise or hours drop.
-4. Avoid stacking new credit to pay old credit without a written plan.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Life changes** — job loss, a new dependant, or a move can invalidate last year’s choice; schedule a review.
-- **Records** — keep PDFs of contracts, statements, and cancellation confirmations for at least a year.
+Photograph meter readings on move-in and move-out days when you pay for utilities. Disputes about usage often come down to missing numbers.
 
 ## What to do next
 
-- Decide the next action for **rental bonds and leases** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Studying and money](/topics/community/students/studying) for a related decision.
-- Read [Getting a job](/topics/community/students/getting-a-job) for a related decision.
-- Write your constraints on paper so a sales pitch cannot rewrite them.
+- Confirm your state’s bond lodgement rules and keep the lodgement receipt.
+- Complete and photograph the condition report on day one; store copies off your phone.
+- Highlight break-lease, utilities, and housemate clauses before you sign.
+- Calendar the fixed-term end date 8 weeks early so you can decide renew vs leave.
+- On exit, match cleaning to entry photos and lodge bond refund paperwork promptly.

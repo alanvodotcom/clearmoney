@@ -5,79 +5,66 @@ pillar: super-retirement
 hub: plan-retirement
 slug: super-and-the-age-pension
 updated: "2026-08-03"
-tags: 
-  - plan retirement
-relatedGuides: 
-  - super-retirement/plan-retirement/make-a-retirement-plan
-  - super-retirement/plan-retirement/work-out-how-much-you-need-to-retire
-  - super-retirement/plan-retirement/what-happens-to-your-super-when-you-retire
-  - super-retirement/plan-retirement/your-home-in-retirement
+tags:
+  - plan-retirement
+relatedGuides:
+  - super-retirement/income-sources/age-pension-and-government-benefits
+  - super-retirement/income-sources/account-based-pensions
+  - super-retirement/retirement/case-study-helen-and-joe-retire
+  - super-retirement/grow-super/downsizer-super-contributions
 ---
 
-How means tests interact with super income. Retirement planning turns a vague ‘enough’ into a spending estimate, an income mix, and a timing plan.
+Age Pension and super are designed to work together for many Australians—but the assets and income tests decide how much pension you receive. Understanding the interaction early stops nasty surprises when you start an account-based pension, take a lump sum, or sell the family home.
 
-## Understanding Super and the Age Pension
+## Two clocks that do not always align
 
-**Super and the Age Pension** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. How means tests interact with super income. Retirement planning turns a vague ‘enough’ into a spending estimate, an income mix, and a timing plan.
+**Preservation age and conditions of release** govern when you can access super. **Age Pension age** (67 for people born on or after 1 January 1957—confirm if your cohort differs) governs when you can claim the pension. You might access super before pension age, or claim pension while still holding accumulation super—outcomes differ.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Use official Services Australia and ATO age tools; ClearMoney’s [super and pension age](/tools/super-pension-age) calculator helps explore timing gaps between the two systems.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+## How means tests work in broad terms
 
-## How to think about the moving parts
+Centrelink applies assets and income tests; you receive the lower rate after both are calculated. The family home is generally treated differently from financial assets, subject to current rules and acreage limits. Financial assets—including money in super depending on your age and whether it sits in accumulation or pension phase—can be assessed under deeming or other rules.
 
-Setup quality decides whether **super and the Age Pension** helps or nags you later. Confirm identity and contact details, choose alerts you will actually read, and decide who else can see or move money. If a salesperson is present, ask for the key numbers in writing before you sign.
+**Exact thresholds, taper rates, and deeming rates change.** Always check Services Australia for the figures that apply on your claim date. Do not rely on a neighbour’s experience from five years ago.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+## Why product shape changes the pension picture
 
-## Upsides worth wanting
+Moving from accumulation to an account-based pension can change how your super is assessed. Taking a large lump sum and holding cash in the bank also changes the assets test. There is no universal “always leave it in super” or “always cash out” answer—run scenarios with a Financial Information Service officer or licensed adviser if amounts are material.
 
-- Automations that reduce missed payments and late fees
-- Alerts that surface problems while they are still small
-- Shared understanding when more than one person is involved
+Deep dive on pension products: [Account-based pensions](/topics/super-retirement/income-sources/account-based-pensions). Helen and Joe’s story shows a blended approach in practice: [Case study: Helen and Joe retire](/topics/super-retirement/retirement/case-study-helen-and-joe-retire).
 
-## Risks and traps to watch
+## Work, wages, and reporting
 
-### Easy-to-miss costs
+Employment income can reduce Age Pension via the income test. Some people prefer part-time work plus a smaller pension for social and financial reasons. Report changes promptly—debts to Centrelink hurt and compound. If you are still working past pension age, understand how wages interact with deeming on financial assets.
 
-Set-and-forget errors (wrong account, wrong amount, wrong date). For **Super and the Age Pension**, read the conditions that turn a good deal average.
+## Gifting and deprivation
 
-### Timing and people problems
+Giving away assets to qualify for more pension can trigger deprivation rules that still count the gift for a period. Read current gifting limits before you transfer property to adult children as a “pension strategy.” What feels like family generosity can become a Centrelink debt.
 
-Giving too much authority to another person. Write down who can authorise changes.
+## Downsizing and super without losing the plot
 
-### Recovery friction
+Selling the home to move somewhere smaller can free capital and change both assets test and cash flow. [Downsizer super contributions](/topics/super-retirement/grow-super/downsizer-super-contributions) may let eligible people contribute sale proceeds within caps—conditions apply and change. Pension treatment of the new home, rent if you move to leasing, and how long proceeds sit in the bank all matter for the means tests.
 
-Missing fine print on fees or cooling-off rights. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+## A planning sequence that survives updates
 
-## Details that change the decision
+1. Estimate retirement spending from a honest budget
+2. Rough Age Pension eligibility under today’s published thresholds
+3. Model super drawdowns and product choices
+4. Re-check when thresholds update each year
+5. Lodge claims with complete asset lists—omissions create debts
 
-A retirement age is a hypothesis until health, work, and housing cooperate. For **Super and the Age Pension**, model a ‘base’ and a ‘frugal’ budget, then test what happens if you retire two years earlier or later. Include Age Pension assumptions carefully—they are means-tested.
+Full payment overview: [Age Pension and government benefits](/topics/super-retirement/income-sources/age-pension-and-government-benefits).
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+## Common surprises at claim time
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+People discover old bank accounts, inherited shares, or a car valued higher than expected—all pushing assets over thresholds. Others forget that money gifted within deprivation windows still counts. Super in accumulation for under-65s is assessed differently from pension-phase accounts for older claimants; the labels on your statement matter.
 
-## A short story: when the fine print mattered
-
-Aisha set everything up in a hurry and only noticed the wrong account after a payment bounced. Taylor now screenshots every confirmation and nicknames accounts so automations are obvious. The lesson for **super and the Age Pension**: slow clarity beats fast regret.
-
-## Practical steps for Super and the Age Pension
-
-1. Gather ID, income evidence, and any existing contracts or statements.
-2. Confirm who else is affected (partner, guarantor, dependants) before you sign.
-3. Complete the application or setup deliberately—screenshot confirmations.
-4. Turn on alerts and store reference numbers where you can find them.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Rule changes** — contribution caps, preservation ages, and Age Pension settings change; confirm current figures before acting.
+If you receive a part-pension, small changes in assets or income can change the rate quickly. Report promptly and keep records of sale proceeds, funeral costs, and major repairs that affect assessable assets.
 
 ## What to do next
 
-- Decide the next action for **super and the Age Pension** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Make a retirement plan](/topics/super-retirement/plan-retirement/make-a-retirement-plan) for a related decision.
-- Read [Work out how much you need to retire](/topics/super-retirement/plan-retirement/work-out-how-much-you-need-to-retire) for a related decision.
-- Write your constraints on paper so a sales pitch cannot rewrite them.
+- Confirm your Age Pension age and current assets/income test settings on Services Australia.
+- List every assessable asset—super, bank accounts, cars, other property—before assuming a full pension.
+- Model pension phase versus lump sum with eyes on means tests, not only tax.
+- Book a free Financial Information Service appointment if your situation is complex or amounts are large.

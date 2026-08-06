@@ -5,79 +5,63 @@ pillar: super-retirement
 hub: plan-retirement
 slug: wills-and-powers-of-attorney
 updated: "2026-08-03"
-tags: 
-  - plan retirement
-relatedGuides: 
-  - super-retirement/plan-retirement/make-a-retirement-plan
-  - super-retirement/plan-retirement/work-out-how-much-you-need-to-retire
-  - super-retirement/plan-retirement/super-and-the-age-pension
-  - super-retirement/plan-retirement/what-happens-to-your-super-when-you-retire
+tags:
+  - plan-retirement
+relatedGuides:
+  - super-retirement/how-super-works/who-gets-your-super-if-you-die
+  - super-retirement/manage-retirement/memory-loss-dementia-and-your-money
+  - banking-budgeting/family/losing-your-partner
+  - super-retirement/how-super-works/claiming-a-super-death-benefit
 ---
 
-Estate and decision-making documents for later life. Retirement planning turns a vague ‘enough’ into a spending estimate, an income mix, and a timing plan.
+A will says who receives estate assets after death. Powers of attorney say who can make financial and legal decisions if you are alive but cannot act. Super often sits **outside** the will via binding or non-binding nominations—so these documents must be designed as a set, not drafted in isolation on a discount website.
 
-## What is Wills and powers of attorney?
+## What a will actually controls
 
-**Wills and powers of attorney** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Estate and decision-making documents for later life. Retirement planning turns a vague ‘enough’ into a spending estimate, an income mix, and a timing plan.
+A will typically covers assets you own personally: bank accounts in your name, property, shares, and personal items. It appoints an executor to administer the estate, pay debts, and distribute what remains. Gifts described as percentages usually age better than vague instructions like “look after the kids”—courts and families argue over vagueness when grief is raw.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+State and territory rules differ on witnessing, validity, and who can witness. Use a solicitor or reputable will service; DIY errors surface when families are grieving and bills still arrive. Store the signed original where the executor can find it, and tell them it exists.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+Executors manage probate, lodge final tax returns, and pay creditors before beneficiaries see money. Choose someone organised enough to chase paperwork for months—not merely someone you love. A backup executor matters if the first appointee is your age or in poor health.
 
-## How to think about the moving parts
+## Super nominations are a separate lane
 
-Setup quality decides whether **wills and powers of attorney** helps or nags you later. Confirm identity and contact details, choose alerts you will actually read, and decide who else can see or move money. If a salesperson is present, ask for the key numbers in writing before you sign.
+Even with a perfect will, super balances may not form part of the estate unless paid to the legal personal representative. Update binding nominations at each fund—and know expiry dates on binding nominations where they apply. [Who gets your super if you die](/topics/super-retirement/how-super-works/who-gets-your-super-if-you-die) explains dependants, reversionary pensions, and why the will alone is not enough.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Beneficiaries claiming after a death need specific forms and evidence—[Claiming a super death benefit](/topics/super-retirement/how-super-works/claiming-a-super-death-benefit) walks through the admin layer survivors face.
 
-## Upsides worth wanting
+## Enduring power of attorney for money matters
 
-- Automations that reduce missed payments and late fees
-- Alerts that surface problems while they are still small
-- Shared understanding when more than one person is involved
+An enduring financial power of attorney lets someone manage bank accounts, pay bills, sell property, and deal with agencies if you lose capacity. Authority is powerful—choose attorneys you trust, who understand your values, and who will outlive the likely need. You can often limit powers, require joint signatures, or appoint alternate attorneys.
 
-## Risks and traps to watch
+Make it while you have capacity. Waiting until dementia advances can be too late. See [Memory loss, dementia and your money](/topics/super-retirement/manage-retirement/memory-loss-dementia-and-your-money) for how banks, super funds, and attorneys interact when capacity fades.
 
-### Easy-to-miss costs
+## Medical and lifestyle decision documents
 
-Set-and-forget errors (wrong account, wrong amount, wrong date). For **Wills and powers of attorney**, read the conditions that turn a good deal average.
+Depending on your state or territory, advance care directives, enduring guardianship, or medical powers appoint people for treatment and lifestyle decisions. Keep copies with your GP, hospital, and financial attorney so nobody acts at cross purposes.
 
-### Timing and people problems
+These documents are not interchangeable—a financial attorney cannot consent to surgery on your behalf in most jurisdictions.
 
-Giving too much authority to another person. If someone rushes you, that is data—slow down.
+## Guardianship when nothing is in place
 
-### Recovery friction
+Without valid documents, families may need tribunal or board appointments to manage affairs—slower, more public, and more stressful than prevention. The cost of solicitor-drafted wills and powers is usually small beside months of uncertainty.
 
-Missing fine print on fees or cooling-off rights. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+## Conversations that feel awkward but save pain
 
-## Details that change the decision
+Tell attorneys where logins, fund details, insurance policies, and mortgage documents live—without putting passwords in the will itself. Discuss funeral wishes and how they will be paid. If you lose a partner, financial and legal tasks pile up immediately—[Losing your partner](/topics/banking-budgeting/family/losing-your-partner) covers practical steps alongside grief.
 
-A retirement age is a hypothesis until health, work, and housing cooperate. For **Wills and powers of attorney**, model a ‘base’ and a ‘frugal’ budget, then test what happens if you retire two years earlier or later. Include Age Pension assumptions carefully—they are means-tested.
+Review every three years, or after diagnosis, moving interstate, marriage, separation, or major asset changes. Revoke old attorneys in writing and notify banks and super funds when you replace someone.
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+## Retirement products change the paperwork
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+Starting an account-based pension, taking a large lump sum, or opening a reversionary pension for a partner can each require fresh beneficiary nominations and attorney briefings. The person who understood your accumulation account may not know which pension account now pays the bills.
 
-## A short story: when a simple system helped
-
-Sofia set everything up in a hurry and only noticed the wrong account after a payment bounced. Casey now screenshots every confirmation and nicknames accounts so automations are obvious. The lesson for **wills and powers of attorney**: slow clarity beats fast regret.
-
-## Practical steps for Wills and powers of attorney
-
-1. Gather ID, income evidence, and any existing contracts or statements.
-2. Confirm who else is affected (partner, guarantor, dependants) before you sign.
-3. Complete the application or setup deliberately—screenshot confirmations.
-4. Turn on alerts and store reference numbers where you can find them.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Rule changes** — contribution caps, preservation ages, and Age Pension settings change; confirm current figures before acting.
+After any super product switch, ask the fund what happens to existing nominations and whether a reversionary beneficiary option replaces a binding nomination. Misalignment between pension designations and your will is a common source of family dispute.
 
 ## What to do next
 
-- Decide the next action for **wills and powers of attorney** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Make a retirement plan](/topics/super-retirement/plan-retirement/make-a-retirement-plan) for a related decision.
-- Read [Work out how much you need to retire](/topics/super-retirement/plan-retirement/work-out-how-much-you-need-to-retire) for a related decision.
-- Tell one trusted person your plan if accountability helps you follow through.
+- Book a solicitor appointment for will plus enduring power of attorney as a package.
+- Align super nominations the same month—check binding expiry dates.
+- Give your executor a one-page “where things are” without sharing passwords insecurely by email.
+- Tell your chosen attorneys they are appointed and where the documents are stored.
+- Re-read everything after any major life event, including retirement product changes.

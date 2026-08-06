@@ -5,79 +5,62 @@ pillar: super-retirement
 hub: how-super-works
 slug: tax-and-super
 updated: "2026-08-03"
-tags: 
+tags:
   - how super works
-relatedGuides: 
+relatedGuides:
+  - super-retirement/grow-super/super-contributions
+  - super-retirement/how-super-works/getting-your-super
+  - super-retirement/manage-retirement/retirement-income-and-tax
   - super-retirement/how-super-works/superannuation
-  - super-retirement/how-super-works/types-of-super-funds
-  - super-retirement/how-super-works/choosing-a-super-fund
-  - super-retirement/how-super-works/stapled-super-fund
 ---
 
-Contributions tax, earnings, and withdrawals overview. Super is compulsory saving for later life, with rules on contributions, investments, and when you can access it.
+Super’s tax rules are usually more favourable than holding the same investments in your own name—but they are also capped, conditional, and easy to get wrong if you ignore contribution limits. This is a map, not a personal tax ruling. Rates and thresholds change; confirm with the ATO for the year you care about.
 
-## What is Tax and super?
+## Contributions: concessional vs non-concessional
 
-**Tax and super** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Contributions tax, earnings, and withdrawals overview. Super is compulsory saving for later life, with rules on contributions, investments, and when you can access it.
+**Concessional** contributions (employer SG, salary sacrifice, claimed personal deductible contributions) generally count toward an annual concessional cap. Inside the fund they are typically taxed at 15% on entry (higher effective tax can apply for high-income earners via Division 293—check current income thresholds).
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+**Non-concessional** contributions are mostly from after-tax money. They usually are not taxed again on entry, but they have their own annual cap and bring-forward rules tied to your total super balance.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+Caps are indexed. As a planning prompt only: recent years have seen concessional caps around the high-$20,000s to low-$30,000s and non-concessional caps as a multiple of that—**look up the exact dollars for the current financial year before you act**.
 
-## How to think about the moving parts
+## Earnings while money stays in the fund
 
-Setup quality decides whether **tax and super** helps or nags you later. Confirm identity and contact details, choose alerts you will actually read, and decide who else can see or move money. If a salesperson is present, ask for the key numbers in writing before you sign.
+Investment earnings in accumulation phase are generally taxed at up to 15% inside the fund (effective rates vary with capital gains discounts and other adjustments). In retirement phase, earnings on assets supporting a complying income stream are generally tax-free, subject to transfer balance cap rules.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+That difference is one reason people move into an account-based pension when eligible—not a reason to ignore drawdown discipline.
 
-## Upsides worth wanting
+## Withdrawals and your age
 
-- Automations that reduce missed payments and late fees
-- Alerts that surface problems while they are still small
-- Shared understanding when more than one person is involved
+Tax on benefits depends on age, component (taxable vs tax-free), and whether you take a lump sum or income stream. Broadly, many people aged 60+ taking benefits from a taxed fund receive more favourable treatment than under-60 withdrawals—but exceptions exist (untaxed funds, certain death benefits).
 
-## Risks and traps to watch
+Never assume “all super is tax-free at 60” without checking your fund type and the ATO’s current benefit tax tables. See [Getting your super](/topics/super-retirement/how-super-works/getting-your-super) and [Retirement income and tax](/topics/super-retirement/manage-retirement/retirement-income-and-tax).
 
-### Easy-to-miss costs
+## Excess contributions hurt
 
-Set-and-forget errors (wrong account, wrong amount, wrong date). For **Tax and super**, read the conditions that turn a good deal average.
+Go over a cap and extra tax and corrective options appear. Carry-forward of unused concessional cap space exists for eligible people with total super balances under a threshold—useful, but easy to miscalculate if you have multiple funds.
 
-### Timing and people problems
+Downsizer contributions follow a separate rule set for eligible home sales—see [Downsizer super contributions](/topics/super-retirement/grow-super/downsizer-super-contributions).
 
-Giving too much authority to another person. If someone rushes you, that is data—slow down.
+## Record-keeping that saves March panic
 
-### Recovery friction
+- Keep notices of intent to claim deductions for personal concessional contributions
+- Save contribution confirmations and employer SG payslip lines
+- Note any spouse contributions or offsets you intend to claim
+- Download annual statements showing taxable components
 
-Missing fine print on fees or cooling-off rights. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+## What tax does not decide alone
 
-## Details that change the decision
+Tax efficiency can tempt oversized contributions while your mortgage rate or emergency cash is a mess. Fund the buffer and high-interest debt plan first, then use remaining cash-flow for capped concessional strategies if they still fit.
 
-Contributions, investment options, insurance inside super, and fees interact. For **Tax and super**, log in, download a statement, and note beneficiary nominations. Multiple funds often mean multiple fee drags—consolidation can help after you check insurance loss risks.
+## Salary sacrifice paperwork order
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+Sign the employer agreement before the sacrifice starts, watch the first payslip, and confirm the fund receipt. If you intend to claim a personal deduction instead, follow notice-of-intent rules with the fund. Mixing the two pathways without documentation is how deductions get denied.
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when a simple system helped
-
-Noah set everything up in a hurry and only noticed the wrong account after a payment bounced. Riley now screenshots every confirmation and nicknames accounts so automations are obvious. The lesson for **tax and super**: slow clarity beats fast regret.
-
-## Practical steps for Tax and super
-
-1. Gather ID, income evidence, and any existing contracts or statements.
-2. Confirm who else is affected (partner, guarantor, dependants) before you sign.
-3. Complete the application or setup deliberately—screenshot confirmations.
-4. Turn on alerts and store reference numbers where you can find them.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Rule changes** — contribution caps, preservation ages, and Age Pension settings change; confirm current figures before acting.
+Carry-forward concessional room can help after low-income years, but only if total super balance tests are met. Ask a tax agent to read your ATO report with you before June rather than guessing from a social media tip.
 
 ## What to do next
-
-- Decide the next action for **tax and super** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Superannuation basics](/topics/super-retirement/how-super-works/superannuation) for a related decision.
-- Read [Types of super funds](/topics/super-retirement/how-super-works/types-of-super-funds) for a related decision.
-- Tell one trusted person your plan if accountability helps you follow through.
+- Look up this year’s concessional and non-concessional caps on the ATO site.
+- Add employer SG + planned salary sacrifice on a calculator before you sign a sacrifice form.
+- Read [Super contributions](/topics/super-retirement/grow-super/super-contributions) for the how-to layer.
+- If you are already drawing a pension, use [Retirement income and tax](/topics/super-retirement/manage-retirement/retirement-income-and-tax) for the drawdown side.

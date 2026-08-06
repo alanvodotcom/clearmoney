@@ -1,90 +1,74 @@
 ---
-title: "Save for a house deposit"
-description: "Deposit targets, timelines, and what counts as a genuine savings history."
+title: Save for a house deposit
+description: Deposit targets, timelines, and what counts as genuine savings.
 pillar: banking-budgeting
 hub: saving
 slug: save-for-a-house-deposit
 updated: "2026-08-03"
-tags: 
+tags:
   - saving
-relatedTools: 
+  - home
+relatedTools:
   - savings-goals
   - mortgage
-relatedGuides: 
-  - banking-budgeting/saving/how-to-start-saving
-  - banking-budgeting/saving/simple-ways-to-save-money
-  - banking-budgeting/saving/save-for-an-emergency-fund
+relatedGuides:
   - banking-budgeting/saving/ways-to-buy-a-home-sooner
+  - banking-budgeting/saving/save-for-an-emergency-fund
+  - banking-budgeting/saving/how-to-start-saving
+  - banking-budgeting/banking/savings-accounts
 ---
 
-Deposit targets, timelines, and what counts as a genuine savings history. Saving works when money moves before you can spend it, and when the goal has a name and a date.
+A house deposit is a multi-year savings project with a moving target: property prices, lender rules, and your own life all shift while you save. Set a realistic percentage, reverse-engineer the weekly amount, and keep a trail of genuine savings that lenders can understand.
 
-## Understanding Save for a house deposit
+## How big a deposit do you actually need?
 
-**Save for a house deposit** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Deposit targets, timelines, and what counts as a genuine savings history. Saving works when money moves before you can spend it, and when the goal has a name and a date.
+Lenders often prefer **20%** of the purchase price so you can avoid lenders mortgage insurance (LMI). Many buyers enter with **5–10%** plus LMI, especially with help from family or government schemes—but a thinner deposit usually means higher ongoing cost and stricter assessment.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Deposit size is not only the percentage of price. You also need cash for:
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+- stamp duty or concessions you may or may not receive
+- conveyancing and inspections
+- moving, connection fees, and immediate repairs
+- a buffer so settlement day does not empty every account
 
-## How to think about the moving parts
+Sketch a total “cash to complete,” not just deposit %. Use the [Mortgage calculator](/tools/mortgage) to see how loan size and repayments change if you put down more or less. A larger deposit can shrink the loan—and stress—more than a slightly cheaper suburb saves you in rate shopping alone.
 
-Saving linked to **save for a house deposit** works when the transfer is automatic and the destination account is slightly inconvenient to raid. Pair a named goal with a payday rule, then protect the balance from everyday debit-card spend.
+Price the kind of home you could actually buy in your market today, then add a contingency for price growth over your timeline. Optimism without a cushion is how people miss their own settlement date.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+## Timeline maths that keeps you honest
 
-ClearMoney calculators that pair with this topic: [Savings Goals](/tools/savings-goals), [Mortgage](/tools/mortgage). Use them to turn guesses into numbers before you commit.
+Take target cash to complete, subtract what you already have earmarked, and divide by the number of fortnights until your intended buy window. That number is your required transfer. If it exceeds what your budget can spare, you extend the date, lower the price band, or find extra income—you do not pretend the gap will close itself.
 
-## Upsides worth wanting
+The [Savings goals](/tools/savings-goals) tool is built for this: goal amount, current savings, and date in; fortnightly figure out. Review the figure every six months when rent, wages, or prices move.
 
-- Visible progress toward a named goal
-- Less reliance on high-cost credit for shocks
-- Habit formation that survives busy weeks
+Couples should agree contributions in writing (even a shared note). Uneven incomes are fine; unspoken assumptions are not. If you use a joint savings account, decide operating authority carefully—see the banking guides on joint accounts if trust or control is a concern.
 
-## Risks and traps to watch
+## Genuine savings history and lender eyes
 
-### Easy-to-miss costs
+Many lenders look for a pattern of saving from your own income—not a last-minute lump that appears with no trail. Regular transfers into a dedicated account over months look stronger than cash kept under a mattress or repeatedly moved between accounts.
 
-Bonus rates that collapse after conditions fail. For **Save for a house deposit**, read the conditions that turn a good deal average.
+Gifts and inheritance can help, but banks often want a gift letter and may treat recent large deposits differently from wages saved over time. Keep statements. Do not shuffle money in ways that look like you are hiding debts.
 
-### Timing and people problems
+Avoid draining every account for the deposit. Lenders also care that you can still live after settlement. A hollowed-out emergency fund the week before you buy is a red flag for them and a risk for you.
 
-Saving while high-interest debt grows faster. Write down who can authorise changes.
+## Where the deposit money should live
 
-### Recovery friction
+Park the growing deposit in a named [savings account](/topics/banking-budgeting/banking/savings-accounts) with limited spend access. Bonus rates help if you can meet conditions without stress; missing a no-withdrawal rule the month you need to pay a building inspection is false economy.
 
-Raiding the goal account for lifestyle spend. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+As you near purchase, prioritise capital stability over yield. Money you will need within a year generally should not sit in volatile investments. Term deposits can work for slices you will not touch until a known date—just map maturity to your buying window.
 
-## Details that change the decision
+## Deposit vs life: keeping other buffers
 
-High rates often come with conditions: deposit amounts, no withdrawals, or bonus periods that expire. Read those rules before you chase 0.1% differences. For **Save for a house deposit**, name the account after the goal and keep the debit card locked or unlinked. If you still hold high-interest debt, running the numbers on repayment versus saving usually beats collecting a small interest credit.
+House fever is real. Pausing all other savings until you buy can leave you house-rich and crisis-poor. Keep at least a starter [emergency fund](/topics/banking-budgeting/saving/save-for-an-emergency-fund) while you build the deposit, or split each pay: mostly deposit, a slice to emergency, until both meet minimums you chose in advance.
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+If high-interest consumer debt is still growing, run the numbers coldly. Paying 20% interest to “save faster” for a home usually loses. Clear or shrink expensive debt in parallel, even if the deposit timeline stretches.
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when the fine print mattered
-
-Priya tried to save whatever was left on Sunday—usually nothing. Alex renamed a savings account after the goal and automated $40 on payday; the balance finally moved. The lesson for **save for a house deposit**: slow clarity beats fast regret.
-
-## Practical steps for Save for a house deposit
-
-1. Name the goal and a rough target date.
-2. Automate a transfer on payday to a separate account.
-3. Cut one recurring leak before you cut joy spending.
-4. Review progress monthly and nudge the amount when income rises.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Life changes** — job loss, a new dependant, or a move can invalidate last year’s choice; schedule a review.
-- **Records** — keep PDFs of contracts, statements, and cancellation confirmations for at least a year.
+For ways to shorten the wait without magical thinking—cost cuts, borrowing trade-offs, schemes—read [ways to buy a home sooner](/topics/banking-budgeting/saving/ways-to-buy-a-home-sooner).
 
 ## What to do next
 
-- Decide the next action for **save for a house deposit** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [How to start saving](/topics/banking-budgeting/saving/how-to-start-saving) for a related decision.
-- Read [Simple ways to save money](/topics/banking-budgeting/saving/simple-ways-to-save-money) for a related decision.
-- Run the numbers with [Savings Goals](/tools/savings-goals).
-- Write your constraints on paper so a sales pitch cannot rewrite them.
+- Pick a price band and deposit percentage, then list stamp duty and buying costs on top.
+- Convert the gap into a fortnightly amount with [Savings goals](/tools/savings-goals).
+- Stress-test repayments at different deposit sizes using [Mortgage calculator](/tools/mortgage).
+- Open a nicknamed deposit account and automate payday transfers from your own income.
+- Protect a small emergency buffer so settlement and the first months of ownership do not rely on credit cards.

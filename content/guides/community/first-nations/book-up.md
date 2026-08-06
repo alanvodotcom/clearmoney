@@ -1,84 +1,78 @@
 ---
-title: "Book-up"
-description: "Store credit risks and safer alternatives."
+title: Book-up
+description: Store credit risks and safer alternatives.
 pillar: community
 hub: first-nations
 slug: book-up
 updated: "2026-08-03"
-tags: 
+tags:
   - first nations
-relatedGuides: 
-  - community/first-nations/first-nations-services-that-can-help
+relatedGuides:
   - community/first-nations/bank-accounts
-  - community/first-nations/how-to-prove-your-identity
   - community/first-nations/cash-loans
+  - community/first-nations/buying-a-hamper
+  - community/first-nations/first-nations-services-that-can-help
 ---
 
-Store credit risks and safer alternatives. First Nations money guides respect community contexts while covering practical banking, debt, and consumer rights.
+Book-up is store credit: you take goods now and the store records a debt against your name—often tied to your card, keycard, or Centrelink timing. In some communities it has been a practical bridge when banking access is hard. It can also become a trap that eats the next payment before rent or food for the fortnight is sorted.
 
-## What is Book-up?
+## What book-up is in practice
 
-**Book-up** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Store credit risks and safer alternatives. First Nations money guides respect community contexts while covering practical banking, debt, and consumer rights.
+You might:
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+- Leave a card or details with a store to “hold”
+- Sign or agree that shopping will be taken off when money lands
+- Build a running tab for food, fuel, or other goods
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+Rules and fairness vary widely between stores. Some keep clear written balances; others rely on verbal tallies that are hard to check. You have a right to know what you owe and what each purchase cost.
 
-## How to think about the moving parts
+Book-up is different from a normal bank debit you authorise at the counter for today’s shop only. If you do not understand how the debt is recorded, pause.
 
-Use **book-up** as a toolkit. Take what fits your household, leave what does not, and prefer official registers and licensed help for high-stakes steps.
+## How the cost adds up
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Problems arise when:
 
-## Upsides worth wanting
+- Prices on book-up are higher than cash prices
+- Fees or “admin” charges attach to the tab
+- The whole Centrelink payment is diverted, leaving nothing for other bills
+- Disputes happen because there is no itemised record
+- Pressure continues even when you are trying to stop
 
-- Shared language for classrooms, families, or community groups
-- Pointers to free or low-cost support
-- Practical checklists you can adapt locally
+Ask for a written statement of your balance and recent items. If the store will not provide one, that is a warning. Compare with [buying a hamper](/topics/community/first-nations/buying-a-hamper) credit deals—another place total cost hides.
 
-## Risks and traps to watch
+## Safer ways to bridge to payday
 
-### Easy-to-miss costs
+Where possible:
 
-Treating a tip as universal advice. For **Book-up**, read the conditions that turn a good deal average.
+- Use your own [bank account](/topics/community/first-nations/bank-accounts) and withdraw only what you need
+- Budget the fortnight before shopping (food list first)
+- Ask community services about emergency relief instead of deepening store debt
+- Split income: essentials first, then discretionary
 
-### Timing and people problems
+If distance and banking access are the real issue, a community worker may help with cards, ID, or phone banking setup so book-up is not the only option.
 
-Out-of-date thresholds if you skip official checks. If someone rushes you, that is data—slow down.
+Avoid stacking book-up with [cash loans](/topics/community/first-nations/cash-loans)—multiple high-cost bridges collapse quickly.
 
-### Recovery friction
+## If you already owe the store
 
-Sharing someone else’s story without consent. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+1. Get the balance in writing
+2. Agree a repayment you can afford after rent and food
+3. Stop adding new items until the plan works
+4. Seek a financial counsellor if the debt feels endless—start via [services that can help](/topics/community/first-nations/first-nations-services-that-can-help) or 1800 007 007
+5. If conduct feels unfair or coercive, ask a community legal service about your rights
 
-## Details that change the decision
+You deserve a clear number and a fair path out—not shame.
 
-Practical money steps should respect kinship, remote access barriers, and community obligations. For **Book-up**, prefer culturally safe services and confirm rights around banking, Centrelink interactions, and consumer credit.
+## Community standards and store agreements
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+Some communities and stores have worked toward clearer book-up rules—written balances, limits on what can be charged, and no holding of keycards. Ask whether your store follows a published protocol. If not, pushing for itemised dockets still helps you personally.
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when a simple system helped
-
-Sofia shared a tip that worked for a dual-income household with a student living on casual shifts—and it backfired. Casey now checks constraints before recommending a step. The lesson for **book-up**: slow clarity beats fast regret.
-
-## Practical steps for Book-up
-
-1. Skim for the one action that helps this week.
-2. Note any official registers, forms, or hotlines mentioned.
-3. Adapt the idea to your household—not every tip fits every culture or income.
-4. Share useful steps with someone who asked for help, with consent.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Life changes** — job loss, a new dependant, or a move can invalidate last year’s choice; schedule a review.
-- **Records** — keep PDFs of contracts, statements, and cancellation confirmations for at least a year.
+When a whole payment is swept to the store, other obligations (school costs, travel for health, funeral contributions) get crowded out. Separating a small cash or card amount for those needs before shopping reduces the chance the tab takes everything. If the store requires the card to stay on site, talk to a financial counsellor about safer arrangements—that practice raises serious control and consumer issues.
 
 ## What to do next
 
-- Decide the next action for **book-up** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [First Nations services that can help](/topics/community/first-nations/first-nations-services-that-can-help) for a related decision.
-- Read [Bank accounts](/topics/community/first-nations/bank-accounts) for a related decision.
-- Tell one trusted person your plan if accountability helps you follow through.
+- Ask for a written book-up balance and item list this week.
+- Compare cash prices for the same goods before adding more to a tab.
+- Move income into an account you control where you can.
+- Contact a community service or financial counsellor if repayments leave no food money.
+- Read [cash loans](/topics/community/first-nations/cash-loans) before using another credit product to “clear” the store.

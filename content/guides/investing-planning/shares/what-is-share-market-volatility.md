@@ -5,80 +5,61 @@ pillar: investing-planning
 hub: shares
 slug: what-is-share-market-volatility
 updated: "2026-08-03"
-tags: 
+tags:
   - shares
-relatedGuides: 
+relatedGuides:
   - investing-planning/shares/how-to-buy-and-sell-shares
   - investing-planning/shares/choosing-shares-to-buy
   - investing-planning/shares/shares-what-is-an-ipo
   - investing-planning/shares/employee-share-schemes
 ---
 
-Why prices swing and how long-term investors respond. Shares are ownership slices. Prices move daily; your plan should not.
+Share prices move—sometimes gently, sometimes violently—because new information, shifting expectations, and waves of buying or selling meet in a market. Volatility is not a glitch. It is how listed markets discover prices. Long-term investors plan for swings; short-term traders try to profit from them. Most households fare better in the first camp.
 
-## Share market volatility: the clear version
+## What volatility is measuring
 
-**Share market volatility** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Why prices swing and how long-term investors respond. Shares are ownership slices. Prices move daily; your plan should not.
+In everyday language, volatility means how widely and how quickly prices bounce around. A stock that rarely budges may still be risky in other ways (illiquid, highly indebted, fraud-prone). A diversified index can be volatile day to day while still being a reasonable long-horizon building block.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Volatility clusters: calm periods are often followed by stormy ones. News, rate decisions, geopolitics, and earnings seasons can compress years of worry into a week. That compression feels personal when your balance falls; historically, markets have also recovered over long spans—without guaranteeing your particular timeline.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+## Why swings feel worse than they “should”
 
-## How to think about the moving parts
+Losses hurt more than equivalent gains please. Checking balances daily after a drop restarts the pain. Media headlines optimise for attention, not for your 15-year goal. Social feeds showcase people who “sold the top,” not the quieter majority who panic-sold the bottom.
 
-With **share market volatility**, match the product to your time horizon. Money you may need within a few years usually should not sit in volatile assets. Fees and diversification matter more than a single tip from social media.
+If your sleeping money is in shares you may need within two years—for a deposit or a wedding—you have mismatched horizon and volatility. Cash-like buffers exist so equity volatility does not force a sale at the wrong time.
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+## Responses that usually help long-term holders
 
-## Upsides worth wanting
+- Own a mix that matches your time frame ([diversification](/topics/investing-planning/how-to-invest/diversification))
+- Contribute on a schedule so you buy across moods, not only in euphoria
+- Rebalance occasionally toward target weights instead of chasing winners
+- Ignore tips that demand immediate action after a plunge or spike
+- Keep an emergency fund outside the share portfolio
 
-- Potential growth above cash over long periods
-- Diversification that reduces single-company drama
-- Alignment with goals like retirement or a distant home deposit
+Selling everything after a 20% fall locks in paper losses and requires a correct re-entry call—two hard problems stacked. Doing nothing is often an active decision worth respecting if your plan assumed rough patches.
 
-## Risks and traps to watch
+## Volatility vs permanent loss
 
-### Easy-to-miss costs
+A broad market drawdown is different from a single speculative stock going to zero, a scam platform freezing withdrawals, or a company failing after debt spirals. Diversification and quality of custody matter. Fake “guaranteed hedging” products sold in a panic are a common scam add-on—see [investment scams](/topics/scams-safety/financial-scams/investment-scams) and [protect yourself from scams](/topics/scams-safety/online-safety/protect-yourself-from-scams).
 
-Buying under social pressure or FOMO. For **Share market volatility**, read the conditions that turn a good deal average.
+Leveraged products and CFDs can turn ordinary volatility into account wipeouts ([CFDs](/topics/investing-planning/warnings/contracts-for-difference-cfds)). Extra tools are optional; surviving the ride is not.
 
-### Timing and people problems
+## Company-specific noise
 
-Concentrated bets and high fees. Put review dates in your calendar.
+Individual shares can gap on earnings misses, regulatory news, or rumour. If you pick stocks, expect sharper paths than an index—see [choosing shares to buy](/topics/investing-planning/shares/choosing-shares-to-buy). Employee shareholdings plus salary at the same firm stack career risk with price risk ([employee share schemes](/topics/investing-planning/shares/employee-share-schemes)).
 
-### Recovery friction
+IPOs and thin stocks can be especially jumpy ([what is an IPO?](/topics/investing-planning/shares/shares-what-is-an-ipo)). Illiquid names may not let you exit cleanly when fear spikes.
 
-Needing the money earlier than the investment can recover. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+## A calm operating rhythm
 
-## Details that change the decision
+Decide review dates in advance. Between reviews, mute non-essential price alerts. When markets fall, reopen your written [investing plan](/topics/investing-planning/how-to-invest/develop-an-investing-plan): if goals and horizon are unchanged, the plan may still fit. If your job or cash need changed, adjust contributions and buffers—not necessarily every holding in one emotional evening.
 
-Company news moves prices; your plan should not move with every headline. For **Share market volatility**, understand brokerage, tax lots, and concentration risk if one stock becomes a large share of your wealth. Dividends are not ‘free money’—they are part of total return and can be cut.
-
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
-
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when timing changed the outcome
-
-Harper bought after a viral tip and sold in a panic three weeks later. Drew wrote a one-page plan: horizon, fee budget, and a rule not to check prices daily. The lesson for **share market volatility**: slow clarity beats fast regret.
-
-## Practical steps for Share market volatility
-
-1. Define the time horizon and what would force you to sell early.
-2. List fees (management, brokerage, advice) in dollars per year if you can.
-3. Diversify enough that one tip cannot wreck the plan.
-4. Ignore urgency: legitimate offers survive a night’s sleep.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Life changes** — job loss, a new dependant, or a move can invalidate last year’s choice; schedule a review.
-- **Records** — keep PDFs of contracts, statements, and cancellation confirmations for at least a year.
+Learn the mechanics of buying and selling so operational mistakes do not compound market stress ([how to buy and sell shares](/topics/investing-planning/shares/how-to-buy-and-sell-shares)).
 
 ## What to do next
 
-- Decide the next action for **share market volatility** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [How to buy and sell shares](/topics/investing-planning/shares/how-to-buy-and-sell-shares) for a related decision.
-- Read [Choosing shares to buy](/topics/investing-planning/shares/choosing-shares-to-buy) for a related decision.
-- Set a calendar reminder to revisit this decision after the next statement cycle.
+- Match share exposure to money you truly will not need soon; park near-term goals elsewhere.
+- Write how you will behave in a 20–30% fall before the next one arrives.
+- Prefer diversified holdings unless you deliberately accept single-stock risk.
+- Turn off compulsive price checking; schedule calmer reviews instead.
+- Treat panic-time product pitches as high risk—verify via [check before you invest](/topics/scams-safety/check-report/check-before-you-invest).

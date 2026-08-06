@@ -5,84 +5,78 @@ pillar: super-retirement
 hub: grow-super
 slug: how-to-check-your-super
 updated: "2026-08-03"
-tags: 
+tags:
   - grow super
-relatedTools: 
+relatedTools:
   - super
-relatedGuides: 
+relatedGuides:
   - super-retirement/grow-super/how-much-super-should-i-have
-  - super-retirement/grow-super/super-contributions
+  - super-retirement/how-super-works/find-lost-super
   - super-retirement/grow-super/super-investment-options
-  - super-retirement/grow-super/switching-super-funds
+  - super-retirement/grow-super/super-contributions
 ---
 
-Statements, fees, insurance, and investment option. Growing super is usually about contributions, fees, insurance inside super, and investment mix—not one hot tip.
+A useful super check takes under an hour and answers four questions: is money arriving, what are you paying, what are you covered for, and is the investment mix still intentional?
 
-## What is How to check your super?
+## Pull the documents
 
-**How to check your super** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Statements, fees, insurance, and investment option. Growing super is usually about contributions, fees, insurance inside super, and investment mix—not one hot tip.
+Download the latest member statement, fee summary, and insurance schedule. If you cannot log in, reset access now—not in five years. Add myGov ATO super search so you see every account, not only the one you remember.
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+## Contributions: is SG landing?
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+Match recent payslips to fund credits. Under Payday Super timing, gaps should show up faster—still verify. Note salary sacrifice or personal contributions separately so you do not blow caps. Project balances with the [super calculator](/tools/super).
 
-## How to think about the moving parts
+Missing SG? Raise it with the employer in writing, then use ATO unpaid super processes if needed.
 
-Start by separating **must-haves** from marketing. For **How to check your super**, write down the constraints you cannot ignore: income timing, dependants, existing debts, or a hard deadline. Then compare like-for-like features in a short table of your own—rate or premium, fees, exit costs, and what happens if life changes.
+## Fees in dollars, not vibes
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Circle administration and investment fees. On a $50,000 balance, 1% is $500 a year—real money. Compare with alternatives using [Choosing a super fund](/topics/super-retirement/how-super-works/choosing-a-super-fund) thinking, and the [fee drag](/tools/fee-drag) tool if you are weighing a switch.
 
-ClearMoney calculators that pair with this topic: [Super](/tools/super). Use them to turn guesses into numbers before you commit.
+## Insurance: keep, trim, or replace
 
-## Upsides worth wanting
+Write the sums insured and premiums. Ask whether you still need death/TPD/income protection inside super or hold better cover outside. Cancel only after replacement is active. Hazardous occupations should read definitions carefully.
 
-- Clearer trade-offs when fees and conditions sit side by side
-- Fewer surprises after honeymoon rates or promo periods end
-- A paper trail you can revisit when life changes
+## Investment option: still yours?
 
-## Risks and traps to watch
+Confirm whether you are in MySuper default, balanced, growth, or cash. If retirement is decades away and you are 100% cash, that may be fear, not a plan. If you retire in two years and sit 100% in high growth, sequence risk deserves a look. See [Super investment options](/topics/super-retirement/grow-super/super-investment-options).
 
-### Easy-to-miss costs
+## Beneficiaries and contact details
 
-Comparing headline rates while ignoring fees and conditions. For **How to check your super**, read the conditions that turn a good deal average.
+Check nomination type and expiry. Update email and mobile so you do not become “lost super.”
 
-### Timing and people problems
+## A yearly 40-minute ritual
 
-Switching so often that exit costs cancel the gain. If someone rushes you, that is data—slow down.
+| Minute | Task |
+| --- | --- |
+| 0–10 | Login + download statement |
+| 10–20 | Contributions vs payslips |
+| 20–30 | Fees + insurance |
+| 30–40 | Option + beneficiaries + notes for next year |
 
-### Recovery friction
+## Extra practical notes for How to check your super
 
-Trusting a quote that is not the final offer. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+Rules, caps, and product features change. Before you act on anything in this guide, confirm figures with the ATO, Services Australia, your fund PDS, or a licensed adviser as relevant. ClearMoney provides general information only.
 
-## Details that change the decision
+Write down the next action, the date you will complete it, and where the evidence will live (email folder, cloud drive, or paper file). If someone pressures you to skip verification, that pressure is a signal to slow down—not to hurry.
 
-Extra contributions only help if cash flow can carry them and rules allow them. For **How to check your super**, compare concessional versus after-tax pathways with current caps in mind, and watch insurance premiums deducted from your balance.
+When money stress, scams, or family conflict sit behind the topic, switch from optimisation to safety: [Urgent help](/urgent), financial counselling, and official complaint pathways exist because clever tips cannot fix every situation.
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+Keep product documents for at least seven years where tax or insurance could be questioned later. Screenshots of confirmations beat remembered phone calls. If you share finances, make sure a second trusted person can find the same folder without your unlocked phone.
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+## Verification steps unique to How to check your super
 
-## A short story: when a simple system helped
+Confirm live contribution caps, Age Pension thresholds, preservation details, and product fees on official ATO, Services Australia, or fund PDS pages the week you act. ClearMoney offers general information only—not personal advice. Write one next action with a date and store PDFs of confirmations where you can find them in six months.
 
-Noah almost switched for a flashy rate, then noticed a monthly fee and a condition that failed on casual income. Riley built a three-row comparison instead—and stayed put for six months with alerts on. The lesson for **how to check your super**: slow clarity beats fast regret.
+If the dollar amount is large, sleep on the decision and consider licensed advice. Cold callers who demand one-time codes or remote access are not helpers. Hang up and use bookmarks you typed yourself.
 
-## Practical steps for How to check your super
+## Filing habits for how to check your super
 
-1. Write the outcome you want in one sentence (keep, switch, cancel, or wait).
-2. List fees, rates, waiting periods, or conditions side by side—not marketing headlines.
-3. Check exit costs and how long any bonus or honeymoon period lasts.
-4. Set a calendar reminder to review the choice in 3–6 months.
+Keep statements, insurance schedules, advice fee consents, and solicitor letters in a dated folder. Share access rules with a trusted person without pasting every password into a group chat. Organised evidence shortens disputes, estate claims, and Centrelink conversations.
 
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Rule changes** — contribution caps, preservation ages, and Age Pension settings change; confirm current figures before acting.
+Revisit after job changes, relationship changes, or health shocks. A short annual review beats a perfect plan nobody opens.
 
 ## What to do next
-
-- Decide the next action for **how to check your super** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [How much super should I have?](/topics/super-retirement/grow-super/how-much-super-should-i-have) for a related decision.
-- Read [Super contributions](/topics/super-retirement/grow-super/super-contributions) for a related decision.
-- Run the numbers with [Super](/tools/super).
-- Tell one trusted person your plan if accountability helps you follow through.
+- Complete the four-question check this week and save a one-page note.
+- Search lost super if job history is messy.
+- Adjust only what failed the smell test—do not churn for entertainment.
+- Revisit after any job change, baby, or home purchase.

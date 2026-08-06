@@ -1,0 +1,2588 @@
+{
+  "banking-budgeting/banking": [
+    {
+      "pillar": "banking-budgeting",
+      "hub": "banking",
+      "slug": "transaction-accounts-and-debit-cards",
+      "title": "Transaction accounts and debit cards",
+      "description": "Everyday accounts, debit cards, and fee traps to watch.",
+      "tools": [],
+      "tags": [
+        "banking"
+      ]
+    },
+    {
+      "pillar": "banking-budgeting",
+      "hub": "banking",
+      "slug": "savings-accounts",
+      "title": "Savings accounts",
+      "description": "Bonus rates, conditions, and keeping savings separate.",
+      "tools": [
+        "savings-goals"
+      ],
+      "tags": [
+        "saving"
+      ]
+    },
+    {
+      "pillar": "banking-budgeting",
+      "hub": "banking",
+      "slug": "joint-accounts",
+      "title": "Joint accounts",
+      "description": "How joint accounts work—and risks if a relationship changes.",
+      "tools": [],
+      "tags": [
+        "family"
+      ]
+    },
+    {
+      "pillar": "banking-budgeting",
+      "hub": "banking",
+      "slug": "direct-debits",
+      "title": "Direct debits",
+      "description": "Set up, track, and cancel direct debits without surprises.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "banking-budgeting",
+      "hub": "banking",
+      "slug": "sending-money-overseas",
+      "title": "Sending money overseas",
+      "description": "Compare transfer fees, exchange rates, and safer options.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "banking-budgeting",
+      "hub": "banking",
+      "slug": "unauthorised-and-mistaken-transactions",
+      "title": "Unauthorised and mistaken transactions",
+      "description": "What to do if money leaves your account without consent.",
+      "tools": [],
+      "tags": []
+    }
+  ],
+  "banking-budgeting/budgeting": [
+    {
+      "pillar": "banking-budgeting",
+      "hub": "budgeting",
+      "slug": "how-to-do-a-budget",
+      "title": "How to do a budget",
+      "description": "A simple step-by-step method to see where money goes.",
+      "tools": [
+        "budget-planner"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "banking-budgeting",
+      "hub": "budgeting",
+      "slug": "track-your-spending",
+      "title": "Track your spending",
+      "description": "Use statements and categories to spot leaks fast.",
+      "tools": [
+        "budget-planner",
+        "simple-money-manager"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "banking-budgeting",
+      "hub": "budgeting",
+      "slug": "cost-of-living-help",
+      "title": "Cost of living help",
+      "description": "Practical ways to stretch income when prices rise.",
+      "tools": [
+        "budget-planner"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "banking-budgeting",
+      "hub": "budgeting",
+      "slug": "managing-on-a-low-income",
+      "title": "Managing on a low income",
+      "description": "Prioritise essentials and find free support.",
+      "tools": [
+        "simple-money-manager"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "banking-budgeting",
+      "hub": "budgeting",
+      "slug": "managing-on-a-casual-income",
+      "title": "Managing on a casual income",
+      "description": "Budget when hours and pay vary week to week.",
+      "tools": [
+        "budget-planner"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "banking-budgeting",
+      "hub": "budgeting",
+      "slug": "ways-to-save-on-food-and-fuel",
+      "title": "Ways to save on food and fuel",
+      "description": "Cut two of the biggest everyday costs without crash dieting.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "banking-budgeting",
+      "hub": "budgeting",
+      "slug": "ways-to-save-on-energy-costs",
+      "title": "Ways to save on energy costs",
+      "description": "Bills, plans, and habits that lower power and gas spend.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "banking-budgeting",
+      "hub": "budgeting",
+      "slug": "avoiding-sales-pressure",
+      "title": "Avoiding sales pressure",
+      "description": "Cooling-off rights and tactics when someone pushes a sale.",
+      "tools": [],
+      "tags": []
+    }
+  ],
+  "banking-budgeting/saving": [
+    {
+      "pillar": "banking-budgeting",
+      "hub": "saving",
+      "slug": "how-to-start-saving",
+      "title": "How to start saving",
+      "description": "Start small, automate, and make progress visible.",
+      "tools": [
+        "savings-goals"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "banking-budgeting",
+      "hub": "saving",
+      "slug": "simple-ways-to-save-money",
+      "title": "Simple ways to save money",
+      "description": "Quick wins that free cash without a full lifestyle overhaul.",
+      "tools": [
+        "budget-planner"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "banking-budgeting",
+      "hub": "saving",
+      "slug": "save-for-an-emergency-fund",
+      "title": "Save for an emergency fund",
+      "description": "Size and park a buffer for job loss or big bills.",
+      "tools": [
+        "emergency-fund",
+        "savings-goals"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "banking-budgeting",
+      "hub": "saving",
+      "slug": "save-for-a-house-deposit",
+      "title": "Save for a house deposit",
+      "description": "Deposit targets, timelines, and what counts as a genuine savings history.",
+      "tools": [
+        "savings-goals",
+        "mortgage"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "banking-budgeting",
+      "hub": "saving",
+      "slug": "ways-to-buy-a-home-sooner",
+      "title": "Ways to buy a home sooner",
+      "description": "Deposit boosts, costs to cut, and borrowing trade-offs.",
+      "tools": [
+        "mortgage",
+        "savings-goals"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "banking-budgeting",
+      "hub": "saving",
+      "slug": "compound-interest",
+      "title": "Compound interest explained",
+      "description": "How interest on interest grows balances—and debts.",
+      "tools": [
+        "compound-interest"
+      ],
+      "tags": []
+    }
+  ],
+  "banking-budgeting/work-tax": [
+    {
+      "pillar": "banking-budgeting",
+      "hub": "work-tax",
+      "slug": "income-tax",
+      "title": "Income tax basics",
+      "description": "How Australian income tax and Medicare levy work in plain language.",
+      "tools": [
+        "income-tax"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "banking-budgeting",
+      "hub": "work-tax",
+      "slug": "lodging-a-tax-return",
+      "title": "Lodging a tax return",
+      "description": "Deadlines, records, and when an agent helps.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "banking-budgeting",
+      "hub": "work-tax",
+      "slug": "choosing-an-accountant",
+      "title": "Choosing an accountant",
+      "description": "What to ask before you pay for tax help.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "banking-budgeting",
+      "hub": "work-tax",
+      "slug": "salary-packaging",
+      "title": "Salary packaging",
+      "description": "When packaging benefits can help—and when it doesn’t.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "banking-budgeting",
+      "hub": "work-tax",
+      "slug": "self-employment",
+      "title": "Self-employment money basics",
+      "description": "GST, super, and separating business and personal money.",
+      "tools": [
+        "gst"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "banking-budgeting",
+      "hub": "work-tax",
+      "slug": "losing-your-job",
+      "title": "Losing your job",
+      "description": "Final pay, entitlements, and a short-term money plan.",
+      "tools": [
+        "budget-planner",
+        "emergency-fund"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "banking-budgeting",
+      "hub": "work-tax",
+      "slug": "returning-to-work-after-having-a-baby",
+      "title": "Returning to work after having a baby",
+      "description": "Childcare costs, leave, and updating your budget.",
+      "tools": [
+        "budget-planner"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "banking-budgeting",
+      "hub": "work-tax",
+      "slug": "first-payslip",
+      "title": "Reading your first payslip",
+      "description": "Gross, tax, super, and take-home pay decoded.",
+      "tools": [
+        "income-tax",
+        "employer-contributions"
+      ],
+      "tags": []
+    }
+  ],
+  "banking-budgeting/family": [
+    {
+      "pillar": "banking-budgeting",
+      "hub": "family",
+      "slug": "relationships-and-money",
+      "title": "Relationships and money",
+      "description": "Talk about money early—goals, debts, and spending styles.",
+      "tools": [
+        "budget-planner"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "banking-budgeting",
+      "hub": "family",
+      "slug": "marriage-and-money",
+      "title": "Marriage and money",
+      "description": "Joint bills, personal spending, and shared goals.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "banking-budgeting",
+      "hub": "family",
+      "slug": "having-a-baby",
+      "title": "Having a baby",
+      "description": "One-off costs, ongoing budgets, and leave planning.",
+      "tools": [
+        "budget-planner"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "banking-budgeting",
+      "hub": "family",
+      "slug": "getting-a-pet",
+      "title": "Getting a pet",
+      "description": "True cost of pets beyond the adoption fee.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "banking-budgeting",
+      "hub": "family",
+      "slug": "reducing-back-to-school-costs",
+      "title": "Reducing back-to-school costs",
+      "description": "Uniforms, devices, and fee planning without last-minute stress.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "banking-budgeting",
+      "hub": "family",
+      "slug": "teaching-kids-about-money",
+      "title": "Teaching kids about money",
+      "description": "Age-appropriate habits for earning, saving, and waiting.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "banking-budgeting",
+      "hub": "family",
+      "slug": "getting-divorced-or-separating",
+      "title": "Getting divorced or separating",
+      "description": "Money steps when a relationship ends.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "banking-budgeting",
+      "hub": "family",
+      "slug": "divorce-and-separation-financial-checklist",
+      "title": "Divorce and separation financial checklist",
+      "description": "Accounts, debts, super, and documents to gather.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "banking-budgeting",
+      "hub": "family",
+      "slug": "financial-abuse",
+      "title": "Financial abuse",
+      "description": "Spot controlling money behaviours and where to get help.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "banking-budgeting",
+      "hub": "family",
+      "slug": "dealing-with-illness",
+      "title": "Dealing with illness",
+      "description": "Income, insurance, and bills when health changes.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "banking-budgeting",
+      "hub": "family",
+      "slug": "losing-your-partner",
+      "title": "Losing your partner",
+      "description": "Practical money steps after a bereavement.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "banking-budgeting",
+      "hub": "family",
+      "slug": "how-to-support-older-australians",
+      "title": "How to support older Australians",
+      "description": "Help family with money without taking over.",
+      "tools": [],
+      "tags": []
+    }
+  ],
+  "loans-credit-debt/loans": [
+    {
+      "pillar": "loans-credit-debt",
+      "hub": "loans",
+      "slug": "personal-loans",
+      "title": "Personal loans",
+      "description": "When a personal loan makes sense—and what to compare.",
+      "tools": [
+        "personal-loan",
+        "loan-comparison"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "loans-credit-debt",
+      "hub": "loans",
+      "slug": "car-loans",
+      "title": "Car loans",
+      "description": "Dealer finance vs bank loans, and total cost of the car.",
+      "tools": [
+        "personal-loan"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "loans-credit-debt",
+      "hub": "loans",
+      "slug": "payday-loans",
+      "title": "Payday loans",
+      "description": "Why short-term credit gets expensive fast.",
+      "tools": [
+        "payday-loan"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "loans-credit-debt",
+      "hub": "loans",
+      "slug": "no-interest-loans",
+      "title": "No interest loans",
+      "description": "Community NILS-style options for essential items.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "loans-credit-debt",
+      "hub": "loans",
+      "slug": "going-guarantor-on-a-loan",
+      "title": "Going guarantor on a loan",
+      "description": "What you risk if you guarantee someone else’s debt.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "loans-credit-debt",
+      "hub": "loans",
+      "slug": "loan-rejection",
+      "title": "Loan rejection",
+      "description": "Why applications fail and what to fix before reapplying.",
+      "tools": [],
+      "tags": []
+    }
+  ],
+  "loans-credit-debt/other-borrowing": [
+    {
+      "pillar": "loans-credit-debt",
+      "hub": "other-borrowing",
+      "slug": "buy-now-pay-later-services",
+      "title": "Buy now pay later services",
+      "description": "Fees, missed payments, and how BNPL affects your budget.",
+      "tools": [
+        "budget-planner"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "loans-credit-debt",
+      "hub": "other-borrowing",
+      "slug": "consumer-leases",
+      "title": "Consumer leases",
+      "description": "Renting goods can cost more than buying—run the numbers.",
+      "tools": [
+        "rent-vs-buy"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "loans-credit-debt",
+      "hub": "other-borrowing",
+      "slug": "interest-free-deals",
+      "title": "Interest-free deals",
+      "description": "Promotional periods, deferred interest, and exit traps.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "loans-credit-debt",
+      "hub": "other-borrowing",
+      "slug": "pay-advance-services",
+      "title": "Pay advance services",
+      "description": "Wage advances and the real cost of getting paid early.",
+      "tools": [],
+      "tags": []
+    }
+  ],
+  "loans-credit-debt/credit-cards": [
+    {
+      "pillar": "loans-credit-debt",
+      "hub": "credit-cards",
+      "slug": "choosing-a-credit-card",
+      "title": "Choosing a credit card",
+      "description": "Low rate vs rewards—pick for how you actually use credit.",
+      "tools": [
+        "credit-card"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "loans-credit-debt",
+      "hub": "credit-cards",
+      "slug": "pay-off-your-credit-card",
+      "title": "Pay off your credit card",
+      "description": "Beat minimum repayments and cut interest.",
+      "tools": [
+        "credit-card"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "loans-credit-debt",
+      "hub": "credit-cards",
+      "slug": "credit-card-balance-transfers",
+      "title": "Credit card balance transfers",
+      "description": "0% offers, transfer fees, and what happens when the deal ends.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "loans-credit-debt",
+      "hub": "credit-cards",
+      "slug": "cancel-a-credit-card",
+      "title": "Cancel a credit card",
+      "description": "Close cards cleanly without hurting needed credit history.",
+      "tools": [],
+      "tags": []
+    }
+  ],
+  "loans-credit-debt/home-loans": [
+    {
+      "pillar": "loans-credit-debt",
+      "hub": "home-loans",
+      "slug": "buying-a-house",
+      "title": "Buying a house",
+      "description": "Deposit, costs, and borrowing without overstretching.",
+      "tools": [
+        "mortgage",
+        "savings-goals"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "loans-credit-debt",
+      "hub": "home-loans",
+      "slug": "choosing-a-home-loan",
+      "title": "Choosing a home loan",
+      "description": "Fixed, variable, split, offsets, and comparison rates.",
+      "tools": [
+        "mortgage"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "loans-credit-debt",
+      "hub": "home-loans",
+      "slug": "interest-only-home-loans",
+      "title": "Interest-only home loans",
+      "description": "When interest-only helps—and when repayments jump later.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "loans-credit-debt",
+      "hub": "home-loans",
+      "slug": "mortgage-offset-accounts",
+      "title": "Mortgage offset accounts",
+      "description": "How offsets reduce interest while keeping cash accessible.",
+      "tools": [
+        "offset-vs-redraw"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "loans-credit-debt",
+      "hub": "home-loans",
+      "slug": "pay-off-your-mortgage-faster",
+      "title": "Pay off your mortgage faster",
+      "description": "Extra repayments, frequency, and redraw rules.",
+      "tools": [
+        "mortgage"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "loans-credit-debt",
+      "hub": "home-loans",
+      "slug": "switching-home-loans",
+      "title": "Switching home loans",
+      "description": "Refinancing steps and costs before you switch.",
+      "tools": [
+        "refinance-break-even"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "loans-credit-debt",
+      "hub": "home-loans",
+      "slug": "using-a-mortgage-broker",
+      "title": "Using a mortgage broker",
+      "description": "What brokers do, how they’re paid, and questions to ask.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "loans-credit-debt",
+      "hub": "home-loans",
+      "slug": "problems-paying-your-mortgage",
+      "title": "Problems paying your mortgage",
+      "description": "Hardship options if repayments become tough.",
+      "tools": [],
+      "tags": []
+    }
+  ],
+  "loans-credit-debt/managing-debt": [
+    {
+      "pillar": "loans-credit-debt",
+      "hub": "managing-debt",
+      "slug": "urgent-help-with-money",
+      "title": "Urgent help with money",
+      "description": "Immediate steps when you can’t cover essentials.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "loans-credit-debt",
+      "hub": "managing-debt",
+      "slug": "get-debt-under-control",
+      "title": "Get debt under control",
+      "description": "List debts, prioritise, and pick a repayment method.",
+      "tools": [
+        "credit-card",
+        "personal-loan"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "loans-credit-debt",
+      "hub": "managing-debt",
+      "slug": "financial-hardship",
+      "title": "Financial hardship",
+      "description": "Ask lenders for hardship help early.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "loans-credit-debt",
+      "hub": "managing-debt",
+      "slug": "financial-counselling",
+      "title": "Financial counselling",
+      "description": "Free, confidential help to plan and negotiate.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "loans-credit-debt",
+      "hub": "managing-debt",
+      "slug": "free-legal-advice",
+      "title": "Free legal advice",
+      "description": "Where to find free or low-cost legal help with debt.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "loans-credit-debt",
+      "hub": "managing-debt",
+      "slug": "credit-scores-and-credit-reports",
+      "title": "Credit scores and credit reports",
+      "description": "What’s on your file and how to check it.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "loans-credit-debt",
+      "hub": "managing-debt",
+      "slug": "credit-repair",
+      "title": "Credit repair",
+      "description": "Be wary of paid ‘repair’ services—know your rights.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "loans-credit-debt",
+      "hub": "managing-debt",
+      "slug": "debt-consolidation-and-refinancing",
+      "title": "Debt consolidation and refinancing",
+      "description": "When combining debts helps—and when it costs more.",
+      "tools": [
+        "loan-comparison"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "loans-credit-debt",
+      "hub": "managing-debt",
+      "slug": "dealing-with-debt-collectors",
+      "title": "Dealing with debt collectors",
+      "description": "Your rights when collectors contact you.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "loans-credit-debt",
+      "hub": "managing-debt",
+      "slug": "problems-paying-your-bills-and-fines",
+      "title": "Problems paying your bills and fines",
+      "description": "Payment plans and help for utilities and fines.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "loans-credit-debt",
+      "hub": "managing-debt",
+      "slug": "repossessed-car-or-goods",
+      "title": "Repossessed car or goods",
+      "description": "What happens in repossession and what to do next.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "loans-credit-debt",
+      "hub": "managing-debt",
+      "slug": "bankruptcy-and-debt-agreements",
+      "title": "Bankruptcy and debt agreements",
+      "description": "Serious options—understand consequences first.",
+      "tools": [],
+      "tags": []
+    }
+  ],
+  "investing-planning/how-to-invest": [
+    {
+      "pillar": "investing-planning",
+      "hub": "how-to-invest",
+      "slug": "develop-an-investing-plan",
+      "title": "Develop an investing plan",
+      "description": "Goals, time horizon, and risk before picking products.",
+      "tools": [
+        "investment-returns",
+        "emergency-fund"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "investing-planning",
+      "hub": "how-to-invest",
+      "slug": "choose-your-investments",
+      "title": "Choose your investments",
+      "description": "Match products to goals—not tips or hype.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "investing-planning",
+      "hub": "how-to-invest",
+      "slug": "diversification",
+      "title": "Diversification",
+      "description": "Why spreading investments reduces single-point risk.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "investing-planning",
+      "hub": "how-to-invest",
+      "slug": "track-your-investments",
+      "title": "Track your investments",
+      "description": "Simple ways to review performance without obsessing.",
+      "tools": [
+        "net-worth"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "investing-planning",
+      "hub": "how-to-invest",
+      "slug": "investing-and-tax",
+      "title": "Investing and tax",
+      "description": "Capital gains, dividends, and record-keeping basics.",
+      "tools": [
+        "income-tax"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "investing-planning",
+      "hub": "how-to-invest",
+      "slug": "investment-platforms",
+      "title": "Investment platforms",
+      "description": "Broker and app fees, features, and safety checks.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "investing-planning",
+      "hub": "how-to-invest",
+      "slug": "borrowing-to-invest",
+      "title": "Borrowing to invest",
+      "description": "Leverage magnifies gains and losses—know the risks.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "investing-planning",
+      "hub": "how-to-invest",
+      "slug": "environmental-social-governance-esg-investing",
+      "title": "ESG investing",
+      "description": "What ESG labels mean—and what to verify.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "investing-planning",
+      "hub": "how-to-invest",
+      "slug": "islamic-finance-in-australia",
+      "title": "Islamic finance in Australia",
+      "description": "Sharia-compliant banking and investment options overview.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "investing-planning",
+      "hub": "how-to-invest",
+      "slug": "what-is-private-credit",
+      "title": "What is private credit?",
+      "description": "Private credit risks, liquidity, and who it suits.",
+      "tools": [],
+      "tags": []
+    }
+  ],
+  "investing-planning/advice": [
+    {
+      "pillar": "investing-planning",
+      "hub": "advice",
+      "slug": "what-is-financial-advice",
+      "title": "What is financial advice?",
+      "description": "General vs personal advice—and why the difference matters.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "investing-planning",
+      "hub": "advice",
+      "slug": "general-and-personal-financial-advice",
+      "title": "General and personal financial advice",
+      "description": "How advice is categorised and what you should receive in writing.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "investing-planning",
+      "hub": "advice",
+      "slug": "choosing-a-financial-adviser",
+      "title": "Choosing a financial adviser",
+      "description": "Licensing, experience, and questions to ask.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "investing-planning",
+      "hub": "advice",
+      "slug": "financial-advice-costs",
+      "title": "Financial advice costs",
+      "description": "Fees, commissions history, and ongoing advice costs.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "investing-planning",
+      "hub": "advice",
+      "slug": "working-with-a-financial-adviser",
+      "title": "Working with a financial adviser",
+      "description": "What good advice engagements look like.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "investing-planning",
+      "hub": "advice",
+      "slug": "financial-advisers-register",
+      "title": "Financial advisers register",
+      "description": "How to check an adviser is authorised.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "investing-planning",
+      "hub": "advice",
+      "slug": "problems-with-a-financial-adviser",
+      "title": "Problems with a financial adviser",
+      "description": "Complaints, AFCA, and getting your file.",
+      "tools": [],
+      "tags": []
+    }
+  ],
+  "investing-planning/shares": [
+    {
+      "pillar": "investing-planning",
+      "hub": "shares",
+      "slug": "how-to-buy-and-sell-shares",
+      "title": "How to buy and sell shares",
+      "description": "Brokers, CHESS, and settlement basics.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "investing-planning",
+      "hub": "shares",
+      "slug": "choosing-shares-to-buy",
+      "title": "Choosing shares to buy",
+      "description": "Research habits—not tips—from social media.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "investing-planning",
+      "hub": "shares",
+      "slug": "shares-what-is-an-ipo",
+      "title": "What is an IPO?",
+      "description": "Floats, prospectuses, and IPO risks.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "investing-planning",
+      "hub": "shares",
+      "slug": "what-is-share-market-volatility",
+      "title": "Share market volatility",
+      "description": "Why prices swing and how long-term investors respond.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "investing-planning",
+      "hub": "shares",
+      "slug": "employee-share-schemes",
+      "title": "Employee share schemes",
+      "description": "ESS tax timing and concentration risk.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "investing-planning",
+      "hub": "shares",
+      "slug": "buying-shares-through-crowd-sourced-funding",
+      "title": "Buying shares through crowd-sourced funding",
+      "description": "CSF offers are high risk and often illiquid.",
+      "tools": [],
+      "tags": []
+    }
+  ],
+  "investing-planning/funds-etfs": [
+    {
+      "pillar": "investing-planning",
+      "hub": "funds-etfs",
+      "slug": "what-is-a-managed-fund",
+      "title": "What is a managed fund?",
+      "description": "Pooled investing, unit prices, and fee awareness.",
+      "tools": [
+        "fee-drag"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "investing-planning",
+      "hub": "funds-etfs",
+      "slug": "choosing-a-managed-fund",
+      "title": "Choosing a managed fund",
+      "description": "Objectives, fees, and past performance caveats.",
+      "tools": [
+        "fee-drag"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "investing-planning",
+      "hub": "funds-etfs",
+      "slug": "exchange-traded-funds-etfs",
+      "title": "Exchange traded funds (ETFs)",
+      "description": "ETFs vs unlisted funds—trading and costs.",
+      "tools": [
+        "fee-drag"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "investing-planning",
+      "hub": "funds-etfs",
+      "slug": "listed-investment-companies-lics",
+      "title": "Listed investment companies (LICs)",
+      "description": "How LICs differ from ETFs and closed-end discounts.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "investing-planning",
+      "hub": "funds-etfs",
+      "slug": "hedge-funds",
+      "title": "Hedge funds",
+      "description": "Complex strategies, fees, and suitability limits.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "investing-planning",
+      "hub": "funds-etfs",
+      "slug": "peer-to-peer-lending",
+      "title": "Peer-to-peer lending",
+      "description": "Lending to consumers/businesses via platforms—credit risk.",
+      "tools": [],
+      "tags": []
+    }
+  ],
+  "investing-planning/property": [
+    {
+      "pillar": "investing-planning",
+      "hub": "property",
+      "slug": "buying-an-investment-property",
+      "title": "Buying an investment property",
+      "description": "Yields, vacancies, rates, and concentration risk.",
+      "tools": [
+        "mortgage"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "investing-planning",
+      "hub": "property",
+      "slug": "property-funds",
+      "title": "Property funds",
+      "description": "Unlisted and listed property exposure without buying a house.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "investing-planning",
+      "hub": "property",
+      "slug": "smsfs-and-property",
+      "title": "SMSFs and property",
+      "description": "Rules and risks when an SMSF buys property.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "investing-planning",
+      "hub": "property",
+      "slug": "timeshares",
+      "title": "Timeshares",
+      "description": "Why timeshares are often hard to exit and poor value.",
+      "tools": [],
+      "tags": []
+    }
+  ],
+  "investing-planning/interest-investments": [
+    {
+      "pillar": "investing-planning",
+      "hub": "interest-investments",
+      "slug": "term-deposits",
+      "title": "Term deposits",
+      "description": "Lock in a rate—compare terms and early exit costs.",
+      "tools": [
+        "compound-interest"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "investing-planning",
+      "hub": "interest-investments",
+      "slug": "bonds",
+      "title": "Bonds",
+      "description": "Government and corporate bonds—interest rate risk basics.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "investing-planning",
+      "hub": "interest-investments",
+      "slug": "debentures-secured-and-unsecured-notes",
+      "title": "Debentures, secured and unsecured notes",
+      "description": "Higher yields often mean higher credit risk.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "investing-planning",
+      "hub": "interest-investments",
+      "slug": "hybrid-securities-and-notes",
+      "title": "Hybrid securities and notes",
+      "description": "Complex income securities—read the risks carefully.",
+      "tools": [],
+      "tags": []
+    }
+  ],
+  "investing-planning/warnings": [
+    {
+      "pillar": "investing-planning",
+      "hub": "warnings",
+      "slug": "dont-get-burned-by-investment-hype",
+      "title": "Don't get burned by investment hype",
+      "description": "Urgency, guaranteed returns, and social proof tricks.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "investing-planning",
+      "hub": "warnings",
+      "slug": "crypto-assets",
+      "title": "Crypto assets",
+      "description": "Volatility, scams, and what ‘ownership’ really means.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "investing-planning",
+      "hub": "warnings",
+      "slug": "forex-trading",
+      "title": "Forex trading",
+      "description": "Why most retail forex traders lose money.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "investing-planning",
+      "hub": "warnings",
+      "slug": "contracts-for-difference-cfds",
+      "title": "Contracts for difference (CFDs)",
+      "description": "Leverage and loss risks in CFDs.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "investing-planning",
+      "hub": "warnings",
+      "slug": "binary-options",
+      "title": "Binary options",
+      "description": "Why binary options are a red flag for retail investors.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "investing-planning",
+      "hub": "warnings",
+      "slug": "investment-seminars",
+      "title": "Investment seminars",
+      "description": "Free seminars that sell expensive courses or products.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "investing-planning",
+      "hub": "warnings",
+      "slug": "land-banking",
+      "title": "Land banking",
+      "description": "Speculative land schemes and liquidity traps.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "investing-planning",
+      "hub": "warnings",
+      "slug": "pump-and-dump-schemes",
+      "title": "Pump and dump schemes",
+      "description": "How promoters inflate prices then sell.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "investing-planning",
+      "hub": "warnings",
+      "slug": "insider-trading",
+      "title": "Insider trading",
+      "description": "What it is—and why you should never participate.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "investing-planning",
+      "hub": "warnings",
+      "slug": "company-director-fraud",
+      "title": "Company director fraud",
+      "description": "Warning signs when directors misuse investor money.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "investing-planning",
+      "hub": "warnings",
+      "slug": "bills-of-exchange",
+      "title": "Bills of exchange",
+      "description": "Exotic paper promises—treat with extreme caution.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "investing-planning",
+      "hub": "warnings",
+      "slug": "lead-generation-and-how-it-works",
+      "title": "Lead generation and how it works",
+      "description": "Your details get sold—expect sales calls after ‘free’ forms.",
+      "tools": [],
+      "tags": []
+    }
+  ],
+  "super-retirement/retirement": [
+    {
+      "pillar": "super-retirement",
+      "hub": "retirement",
+      "slug": "retirement-checklist",
+      "title": "Retirement checklist",
+      "description": "Income needs, debts, and timing your exit from work.",
+      "tools": [
+        "retirement-planner",
+        "super"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "super-retirement",
+      "hub": "retirement",
+      "slug": "case-study-helen-and-joe-retire",
+      "title": "Case study: Helen and Joe retire",
+      "description": "A couple plans income from super and Age Pension.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "super-retirement",
+      "hub": "retirement",
+      "slug": "case-study-bills-mortgage-decision",
+      "title": "Case study: Bill's mortgage decision",
+      "description": "Paying off a home loan before or in retirement.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "super-retirement",
+      "hub": "retirement",
+      "slug": "case-study-lillians-health-scare",
+      "title": "Case study: Lillian's health scare",
+      "description": "Health costs and money decisions later in life.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "super-retirement",
+      "hub": "retirement",
+      "slug": "first-nations-resources",
+      "title": "First Nations retirement resources",
+      "description": "Pathways and culturally aware retirement support.",
+      "tools": [],
+      "tags": []
+    }
+  ],
+  "super-retirement/how-super-works": [
+    {
+      "pillar": "super-retirement",
+      "hub": "how-super-works",
+      "slug": "superannuation",
+      "title": "Superannuation basics",
+      "description": "What super is and why it exists.",
+      "tools": [
+        "super"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "super-retirement",
+      "hub": "how-super-works",
+      "slug": "types-of-super-funds",
+      "title": "Types of super funds",
+      "description": "Industry, retail, public sector, and SMSFs.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "super-retirement",
+      "hub": "how-super-works",
+      "slug": "choosing-a-super-fund",
+      "title": "Choosing a super fund",
+      "description": "Fees, insurance, and investment options to compare.",
+      "tools": [
+        "super",
+        "fee-drag"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "super-retirement",
+      "hub": "how-super-works",
+      "slug": "stapled-super-fund",
+      "title": "Stapled super fund",
+      "description": "How stapling stops duplicate accounts when you change jobs.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "super-retirement",
+      "hub": "how-super-works",
+      "slug": "consolidating-super-funds",
+      "title": "Consolidating super funds",
+      "description": "Combine accounts carefully—check insurance first.",
+      "tools": [
+        "super"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "super-retirement",
+      "hub": "how-super-works",
+      "slug": "find-lost-super",
+      "title": "Find lost super",
+      "description": "Search for lost or ATO-held super.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "super-retirement",
+      "hub": "how-super-works",
+      "slug": "tax-and-super",
+      "title": "Tax and super",
+      "description": "Contributions tax, earnings, and withdrawals overview.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "super-retirement",
+      "hub": "how-super-works",
+      "slug": "getting-your-super",
+      "title": "Getting your super",
+      "description": "Preservation age and conditions of release.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "super-retirement",
+      "hub": "how-super-works",
+      "slug": "when-you-can-access-your-super-early",
+      "title": "When you can access your super early",
+      "description": "Limited legal early access—beware illegal schemes.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "super-retirement",
+      "hub": "how-super-works",
+      "slug": "self-managed-super-fund-smsf",
+      "title": "Self-managed super fund (SMSF)",
+      "description": "Who an SMSF suits—and the admin burden.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "super-retirement",
+      "hub": "how-super-works",
+      "slug": "who-gets-your-super-if-you-die",
+      "title": "Who gets your super if you die",
+      "description": "Beneficiaries, binding nominations, and estate interplay.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "super-retirement",
+      "hub": "how-super-works",
+      "slug": "claiming-a-super-death-benefit",
+      "title": "Claiming a super death benefit",
+      "description": "Steps for dependants and legal personal representatives.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "super-retirement",
+      "hub": "how-super-works",
+      "slug": "what-is-payday-super",
+      "title": "What is payday super?",
+      "description": "Employer contributions timed closer to payday.",
+      "tools": [],
+      "tags": []
+    }
+  ],
+  "super-retirement/grow-super": [
+    {
+      "pillar": "super-retirement",
+      "hub": "grow-super",
+      "slug": "how-to-check-your-super",
+      "title": "How to check your super",
+      "description": "Statements, fees, insurance, and investment option.",
+      "tools": [
+        "super"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "super-retirement",
+      "hub": "grow-super",
+      "slug": "how-much-super-should-i-have",
+      "title": "How much super should I have?",
+      "description": "Rough benchmarks—and why your number is personal.",
+      "tools": [
+        "retirement-planner",
+        "super"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "super-retirement",
+      "hub": "grow-super",
+      "slug": "super-contributions",
+      "title": "Super contributions",
+      "description": "Concessional and non-concessional contributions explained.",
+      "tools": [
+        "super"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "super-retirement",
+      "hub": "grow-super",
+      "slug": "super-investment-options",
+      "title": "Super investment options",
+      "description": "Growth vs balanced vs cash—risk and time horizon.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "super-retirement",
+      "hub": "grow-super",
+      "slug": "switching-super-funds",
+      "title": "Switching super funds",
+      "description": "Compare before you switch—and watch sales pressure.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "super-retirement",
+      "hub": "grow-super",
+      "slug": "protect-your-super-from-pushy-sales-calls",
+      "title": "Protect your super from pushy sales calls",
+      "description": "Hang up on cold calls offering free ‘super checks’.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "super-retirement",
+      "hub": "grow-super",
+      "slug": "get-your-super-working-over-time",
+      "title": "Get your super working over time",
+      "description": "Small extra contributions compound meaningfully.",
+      "tools": [
+        "compound-interest",
+        "super"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "super-retirement",
+      "hub": "grow-super",
+      "slug": "downsizer-super-contributions",
+      "title": "Downsizer super contributions",
+      "description": "Rules for contributing home sale proceeds to super.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "super-retirement",
+      "hub": "grow-super",
+      "slug": "super-for-self-employed-people",
+      "title": "Super for self-employed people",
+      "description": "Paying your own SG-equivalent contributions.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "super-retirement",
+      "hub": "grow-super",
+      "slug": "tips-to-keep-your-retirement-savings-on-track",
+      "title": "Tips to keep retirement savings on track",
+      "description": "Fees, insurance, and contribution habits that matter.",
+      "tools": [],
+      "tags": []
+    }
+  ],
+  "super-retirement/plan-retirement": [
+    {
+      "pillar": "super-retirement",
+      "hub": "plan-retirement",
+      "slug": "make-a-retirement-plan",
+      "title": "Make a retirement plan",
+      "description": "Spending needs, income sources, and timing.",
+      "tools": [
+        "retirement-planner"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "super-retirement",
+      "hub": "plan-retirement",
+      "slug": "work-out-how-much-you-need-to-retire",
+      "title": "Work out how much you need to retire",
+      "description": "Lifestyle budgets and nest-egg estimates.",
+      "tools": [
+        "retirement-planner"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "super-retirement",
+      "hub": "plan-retirement",
+      "slug": "super-and-the-age-pension",
+      "title": "Super and the Age Pension",
+      "description": "How means tests interact with super income.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "super-retirement",
+      "hub": "plan-retirement",
+      "slug": "what-happens-to-your-super-when-you-retire",
+      "title": "What happens to your super when you retire",
+      "description": "Pensions, lump sums, and account-based income.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "super-retirement",
+      "hub": "plan-retirement",
+      "slug": "your-home-in-retirement",
+      "title": "Your home in retirement",
+      "description": "Staying, downsizing, or equity release trade-offs.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "super-retirement",
+      "hub": "plan-retirement",
+      "slug": "managing-unexpected-retirement",
+      "title": "Managing unexpected retirement",
+      "description": "Job loss or health forcing an earlier exit.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "super-retirement",
+      "hub": "plan-retirement",
+      "slug": "wills-and-powers-of-attorney",
+      "title": "Wills and powers of attorney",
+      "description": "Estate and decision-making documents for later life.",
+      "tools": [],
+      "tags": []
+    }
+  ],
+  "super-retirement/income-sources": [
+    {
+      "pillar": "super-retirement",
+      "hub": "income-sources",
+      "slug": "types-of-retirement-income",
+      "title": "Types of retirement income",
+      "description": "Super, Age Pension, work, and other sources.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "super-retirement",
+      "hub": "income-sources",
+      "slug": "account-based-pensions",
+      "title": "Account-based pensions",
+      "description": "Flexible drawdowns from your super in retirement.",
+      "tools": [
+        "retirement-planner"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "super-retirement",
+      "hub": "income-sources",
+      "slug": "age-pension-and-government-benefits",
+      "title": "Age Pension and government benefits",
+      "description": "Eligibility basics and where to check official rules.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "super-retirement",
+      "hub": "income-sources",
+      "slug": "annuities",
+      "title": "Annuities",
+      "description": "Guaranteed income products—trade-offs vs flexibility.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "super-retirement",
+      "hub": "income-sources",
+      "slug": "lifetime-income-streams",
+      "title": "Lifetime income streams",
+      "description": "Products designed to last for life.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "super-retirement",
+      "hub": "income-sources",
+      "slug": "super-lump-sum",
+      "title": "Super lump sum",
+      "description": "Taking a lump sum—tax and longevity considerations.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "super-retirement",
+      "hub": "income-sources",
+      "slug": "transition-to-retirement",
+      "title": "Transition to retirement",
+      "description": "Accessing super while still working (rules overview).",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "super-retirement",
+      "hub": "income-sources",
+      "slug": "reverse-mortgage-and-home-equity-release",
+      "title": "Reverse mortgage and home equity release",
+      "description": "Borrowing against home equity in later life.",
+      "tools": [
+        "reverse-mortgage"
+      ],
+      "tags": []
+    }
+  ],
+  "super-retirement/manage-retirement": [
+    {
+      "pillar": "super-retirement",
+      "hub": "manage-retirement",
+      "slug": "make-your-money-last-in-retirement",
+      "title": "Make your money last in retirement",
+      "description": "Drawdown pacing and buffers for market dips.",
+      "tools": [
+        "retirement-planner"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "super-retirement",
+      "hub": "manage-retirement",
+      "slug": "retirement-income-and-tax",
+      "title": "Retirement income and tax",
+      "description": "How different income types are taxed in retirement.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "super-retirement",
+      "hub": "manage-retirement",
+      "slug": "manage-health-costs-in-retirement",
+      "title": "Manage health costs in retirement",
+      "description": "Medicare, extras, and budgeting for care.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "super-retirement",
+      "hub": "manage-retirement",
+      "slug": "aged-care",
+      "title": "Aged care",
+      "description": "Money aspects of home care and residential care.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "super-retirement",
+      "hub": "manage-retirement",
+      "slug": "downsizing-in-retirement",
+      "title": "Downsizing in retirement",
+      "description": "Costs, stamp duty, and lifestyle fit.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "super-retirement",
+      "hub": "manage-retirement",
+      "slug": "protect-your-money-in-retirement",
+      "title": "Protect your money in retirement",
+      "description": "Scams and pressure sales targeting retirees.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "super-retirement",
+      "hub": "manage-retirement",
+      "slug": "memory-loss-dementia-and-your-money",
+      "title": "Memory loss, dementia and your money",
+      "description": "Planning supports before capacity changes.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "super-retirement",
+      "hub": "manage-retirement",
+      "slug": "paying-for-your-funeral",
+      "title": "Paying for your funeral",
+      "description": "Funeral bonds, insurance, and prepaid options.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "super-retirement",
+      "hub": "manage-retirement",
+      "slug": "get-help-in-retirement",
+      "title": "Get help in retirement",
+      "description": "Counselling, Centrelink, and community supports.",
+      "tools": [],
+      "tags": []
+    }
+  ],
+  "insurance/life-insurance": [
+    {
+      "pillar": "insurance",
+      "hub": "life-insurance",
+      "slug": "life-insurance-cover",
+      "title": "Life insurance cover",
+      "description": "Who needs life cover and how much is enough.",
+      "tools": [
+        "insurance-needs"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "insurance",
+      "hub": "life-insurance",
+      "slug": "income-protection-insurance",
+      "title": "Income protection insurance",
+      "description": "Waiting periods, benefit periods, and definitions.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "insurance",
+      "hub": "life-insurance",
+      "slug": "total-and-permanent-disability-tpd-insurance",
+      "title": "TPD insurance",
+      "description": "Total and permanent disability cover basics.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "insurance",
+      "hub": "life-insurance",
+      "slug": "trauma-insurance",
+      "title": "Trauma insurance",
+      "description": "Critical illness lump sums—what’s typically covered.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "insurance",
+      "hub": "life-insurance",
+      "slug": "insurance-through-super",
+      "title": "Insurance through super",
+      "description": "Default cover in super—check and adjust.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "insurance",
+      "hub": "life-insurance",
+      "slug": "making-a-life-insurance-claim",
+      "title": "Making a life insurance claim",
+      "description": "Documents and steps when claiming.",
+      "tools": [],
+      "tags": []
+    }
+  ],
+  "insurance/car-insurance": [
+    {
+      "pillar": "insurance",
+      "hub": "car-insurance",
+      "slug": "choosing-car-insurance",
+      "title": "Choosing car insurance",
+      "description": "Comprehensive vs third party and excess trade-offs.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "insurance",
+      "hub": "car-insurance",
+      "slug": "how-to-save-money-on-car-insurance",
+      "title": "How to save money on car insurance",
+      "description": "Compare, raise excess carefully, and cut add-ons.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "insurance",
+      "hub": "car-insurance",
+      "slug": "claiming-on-your-car-insurance",
+      "title": "Claiming on your car insurance",
+      "description": "What to do after an accident.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "insurance",
+      "hub": "car-insurance",
+      "slug": "no-claim-bonus-on-car-insurance",
+      "title": "No-claim bonus on car insurance",
+      "description": "How bonuses work—and what a claim can do.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "insurance",
+      "hub": "car-insurance",
+      "slug": "add-on-car-insurance",
+      "title": "Add-on car insurance",
+      "description": "Extras sold with cars—often skippable.",
+      "tools": [],
+      "tags": []
+    }
+  ],
+  "insurance/home-insurance": [
+    {
+      "pillar": "insurance",
+      "hub": "home-insurance",
+      "slug": "choosing-home-insurance",
+      "title": "Choosing home insurance",
+      "description": "Building sums insured for rebuild—not market value.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "insurance",
+      "hub": "home-insurance",
+      "slug": "contents-insurance",
+      "title": "Contents insurance",
+      "description": "Cover for belongings—renters and owners.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "insurance",
+      "hub": "home-insurance",
+      "slug": "underinsurance-what-it-is-and-how-to-avoid-it",
+      "title": "Underinsurance: what it is and how to avoid it",
+      "description": "Why rebuild costs rise and how to update cover.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "insurance",
+      "hub": "home-insurance",
+      "slug": "storm-flood-and-fire-insurance",
+      "title": "Storm, flood and fire insurance",
+      "description": "Definitions matter—check flood cover carefully.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "insurance",
+      "hub": "home-insurance",
+      "slug": "how-to-make-a-home-insurance-claim",
+      "title": "How to make a home insurance claim",
+      "description": "Evidence, temporary accommodation, and timelines.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "insurance",
+      "hub": "home-insurance",
+      "slug": "how-home-insurance-cash-settlements-work",
+      "title": "How home insurance cash settlements work",
+      "description": "Cash settlement vs repair—pros and cons.",
+      "tools": [],
+      "tags": []
+    }
+  ],
+  "insurance/add-on-insurance": [
+    {
+      "pillar": "insurance",
+      "hub": "add-on-insurance",
+      "slug": "consumer-credit-insurance",
+      "title": "Consumer credit insurance",
+      "description": "Often expensive for the protection offered.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "insurance",
+      "hub": "add-on-insurance",
+      "slug": "mobile-phone-tablet-and-laptop-insurance",
+      "title": "Mobile phone, tablet and laptop insurance",
+      "description": "Check excesses and whether home contents already cover devices.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "insurance",
+      "hub": "add-on-insurance",
+      "slug": "pet-insurance",
+      "title": "Pet insurance",
+      "description": "What’s covered, waiting periods, and exclusions.",
+      "tools": [],
+      "tags": []
+    }
+  ],
+  "insurance/other-insurance": [
+    {
+      "pillar": "insurance",
+      "hub": "other-insurance",
+      "slug": "travel-insurance",
+      "title": "Travel insurance",
+      "description": "Medical cover overseas and why it matters.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "insurance",
+      "hub": "other-insurance",
+      "slug": "health-insurance",
+      "title": "Health insurance",
+      "description": "Private health basics—hospital and extras.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "insurance",
+      "hub": "other-insurance",
+      "slug": "funeral-insurance",
+      "title": "Funeral insurance",
+      "description": "Total premiums can exceed the benefit—compare alternatives.",
+      "tools": [],
+      "tags": []
+    }
+  ],
+  "insurance/natural-disasters": [
+    {
+      "pillar": "insurance",
+      "hub": "natural-disasters",
+      "slug": "how-to-prepare-for-a-natural-disaster",
+      "title": "How to prepare for a natural disaster",
+      "description": "Documents, inventories, and emergency kits.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "insurance",
+      "hub": "natural-disasters",
+      "slug": "what-to-do-after-a-natural-disaster",
+      "title": "What to do after a natural disaster",
+      "description": "Safety first, then insurers and support services.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "insurance",
+      "hub": "natural-disasters",
+      "slug": "recovering-from-a-natural-disaster",
+      "title": "Recovering from a natural disaster",
+      "description": "Claims, temporary housing, and financial counselling.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "insurance",
+      "hub": "natural-disasters",
+      "slug": "be-aware-of-disaster-chasers",
+      "title": "Be aware of disaster chasers",
+      "description": "Door-knockers after disasters—verify licences.",
+      "tools": [],
+      "tags": []
+    }
+  ],
+  "scams-safety/online-safety": [
+    {
+      "pillar": "scams-safety",
+      "hub": "online-safety",
+      "slug": "protect-yourself-from-scams",
+      "title": "Protect yourself from scams",
+      "description": "Core habits that stop most scams.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "scams-safety",
+      "hub": "online-safety",
+      "slug": "how-to-spot-a-scam-website",
+      "title": "How to spot a scam website",
+      "description": "URLs, certificates, and too-good offers.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "scams-safety",
+      "hub": "online-safety",
+      "slug": "online-shopping-safety",
+      "title": "Online shopping safety",
+      "description": "Safer checkout habits and refund rights.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "scams-safety",
+      "hub": "online-safety",
+      "slug": "identity-theft",
+      "title": "Identity theft",
+      "description": "If your identity is stolen—lock down accounts fast.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "scams-safety",
+      "hub": "online-safety",
+      "slug": "using-comparison-websites",
+      "title": "Using comparison websites",
+      "description": "Sponsored rankings and lead-gen follow-ups.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "scams-safety",
+      "hub": "online-safety",
+      "slug": "what-is-a-finfluencer",
+      "title": "What is a finfluencer?",
+      "description": "Social media money tips aren’t personal advice.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "scams-safety",
+      "hub": "online-safety",
+      "slug": "ai-and-money-decisions",
+      "title": "AI and money decisions",
+      "description": "Use AI carefully—verify anything that moves money.",
+      "tools": [],
+      "tags": []
+    }
+  ],
+  "scams-safety/financial-scams": [
+    {
+      "pillar": "scams-safety",
+      "hub": "financial-scams",
+      "slug": "banking-scams",
+      "title": "Banking scams",
+      "description": "Phishing, remote access, and fake bank calls.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "scams-safety",
+      "hub": "financial-scams",
+      "slug": "investment-scams",
+      "title": "Investment scams",
+      "description": "Guaranteed returns and pressure to transfer now.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "scams-safety",
+      "hub": "financial-scams",
+      "slug": "crypto-scams",
+      "title": "Crypto scams",
+      "description": "Romance-to-crypto and fake trading platforms.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "scams-safety",
+      "hub": "financial-scams",
+      "slug": "superannuation-scams",
+      "title": "Superannuation scams",
+      "description": "Illegal early access and SMSF takeover tricks.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "scams-safety",
+      "hub": "financial-scams",
+      "slug": "ponzi-schemes",
+      "title": "Ponzi schemes",
+      "description": "Returns paid from new investors—not profits.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "scams-safety",
+      "hub": "financial-scams",
+      "slug": "imposter-bond-investment-scams",
+      "title": "Imposter bond investment scams",
+      "description": "Fake ‘safe’ bonds using stolen brands.",
+      "tools": [],
+      "tags": []
+    }
+  ],
+  "scams-safety/check-report": [
+    {
+      "pillar": "scams-safety",
+      "hub": "check-report",
+      "slug": "what-to-do-if-youve-been-scammed",
+      "title": "What to do if you've been scammed",
+      "description": "Stop payments, contact your bank, and report it.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "scams-safety",
+      "hub": "check-report",
+      "slug": "check-before-you-invest",
+      "title": "Check before you invest",
+      "description": "Licence checks and independent verification.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "scams-safety",
+      "hub": "check-report",
+      "slug": "investor-alert-list",
+      "title": "Investor alert list",
+      "description": "How regulator alert lists help you spot known risks.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "scams-safety",
+      "hub": "check-report",
+      "slug": "report-an-investment-scam",
+      "title": "Report an investment scam",
+      "description": "Where to report and what information to keep.",
+      "tools": [],
+      "tags": []
+    }
+  ],
+  "community/unclaimed-money": [
+    {
+      "pillar": "community",
+      "hub": "unclaimed-money",
+      "slug": "claim-money-from-bank-accounts-and-bank-dividends",
+      "title": "Claim money from bank accounts and bank dividends",
+      "description": "Find and claim dormant bank money.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "community",
+      "hub": "unclaimed-money",
+      "slug": "claim-money-from-shares-and-investments",
+      "title": "Claim money from shares and investments",
+      "description": "Lost shareholdings and dividends.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "community",
+      "hub": "unclaimed-money",
+      "slug": "claim-money-from-life-insurance-policies",
+      "title": "Claim money from life insurance policies",
+      "description": "Unclaimed life policy money pathways.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "community",
+      "hub": "unclaimed-money",
+      "slug": "claim-money-owed-to-a-deregistered-company",
+      "title": "Claim money owed to a deregistered company",
+      "description": "ASIC-held money from deregistered companies.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "community",
+      "hub": "unclaimed-money",
+      "slug": "money-held-by-state-governments",
+      "title": "Money held by state governments",
+      "description": "State unclaimed money registers.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "community",
+      "hub": "unclaimed-money",
+      "slug": "interest-paid-on-unclaimed-money",
+      "title": "Interest paid on unclaimed money",
+      "description": "Whether interest applies when you reclaim funds.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "community",
+      "hub": "unclaimed-money",
+      "slug": "proof-of-ownership-for-unclaimed-money",
+      "title": "Proof of ownership for unclaimed money",
+      "description": "Documents you’ll typically need to claim.",
+      "tools": [],
+      "tags": []
+    }
+  ],
+  "community/teachers": [
+    {
+      "pillar": "community",
+      "hub": "teachers",
+      "slug": "teaching-consumer-and-financial-literacy",
+      "title": "Teaching consumer and financial literacy",
+      "description": "Why money skills belong in the classroom.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "community",
+      "hub": "teachers",
+      "slug": "lesson-plans",
+      "title": "Lesson plans",
+      "description": "Activity ideas for budgets, needs vs wants, and scams.",
+      "tools": [],
+      "tags": []
+    }
+  ],
+  "community/students": [
+    {
+      "pillar": "community",
+      "hub": "students",
+      "slug": "studying",
+      "title": "Studying and money",
+      "description": "HECS, income support, and student budgets.",
+      "tools": [
+        "hecs",
+        "budget-planner"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "community",
+      "hub": "students",
+      "slug": "getting-a-job",
+      "title": "Getting a job",
+      "description": "First payslips, tax file numbers, and super.",
+      "tools": [
+        "income-tax"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "community",
+      "hub": "students",
+      "slug": "moving-out-of-home",
+      "title": "Moving out of home",
+      "description": "Bonds, utilities, and a starter living budget.",
+      "tools": [
+        "budget-planner"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "community",
+      "hub": "students",
+      "slug": "rental-bonds-and-leases",
+      "title": "Rental bonds and leases",
+      "description": "Bond boards, condition reports, and rights.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "community",
+      "hub": "students",
+      "slug": "choosing-a-mobile-phone-plan",
+      "title": "Choosing a mobile phone plan",
+      "description": "Avoid bill shock on phones and data.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "community",
+      "hub": "students",
+      "slug": "buying-and-running-a-car",
+      "title": "Buying and running a car",
+      "description": "Purchase price plus fuel, insurance, and rego.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "community",
+      "hub": "students",
+      "slug": "credit-and-debt",
+      "title": "Credit and debt for students",
+      "description": "Credit cards and BNPL on a variable income.",
+      "tools": [
+        "credit-card"
+      ],
+      "tags": []
+    }
+  ],
+  "community/publications": [
+    {
+      "pillar": "community",
+      "hub": "publications",
+      "slug": "publications",
+      "title": "Publications",
+      "description": "How ClearMoney guides are structured for learning.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "community",
+      "hub": "publications",
+      "slug": "how-to-complain",
+      "title": "How to complain",
+      "description": "Internal complaints, then AFCA or other ombudsmen.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "community",
+      "hub": "publications",
+      "slug": "money-tips-in-other-languages",
+      "title": "Money tips in other languages",
+      "description": "Pointing to multilingual money tip topics.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "community",
+      "hub": "publications",
+      "slug": "beware-of-scams",
+      "title": "Beware of scams (community tip)",
+      "description": "Short scam-awareness tip sheet.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "community",
+      "hub": "publications",
+      "slug": "budgeting-and-saving-tips",
+      "title": "Budgeting and saving (community tip)",
+      "description": "Short budgeting tip sheet.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "community",
+      "hub": "publications",
+      "slug": "credit-and-debt-tips",
+      "title": "Credit and debt (community tip)",
+      "description": "Short credit tip sheet.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "community",
+      "hub": "publications",
+      "slug": "insurance-tips",
+      "title": "Insurance (community tip)",
+      "description": "Short insurance tip sheet.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "community",
+      "hub": "publications",
+      "slug": "money-and-working-in-australia",
+      "title": "Money and working in Australia",
+      "description": "Payslips, tax, and super for new workers.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "community",
+      "hub": "publications",
+      "slug": "spending-and-paying-bills",
+      "title": "Spending and paying bills",
+      "description": "Bill rhythms and avoiding late fees.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "community",
+      "hub": "publications",
+      "slug": "superannuation-tips",
+      "title": "Superannuation (community tip)",
+      "description": "Short super tip sheet.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "community",
+      "hub": "publications",
+      "slug": "tax-in-australia",
+      "title": "Tax in Australia (community tip)",
+      "description": "Short tax tip sheet for residents.",
+      "tools": [],
+      "tags": []
+    }
+  ],
+  "community/first-nations": [
+    {
+      "pillar": "community",
+      "hub": "first-nations",
+      "slug": "first-nations-services-that-can-help",
+      "title": "First Nations services that can help",
+      "description": "Where to find culturally safe money help.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "community",
+      "hub": "first-nations",
+      "slug": "bank-accounts",
+      "title": "Bank accounts",
+      "description": "Opening and using accounts safely.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "community",
+      "hub": "first-nations",
+      "slug": "how-to-prove-your-identity",
+      "title": "How to prove your identity",
+      "description": "ID options when opening accounts or claiming money.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "community",
+      "hub": "first-nations",
+      "slug": "book-up",
+      "title": "Book-up",
+      "description": "Store credit risks and safer alternatives.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "community",
+      "hub": "first-nations",
+      "slug": "cash-loans",
+      "title": "Cash loans",
+      "description": "High-cost loans—know the true price.",
+      "tools": [
+        "payday-loan"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "community",
+      "hub": "first-nations",
+      "slug": "door-to-door-sales",
+      "title": "Door-to-door sales",
+      "description": "Cooling-off rights when sellers come to you.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "community",
+      "hub": "first-nations",
+      "slug": "buying-a-hamper",
+      "title": "Buying a hamper",
+      "description": "Hamper credit deals—check total cost.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "community",
+      "hub": "first-nations",
+      "slug": "dealing-with-family-pressure-about-money",
+      "title": "Dealing with family pressure about money",
+      "description": "Boundaries when family asks for money.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "community",
+      "hub": "first-nations",
+      "slug": "managing-large-sums-of-money",
+      "title": "Managing large sums of money",
+      "description": "Compensation or inheritance—plan before spending.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "community",
+      "hub": "first-nations",
+      "slug": "superannuation",
+      "title": "Superannuation for First Nations communities",
+      "description": "Finding lost super and checking your fund.",
+      "tools": [
+        "super"
+      ],
+      "tags": []
+    },
+    {
+      "pillar": "community",
+      "hub": "first-nations",
+      "slug": "how-insurance-works",
+      "title": "How insurance works",
+      "description": "Plain-language insurance basics.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "community",
+      "hub": "first-nations",
+      "slug": "how-to-choose-insurance",
+      "title": "How to choose insurance",
+      "description": "Compare cover—not just price.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "community",
+      "hub": "first-nations",
+      "slug": "making-an-insurance-claim",
+      "title": "Making an insurance claim",
+      "description": "Steps and documents for claims.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "community",
+      "hub": "first-nations",
+      "slug": "paying-for-funerals",
+      "title": "Paying for funerals",
+      "description": "Funeral costs and community supports.",
+      "tools": [],
+      "tags": []
+    }
+  ],
+  "community/your-stories": [
+    {
+      "pillar": "community",
+      "hub": "your-stories",
+      "slug": "its-not-too-late-to-have-aspirations-for-retirement",
+      "title": "It's not too late to have aspirations for retirement",
+      "description": "A story about starting retirement planning later.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "community",
+      "hub": "your-stories",
+      "slug": "one-of-my-main-goals-is-to-travel-australia",
+      "title": "One of my main goals is to travel Australia",
+      "description": "Saving for travel with a clear goal.",
+      "tools": [],
+      "tags": []
+    },
+    {
+      "pillar": "community",
+      "hub": "your-stories",
+      "slug": "stay-mindful-and-be-resourceful",
+      "title": "Stay mindful and be resourceful",
+      "description": "Everyday habits that keep money on track.",
+      "tools": [],
+      "tags": []
+    }
+  ]
+}

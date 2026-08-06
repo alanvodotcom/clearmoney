@@ -1,90 +1,88 @@
 ---
-title: "Buying a house"
-description: "Deposit, costs, and borrowing without overstretching."
+title: Buying a house
+description: Deposit, costs, and borrowing without overstretching.
 pillar: loans-credit-debt
 hub: home-loans
 slug: buying-a-house
 updated: "2026-08-03"
-tags: 
-  - home loans
-relatedTools: 
+tags:
+  - home-loans
+  - property
+relatedTools:
   - mortgage
   - savings-goals
-relatedGuides: 
+relatedGuides:
   - loans-credit-debt/home-loans/choosing-a-home-loan
-  - loans-credit-debt/home-loans/interest-only-home-loans
-  - loans-credit-debt/home-loans/mortgage-offset-accounts
-  - loans-credit-debt/home-loans/pay-off-your-mortgage-faster
+  - loans-credit-debt/home-loans/using-a-mortgage-broker
+  - banking-budgeting/saving/save-for-a-house-deposit
+  - loans-credit-debt/home-loans/problems-paying-your-mortgage
 ---
 
-Deposit, costs, and borrowing without overstretching. A home loan is usually the largest debt most people take on—rate, fees, and buffers decide comfort.
+Buying a home mixes excitement with one of the largest financial commitments most Australians make. The goal is not the maximum a lender might approve—it is a purchase your income can carry when rates, repairs, and life events shift.
 
-## What is Buying a house?
+## Deposit and genuine savings
 
-**Buying a house** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Deposit, costs, and borrowing without overstretching. A home loan is usually the largest debt most people take on—rate, fees, and buffers decide comfort.
+Lenders look at how much deposit you have and, often, whether it shows as **genuine savings**—money you accumulated over time rather than a last-minute gift alone (gift rules vary; declare them honestly). A larger deposit can:
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+- reduce or remove lenders mortgage insurance (LMI) in many cases
+- improve the rate you are offered
+- leave you less exposed if prices soften
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+Use the [savings goals](/tools/savings-goals) tool to map a deposit target and timeline. Include money for moving costs so the deposit account is not emptied to zero on settlement day.
 
-## How to think about the moving parts
+First-home buyer grants, guarantees, and shared-equity schemes change over time and by state—verify current official rules rather than relying on social media summaries.
 
-For **buying a house**, translate marketing into cash-flow reality. What is the total repayable? What happens if rates rise or hours fall? Can you still cover rent, food, and utilities after the repayment leaves?
+## Upfront costs beyond the deposit
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+Budget for:
 
-ClearMoney calculators that pair with this topic: [Mortgage](/tools/mortgage), [Savings Goals](/tools/savings-goals). Use them to turn guesses into numbers before you commit.
+- stamp duty or transfer duty (concessions may apply—check your state or territory)
+- conveyancing or legal fees
+- building and pest inspections
+- lender fees and valuation costs
+- adjustments for rates and strata levies
+- removalists, connection fees, and immediate repairs
+- insurance from the day you become responsible for the property
 
-## Upsides worth wanting
+These costs routinely surprise buyers who only saved “20% of the purchase price.” Build a settlement cash buffer deliberately.
 
-- Access to a lump sum when cash flow cannot stretch
-- Predictable repayments if the rate and term are understood
-- A chance to refinance or restructure later if you keep records
+## How much you can borrow without overstretching
 
-## Risks and traps to watch
+Lenders assess borrowing capacity with their own serviceability models—including buffers above the current rate. That capacity is **not** a target. Decide your comfort repayment first:
 
-### Easy-to-miss costs
+1. List today’s rent and living costs.
+2. Estimate the new mortgage repayment at a rate **higher** than today’s offer (stress test).
+3. Add homeowners insurance, maintenance (often roughly 1% of property value per year as a planning rule of thumb), body corporate if applicable, and commuting changes.
+4. Confirm you can still save something each month—not live at the edge.
 
-Focusing on weekly repayments instead of total cost. For **Buying a house**, read the conditions that turn a good deal average.
+Model repayments with the [mortgage calculator](/tools/mortgage). If the only way the numbers work is perfect overtime forever, the property is too expensive.
 
-### Timing and people problems
+Existing credit-card limits, car loans, and BNPL can shrink capacity—clean them up before you apply if that matches your plan.
 
-Guarantor or security risks you did not price emotionally. If someone rushes you, that is data—slow down.
+## Building a purchase timeline
 
-### Recovery friction
+A practical sequence:
 
-Stacking credit products until cash flow snaps. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+- Check your credit reports and fix errors.
+- Get a sense of borrowing range and deposit gap.
+- Choose a broker or lender pathway—see [using a mortgage broker](/topics/loans-credit-debt/home-loans/using-a-mortgage-broker).
+- Obtain pre-approval understanding it is not a final offer.
+- Research suburbs by total lifestyle cost, not only median prices.
+- Inspect carefully; never skip building/pest on a home you cannot afford to repair.
+- Review contracts with a conveyancer or solicitor before you sign.
+- Lock in insurance and settlement funds early.
 
-## Details that change the decision
+If repayments later become difficult, act early—[problems paying your mortgage](/topics/loans-credit-debt/home-loans/problems-paying-your-mortgage), [/urgent](/urgent), and National Debt Helpline **1800 007 007**.
 
-Serviceability calculators and lender buffers exist because rates and life both move. For **Buying a house**, include strata, council rates, insurance, and maintenance in the ‘can we afford this’ test—not only the loan repayment. Offset and redraw features help only if you actually park spare cash there and understand access rules.
+## Emotional checks that save money
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+Auction adrenaline and private-treaty fear-of-missing-out push people past their numbers. Decide your maximum bid or offer at the kitchen table—then treat that number as a hard stop. Bring a friend whose only job is to remind you of the cap. If you lose a property, the right response is usually another inspection later, not stretching serviceability until the budget snaps.
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
-
-## A short story: when a simple system helped
-
-Noah chose the lowest weekly repayment with a long term and paid far more interest. Riley compared total cost and picked a shorter term they could still stress-test if hours dropped. The lesson for **buying a house**: slow clarity beats fast regret.
-
-## Practical steps for Buying a house
-
-1. Calculate the total amount repayable, not only the weekly figure.
-2. Compare at least two lenders or credit types with the same loan amount and term.
-3. Stress-test repayments if rates rise or hours drop.
-4. Avoid stacking new credit to pay old credit without a written plan.
-
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
-
-## When life changes
-
-- **Life changes** — job loss, a new dependant, or a move can invalidate last year’s choice; schedule a review.
-- **Records** — keep PDFs of contracts, statements, and cancellation confirmations for at least a year.
+Also budget time: rushed building inspections and unread strata reports are how surprise special levies appear after settlement. Money decisions and due diligence are the same project.
 
 ## What to do next
 
-- Decide the next action for **buying a house** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Choosing a home loan](/topics/loans-credit-debt/home-loans/choosing-a-home-loan) for a related decision.
-- Read [Interest-only home loans](/topics/loans-credit-debt/home-loans/interest-only-home-loans) for a related decision.
-- Run the numbers with [Mortgage](/tools/mortgage).
-- Tell one trusted person your plan if accountability helps you follow through.
+- Set a deposit and settlement-cost target in [savings goals](/tools/savings-goals).
+- Stress-test repayments in the [mortgage](/tools/mortgage) calculator above today’s rate.
+- Choose a maximum purchase price from your budget—not from a lender’s upper limit.
+- Read [choosing a home loan](/topics/loans-credit-debt/home-loans/choosing-a-home-loan) before you sign finance documents.

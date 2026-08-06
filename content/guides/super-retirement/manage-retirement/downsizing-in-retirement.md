@@ -5,79 +5,100 @@ pillar: super-retirement
 hub: manage-retirement
 slug: downsizing-in-retirement
 updated: "2026-08-03"
-tags: 
+tags:
   - manage retirement
-relatedGuides: 
-  - super-retirement/manage-retirement/make-your-money-last-in-retirement
-  - super-retirement/manage-retirement/retirement-income-and-tax
-  - super-retirement/manage-retirement/manage-health-costs-in-retirement
-  - super-retirement/manage-retirement/aged-care
+relatedGuides:
+  - super-retirement/plan-retirement/your-home-in-retirement
+  - super-retirement/grow-super/downsizer-super-contributions
+  - super-retirement/retirement/case-study-bills-mortgage-decision
+  - loans-credit-debt/home-loans/buying-a-house
 ---
 
-Costs, stamp duty, and lifestyle fit. In retirement, the job shifts from accumulation to drawing down sustainably and keeping paperwork tidy.
+Downsizing works when the new place fits your body, budget, and social life—not only when a spreadsheet frees equity. Many retirees underestimate transaction costs and overestimate how much "cash left over" will remain after agent fees, stamp duty, moving, and furnishing a smaller but not cheap home.
 
-## What is Downsizing in retirement?
+The goal is a sustainable home for the next chapter—not a one-off windfall that disappears in two years. ClearMoney offers general information—not personal advice. Confirm stamp duty concessions and downsizer contribution rules on official sites before settlement.
 
-**Downsizing in retirement** is worth understanding because small wording differences—fees, waiting periods, authorities, or exclusions—change outcomes. Costs, stamp duty, and lifestyle fit. In retirement, the job shifts from accumulation to drawing down sustainably and keeping paperwork tidy.
+## More than a spreadsheet decision
 
-Treat this page as a decision aid: gather your numbers, compare options, and keep written confirmations. Thresholds and eligibility can change, so verify critical figures with official sources or your provider before you act.
+Your home holds memories, workshop space, garden routines, and proximity to friends. Moving away from your GP, church, or grandchildren to save $80,000 on paper can cost more in transport, loneliness, and repeat moves later.
 
-In Australia, providers must give key information, but it is still your job to check whether the product or process fits your cash flow. If a brochure uses jargon, rewrite it in one plain sentence you could explain to a friend.
+Read [Your home in retirement](/topics/super-retirement/plan-retirement/your-home-in-retirement) before treating the house purely as an asset. Equity release or renovating in place may beat selling if the location still works.
 
-## How to think about the moving parts
+## Counting the full move cost
 
-Setup quality decides whether **downsizing in retirement** helps or nags you later. Confirm identity and contact details, choose alerts you will actually read, and decide who else can see or move money. If a salesperson is present, ask for the key numbers in writing before you sign.
+From the sale price, subtract everything—not just the agent's commission:
 
-People often skip the boring middle: documents, dates, and who else is affected. Write those down before you compare shiny features. If two options look identical, the tie-breaker is usually fees, exit flexibility, or how painful a mistake would be to reverse.
+- Agent commission, marketing, and staging
+- Conveyancing on sale and purchase
+- Mortgage discharge and break fees if applicable
+- Stamp duty or transfer duty on the purchase—state rules and concessions for older buyers vary; check your state revenue office
+- Building and pest inspections, strata searches
+- Moving, cleaning, storage, and tipping
+- New curtains, blinds, air conditioning, and minor renovations
+- Higher or lower ongoing costs—strata levies, council rates, insurance
 
-## Upsides worth wanting
+Only the remainder is truly free capital. Build a spreadsheet before you fall in love with a listing.
 
-- Automations that reduce missed payments and late fees
-- Alerts that surface problems while they are still small
-- Shared understanding when more than one person is involved
+## Will the new place suit you
 
-## Risks and traps to watch
+Checklist questions that matter more than benchtops:
 
-### Easy-to-miss costs
+- Single level or lift access—stairs become enemies eventually
+- Walkable distance to GP, pharmacy, shops, and public transport
+- Room for the hobbies you actually do—not the ones you aspire to
+- Parking for visitors and your own mobility devices
+- Pet policies if you have a dog
+- Noise, neighbours, and safety after dark
+- Can friends and family visit without a two-hour drive?
 
-Set-and-forget errors (wrong account, wrong amount, wrong date). For **Downsizing in retirement**, read the conditions that turn a good deal average.
+Rent in the target suburb for a month if you can—it beats open-day optimism.
 
-### Timing and people problems
+## What to do with surplus cash
 
-Giving too much authority to another person. If someone rushes you, that is data—slow down.
+Options include:
 
-### Recovery friction
+- **Downsizer super contributions** if eligible—see [Downsizer super contributions](/topics/super-retirement/grow-super/downsizer-super-contributions)
+- **Debt repayment**—compare to super returns and peace of mind; [Bill's mortgage decision](/topics/super-retirement/retirement/case-study-bills-mortgage-decision) walks a trade-off
+- **Cash buffer** for health and home repairs
+- **Investments outside super** if caps are full
 
-Missing fine print on fees or cooling-off rights. Keep PDFs and screenshots; verbal promises are hard to enforce later.
+Age Pension assets tests may treat proceeds differently once the home exemption ends—confirm with Centrelink before spending. Large cash balances can reduce pension until restructured.
 
-## Details that change the decision
+## Sell first, buy first, or rent
 
-Administration mistakes—wrong tax file details, lapsed insurance, ignored required drawdowns—create avoidable stress. For **Downsizing in retirement**, set a yearly review: beneficiaries, spending, fees, and whether the investment mix still matches your drawdown pace.
+Each path carries timing risk:
 
-Also ask: what would make you reverse this choice in six months, and how expensive would that reverse be? Keep a one-page note with today’s balances, rates, and due dates so you are not reconstructing history from memory later.
+- **Sell first** — avoids owning two properties but may mean weeks in temporary housing
+- **Buy first** — needs bridging finance or large cash reserves; interest costs add up fast
+- **Rent between** — tests a suburb; costs a double move but reduces regret
 
-If you only have fifteen minutes, spend them on the constraint that hurts most when ignored—usually cash timing, a fee, or a person who shares access—not on reading every marketing page.
+Bridging loans suit short gaps only—model interest if settlement slips. See [Buying a house](/topics/loans-credit-debt/home-loans/buying-a-house) for general purchase mechanics if you have not moved in decades.
 
-## A short story: when a simple system helped
+## When staying put wins
 
-Aisha set everything up in a hurry and only noticed the wrong account after a payment bounced. Taylor now screenshots every confirmation and nicknames accounts so automations are obvious. The lesson for **downsizing in retirement**: slow clarity beats fast regret.
+Do not downsize purely because a seminar said so. Renovating bathrooms and adding rails may cost less than stamp duty. Staying can win if transaction costs erase the equity gain, the new place fails mobility needs within two years, or you would leave a support network you cannot rebuild.
 
-## Practical steps for Downsizing in retirement
+Align any move with likely care needs—moving twice in five years (downsize, then into care) doubles trauma and cost. See [Aged care](/topics/super-retirement/manage-retirement/aged-care) for how housing choices interact with care fees.
 
-1. Gather ID, income evidence, and any existing contracts or statements.
-2. Confirm who else is affected (partner, guarantor, dependants) before you sign.
-3. Complete the application or setup deliberately—screenshot confirmations.
-4. Turn on alerts and store reference numbers where you can find them.
+Decluttering takes months, not a weekend. Start early and set decision rules with your partner—two sentimental boxes each, for example.
 
-If you feel pressured, pause. A decision that cannot survive overnight scrutiny rarely deserves your signature.
+## Stamp duty concessions—verify locally
 
-## When life changes
+Several states offer duty reductions or exemptions for older buyers or pensioners purchasing a smaller home, with strict eligibility. These rules differ by state and change with budgets. Check your state revenue office before you make an offer—do not trust a real estate agent's paraphrase alone.
 
-- **Rule changes** — contribution caps, preservation ages, and Age Pension settings change; confirm current figures before acting.
+## Body corporate and village contracts
+
+Retirement villages and some strata schemes use complex ongoing fees, deferred management fees, and exit charges. Have a solicitor specialising in village contracts review before you sign. The exit fee can erase years of equity gain if you need to leave for care.
+
+## Trial separations from stuff
+
+If decluttering stalls the move, hire a short-term storage unit with a hard end date, or ask a friend to referee keep/sell decisions. The cost of three months' storage is often less than another year of maintaining a too-large property.
+
 
 ## What to do next
 
-- Decide the next action for **downsizing in retirement** in the next 48 hours (one call, one comparison, or one cancellation).
-- Read [Make your money last in retirement](/topics/super-retirement/manage-retirement/make-your-money-last-in-retirement) for a related decision.
-- Read [Retirement income and tax](/topics/super-retirement/manage-retirement/retirement-income-and-tax) for a related decision.
-- Tell one trusted person your plan if accountability helps you follow through.
+- Build a net-proceeds spreadsheet including duty, fees, and six months of higher strata if applicable.
+- Spend a night—or a month renting—in the target area before committing.
+- Check downsizer contribution eligibility and transfer balance cap headroom before settlement if using that path.
+- Compare staying, renovating, and selling with the same five-year horizon.
+- Book conveyancers early; good ones spot title and strata issues that save more than their fee.
