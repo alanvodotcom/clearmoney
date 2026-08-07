@@ -21,17 +21,19 @@ A fully rebranded, minimal, mobile-first financial guidance site—portfolio tak
 | Styling | Tailwind CSS v4 + design tokens |
 | Content | Typed content modules + Markdown rendering |
 | Calculators | Pure functions in `src/lib/calculators` |
+| AI chat | Vercel AI SDK + Fuse retrieval over guides + calculator tool-calling |
 | Validation-ready | Zod installed for forms |
 | Tests | Vitest (math) + Playwright (smoke + axe a11y) |
 
 ## Project structure
 
 ```
-src/app/                 # Routes (home, topics, tools, urgent, search…)
-src/components/          # Layout, UI, calculators
+src/app/                 # Routes (home, topics, tools, urgent, search, api/chat…)
+src/components/          # Layout, UI, calculators, floating chat widget
 src/lib/content/         # Taxonomy + markdown guide loader
 src/lib/calculators/     # Pure math (unit tested)
-content/guides/          # 263 deep markdown guides
+src/lib/ai/              # Chat retrieval, tools, provider, prompts
+content/guides/          # Deep markdown guides
 content/INVENTORY.md     # Content & tools inventory
 e2e/                     # Playwright smoke tests
 ```
@@ -44,6 +46,17 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000).
+
+### AI chat (optional)
+
+The floating **Ask ClearMoney** widget grounds answers in site guides and can run calculator math via tool-calling.
+
+1. Copy [`.env.example`](.env.example) to `.env.local`
+2. Set `AI_GATEWAY_API_KEY` from [Vercel AI Gateway](https://vercel.com/docs/ai-gateway) (default `AI_PROVIDER=gateway`)
+3. Optionally set `AI_MODEL` — default **`openai/gpt-4o-mini`**. Premium models (e.g. Claude) may need [paid Gateway credits](https://vercel.com/ai-gateway/models?freeTier=true)
+4. To call a provider directly instead: `AI_PROVIDER=anthropic` or `openai` plus that provider’s API key
+
+Without keys, the UI still loads; `/api/chat` returns **503** until configured. Answers are general information only—not personal advice.
 
 ```bash
 npm run test      # Vitest calculator math

@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { IBM_Plex_Sans, Newsreader } from "next/font/google";
+import { ChatWidget } from "@/components/chat/ChatWidget";
 import { Footer } from "@/components/layout/Footer";
 import { Header } from "@/components/layout/Header";
 import { SkipLink } from "@/components/ui/Logo";
@@ -41,6 +42,7 @@ export default function RootLayout({
         <Header />
         {children}
         <Footer />
+        <ChatWidget />
       </body>
     </html>
   );
